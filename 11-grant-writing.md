@@ -24,6 +24,7 @@ parent: "Modules"
   cooperate on applications; volunteer burnout on a skill-intensive task
 - **Print Priority:** Medium-High -- this is a "force multiplier" argument that
   resonates well: we have the talent, you have the need, let us help
+
 ---
 
 
@@ -85,9 +86,13 @@ These skills exist in the community. They are currently untapped for this purpos
 
 #### Private Foundations
 
-- **NEA Foundation** grants for public school educators
-- **Geraldine R. Dodge Foundation** (NJ-focused, strong education portfolio)
-- **Victoria Foundation** (NJ-focused, education and youth development)
+- **[NEA Foundation](https://www.neafoundation.org/educator-grants-and-fellowships/)** --
+  $1,500-$5,000 grants for public school educators (NEA members); ~150 awarded per year
+- **[Geraldine R. Dodge Foundation](https://www.grdodge.org/our-work/grantmaking/)** --
+  NJ-focused, ~$11M/year in grants; strong education and arts portfolio; awarded
+  $500K to Arts Ed NJ for arts education advocacy
+- **[Victoria Foundation](https://www.victoriafoundation.org/)** -- NJ-focused
+  (primarily Newark area), $14.3M in grants in 2025; education and youth development
 - **Local community foundations** with education-designated funds
 - **Corporate foundations** (many have education giving programs tied to
   communities where employees live)

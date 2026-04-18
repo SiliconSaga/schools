@@ -24,6 +24,7 @@ parent: "Modules"
 - **Print Priority:** Medium -- strong dollar impact but less emotionally resonant
   than paras or art class; best as a supporting example of "low-hanging fruit the
   board hasn't picked"
+
 ---
 
 

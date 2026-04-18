@@ -23,6 +23,7 @@ parent: "Modules"
   resistance if positions are consolidated
 - **Print Priority:** Low-Medium -- technically important but less compelling in a
   3-minute speech; better as a whitepaper detail that shows depth of analysis
+
 ---
 
 

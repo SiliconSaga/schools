@@ -24,6 +24,7 @@ parent: "Modules"
 - **Print Priority:** Medium -- mention the concept and show early prototypes;
   the board doesn't need to understand the platform, they need to see that
   coordination is happening
+
 ---
 
 

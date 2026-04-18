@@ -25,6 +25,7 @@ parent: "Modules"
 - **Print Priority:** High for the strategic overview; the operational details
   are website-only
 - **Document Type:** Strategic design -- operational blueprint for PTA leadership
+
 ---
 
 

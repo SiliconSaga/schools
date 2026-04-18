@@ -24,6 +24,7 @@ parent: "Modules"
 - **Print Priority:** Medium-High -- resonates with sports-oriented families and
   shows the multi-organization model beyond just the PTA
 - **Document Type:** Whitepaper + strategic design
+
 ---
 
 

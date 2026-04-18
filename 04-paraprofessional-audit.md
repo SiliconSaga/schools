@@ -25,6 +25,7 @@ parent: "Modules"
 - **Print Priority:** Very High -- this is the personal stake, the "third of his
   life" anchor in the speech, and the strongest legal/financial counterargument
   to the board's plan
+
 ---
 
 

@@ -26,6 +26,7 @@ parent: "Modules"
 - **Print Priority:** High -- this is the "show, don't tell" proof that open
   governance works; bring a screenshot of the live OpenCollective dashboard if
   possible
+
 ---
 
 

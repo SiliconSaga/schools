@@ -23,6 +23,7 @@ parent: "Modules"
   of these may already be handled well (verify before asserting)
 - **Print Priority:** High -- these are "hard" arguments that complement the
   "soft" community-engagement proposals; include in the printed whitepaper
+
 ---
 
 

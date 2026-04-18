@@ -139,23 +139,9 @@ nav_order: 98
 - [West Orange Mayor vetoes leaf blower ban (earlier episode, Patch)](https://patch.com/new-jersey/westorange/west-orange-mayor-vetoes-leaf-blower-ban-here-s-why)
 - [NJ statewide gas leaf blower ban bill S623 (NJ 101.5)](https://nj1015.com/new-jersey-leaf-blower-ban/)
 
-## Notes on Unverified References
+---
 
-The following items were referenced in the original Gemini conversation but
-could not be independently verified. They have been removed from or softened
-in the whitepaper documents, but are noted here for research continuity:
-
-- **NJ Senate Bill S3333** regarding competitive contracting for insurance --
-  bill numbers reset each legislative session; could not verify in current session;
-  search [NJ Legislature](https://www.njleg.state.nj.us/bill-search) with session year
-- **NJ Bill A3792** regarding mandatory agenda posting 48 hours in advance --
-  same caveat; the Open Public Meetings Act (N.J.S.A. 10:4-6 et seq.) already
-  requires 48-hour notice; bills to strengthen agenda requirements have been
-  introduced repeatedly
-- **Direct Primary Care (DPC) through R-Health/Paladina** specifically in the
-  NJ State Plan -- DPC programs in state health plans are a growing trend but
-  the specific vendor and "$0-copay" claim could not be confirmed; the concept
-  is valid and is documented nationally (see Orange County FL example above)
+*[Back to Index](index)*
 
 ---
 
