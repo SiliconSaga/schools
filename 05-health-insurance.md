@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Health Insurance Transparency title: "Module 5: Health Insurance Transparency & Alternatives" Alternatives"
+title: "Health Insurance Transparency"
 nav_order: 6
 parent: "Modules"
 ---

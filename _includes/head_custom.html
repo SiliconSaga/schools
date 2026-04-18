@@ -1,7 +1,7 @@
 <style>
   .theme-toggle {
     background: none;
-    border: 1px solid var(--search-result-preview-color);
+    border: 1px solid #959396;
     border-radius: 4px;
     cursor: pointer;
     padding: 4px 8px;
@@ -10,22 +10,31 @@
     top: 12px;
     right: 16px;
     z-index: 100;
+    color: inherit;
   }
+  [data-theme="dark"] .theme-toggle { border-color: #6c6c6d; }
 </style>
 <script>
+  (function() {
+    var saved = localStorage.getItem("jtd-theme");
+    if (saved === "dark") document.documentElement.setAttribute("data-theme", "dark");
+  })();
   document.addEventListener("DOMContentLoaded", function() {
     var btn = document.createElement("button");
     btn.className = "theme-toggle";
     btn.setAttribute("aria-label", "Toggle dark mode");
-    var saved = localStorage.getItem("jtd-theme") || "light";
-    if (saved === "dark") jtd.setTheme("dark");
-    btn.textContent = saved === "dark" ? "\u2600" : "\u263D";
+    var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+    btn.textContent = isDark ? "\u2600\uFE0F" : "\uD83C\uDF19";
     btn.addEventListener("click", function() {
-      var current = document.documentElement.getAttribute("data-theme") || "light";
+      var current = document.documentElement.getAttribute("data-theme");
       var next = current === "dark" ? "light" : "dark";
-      jtd.setTheme(next);
+      if (next === "dark") {
+        document.documentElement.setAttribute("data-theme", "dark");
+      } else {
+        document.documentElement.removeAttribute("data-theme");
+      }
       localStorage.setItem("jtd-theme", next);
-      btn.textContent = next === "dark" ? "\u2600" : "\u263D";
+      btn.textContent = next === "dark" ? "\u2600\uFE0F" : "\uD83C\uDF19";
     });
     document.body.appendChild(btn);
   });

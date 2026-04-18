@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Open Budget title: "Module 12: Open Budget & Participatory Finance" Participatory Finance"
+title: "Open Budget & Participatory Finance"
 nav_order: 15
 parent: "Modules"
 ---

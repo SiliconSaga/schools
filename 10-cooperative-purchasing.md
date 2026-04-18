@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Cooperative Purchasing title: "Module 8: Cooperative Purchasing & Shared Services" Shared Services"
+title: "Cooperative Purchasing & Shared Services"
 nav_order: 11
 parent: "Modules"
 ---
