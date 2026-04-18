@@ -125,13 +125,15 @@ impact, and physically holdable. Here's the recommended assembly:
   stands out as the "start here" page
 - **Number of copies:** one per board member (usually 7-9) + one for the Board
   Secretary + a few extras for the podium. ~15 total stacks.
-- **The INDEX.md URL** should be on the Executive Summary so people can find the
-  full site later. Write it by hand on each copy if you don't get to update the
-  print layout in time.
+- **The site URL** (`schools.siliconsaga.net`) should be on the Executive Summary
+  so people can find the full site later. Write it by hand on each copy if you
+  don't get to update the print layout in time.
 
 ---
 
-**Survey & feedback form:** <https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform>
+**Full site:** <https://schools.siliconsaga.net>
+
+**Give feedback to the West Orange School District:** <https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform>
 
 ---
 

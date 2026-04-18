@@ -1,6 +1,6 @@
-title: Community Solutions for the School Budget Crisis
+title: Budget Options
 description: >-
-  A community-built proposal for bridging the budget gap through
+  Community-built proposals for bridging the school budget gap through
   transparency, volunteer coordination, and shared service grants.
 url: "https://schools.siliconsaga.net"
 baseurl: ""
@@ -9,14 +9,25 @@ remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 color_scheme: light
 
+# Enable dark/light toggle
+enable_dark_mode: toggle
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# GitHub link in header
+gh_edit_link: true
+gh_edit_link_text: "View on GitHub"
+gh_edit_repository: "https://github.com/SiliconSaga/schools"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
 # Footer
 footer_content: >-
-  Community Solutions for the School Budget Crisis.
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform">Give feedback</a>.
+  <a href="https://github.com/SiliconSaga/schools/issues">Suggest improvements to this site</a>
+  &nbsp;|&nbsp;
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform">Give feedback to the West Orange School District</a>
 
 # Exclude from processing
 exclude:
