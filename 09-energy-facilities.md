@@ -9,21 +9,23 @@ parent: "Modules"
 
 *Solar, LED, and Audit-Driven Savings on the District's Second-Largest Fixed Cost*
 
-> **Impact Potential:** High -- energy is a significant facilities cost;
-> Piscataway Township Schools projects $18M in savings from solar PPAs alone;
-> West Windsor-Plainsboro projects $3.5M
-> **Effort:** Low to Medium -- PPAs require no capital outlay; NJ Clean Energy
-> Program offers LED rebates; audits may be available free through utility programs
-> **Timeline:** Solar PPAs take 6-12 months to negotiate and install; LED retrofits
-> can begin within weeks; energy audits are immediate
-> **Key Risks:** Solar PPA terms lock in for 15-25 years (read carefully); roof
-> condition may require remediation before panel installation; political resistance
-> to "green" initiatives in some communities
-> **Print Priority:** Medium -- strong dollar impact but less emotionally resonant
-> than paras or art class; best as a supporting example of "low-hanging fruit the
-> board hasn't picked"
-
 ---
+
+- **Impact Potential:** High -- energy is a significant facilities cost;
+  Piscataway Township Schools projects $18M in savings from solar PPAs alone;
+  West Windsor-Plainsboro projects $3.5M
+- **Effort:** Low to Medium -- PPAs require no capital outlay; NJ Clean Energy
+  Program offers LED rebates; audits may be available free through utility programs
+- **Timeline:** Solar PPAs take 6-12 months to negotiate and install; LED retrofits
+  can begin within weeks; energy audits are immediate
+- **Key Risks:** Solar PPA terms lock in for 15-25 years (read carefully); roof
+  condition may require remediation before panel installation; political resistance
+  to "green" initiatives in some communities
+- **Print Priority:** Medium -- strong dollar impact but less emotionally resonant
+  than paras or art class; best as a supporting example of "low-hanging fruit the
+  board hasn't picked"
+---
+
 
 ## The Opportunity
 

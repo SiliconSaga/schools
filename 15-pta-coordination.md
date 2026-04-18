@@ -9,21 +9,23 @@ parent: "Modules"
 
 *The Demicracy Layer: Skill Inventories, Proposal Workflows, and Commitment Tracking*
 
-> **Impact Potential:** Very High (long-term) / Medium (immediate) -- this is the
-> infrastructure that makes every other module sustainable; without coordination,
-> volunteer efforts burn bright and burn out
-> **Effort:** High for the full platform; Low-Medium for the initial tools
-> (spreadsheet-based inventory, simple proposal process, group chat coordination)
-> **Timeline:** Basic coordination tools can launch within a week; the full
-> Demicracy platform is a longer-term development effort
-> **Key Risks:** Over-engineering the solution before proving the need; volunteer
-> fatigue if the coordination overhead exceeds the value delivered; adoption --
-> parents need to actually use it
-> **Print Priority:** Medium -- mention the concept and show early prototypes;
-> the board doesn't need to understand the platform, they need to see that
-> coordination is happening
-
 ---
+
+- **Impact Potential:** Very High (long-term) / Medium (immediate) -- this is the
+  infrastructure that makes every other module sustainable; without coordination,
+  volunteer efforts burn bright and burn out
+- **Effort:** High for the full platform; Low-Medium for the initial tools
+  (spreadsheet-based inventory, simple proposal process, group chat coordination)
+- **Timeline:** Basic coordination tools can launch within a week; the full
+  Demicracy platform is a longer-term development effort
+- **Key Risks:** Over-engineering the solution before proving the need; volunteer
+  fatigue if the coordination overhead exceeds the value delivered; adoption --
+  parents need to actually use it
+- **Print Priority:** Medium -- mention the concept and show early prototypes;
+  the board doesn't need to understand the platform, they need to see that
+  coordination is happening
+---
+
 
 ## The Core Problem: "Will People Actually Show Up?"
 

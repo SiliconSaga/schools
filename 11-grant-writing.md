@@ -9,21 +9,23 @@ parent: "Modules"
 
 *Turning Parent Expertise into a Permanent Revenue Pipeline*
 
-> **Impact Potential:** High -- federal, state, and foundation grants for education
-> are substantial and often go unclaimed because districts lack staff hours to
-> pursue them; a skilled volunteer team changes the equation permanently
-> **Effort:** Medium -- requires identifying qualified volunteers, establishing
-> a coordination process, and building relationships with the district's grant
-> administrator (if one exists)
-> **Timeline:** First applications could go out within weeks if volunteers with
-> grant-writing experience step forward; funding cycles vary (30 days to 12 months)
-> **Key Risks:** Grant funding is not guaranteed and not recurring (most require
-> annual reapplication); the district must be willing to share program data and
-> cooperate on applications; volunteer burnout on a skill-intensive task
-> **Print Priority:** Medium-High -- this is a "force multiplier" argument that
-> resonates well: we have the talent, you have the need, let us help
-
 ---
+
+- **Impact Potential:** High -- federal, state, and foundation grants for education
+  are substantial and often go unclaimed because districts lack staff hours to
+  pursue them; a skilled volunteer team changes the equation permanently
+- **Effort:** Medium -- requires identifying qualified volunteers, establishing
+  a coordination process, and building relationships with the district's grant
+  administrator (if one exists)
+- **Timeline:** First applications could go out within weeks if volunteers with
+  grant-writing experience step forward; funding cycles vary (30 days to 12 months)
+- **Key Risks:** Grant funding is not guaranteed and not recurring (most require
+  annual reapplication); the district must be willing to share program data and
+  cooperate on applications; volunteer burnout on a skill-intensive task
+- **Print Priority:** Medium-High -- this is a "force multiplier" argument that
+  resonates well: we have the talent, you have the need, let us help
+---
+
 
 ## The Problem
 

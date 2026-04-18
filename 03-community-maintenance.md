@@ -9,20 +9,22 @@ parent: "Modules"
 
 *Crowdsourced Groundskeeping to Eliminate Contractor Premiums*
 
-> **Impact Potential:** Low-Medium in dollar terms -- groundskeeping is not the
-> biggest line item; **Very High as proof of concept** -- this is the easiest
-> module to demonstrate and the most vivid illustration of community capacity
-> **Effort:** Low -- parents already own the equipment and live near the schools;
-> coordination is the only real cost
-> **Timeline:** Immediate for a pilot (one school, one season); the concept
-> could be operational before the next board meeting
-> **Key Risks:** Liability concerns (addressable via volunteer service agreements);
-> reliability ("will people show up?" -- addressed by commitment tracking in
-> Module 13); existing contractor contracts may have minimum terms
-> **Print Priority:** Medium -- the dollar value is modest but the story is
-> irresistible; this is the "leaf blower callback" from the speech
-
 ---
+
+- **Impact Potential:** Low-Medium in dollar terms -- groundskeeping is not the
+  biggest line item; **Very High as proof of concept** -- this is the easiest
+  module to demonstrate and the most vivid illustration of community capacity
+- **Effort:** Low -- parents already own the equipment and live near the schools;
+  coordination is the only real cost
+- **Timeline:** Immediate for a pilot (one school, one season); the concept
+  could be operational before the next board meeting
+- **Key Risks:** Liability concerns (addressable via volunteer service agreements);
+  reliability ("will people show up?" -- addressed by commitment tracking in
+  Module 13); existing contractor contracts may have minimum terms
+- **Print Priority:** Medium -- the dollar value is modest but the story is
+  irresistible; this is the "leaf blower callback" from the speech
+---
+
 
 ## The Problem
 

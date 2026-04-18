@@ -9,22 +9,24 @@ parent: "Modules"
 
 *Meeting the District Halfway with OpenCollective, Directed Giving, and Transparent Operations*
 
-> **Impact Potential:** Very High -- transforms the PTA from a bake-sale fundraiser
-> into a credible institutional partner capable of absorbing and funding services
-> the district can no longer afford
-> **Effort:** Medium -- OpenCollective setup is days; restructuring PTA operations
-> around it takes a season; building district trust takes a year
-> **Timeline:** OpenCollective live within a week; first directed fund in 2 weeks;
-> full operational model by next school year
-> **Key Risks:** PTA board resistance to transparency (some treasurers prefer
-> control); parent fatigue from "yet another platform"; legal boundaries between
-> PTA funds and district operations must be kept sharp; risk of the district
-> offloading obligations onto volunteers permanently
-> **Print Priority:** High for the strategic overview; the operational details
-> are website-only
-> **Document Type:** Strategic design -- operational blueprint for PTA leadership
-
 ---
+
+- **Impact Potential:** Very High -- transforms the PTA from a bake-sale fundraiser
+  into a credible institutional partner capable of absorbing and funding services
+  the district can no longer afford
+- **Effort:** Medium -- OpenCollective setup is days; restructuring PTA operations
+  around it takes a season; building district trust takes a year
+- **Timeline:** OpenCollective live within a week; first directed fund in 2 weeks;
+  full operational model by next school year
+- **Key Risks:** PTA board resistance to transparency (some treasurers prefer
+  control); parent fatigue from "yet another platform"; legal boundaries between
+  PTA funds and district operations must be kept sharp; risk of the district
+  offloading obligations onto volunteers permanently
+- **Print Priority:** High for the strategic overview; the operational details
+  are website-only
+- **Document Type:** Strategic design -- operational blueprint for PTA leadership
+---
+
 
 ## The Strategic Position
 

@@ -9,26 +9,28 @@ parent: "Modules"
 
 *The Biggest Lever: Broker Conflicts, the State Plan, Consortiums, and Direct Primary Care*
 
-> **Impact Potential:** Very High -- health insurance premiums are the single
-> largest cost driver cited by the board; health benefits for West Orange staff
-> are expected to climb nearly 18% this year; the Perth Amboy precedent shows a
-> single NJ district losing $49M to broker conflicts; statewide Ch.44 reforms
-> have already saved SEHBP employers $462.7M
-> **Effort:** Low-Medium -- the initial ask is just transparency (broker disclosure);
-> switching plans or renegotiating requires more work but the district's own
-> administrators handle that
-> **Timeline:** Broker disclosure can be requested immediately (and may be legally
-> required); plan evaluation takes months; a switch would likely take effect at
-> the next renewal cycle
-> **Key Risks:** The broker has a financial incentive to resist disclosure and
-> discourage switching; the board may have personal relationships with the broker;
-> switching plans mid-year is usually not possible; this is a "big fish" that
-> takes time to land
-> **Print Priority:** Very High -- this is the strongest dollar-for-dollar
-> argument; even as a "mention" in the speech, it reframes the entire budget
-> conversation
-
 ---
+
+- **Impact Potential:** Very High -- health insurance premiums are the single
+  largest cost driver cited by the board; health benefits for West Orange staff
+  are expected to climb nearly 18% this year; the Perth Amboy precedent shows a
+  single NJ district losing $49M to broker conflicts; statewide Ch.44 reforms
+  have already saved SEHBP employers $462.7M
+- **Effort:** Low-Medium -- the initial ask is just transparency (broker disclosure);
+  switching plans or renegotiating requires more work but the district's own
+  administrators handle that
+- **Timeline:** Broker disclosure can be requested immediately (and may be legally
+  required); plan evaluation takes months; a switch would likely take effect at
+  the next renewal cycle
+- **Key Risks:** The broker has a financial incentive to resist disclosure and
+  discourage switching; the board may have personal relationships with the broker;
+  switching plans mid-year is usually not possible; this is a "big fish" that
+  takes time to land
+- **Print Priority:** Very High -- this is the strongest dollar-for-dollar
+  argument; even as a "mention" in the speech, it reframes the entire budget
+  conversation
+---
+
 
 ## The Problem
 

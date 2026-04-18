@@ -9,20 +9,22 @@ parent: "Modules"
 
 *State Requirements the Board May Be Overlooking -- or Failing to Meet*
 
-> **Impact Potential:** Very High -- these are not suggestions the board can wave
-> away; they are state requirements with financial consequences for non-compliance;
-> asking the right questions here can shift the entire conversation
-> **Effort:** Low -- this is research and questioning, not implementation; OPRA
-> requests and public data analysis
-> **Timeline:** Immediate -- questions can be asked at the next board meeting;
-> OPRA responses due within 7 business days
-> **Key Risks:** The board may perceive pointed regulatory questions as adversarial;
-> frame as "helping them demonstrate compliance" rather than "catching them"; some
-> of these may already be handled well (verify before asserting)
-> **Print Priority:** High -- these are "hard" arguments that complement the
-> "soft" community-engagement proposals; include in the printed whitepaper
-
 ---
+
+- **Impact Potential:** Very High -- these are not suggestions the board can wave
+  away; they are state requirements with financial consequences for non-compliance;
+  asking the right questions here can shift the entire conversation
+- **Effort:** Low -- this is research and questioning, not implementation; OPRA
+  requests and public data analysis
+- **Timeline:** Immediate -- questions can be asked at the next board meeting;
+  OPRA responses due within 7 business days
+- **Key Risks:** The board may perceive pointed regulatory questions as adversarial;
+  frame as "helping them demonstrate compliance" rather than "catching them"; some
+  of these may already be handled well (verify before asserting)
+- **Print Priority:** High -- these are "hard" arguments that complement the
+  "soft" community-engagement proposals; include in the printed whitepaper
+---
+
 
 ## Overview
 

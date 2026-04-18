@@ -9,20 +9,22 @@ parent: "Modules"
 
 *Pooling Buying Power and Administrative Capacity Across District Lines*
 
-> **Impact Potential:** Medium -- savings vary by category but compound across
-> dozens of procurement lines; shared services can eliminate redundant administrative
-> positions without cutting instruction
-> **Effort:** Low -- cooperative purchasing systems already exist and are opt-in;
-> shared services require interlocal agreements but NJ provides templates and grants
-> **Timeline:** Cooperative purchasing can begin next procurement cycle; shared
-> services agreements take 3-6 months to negotiate
-> **Key Risks:** Minimal for cooperative purchasing (it's just smarter buying);
-> shared services require political will from multiple boards and may face union
-> resistance if positions are consolidated
-> **Print Priority:** Low-Medium -- technically important but less compelling in a
-> 3-minute speech; better as a whitepaper detail that shows depth of analysis
-
 ---
+
+- **Impact Potential:** Medium -- savings vary by category but compound across
+  dozens of procurement lines; shared services can eliminate redundant administrative
+  positions without cutting instruction
+- **Effort:** Low -- cooperative purchasing systems already exist and are opt-in;
+  shared services require interlocal agreements but NJ provides templates and grants
+- **Timeline:** Cooperative purchasing can begin next procurement cycle; shared
+  services agreements take 3-6 months to negotiate
+- **Key Risks:** Minimal for cooperative purchasing (it's just smarter buying);
+  shared services require political will from multiple boards and may face union
+  resistance if positions are consolidated
+- **Print Priority:** Low-Medium -- technically important but less compelling in a
+  3-minute speech; better as a whitepaper detail that shows depth of analysis
+---
+
 
 ## Cooperative Purchasing
 

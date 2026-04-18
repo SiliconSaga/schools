@@ -12,30 +12,47 @@
     z-index: 100;
     color: inherit;
   }
-  [data-theme="dark"] .theme-toggle { border-color: #6c6c6d; }
 </style>
+<link id="jtd-dark-css" rel="stylesheet" href="" disabled>
 <script>
   (function() {
+    // Build the dark CSS URL from the existing light CSS URL pattern
+    var lightLink = document.querySelector('link[href*="just-the-docs"]');
+    var darkUrl = "";
+    if (lightLink) {
+      darkUrl = lightLink.href.replace("just-the-docs-light", "just-the-docs-dark")
+                              .replace("just-the-docs-default", "just-the-docs-dark");
+    }
+    var darkLink = document.getElementById("jtd-dark-css");
+    if (darkUrl) darkLink.href = darkUrl;
+
     var saved = localStorage.getItem("jtd-theme");
-    if (saved === "dark") document.documentElement.setAttribute("data-theme", "dark");
-  })();
-  document.addEventListener("DOMContentLoaded", function() {
-    var btn = document.createElement("button");
-    btn.className = "theme-toggle";
-    btn.setAttribute("aria-label", "Toggle dark mode");
-    var isDark = document.documentElement.getAttribute("data-theme") === "dark";
-    btn.textContent = isDark ? "\u2600\uFE0F" : "\uD83C\uDF19";
-    btn.addEventListener("click", function() {
-      var current = document.documentElement.getAttribute("data-theme");
-      var next = current === "dark" ? "light" : "dark";
-      if (next === "dark") {
-        document.documentElement.setAttribute("data-theme", "dark");
-      } else {
-        document.documentElement.removeAttribute("data-theme");
-      }
-      localStorage.setItem("jtd-theme", next);
-      btn.textContent = next === "dark" ? "\u2600\uFE0F" : "\uD83C\uDF19";
+    if (saved === "dark" && darkLink) {
+      darkLink.disabled = false;
+      if (lightLink) lightLink.disabled = true;
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      var btn = document.createElement("button");
+      btn.className = "theme-toggle";
+      btn.setAttribute("aria-label", "Toggle dark mode");
+      var isDark = saved === "dark";
+      btn.textContent = isDark ? "\u2600\uFE0F" : "\uD83C\uDF19";
+      btn.addEventListener("click", function() {
+        var nowDark = !darkLink.disabled;
+        if (nowDark) {
+          darkLink.disabled = true;
+          if (lightLink) lightLink.disabled = false;
+          localStorage.setItem("jtd-theme", "light");
+          btn.textContent = "\uD83C\uDF19";
+        } else {
+          darkLink.disabled = false;
+          if (lightLink) lightLink.disabled = true;
+          localStorage.setItem("jtd-theme", "dark");
+          btn.textContent = "\u2600\uFE0F";
+        }
+      });
+      document.body.appendChild(btn);
     });
-    document.body.appendChild(btn);
-  });
+  })();
 </script>

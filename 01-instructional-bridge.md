@@ -9,19 +9,21 @@ parent: "Modules"
 
 *Preserving Art & Library through Community-Sponsored Excellence*
 
-> **Impact Potential:** High -- directly preserves instructional time and teacher
-> positions; the most immediately visible win for students and families
-> **Effort:** Medium -- requires PTA fundraising coordination, legal vetting of
-> the grant mechanism, and board cooperation on accepting restricted funds
-> **Timeline:** The grant proposal can be presented immediately; actual fund
-> deployment depends on district procurement speed (could be weeks to months)
-> **Key Risks:** NJ's T&E clause creates legal constraints on parent-funded
-> curriculum; the district may be slow to accept or deploy grant funds; the
-> "After-School Lease" fallback has its own union and scheduling complexities
-> **Print Priority:** Very High -- this is the most concrete, actionable proposal
-> with direct impact on the cuts families care about most
-
 ---
+
+- **Impact Potential:** High -- directly preserves instructional time and teacher
+  positions; the most immediately visible win for students and families
+- **Effort:** Medium -- requires PTA fundraising coordination, legal vetting of
+  the grant mechanism, and board cooperation on accepting restricted funds
+- **Timeline:** The grant proposal can be presented immediately; actual fund
+  deployment depends on district procurement speed (could be weeks to months)
+- **Key Risks:** NJ's T&E clause creates legal constraints on parent-funded
+  curriculum; the district may be slow to accept or deploy grant funds; the
+  "After-School Lease" fallback has its own union and scheduling complexities
+- **Print Priority:** Very High -- this is the most concrete, actionable proposal
+  with direct impact on the cuts families care about most
+---
+
 
 ## The Problem
 

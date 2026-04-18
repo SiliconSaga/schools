@@ -15,7 +15,7 @@ back_to_top_text: "Back to top"
 
 # GitHub link in header
 gh_edit_link: true
-gh_edit_link_text: "View on GitHub"
+gh_edit_link_text: "View this page on GitHub"
 gh_edit_repository: "https://github.com/SiliconSaga/schools"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"

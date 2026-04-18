@@ -9,22 +9,24 @@ parent: "Modules"
 
 *Data & Revenue Reclamation through Community-Run School Photography*
 
-> **Impact Potential:** Medium-High -- modest revenue individually but creates a
-> recurring funding stream for other modules; the data sovereignty angle is a
-> strong privacy and liability argument
-> **Effort:** Medium -- requires a digital platform (can be built quickly with
-> modern tools), volunteer photographer coordination, and PTA willingness to run
-> the operation
-> **Timeline:** Could pilot for one school within a semester; full district
-> rollout in one school year
-> **Key Risks:** Lifetouch contract may have exclusivity clauses or termination
-> penalties; volunteer photographer quality and consistency; the existing kickback
-> (however small) disappears if the PTA takes over, so the net revenue case must
-> be clearly positive
-> **Print Priority:** High -- easy to understand, demonstrates the "community is
-> the platform" thesis, and the data privacy angle resonates with modern parents
-
 ---
+
+- **Impact Potential:** Medium-High -- modest revenue individually but creates a
+  recurring funding stream for other modules; the data sovereignty angle is a
+  strong privacy and liability argument
+- **Effort:** Medium -- requires a digital platform (can be built quickly with
+  modern tools), volunteer photographer coordination, and PTA willingness to run
+  the operation
+- **Timeline:** Could pilot for one school within a semester; full district
+  rollout in one school year
+- **Key Risks:** Lifetouch contract may have exclusivity clauses or termination
+  penalties; volunteer photographer quality and consistency; the existing kickback
+  (however small) disappears if the PTA takes over, so the net revenue case must
+  be clearly positive
+- **Print Priority:** High -- easy to understand, demonstrates the "community is
+  the platform" thesis, and the data privacy angle resonates with modern parents
+---
+
 
 ## The Problem
 

@@ -9,21 +9,23 @@ parent: "Modules"
 
 *Volunteer Leagues, Junior Coaches, and the Multi-Organization Model*
 
-> **Impact Potential:** High -- athletics is a significant budget line and an
-> emotional flashpoint; community sports leagues bring their own infrastructure,
-> volunteers, and insurance that the district doesn't have to fund
-> **Effort:** Medium -- requires formal shared-use agreements, liability frameworks,
-> and coordination between district, league, and families
-> **Timeline:** Partnerships can be scoped within a semester; formal agreements
-> take 3-6 months; full athletic program absorption is a multi-year evolution
-> **Key Risks:** Equity concerns (pay-to-play fees exclude low-income families);
-> quality and safety standards must be maintained; Title IX compliance requires
-> careful attention; union implications if coaching stipends are affected
-> **Print Priority:** Medium-High -- resonates with sports-oriented families and
-> shows the multi-organization model beyond just the PTA
-> **Document Type:** Whitepaper + strategic design
-
 ---
+
+- **Impact Potential:** High -- athletics is a significant budget line and an
+  emotional flashpoint; community sports leagues bring their own infrastructure,
+  volunteers, and insurance that the district doesn't have to fund
+- **Effort:** Medium -- requires formal shared-use agreements, liability frameworks,
+  and coordination between district, league, and families
+- **Timeline:** Partnerships can be scoped within a semester; formal agreements
+  take 3-6 months; full athletic program absorption is a multi-year evolution
+- **Key Risks:** Equity concerns (pay-to-play fees exclude low-income families);
+  quality and safety standards must be maintained; Title IX compliance requires
+  careful attention; union implications if coaching stipends are affected
+- **Print Priority:** Medium-High -- resonates with sports-oriented families and
+  shows the multi-organization model beyond just the PTA
+- **Document Type:** Whitepaper + strategic design
+---
+
 
 ## The Problem
 

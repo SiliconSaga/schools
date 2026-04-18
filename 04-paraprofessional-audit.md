@@ -9,22 +9,24 @@ parent: "Modules"
 
 *The Hidden Costs of Outsourcing Special Education Staff*
 
-> **Impact Potential:** Very High -- this is the most emotionally and legally
-> consequential issue; outsourcing paras affects the most vulnerable students and
-> exposes the district to significant legal liability
-> **Effort:** Low -- this module is primarily an argument backed by data; the
-> "fix" is funded by savings from other modules
-> **Timeline:** Immediate as an argument; the financial case strengthens as
-> other modules produce savings
-> **Key Risks:** The board may have already signed outsourcing contracts (check
-> status); the agency may offer a short-term cost that looks better on paper
-> even after markup; emotional arguments can backfire if perceived as guilt-tripping
-> rather than analysis
-> **Print Priority:** Very High -- this is the personal stake, the "third of his
-> life" anchor in the speech, and the strongest legal/financial counterargument
-> to the board's plan
-
 ---
+
+- **Impact Potential:** Very High -- this is the most emotionally and legally
+  consequential issue; outsourcing paras affects the most vulnerable students and
+  exposes the district to significant legal liability
+- **Effort:** Low -- this module is primarily an argument backed by data; the
+  "fix" is funded by savings from other modules
+- **Timeline:** Immediate as an argument; the financial case strengthens as
+  other modules produce savings
+- **Key Risks:** The board may have already signed outsourcing contracts (check
+  status); the agency may offer a short-term cost that looks better on paper
+  even after markup; emotional arguments can backfire if perceived as guilt-tripping
+  rather than analysis
+- **Print Priority:** Very High -- this is the personal stake, the "third of his
+  life" anchor in the speech, and the strongest legal/financial counterargument
+  to the board's plan
+---
+
 
 ## The Problem
 

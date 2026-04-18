@@ -9,23 +9,25 @@ parent: "Modules"
 
 *OpenCollective, Participatory Budgeting, and Budget Visualization as Proof of Concept*
 
-> **Impact Potential:** Very High -- not primarily for the dollars raised (though
-> those matter) but for the credibility it builds; showing the board a live, funded,
-> transparent financial operation is the most powerful possible demonstration that
-> the community can self-organize
-> **Effort:** Medium -- OpenCollective setup is straightforward; participatory
-> budgeting requires design and facilitation; budget visualization requires data
-> extraction and development
-> **Timeline:** OpenCollective can be live within days; a PTA participatory budget
-> cycle could run in 2-4 weeks; budget visualization is a multi-week project
-> **Key Risks:** Low adoption if parents don't understand the tool; potential
-> confusion between PTA funds and district funds (keep boundaries clear);
-> participatory budgeting works best with clear scope limits
-> **Print Priority:** High -- this is the "show, don't tell" proof that open
-> governance works; bring a screenshot of the live OpenCollective dashboard if
-> possible
-
 ---
+
+- **Impact Potential:** Very High -- not primarily for the dollars raised (though
+  those matter) but for the credibility it builds; showing the board a live, funded,
+  transparent financial operation is the most powerful possible demonstration that
+  the community can self-organize
+- **Effort:** Medium -- OpenCollective setup is straightforward; participatory
+  budgeting requires design and facilitation; budget visualization requires data
+  extraction and development
+- **Timeline:** OpenCollective can be live within days; a PTA participatory budget
+  cycle could run in 2-4 weeks; budget visualization is a multi-week project
+- **Key Risks:** Low adoption if parents don't understand the tool; potential
+  confusion between PTA funds and district funds (keep boundaries clear);
+  participatory budgeting works best with clear scope limits
+- **Print Priority:** High -- this is the "show, don't tell" proof that open
+  governance works; bring a screenshot of the live OpenCollective dashboard if
+  possible
+---
+
 
 ## OpenCollective as PTA Infrastructure
 

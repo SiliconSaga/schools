@@ -9,21 +9,23 @@ parent: "Modules"
 
 *From Midnight Marathons to Asynchronous Coordination*
 
-> **Impact Potential:** Very High (long-term) -- this is the structural reform
-> that makes everything else sustainable; without governance modernization, every
-> budget crisis replays the same midnight theatre
-> **Effort:** High -- culture change is harder than technical change; requires
-> board buy-in, tooling, and sustained community engagement
-> **Timeline:** A transparency pilot (one contract made public) could launch
-> immediately; full async governance is a multi-year evolution
-> **Key Risks:** The board may perceive open governance as a threat to their
-> authority rather than a relief of their burden; "transparency fatigue" if the
-> community doesn't actually engage with public data; legal concerns about
-> deliberating in public (sunshine law nuances)
-> **Print Priority:** High -- this is the "vision" piece that ties everything
-> together; the board meeting comparison table is a strong visual for print
-
 ---
+
+- **Impact Potential:** Very High (long-term) -- this is the structural reform
+  that makes everything else sustainable; without governance modernization, every
+  budget crisis replays the same midnight theatre
+- **Effort:** High -- culture change is harder than technical change; requires
+  board buy-in, tooling, and sustained community engagement
+- **Timeline:** A transparency pilot (one contract made public) could launch
+  immediately; full async governance is a multi-year evolution
+- **Key Risks:** The board may perceive open governance as a threat to their
+  authority rather than a relief of their burden; "transparency fatigue" if the
+  community doesn't actually engage with public data; legal concerns about
+  deliberating in public (sunshine law nuances)
+- **Print Priority:** High -- this is the "vision" piece that ties everything
+  together; the board meeting comparison table is a strong visual for print
+---
+
 
 ## The Problem with the Current Model
 

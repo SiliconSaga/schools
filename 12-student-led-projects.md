@@ -9,20 +9,22 @@ parent: "Modules"
 
 *Educational Outcomes That Also Reduce District Costs*
 
-> **Impact Potential:** Medium -- dollar savings are modest per project, but the
-> educational value is high and the optics are excellent; demonstrates that
-> investment in students pays for itself
-> **Effort:** Medium -- requires teacher/mentor supervision, structured programs,
-> and coordination with district IT/operations
-> **Timeline:** Can launch within a semester if aligned with existing course
-> structures; some projects (website, photography) could pilot immediately
-> **Key Risks:** Quality and reliability concerns ("can students really do this?");
-> supervision overhead; liability for student work on operational systems; must not
-> become unpaid labor disguised as education
-> **Print Priority:** Low-Medium -- a nice supporting example but not a lead
-> argument; best as an illustration of "untapped capacity" in the broader pitch
-
 ---
+
+- **Impact Potential:** Medium -- dollar savings are modest per project, but the
+  educational value is high and the optics are excellent; demonstrates that
+  investment in students pays for itself
+- **Effort:** Medium -- requires teacher/mentor supervision, structured programs,
+  and coordination with district IT/operations
+- **Timeline:** Can launch within a semester if aligned with existing course
+  structures; some projects (website, photography) could pilot immediately
+- **Key Risks:** Quality and reliability concerns ("can students really do this?");
+  supervision overhead; liability for student work on operational systems; must not
+  become unpaid labor disguised as education
+- **Print Priority:** Low-Medium -- a nice supporting example but not a lead
+  argument; best as an illustration of "untapped capacity" in the broader pitch
+---
+
 
 ## The Concept
 
