@@ -8,9 +8,7 @@ baseurl: ""
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 color_scheme: light
-
-# Enable dark/light toggle
-enable_dark_mode: toggle
+toggle_color_scheme: dark
 
 # Back to top link
 back_to_top: true

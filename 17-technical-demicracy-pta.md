@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Technical Design: Demicracy PTA Coordination Layer"
-nav_order: 18
+title: "PTA Coordination Layer"
+parent: "Appendix"
+nav_order: 1
 ---
 
 # Technical Design: Demicracy PTA Coordination Layer

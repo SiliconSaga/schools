@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "RFI Templates"
-nav_order: 8
+nav_exclude: true
 ---
 
 # RFI Templates

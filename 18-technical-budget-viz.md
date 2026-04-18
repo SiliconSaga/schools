@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Technical Design: District Budget Visualization"
-nav_order: 19
+title: "Budget Visualization"
+parent: "Appendix"
+nav_order: 2
 ---
 
 # Technical Design: District Budget Visualization

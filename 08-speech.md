@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Speech"
-nav_order: 9
+nav_exclude: true
 ---
 
 # The Speech

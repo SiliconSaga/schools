@@ -95,5 +95,3 @@ For platform builders -- developers, data volunteers, and technical contributors
 **For developers:** Start with [Technical Design docs](17-technical-demicracy-pta) and [References](20-references).
 
 ---
-
-**[Suggest improvements to this site](https://github.com/SiliconSaga/schools/issues)** | **[Give feedback to the West Orange School District](https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform)**
