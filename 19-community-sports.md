@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 15: Community Sports & Athletics Partnerships"
+title: "Community Sports title: "Module 15: Community Sports & Athletics Partnerships" Athletics Partnerships"
 nav_order: 20
+parent: "Modules"
 ---
 
 # Module 15: Community Sports & Athletics Partnerships

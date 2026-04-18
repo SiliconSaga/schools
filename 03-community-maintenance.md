@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 3: Community Maintenance Layer"
+title: "Community Maintenance Layer"
 nav_order: 4
+parent: "Modules"
 ---
 
 # Module 3: Community Maintenance Layer

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 7: Energy & Facilities Optimization"
+title: "Energy title: "Module 7: Energy & Facilities Optimization" Facilities Optimization"
 nav_order: 10
+parent: "Modules"
 ---
 
 # Module 7: Energy & Facilities Optimization

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 1: The Instructional Bridge Grant"
+title: "Instructional Bridge Grant"
 nav_order: 2
+parent: "Modules"
 ---
 
 # Module 1: The Instructional Bridge Grant

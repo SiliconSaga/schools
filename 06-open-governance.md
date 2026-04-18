@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 6: Open Governance Pilot"
+title: "Open Governance Pilot"
 nav_order: 7
+parent: "Modules"
 ---
 
 # Module 6: Open Governance Pilot

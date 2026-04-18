@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 2: The Open Image Project"
+title: "Open Image Project"
 nav_order: 3
+parent: "Modules"
 ---
 
 # Module 2: The Open Image Project

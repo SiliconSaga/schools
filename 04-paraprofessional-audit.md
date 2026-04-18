@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 4: Paraprofessional Retention Audit"
+title: "Paraprofessional Retention Audit"
 nav_order: 5
+parent: "Modules"
 ---
 
 # Module 4: Paraprofessional Retention Audit

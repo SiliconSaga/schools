@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 9: Community Grant Writing Corps"
+title: "Community Grant Writing Corps"
 nav_order: 12
+parent: "Modules"
 ---
 
 # Module 9: Community Grant Writing Corps

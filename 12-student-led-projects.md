@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 10: Student-Led Projects with Dual Value"
+title: "Student-Led Projects with Dual Value"
 nav_order: 13
+parent: "Modules"
 ---
 
 # Module 10: Student-Led Projects with Dual Value

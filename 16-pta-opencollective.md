@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 14: The PTA as Community Operating System"
+title: "PTA as Community Operating System"
 nav_order: 17
+parent: "Modules"
 ---
 
 # Module 14: The PTA as Community Operating System

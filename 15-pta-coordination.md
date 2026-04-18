@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 13: PTA Coordination Infrastructure"
+title: "PTA Coordination Infrastructure"
 nav_order: 16
+parent: "Modules"
 ---
 
 # Module 13: PTA Coordination Infrastructure

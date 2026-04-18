@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Module 11: Regulatory Leverage Points"
+title: "Regulatory Leverage Points"
 nav_order: 14
+parent: "Modules"
 ---
 
 # Module 11: Regulatory Leverage Points
