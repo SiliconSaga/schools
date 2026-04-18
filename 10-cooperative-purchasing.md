@@ -117,6 +117,5 @@ The approach should be:
 - Involve union leadership early -- they may prefer creative sharing arrangements
   to outright layoffs
 
----
 
 *[Back to Index](index)*

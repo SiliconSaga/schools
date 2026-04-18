@@ -193,6 +193,5 @@ and show what it produces.
 Here's the inventory. Here's the commitment board. Here's the gap report. We're
 not asking you to trust our enthusiasm. We're asking you to read our data."
 
----
 
 *[Back to Index](index)*

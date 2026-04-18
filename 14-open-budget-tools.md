@@ -165,6 +165,5 @@ Each tool proves a principle. Together, they prove the thesis: **open, community
 driven governance is not idealistic -- it is operational, and the community is
 already doing it.**
 
----
 
 *[Back to Index](index)*

@@ -131,6 +131,5 @@ a New Zealand cooperative network, maintains its governance agreements as
 version-controlled documents with full change history. These are real,
 operational examples of the model we're proposing.
 
----
-
 *[Back to Index](index) | Next: [RFI Templates](07-rfi-templates)*
+

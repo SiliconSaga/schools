@@ -107,6 +107,5 @@ Oregon [adopted a similar pooling model in the 1990s](https://thefrisc.com/sfusd
 See [Module 14: The PTA as Community Operating System](16-pta-opencollective)
 for the full operational model using OpenCollective.
 
----
+*[Back to Index](index) | Next: [Open Image Project](02-open-image-project)*
 
-*[Back to Index](index) | Next: [The Open Image Project](02-open-image-project)*

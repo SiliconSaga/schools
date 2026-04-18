@@ -135,6 +135,3 @@ impact, and physically holdable. Here's the recommended assembly:
 
 **Give feedback to the West Orange School District:** <https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform>
 
----
-
-*[Back to Index](index)*

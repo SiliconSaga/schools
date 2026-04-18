@@ -101,6 +101,5 @@ platform."
 2. Commission and data-sharing disclosures
 3. Willingness to let the PTA pilot for one cycle
 
----
-
 *[Back to Index](index) | Next: [Community Maintenance Layer](03-community-maintenance)*
+

@@ -131,18 +131,11 @@ nav_order: 98
 - [Job cuts, class sizes, sports nixed: NJ schools face budget woes (Patch)](https://patch.com/new-jersey/across-nj/mass-job-cuts-ridiculous-class-sizes-nj-schools-face-budget-woes)
 - [Morris School District budget raises taxes, cuts staff (Morristown Green)](https://morristowngreen.com/2026/03/18/proposed-morris-school-district-budget-raises-taxes-cuts-staff-as-enrollment-declines/)
 
----
-
 ## West Orange Leaf Blower Ban (Module 3)
 
 - [West Orange bans gas-powered leaf blowers -- again (Patch)](https://patch.com/new-jersey/westorange/west-orange-bans-gas-powered-leaf-blowers-again) -- full ban effective Jan 1, 2026
 - [West Orange Mayor vetoes leaf blower ban (earlier episode, Patch)](https://patch.com/new-jersey/westorange/west-orange-mayor-vetoes-leaf-blower-ban-here-s-why)
 - [NJ statewide gas leaf blower ban bill S623 (NJ 101.5)](https://nj1015.com/new-jersey-leaf-blower-ban/)
 
----
-
-*[Back to Index](index)*
-
----
 
 *[Back to Index](index)*

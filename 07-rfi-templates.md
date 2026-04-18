@@ -105,6 +105,3 @@ has **7 business days** to respond.
 > "The 'Broker Compensation Disclosure' as required under the federal Consolidated
 > Appropriations Act for the 2025 and 2026 health benefit plan years."
 
----
-
-*[Back to Index](index) | Next: [The Speech](08-speech)*

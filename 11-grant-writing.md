@@ -122,6 +122,5 @@ time. The team's expertise compounds. This is an investment in permanent
 institutional capacity -- exactly the kind of "community infrastructure" that
 outlasts any single budget crisis.
 
----
 
 *[Back to Index](index)*
