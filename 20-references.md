@@ -138,4 +138,4 @@ nav_order: 98
 - [NJ statewide gas leaf blower ban bill S623 (NJ 101.5)](https://nj1015.com/new-jersey-leaf-blower-ban/)
 
 
-*[Back to Index](index)*
+[Back to Index](index)

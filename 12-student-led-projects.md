@@ -126,5 +126,4 @@ paying vendors to do concrete work on our campuses. What if we connected those
 two things? Students learn more from real projects than worksheets, and every
 dollar we don't send to a vendor stays in the building."
 
-
-*[Back to Index](index)*
+[Back to Index](index) | Next: [Regulatory Leverage](13-regulatory-leverage)

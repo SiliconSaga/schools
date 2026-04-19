@@ -82,5 +82,5 @@ The dollar savings on leaf blowing are modest. The strategic value is enormous:
 - It demonstrates to the board that the community is a **resource**, not just a
   complaint department
 
-*[Back to Index](index) | Next: [Paraprofessional Retention Audit](04-paraprofessional-audit)*
+[Back to Index](index) | Next: [Paraprofessional Retention Audit](04-paraprofessional-audit)
 

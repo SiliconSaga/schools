@@ -313,5 +313,4 @@ The lesson: PTA-funded positions at scale are not hypothetical. They work. The
 question is whether they are organized transparently and equitably -- which is
 exactly what OpenCollective enables.
 
-
-*[Back to Index](index)*
+[Back to Index](index) | Next: [Community Sports](19-community-sports)

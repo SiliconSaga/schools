@@ -108,4 +108,3 @@ See [Module 14: The PTA as Community Operating System](16-pta-opencollective)
 for the full operational model using OpenCollective.
 
 [Back to Index](index) | Next: [Open Image Project](02-open-image-project)
-

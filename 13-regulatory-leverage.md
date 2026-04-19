@@ -188,5 +188,4 @@ cutting teachers and outsourcing paras is the only option?"
 
 The answer, almost certainly, is no.
 
-
-*[Back to Index](index)*
+[Back to Index](index) | Next: [Open Budget Tools](14-open-budget-tools)

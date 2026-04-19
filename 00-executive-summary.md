@@ -94,4 +94,4 @@ includes additional modules on:
 
 ---
 
-*[Back to Index](index)*
+[Back to Index](index)

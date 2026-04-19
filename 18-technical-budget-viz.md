@@ -264,4 +264,4 @@ could help.
 
 ---
 
-*[Back to Index](index)*
+[Back to Index](index)

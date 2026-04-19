@@ -377,4 +377,4 @@ civic contexts.
 
 ---
 
-*[Back to Index](index)*
+[Back to Index](index)

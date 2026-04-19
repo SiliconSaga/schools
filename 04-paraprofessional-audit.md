@@ -123,5 +123,4 @@ priorities like paraprofessional retention.
 3. Quantify the district's current spend on compensatory education and out-of-district
    placements attributable to staffing gaps
 
-*[Back to Index](index) | Next: [Health Insurance Transparency](05-health-insurance)*
-
+[Back to Index](index) | Next: [Health Insurance Transparency](05-health-insurance)

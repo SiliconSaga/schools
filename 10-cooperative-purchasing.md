@@ -117,5 +117,4 @@ The approach should be:
 - Involve union leadership early -- they may prefer creative sharing arrangements
   to outright layoffs
 
-
-*[Back to Index](index)*
+[Back to Index](index) | Next: [Grant Writing](11-grant-writing)

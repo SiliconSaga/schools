@@ -265,5 +265,4 @@ organizations, each with its own leadership, insurance, and track record.
 - [SafeSport training](https://safesport.org)
 - [Rep. Gottheimer bipartisan legislation for youth sports affordability](https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-legislation-to-make-youth-sports-more-affordable)
 
-
-*[Back to Index](index)*
+[Back to Index](index)

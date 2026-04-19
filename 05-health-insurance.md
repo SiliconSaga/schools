@@ -267,5 +267,4 @@ via OPRA request within 7 business days.
 - [Orange County Public Schools DPC model (HR Executive)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
 - [West Orange 18% premium increase (The Digest Online)](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
 
-*[Back to Index](index) | Next: [Open Governance Pilot](06-open-governance)*
-
+[Back to Index](index) | Next: [Open Governance Pilot](06-open-governance)

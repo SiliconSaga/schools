@@ -135,5 +135,4 @@ If the district pursues all three:
 These savings compound annually and are permanent. Unlike one-time fundraising,
 energy efficiency generates returns every year for the life of the equipment.
 
-
-*[Back to Index](index)*
+[Back to Index](index) | Next: [Cooperative Purchasing](10-cooperative-purchasing)
