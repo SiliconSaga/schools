@@ -52,11 +52,11 @@ are professionals or skilled hobbyists) and a simple digital distribution platfo
 1. **Volunteer photographers** execute Picture Day, coordinated through a scheduling
    platform. QR code flyers go home in every student's bag.
 2. **Digital originals** are available to families for a modest PTA donation --
-   significantly less than Lifetouch packages, with every dollar going to the
-   PTA rather than a national corporation.
-3. Families who want prints take their digitals to any print service they choose --
-   no predatory upselling, no locked-in vendor packages.
-4. The PTA captures **100% of the donation** with no vendor middleman.
+   significantly less than Lifetouch packages, with every dollar going back to the
+   school (via the PTA) rather than a national corporation.
+3. **Prints as desired** Families who want prints take their digitals to any print service they choose.
+   No predatory upselling, no locked-in vendor packages.
+4. The School/PTA captures **100% of the donation** with no vendor middleman.
 
 ### Revenue Model: Photos as Fundraiser
 
@@ -93,7 +93,7 @@ The digital distribution platform can be built rapidly using modern tools:
 
 - Privacy-first architecture with local data storage
 - Simple upload, browse, and download workflow
-- Payment processing for the optional Technology Fee
+- Payment processing for the optional donation
 - No student data leaves the district's control
 
 This serves as a proof-of-concept for the broader [Demicracy coordination

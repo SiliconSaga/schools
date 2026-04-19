@@ -34,13 +34,20 @@ coordination is just a crowd of people watching a fire. I'm not here to tell
 you what you're doing wrong. I'm here to tell you what we can do to help -- and
 to show what's already started.
 
-I'm an engineer. One person, using modern tools, put together the documents I'm
-holding in a few hours over a few days. If one person can produce this much in
-that little time, imagine what a whole community can do -- a community full of
-people with skills in healthcare, finance, law, athletics, fundraising, and
-technology. That potential is sitting in this room right now.
+I'm an engineer and a busy dad with three young kids. One person, using modern
+tools, put together the documents I'm holding in a few hours over a few days.
+The content isn't the important part -- not every idea in here will be valid.
+Some might be false leads. But I am nearly certain some will be new to this
+board. Which ones? I honestly have no idea -- because this district doesn't
+use open processes, and we as residents have no way to know what's already been
+tried or looked into. That closed process is a huge part of the problem.
 
-What we're proposing is a community exoskeleton -- like a support structure the
+If one person with limited time can produce this much, imagine what a whole
+community can do -- a community full of people with skills in healthcare,
+finance, law, athletics, fundraising, and technology. That potential is sitting
+in this room right now.
+
+What we're proposing is a community exoskeleton -- a support structure the
 district can put on when times are hard. The PTA and community organizations
 take over what we can: enrichment, athletics, photography, grounds maintenance,
 fundraising. The district can then focus its limited resources on what only a
