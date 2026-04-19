@@ -25,10 +25,23 @@ across Essex County](https://patch.com/new-jersey/westorange/budget-meltdowns-sl
 and [statewide](https://newjerseymonitor.com/2026/02/20/nj-school-budget-deficits/)
 face similar crises.
 
+**The core idea:** The community builds a **Community Exoskeleton** -- a support
+structure around the district. PTAs, sports leagues, student volunteers, and
+community organizations absorb the functions they're equipped to handle:
+enrichment, athletics, photography, grounds maintenance, fundraising, grant
+writing. The district then focuses its limited budget on the things only a
+district can do -- certified teachers, paraprofessional relationships,
+IEP compliance, and core instruction.
+
+One person put these documents together in a few hours over a few days using
+modern tools. If one person can produce this much in that little time, imagine
+what a whole community can do. The expertise is already here -- in healthcare,
+finance, law, athletics, technology, and education. It just needs coordination
+and an open door from the district.
+
 This proposal outlines **cost-avoidance modules**, **structural reforms**, and
-**community partnership models** to preserve instructional quality and staff
-retention. The full document set is available on this site; a printed subset
-accompanies the board presentation.
+**community partnership models**. The full document set is available on this
+site; a printed subset accompanies the board presentation.
 
 ## The Core Modules
 
@@ -70,14 +83,21 @@ accompanies the board presentation.
 
 ## The Ask
 
-We are not asking the board to build any of this. The community is already building it.
-We are asking for:
+We are not asking the board to do more. We are asking the board to let the
+community do more. The exoskeleton is being built. We need:
 
-- A **Resolution of Intent** to pause layoffs while community-funded pilots are vetted
-- A **Designated Liaison** from the board to engage with community working groups
-- **Transparency** on vendor contracts and broker commissions (via the attached RFI templates)
+- **Collaboration** -- a Designated Liaison from the board to work with community
+  groups between meetings, so we're not starting from zero every month
+- **Transparency** -- vendor contracts and broker commissions disclosed (via the
+  attached RFI templates) so we can identify savings together
+- **Willingness to shift** -- if the community can absorb enrichment, athletics,
+  and maintenance costs, redirect those savings to the positions we cannot
+  replace: paraprofessionals, certified teachers, core instruction
 
-The resources are not the problem. Legacy contracts and closed processes are.
+The district does not need to take on the task of fleshing out these proposals.
+The community does -- people with relevant expertise donating their time because
+their kids are in these schools. The board's role is to coordinate with us and
+accept the help.
 
 ### Additional Modules (on the full site)
 

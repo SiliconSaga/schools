@@ -14,7 +14,7 @@ nav_exclude: true
 
 Good evening. For those who don't recognize the face, I'm the guy from last year
 who "half-joked" about organizing a parent-led leaf blower brigade to save the
-district money. I'm back, as clearly not enough progress was made.
+district money. I'm back, as we're still in this debacle.
 
 But I want to start with a correction: I wasn't joking. I was providing an example
 of the distributed, out-of-the-box coordination we need to survive this. After
@@ -27,35 +27,43 @@ seems to drain out, replaced by the weight of "the numbers." You spend hours bei
 talked at, and in the process, you've stopped talking *with* us. Wouldn't you
 rather have shorter, happier meetings?
 
-## [0:45 - 1:45] The Village & The Tech
+## [0:45 - 1:45] The Community Exoskeleton
 
 We're told "it takes a village" to raise a child. But a village without
-coordination is just a crowd of people watching a fire. Since I was last here,
-technology has raced forward. I'm an engineer; I see what's possible now with solo
-efforts that were dreams a year ago. I have far more ideas now for how to bring us
-into a future with more transparency, community involvement, and reduction of toil
-for our educators. I built parts already.
+coordination is just a crowd of people watching a fire. I'm not here to tell
+you what you're doing wrong. I'm here to tell you what we can do to help -- and
+to show what's already started.
 
-This room is filled with collective potential. We can help, but you have to let us
-in. Right now, your processes are outdated. You're trying to solve a 2026 crisis
-with bureaucracy from the prior millennium. You're facing a multi-million dollar
-hole, and your solution is to shrink-flate art class and outsource the very people
-who keep our most vulnerable students safe.
+I'm an engineer. One person, using modern tools, put together the documents I'm
+holding in a few hours over a few days. If one person can produce this much in
+that little time, imagine what a whole community can do -- a community full of
+people with skills in healthcare, finance, law, athletics, fundraising, and
+technology. That potential is sitting in this room right now.
+
+What we're proposing is a community exoskeleton -- like a support structure the
+district can put on when times are hard. The PTA and community organizations
+take over what we can: enrichment, athletics, photography, grounds maintenance,
+fundraising. The district can then focus its limited resources on what only a
+district can do. We're not asking you to do more. We're asking you to let us
+shoulder what we can so you can protect what we can't.
 
 ## [1:45 - 2:30] The Personal Stake & The Whitepapers
 
-I'm not here for a job. I'm here as a dad. My oldest son has a paraprofessional
-he has known for a third of his life. That isn't a line item; that's a foundation.
-My daughter is coming up next, and I'm terrified her support will be someone
-"extruded" through the mechanics of a corporate outsourcer who doesn't know her
-name or our town.
+Because there are things the community cannot fix. My oldest child has a
+paraprofessional he has known for a third of his life. *[slow down here]* That
+isn't a line item. That's a foundation. We as a community can hire an enrichment
+instructor, we can organize a volunteer coach, we can run a photo day -- but we
+cannot replace a para who knows a child's triggers, their communication style,
+their progress over years. Outsourcing that to a corporate staffing agency is
+not a budget solution. It's a loss that can't be undone.
 
-I didn't just bring complaints tonight. I brought -- *[hold them up]* --
-whitepapers! Hard copies! These include actual proposals for Bridge Grants to save
-teaching hours, revenue reclamation from predatory photo vendors, community-led
-maintenance, and yes, a leaf blower brigade, among other things. I'd love to be
-told you've already considered every single idea in here, but frankly, I'm ready
-to be disappointed.
+So here's the deal I'm proposing tonight. I brought -- *[hold them up]* --
+whitepapers! Hard copies! In here are proposals for how the community might
+absorb costs: Bridge Grants to fund teaching hours, revenue from community-run
+photography, volunteer maintenance, grant writing, sports partnerships, and
+yes, a leaf blower brigade. If we take on these things, the district could
+potentially cut even more in areas where we can step in -- and redirect every
+dollar saved to the positions the community cannot replace.
 
 ## [2:30 - 3:00] The Closer: The Camacho Challenge
 
@@ -67,8 +75,8 @@ needs right now: He knew he didn't have all the answers or ideas. He asked for
 help. He found the smartest people he could and he delegated.
 
 I am asking this board to live up to the example set by President Camacho. You
-can't do it all. We don't expect you to. We have tools, talent, and will. So let
-us help. Thank you.
+can't do it all. We don't expect you to. The community could be your
+exoskeleton -- but you have to let us. Thank you.
 
 ---
 
