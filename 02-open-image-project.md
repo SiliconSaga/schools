@@ -35,9 +35,9 @@ The district contracts with vendors like Lifetouch/Shutterfly for school photogr
 These contracts are characterized by:
 
 - **Low kickbacks** to the district relative to the vendor's markup
-- **Third-party monetization** of student biometric data (facial images)
+- **Third-party monetization** of student biometric data (facial images) / vendor retains copyright for pictures of _your_ kid
 - **Overpriced packages** that many families skip or resent
-- **No digital originals** provided to families without premium payment
+- **No digital originals** provided to families without premium payment (or simply not at all)
 
 The district treats this as a minor convenience contract. It is actually a revenue
 leak and a data liability.
@@ -50,26 +50,31 @@ are professionals or skilled hobbyists) and a simple digital distribution platfo
 ### How It Works
 
 1. **Volunteer photographers** execute Picture Day, coordinated through a scheduling
-   platform
-2. **All digital originals** are provided free to families -- no predatory upselling
-3. Families who want prints or packages pay a **"Technology Fee"** to the PTA
-4. The PTA captures **100% of revenue** with no vendor middleman
+   platform. QR code flyers go home in every student's bag.
+2. **Digital originals** are available to families for a modest PTA donation --
+   significantly less than Lifetouch packages, with every dollar going to the
+   PTA rather than a national corporation.
+3. Families who want prints take their digitals to any print service they choose --
+   no predatory upselling, no locked-in vendor packages.
+4. The PTA captures **100% of the donation** with no vendor middleman.
 
-### Revenue Model (Illustrative)
+### Revenue Model: Photos as Fundraiser
 
-Consider a hypothetical scenario: if a vendor charges $50 per photo package with
-a participation rate around 50%, and the PTA offers high-res digital files for a
-$25 optional donation with a higher participation rate, the PTA could capture
-significantly more total revenue because there is no vendor middleman taking
-the majority of each sale.
+This isn't a photo business -- it's a fundraiser with a clear purpose. The pitch
+to parents: "Every dollar you spend on school photos goes directly to keeping
+teachers in the building."
 
-The actual numbers depend on the district's enrollment, current vendor contract
-terms (obtainable via [RFI Template A](07-rfi-templates)), and parent
-willingness to participate. The key principle is that cutting out the middleman
-means the community keeps the revenue that currently flows to a national
-corporation.
+The model borrows from what some PTAs already do with membership fees: a
+suggested donation covers your family's photos, and an optional second
+contribution sponsors photos for a family that can't afford it. No child goes
+without a school photo, and no parent is pressured into a $50+ package they
+don't want.
 
-This revenue directly funds the [Instructional Bridge Grant](01-instructional-bridge).
+The actual donation amount depends on the district's enrollment and the
+current vendor contract terms (obtainable via [RFI Template A](07-rfi-templates)).
+The key principle: when the middleman is gone, the community keeps revenue that
+currently flows to a corporation -- and that revenue funds the
+[Instructional Bridge Grant](01-instructional-bridge).
 
 ### Data Sovereignty
 
