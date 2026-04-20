@@ -75,7 +75,7 @@ Review for final approvals and celebration.
 ### How It Works
 
 - A community suggestion (like the PTA Bridge Grant) is submitted as a **proposal**
-- The board's objections (legal, financial, logistical) are documented as
+- The board's concerns (legal, financial, logistical) are documented as
   **review comments**
 - Instead of dozens of residents repeating the same message, they **endorse** the
   existing proposal digitally
@@ -85,7 +85,7 @@ Review for final approvals and celebration.
 
 The board meeting becomes an opportunity to:
 
-- Reach the few people who don't follow the public process
+- Reach people who don't follow the public process
 - Coordinate directly with community working groups
 - Celebrate students and educators
 - Go home before midnight knowing something was actually solved
@@ -114,7 +114,7 @@ We are not asking the board to build or adopt a platform. We are asking for:
    principles.
 
 The community is already building the coordination infrastructure. We just need
-the board to open the port.
+the board to interface with it.
 
 ## Legislative Tailwind
 
@@ -129,7 +129,8 @@ legal code on GitHub](https://github.com/DCCouncil/law-xml) as version-controlle
 machine-readable documents. The [Open Law Library](https://openlawlib.org/) helps
 municipalities do the same. [Enspiral](https://github.com/enspiral/agreements),
 a New Zealand cooperative network, maintains its governance agreements as
-version-controlled documents with full change history. These are real,
-operational examples of the model we're proposing.
+version-controlled documents with full change history (and has a [newer handbook](https://handbook.enspiral.com/index.html)). 
+
+These are real, operational examples of the model we're proposing.
 
 [Back to Index](index) | Next: [Energy & Facilities](09-energy-facilities)

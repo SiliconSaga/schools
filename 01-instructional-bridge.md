@@ -28,7 +28,7 @@ parent: "Modules"
 
 ## The Problem
 
-The district proposes reducing all elementary special area classes (Art, Library)
+The district proposes reducing elementary special area classes (Art, Library)
 from 45 minutes to 30 minutes. This may sound like a minor schedule adjustment,
 but the staffing implications are significant.
 
@@ -45,7 +45,7 @@ full cost.
 ## The Proposal: Grant-in-Aid Service Preservation
 
 The PTA establishes a **Curriculum Preservation Fund** -- a targeted grant to the
-district that funds the cost delta between the 30-minute state-compliant minimum
+district that funds the cost difference between the 30-minute state-compliant minimum
 and the 45-minute instructional standard.
 
 ### How It Works
@@ -82,14 +82,14 @@ curriculum during the school day. The Bridge Grant avoids this by:
 
 If the grant mechanism proves too slow for district procurement:
 
-1. The district shortens the official school day (e.g. ending at 2:00 PM)
+1. The district shortens the official school day (e.g. ending at 2:30 PM)
 2. The PTA leases classroom space for $1/year after the bell
 3. The PTA directly contracts the same teachers for "Enrichment" programming
 4. All students participate; paying families cover costs, PTA reserves cover the rest
 
 The result: the same teachers, the same kids, the same classrooms -- just funded
 differently. Staff stay employed, the district's books are balanced, and children
-don't notice a thing.
+don't notice a thing. Optional enrichment activities already happen after school.
 
 ### Union Alignment
 

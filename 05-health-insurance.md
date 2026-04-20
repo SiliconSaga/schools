@@ -37,8 +37,8 @@ parent: "Modules"
 
 Health insurance premium increases are cited as a primary driver of the district's
 deficit. [Health benefits are expected to climb nearly 18%](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
-in the coming year. This is the single largest cost lever available -- and the one
-least likely to have been seriously examined.
+in the coming year. This is the single largest cost lever available -- and a topic unlikely to
+have been exhaustively examined.
 
 The district is not alone. [Budget meltdowns are hitting schools across Essex
 County](https://patch.com/new-jersey/westorange/budget-meltdowns-slam-schools-across-essex-county-hundreds-jobs-risk)
@@ -208,6 +208,7 @@ independent clinics to provide DPC for staff?
 - The district gets predictable costs and healthier employees
 - Insurance claims drop, which drives down premiums at renewal
 - Employees get better access to care with shorter wait times
+- Local economy benefits from keeping more healthcare dollars local
 
 This is a longer-term initiative that requires feasibility study, but it
 represents the kind of creative thinking the board should be doing instead of
@@ -239,7 +240,7 @@ We are not making specific dollar promises. What we are saying:
   conflicted vendors in just one set of health insurance funds
 
 The question is not "can we save money on health insurance?" The question is
-"how much are we leaving on the table, and why hasn't anyone looked?"
+"how much are we leaving on the table, and why hasn't anyone looked more?"
 
 ## The Immediate Ask
 
@@ -252,8 +253,7 @@ File the [RFI Template B](07-rfi-templates) requesting:
 - The district's claims history data (needed to evaluate self-funding or
   consortium options)
 
-If the board declines to provide this information voluntarily, it is obtainable
-via OPRA request within 7 business days.
+There are further support options to acquire this and similar information if needed.
 
 ## References
 

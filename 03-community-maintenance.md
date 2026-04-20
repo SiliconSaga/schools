@@ -16,8 +16,7 @@ parent: "Modules"
   module to demonstrate and the most vivid illustration of community capacity
 - **Effort:** Low -- parents already own the equipment and live near the schools;
   coordination is the only real cost
-- **Timeline:** Immediate for a pilot (one school, one season); the concept
-  could be operational before the next board meeting
+- **Timeline:** Short for a pilot project (one school, one season)
 - **Key Risks:** Liability concerns (addressable via volunteer service agreements);
   reliability ("will people show up?" -- addressed by commitment tracking in
   Module 13); existing contractor contracts may have minimum terms
@@ -46,7 +45,7 @@ permission.
 
 ### How It Works
 
-1. A **simple sign-up system** (group chat, shared calendar, or scheduling app)
+1. A **simple sign-up system** (group chat, shared calendar, and/or scheduling app)
    coordinates which parents cover which school grounds on which weekends
 2. Volunteers operate under a **Limited Service Waiver** -- the same legal framework
    used for "Clean Communities" events and community garden workdays
@@ -66,7 +65,7 @@ The board may raise liability concerns. The response:
 
 ### The Coordination Problem
 
-The board's real concern is reliability: "Will people actually show up?" This is
+The board's likely concern is reliability: "Will people actually show up?" This is
 the exact problem a community coordination platform solves:
 
 - **Commitment tracking** -- residents digitally pledge specific hours

@@ -53,7 +53,7 @@ site; a printed subset accompanies the board presentation.
 ### Immediate Cost-Avoidance
 
 1. **The Instructional Bridge Grant** -- The PTA establishes a "Curriculum Preservation
-   Fund" to cover the cost delta between the proposed 30-minute special area classes
+   Fund" to cover the cost difference between the proposed 30-minute special area classes
    and the current 45-minute standard. Teachers remain district employees; only the
    funding source changes for the marginal 15 minutes. ([Precedent: Palo Alto PiE
    funds 250+ positions at ~$5.5M/year.](https://papie.org/about/f-a-q/))

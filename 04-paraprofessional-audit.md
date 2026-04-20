@@ -59,13 +59,10 @@ luxury -- it is a **clinical and legal requirement**.
 
 Every time a paraprofessional leaves:
 
-- The "training data" for that child's needs, triggers, communication style, and
+- The lived-experience for that child's needs, triggers, communication style, and
   progress is **wiped**
 - The replacement starts from zero, and the child loses weeks or months of progress
 - Parents must re-educate new staff on their child's specific needs
-
-This is the equivalent of outsourcing your core database management to a temp
-agency. You lose the schema.
 
 ### The Legal Exposure
 
@@ -73,8 +70,8 @@ IEP non-compliance due to staffing instability creates serious legal risk:
 
 - **Compensatory education claims** from parents whose children regressed
 - **Due Process hearings** that cost the district legal fees regardless of outcome
-- **Out-of-district placements** when the district cannot demonstrate adequate
-  in-house support -- these placements are widely reported to cost districts
+- **Out-of-district placements** if the district cannot demonstrate adequate
+  in-house support - these placements are widely reported to cost districts
   six figures per student per year
 
 A coordinated Due Process complaint from a group of parents could cost the
@@ -85,8 +82,12 @@ the outsourcing contract.
 
 A paraprofessional who has worked with a child for years is not a line item. For
 a child who has known their para for a third of their life, that relationship is
-a foundation of their school experience -- stability, trust, and continuity that
+a foundation of their school experience - stability, trust, and continuity that
 cannot be replicated by a rotating cast of agency temps.
+
+Even if an existing para is offered to be re-hired by the new agency, their total
+compensation naturally falls, they may be forced to reject or leave anyway, and
+they have might to change their routine in negative ways to meet new agency rules.
 
 ## The Proposal: The Community Shoulders What It Can
 
