@@ -84,6 +84,29 @@ For platform builders -- developers, data volunteers, and technical contributors
 | **Local businesses** | Enrichment instruction, sponsorship, equipment |
 | **Community groups** | Grounds maintenance, neighborhood coordination |
 
+## Two Sides of the Same Problem
+
+The district's budget crisis has two dimensions:
+
+**The state-level problem:** NJ's funding formula requires local contributions
+to grow faster than the 2% tax cap allows. This creates a structural deficit
+that recurs every year regardless of local decisions. **[West Orange Parents
+for Education (WOPE)](https://woparents.org/)** is a parent advocacy group
+focused on this angle -- mobilizing residents to push for state formula reform
+and legislative action. Their work is essential because without state-level
+change, the crisis repeats annually.
+
+**The local problem:** Regardless of what happens in Trenton, the community
+has untapped capacity to help right now. **This site** focuses entirely on
+what's possible locally -- community organizations absorbing functions,
+transparent fundraising, volunteer coordination, and regulatory tools the
+district may not be fully using.
+
+Both efforts are needed. State reform addresses the root cause; local action
+addresses the immediate crisis. They complement each other. The fact that both
+exist independently -- and that many residents may not know about the other --
+is itself an illustration of why better coordination and open process matters.
+
 ## How to Use This Package
 
 **For the board meeting (printed):** See the [Print Guide](08-speech#what-to-print-for-the-board-meeting) for assembly order, copy counts, and tips.

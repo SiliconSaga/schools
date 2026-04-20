@@ -23,7 +23,12 @@ labor, and capital that remains untapped due to legacy procurement constraints a
 outdated governance processes. This is not unique to our district -- [schools
 across Essex County](https://patch.com/new-jersey/westorange/budget-meltdowns-slam-schools-across-essex-county-hundreds-jobs-risk)
 and [statewide](https://newjerseymonitor.com/2026/02/20/nj-school-budget-deficits/)
-face similar crises.
+face similar crises, driven in part by a state funding formula that requires local
+contributions to grow faster than the 2% tax cap allows. Groups like
+[West Orange Parents for Education](https://woparents.org/) are advocating for
+state-level reform to address the structural root cause. **This proposal focuses
+on what the community can do locally, right now**, regardless of what happens in
+Trenton.
 
 **The core idea:** The community builds a **Community Exoskeleton** -- a support
 structure around the district. PTAs, sports leagues, student volunteers, and
