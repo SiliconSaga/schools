@@ -70,6 +70,13 @@ yes, a leaf blower brigade. If we take on some things, the district could
 potentially cut even more in areas where we can step in -- and redirect every
 dollar saved to the positions the community cannot replace.
 
+*[Turn to face the audience]*
+
+And to everyone here tonight -- not everything in this whitepaper requires us
+to wait on the board. We can start helping each other now. PTAs can fundraise.
+Sports leagues can coordinate. Parents with skills can volunteer. The proposals
+are online, and the door is open to anyone who wants to pitch in.
+
 ## [2:30 - 3:00] The Closer: The Camacho Challenge
 
 I'll leave you with a cinematic reference. In the movie *Idiocracy*, there is a
