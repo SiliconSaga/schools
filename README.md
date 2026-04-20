@@ -29,10 +29,18 @@ into a single printable PDF with cover page, stripped metadata, and page footers
 # Requires Python 3 + reportlab
 pip install reportlab
 
-# Build the PDF
-python build-pdf.py
+# Web version -- clickable links + footnotes, all modules (for digital sharing)
+python build-pdf.py --web
 # Output: whitepaper.pdf
+
+# Print version -- footnotes only, core modules only (for paper handout)
+python build-pdf.py --print
+# Output: whitepaper-print.pdf
 ```
+
+Both versions include a numbered reference section at the end. The web version
+adds clickable links and includes supporting modules; the print version is
+shorter and optimized for paper.
 
 The script reads the markdown files in print order (defined in the `CORE_STACK`
 and `SUPPORTING_STACK` lists at the top of `build-pdf.py`), strips Jekyll front

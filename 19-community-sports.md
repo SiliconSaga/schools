@@ -200,40 +200,19 @@ to ensure it meets their specific criteria.
 This is where the whitepaper's vision expands beyond the PTA. The school
 district doesn't need one partner organization -- it needs an ecosystem:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    SCHOOL DISTRICT                           │
-│         (curriculum, facilities, legal authority)            │
-└────────┬──────────────┬──────────────────┬──────────────────┘
-         │              │                  │
-    ┌────▼────┐   ┌─────▼─────┐    ┌───────▼───────┐
-    │  PTA    │   │  Sports   │    │  Community    │
-    │         │   │  Leagues  │    │  Orgs         │
-    │ - Fund  │   │ - Coach   │    │ - Maintain    │
-    │ - Enrich│   │ - Equip   │    │ - Mentor      │
-    │ - Photo │   │ - Insure  │    │ - Support     │
-    │ - Grant │   │ - Schedule│    │ - Coordinate  │
-    └────┬────┘   └─────┬─────┘    └───────┬───────┘
-         │              │                  │
-         └──────────────┼──────────────────┘
-                        │
-              ┌─────────▼──────────┐
-              │    Demicracy       │
-              │  (coordination,    │
-              │   transparency,    │
-              │   commitment       │
-              │   tracking)        │
-              └────────────────────┘
-```
+| Organization | Contributes |
+|-------------|-------------|
+| **PTA** | Fundraising, enrichment, photography, grant writing |
+| **Sports leagues** | Athletics, coaching, equipment, insurance |
+| **Student volunteers** | Peer tutoring, junior coaching, tech support, media |
+| **Local businesses** | Enrichment instruction, sponsorship, equipment |
+| **Community groups** | Grounds maintenance, neighborhood coordination |
 
-Each organization contributes what it's best positioned for. The PTA handles
-fundraising and enrichment. Sports leagues handle athletics. Community
-organizations handle maintenance and mentoring. Local businesses provide
-enrichment instruction and sponsorship. High school students bridge multiple
-organizations as junior coaches, tech volunteers, and peer mentors.
-
-**Demicracy is the coordination layer** that connects all of these to district
-needs -- not a PTA tool, but a community operating system.
+Each organization contributes what it's best positioned for. High school
+students bridge multiple organizations as junior coaches, tech volunteers,
+and peer mentors. What's needed is a **coordination layer** -- transparent
+scheduling, commitment tracking, and communication -- that connects all of
+these to district needs.
 
 ### Why This Reframing Matters
 

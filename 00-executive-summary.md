@@ -86,6 +86,15 @@ site; a printed subset accompanies the board presentation.
    The board meeting becomes a Sprint Review for final approvals and community
    celebration, not a midnight marathon of repetitive 3-minute soundbites.
 
+### Community Partnerships
+
+7. **Community Sports & Athletics** -- Volunteer sports leagues can absorb athletic
+   programs the district can no longer fund, through shared-use agreements,
+   league-operated school teams, and high school students serving as junior
+   coaches. This demonstrates the multi-organization exoskeleton model: the PTA
+   handles enrichment, sports leagues handle athletics, and the district protects
+   what only the district can do.
+
 ## The Ask
 
 We are not asking the board to do more. We are asking the board to let the
@@ -113,7 +122,6 @@ includes additional modules on:
 - **Cooperative Purchasing & Shared Services** -- [DCA SHARE grants, $28M+ in documented savings](10-cooperative-purchasing)
 - **Community Grant Writing** -- [turning parent expertise into a permanent revenue pipeline](11-grant-writing)
 - **Regulatory Leverage** -- [NJ Best Practices checklist, banked tax levy cap, NJQSAC](13-regulatory-leverage)
-- **Community Sports Partnerships** -- [leagues, junior coaches, and the multi-organization model](19-community-sports)
 - **Open Budget & Participatory Finance** -- [OpenCollective, participatory budgeting, budget visualization](14-open-budget-tools)
 - **Technical Design Plans** -- platform architecture for developers and technical volunteers
 

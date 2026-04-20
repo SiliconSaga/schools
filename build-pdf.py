@@ -1,11 +1,14 @@
 """
 Build a printable PDF from the school board whitepaper markdown files.
-Usage: python build-pdf.py
-Output: whitepaper.pdf in the same directory
+Usage: python build-pdf.py [--web | --print]
+  --web    Live clickable links (default, for digital distribution)
+  --print  Footnote references (for paper printing)
+Output: whitepaper.pdf or whitepaper-print.pdf in the same directory
 """
 
 import re
 import os
+import sys
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.colors import HexColor
@@ -18,25 +21,36 @@ from reportlab.platypus import (
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Files in print order -- core stack then supporting stack
+# Core printed stack -- the essentials for the board meeting
 CORE_STACK = [
     "00-executive-summary.md",
     "01-instructional-bridge.md",
+    "02-open-image-project.md",
+    "03-community-maintenance.md",
     "04-paraprofessional-audit.md",
     "05-health-insurance.md",
-    "13-regulatory-leverage.md",
+    "06-open-governance.md",
+    "19-community-sports.md",
     "07-rfi-templates.md",
 ]
 
+# Additional modules -- included in web PDF, omitted from print PDF
 SUPPORTING_STACK = [
-    "02-open-image-project.md",
-    "03-community-maintenance.md",
+    "09-energy-facilities.md",
+    "10-cooperative-purchasing.md",
     "11-grant-writing.md",
+    "13-regulatory-leverage.md",
     "14-open-budget-tools.md",
-    "06-open-governance.md",
 ]
 
 SITE_URL = "schools.siliconsaga.net"
+
+# Footnote tracking for print mode
+footnotes = []  # list of (number, url) tuples
+footnote_urls = {}  # url -> number (deduplication)
+
+# Mode: "web" (clickable links) or "print" (footnote references)
+RENDER_MODE = "web"
 
 
 def setup_styles():
@@ -234,6 +248,33 @@ def strip_nav_links(lines):
     return result
 
 
+def _link_to_footnote(match):
+    """Replace a markdown link with text + footnote number for print mode."""
+    link_text = match.group(1)
+    url = match.group(2)
+    if url in footnote_urls:
+        num = footnote_urls[url]
+    else:
+        num = len(footnotes) + 1
+        footnotes.append((num, url))
+        footnote_urls[url] = num
+    return f'{link_text}<super><font size="7">[{num}]</font></super>'
+
+
+def _link_to_clickable(match):
+    """Replace a markdown link with a clickable PDF link + footnote for web mode."""
+    link_text = match.group(1)
+    url = match.group(2)
+    # Still collect footnotes so the web version is print-friendly
+    if url in footnote_urls:
+        num = footnote_urls[url]
+    else:
+        num = len(footnotes) + 1
+        footnotes.append((num, url))
+        footnote_urls[url] = num
+    return f'<a href="{url}" color="blue">{link_text}</a><super><font size="7">[{num}]</font></super>'
+
+
 def md_inline(text):
     """Convert inline markdown to reportlab XML markup."""
     # Bold + italic
@@ -244,12 +285,13 @@ def md_inline(text):
     text = re.sub(r'\*(.+?)\*', r'<i>\1</i>', text)
     # Inline code
     text = re.sub(r'`([^`]+)`', r'<font face="Courier" size="9">\1</font>', text)
-    # Links: [text](url) -> text (url) for print
-    text = re.sub(r'\[([^\]]+)\]\(https?://[^\)]+\)', r'\1', text)
-    # Internal links: [text](page) -> text
+    # External links
+    if RENDER_MODE == "print":
+        text = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)', _link_to_footnote, text)
+    else:
+        text = re.sub(r'\[([^\]]+)\]\((https?://[^\)]+)\)', _link_to_clickable, text)
+    # Internal links: [text](page) -> just text (no link in either mode)
     text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
-    # Escape XML entities that reportlab needs
-    # (but not ones we already converted to tags)
     return text
 
 
@@ -551,8 +593,54 @@ def build_cover(styles):
     return story
 
 
+def build_footnote_page(styles):
+    """Build a reference page listing all collected footnotes."""
+    if not footnotes:
+        return []
+
+    story = []
+    story.append(PageBreak())
+    story.append(Paragraph("References", styles['ModuleTitle']))
+    story.append(Spacer(1, 8))
+    story.append(Paragraph(
+        "URLs referenced throughout this document.",
+        styles['BodyText']
+    ))
+    story.append(Spacer(1, 12))
+
+    for num, url in sorted(footnotes, key=lambda x: x[0]):
+        # Truncate very long URLs for readability
+        display_url = url if len(url) < 90 else url[:87] + "..."
+        story.append(Paragraph(
+            f'<b>[{num}]</b> <font face="Courier" size="8">{display_url}</font>',
+            styles['BodyText']
+        ))
+
+    return story
+
+
 def main():
-    output_path = os.path.join(SCRIPT_DIR, "whitepaper.pdf")
+    global RENDER_MODE
+
+    # Parse arguments
+    mode = "web"
+    for arg in sys.argv[1:]:
+        if arg == "--print":
+            mode = "print"
+        elif arg == "--web":
+            mode = "web"
+    RENDER_MODE = mode
+
+    if mode == "print":
+        output_path = os.path.join(SCRIPT_DIR, "whitepaper-print.pdf")
+    else:
+        output_path = os.path.join(SCRIPT_DIR, "whitepaper.pdf")
+
+    # Reset footnotes for clean build
+    footnotes.clear()
+    footnote_urls.clear()
+
+    print(f"Mode: {mode}")
 
     doc = SimpleDocTemplate(
         output_path,
@@ -583,32 +671,37 @@ def main():
         if idx < len(CORE_STACK) - 1:
             story.append(PageBreak())
 
-    # Divider between stacks
-    story.append(PageBreak())
-    story.append(Spacer(1, 1.5 * inch))
-    story.append(Paragraph("Supporting Materials", styles['SectionDivider']))
-    story.append(HRFlowable(
-        width="60%", thickness=0.5,
-        color=HexColor('#aaaaaa'), spaceAfter=12
-    ))
-    story.append(Paragraph(
-        "Additional proposals and detail supporting the core modules above.",
-        styles['CoverSubtitle']
-    ))
-    story.append(PageBreak())
+    # Supporting stack -- web mode only
+    if mode == "web" and SUPPORTING_STACK:
+        story.append(PageBreak())
+        story.append(Spacer(1, 1.5 * inch))
+        story.append(Paragraph("Supporting Materials", styles['SectionDivider']))
+        story.append(HRFlowable(
+            width="60%", thickness=0.5,
+            color=HexColor('#aaaaaa'), spaceAfter=12
+        ))
+        story.append(Paragraph(
+            "Additional proposals and detail supporting the core modules above.",
+            styles['CoverSubtitle']
+        ))
+        story.append(PageBreak())
 
-    # Supporting stack
-    for idx, filename in enumerate(SUPPORTING_STACK):
-        filepath = os.path.join(SCRIPT_DIR, filename)
-        if not os.path.exists(filepath):
-            print(f"  SKIP (not found): {filename}")
-            continue
+        for idx, filename in enumerate(SUPPORTING_STACK):
+            filepath = os.path.join(SCRIPT_DIR, filename)
+            if not os.path.exists(filepath):
+                print(f"  SKIP (not found): {filename}")
+                continue
 
-        print(f"  Adding: {filename}")
-        story.extend(md_to_story(filepath, styles))
+            print(f"  Adding: {filename}")
+            story.extend(md_to_story(filepath, styles))
 
-        if idx < len(SUPPORTING_STACK) - 1:
-            story.append(PageBreak())
+            if idx < len(SUPPORTING_STACK) - 1:
+                story.append(PageBreak())
+
+    # Add footnote reference page (both modes)
+    if footnotes:
+        story.extend(build_footnote_page(styles))
+        print(f"  Footnotes: {len(footnotes)} unique references")
 
     # Build
     print(f"\nBuilding PDF...")
