@@ -63,8 +63,7 @@ For platform builders -- developers, data volunteers, and technical contributors
 
 | Document | Implements |
 |----------|-----------|
-| [Demicracy PTA Coordination Layer](17-technical-demicracy-pta) -- Backstage plugins, Forgejo workflows, OC API | Modules 13-16 |
-| [District Budget Visualization](18-technical-budget-viz) -- Interactive CAFR explorer, D3.js, GitHub Pages | Module 14 |
+| [District Budget Visualization](18-technical-budget-viz) -- Interactive CAFR explorer, D3.js, GitHub Pages | Module 12 |
 
 ### Reference
 
@@ -115,6 +114,6 @@ is itself an illustration of why better coordination and open process matters.
 
 **For sports league leadership:** Start with [Community Sports](19-community-sports) then [Coordination](15-pta-coordination).
 
-**For developers:** Start with [Technical Design docs](17-technical-demicracy-pta) and [References](20-references).
+**For developers:** Start with [Technical Design docs](18-technical-budget-viz) and [References](20-references).
 
 ---

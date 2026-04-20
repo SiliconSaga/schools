@@ -54,18 +54,16 @@ where every dollar goes."
 
 At a typical school in this district, the PTA currently funds:
 
-| Category | What It Covers | Annual Spend (est.) |
-|----------|---------------|---------------------|
-| Field trips | Bus costs, admission fees | $5,000-15,000 |
-| Enrichment | After-school programs, visiting artists | $10,000-30,000 |
-| Classroom supplies | Materials teachers can't get through district procurement | $2,000-5,000 |
-| Events | Family nights, teacher appreciation, assemblies | $3,000-8,000 |
-| Technology | Devices, software, maker space materials | $2,000-10,000 |
+| Category | What It Covers |
+|----------|---------------|
+| Field trips | Bus costs, admission fees |
+| Enrichment | After-school programs, visiting artists |
+| Classroom supplies | "Clear the list" efforts, supplemental materials |
+| Events | Family nights, teacher appreciation, assemblies |
 
-This is already a $20,000-70,000/year operation *per school*. Across a district
-with multiple schools, the aggregate PTA system is managing six figures annually
-with essentially zero operational infrastructure beyond a checking account and a
-treasurer's spreadsheet.
+The specifics vary by school, but across the district the aggregate PTA system
+is already managing meaningful budgets annually with essentially zero operational
+infrastructure beyond a checking account and a treasurer's spreadsheet.
 
 **The implication:** If the PTA can already manage this scale of spending, the
 question isn't whether it *can* take on more -- it's whether it can do so
@@ -112,8 +110,6 @@ The PTA has options:
   are tax-deductible. OCF handles tax filings, compliance, and banking. The PTA
   pays a platform fee (typically 5-10%) but eliminates its own administrative
   overhead for financial management.
-- **Open Source Collective** -- if the Demicracy platform itself needs funding,
-  this host serves open-source projects specifically.
 - **Self-hosted** -- the PTA keeps its existing 501(c)(3) status and bank account
   but uses OpenCollective's transparency layer on top. More control, more admin work.
 
@@ -124,14 +120,14 @@ funds within days, and let the host handle compliance.
 
 Each module from this whitepaper becomes a distinct, fundable project:
 
-| Project | Purpose | Target |
-|---------|---------|--------|
-| **Curriculum Preservation Fund** | Bridge Grant for Art & Library (Module 1) | $50,000-150,000 |
-| **Open Image Seed Fund** | Build the community photo platform (Module 2) | $5,000-10,000 |
-| **Community Maintenance** | Equipment, supplies for volunteer crews (Module 3) | $2,000-5,000 |
-| **Para Retention** | Direct funding to keep in-house paraprofessionals (Module 4) | Goal TBD based on district data |
-| **Grant Writing Fund** | Database subscriptions, application fees (Module 9) | $1,000-3,000 |
-| **General PTA Operations** | Field trips, enrichment, supplies (existing scope) | Current budget level |
+| Project | Purpose |
+|---------|---------|
+| **Curriculum Preservation Fund** | Bridge Grant for Art & Library (Module 1) |
+| **Open Image Seed Fund** | Build the community photo platform (Module 2) |
+| **Community Maintenance** | Equipment, supplies for volunteer crews (Module 3) |
+| **Para Retention** | Direct funding to keep in-house paraprofessionals (Module 4) |
+| **Grant Writing Fund** | Database subscriptions, application fees |
+| **General PTA Operations** | Field trips, enrichment, supplies (existing scope) |
 
 Parents see all projects, choose where to give, and watch progress in real time.
 A parent who cares most about art class funds the Bridge Grant. A parent who cares
@@ -254,8 +250,8 @@ District PTA Council (OpenCollective umbrella)
 │   ├── Open Image Project
 │   ├── Budget Visualization
 │   └── Para Retention Fund
-└── Demicracy Platform Development
-    └── (see technical design docs)
+└── Coordination Platform
+    └── (tools for volunteer scheduling, commitment tracking, etc.)
 ```
 
 This structure lets each school's PTA maintain autonomy while sharing

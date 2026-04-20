@@ -107,8 +107,8 @@ Participatory budgeting doesn't require custom software. Existing tools:
 - **Boston's [Youth Lead the Change](https://youth.boston.gov/youth-lead-the-change/)**
   gives young people ages 12-25 control over $1M in city capital budget
 
-Long-term, this is exactly the kind of process the Demicracy platform is designed
-to coordinate.
+Long-term, this is exactly the kind of process a community coordination platform
+could manage.
 
 ## Budget Visualization
 

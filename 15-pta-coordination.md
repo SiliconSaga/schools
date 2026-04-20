@@ -7,7 +7,7 @@ parent: "Modules"
 
 # Module 13: PTA Coordination Infrastructure
 
-*The Demicracy Layer: Skill Inventories, Proposal Workflows, and Commitment Tracking*
+*Skill Inventories, Proposal Workflows, and Commitment Tracking*
 
 ---
 
@@ -17,7 +17,7 @@ parent: "Modules"
 - **Effort:** High for the full platform; Low-Medium for the initial tools
   (spreadsheet-based inventory, simple proposal process, group chat coordination)
 - **Timeline:** Basic coordination tools can launch within a week; the full
-  Demicracy platform is a longer-term development effort
+  coordination platform is a longer-term development effort
 - **Key Risks:** Over-engineering the solution before proving the need; volunteer
   fatigue if the coordination overhead exceeds the value delivered; adoption --
   parents need to actually use it
@@ -75,7 +75,7 @@ For the 5-day deadline: even a well-structured Google Form that feeds a spreadsh
 is a start. The point is to **show the board a number**: "We have X parents with
 Y skills who have already registered to help."
 
-### The Demicracy Version
+### The Full Platform Vision
 
 Long-term, this becomes a core feature of the platform:
 
@@ -125,8 +125,9 @@ The initial version can be as simple as:
 - A designated reviewer (PTA board member) who responds within a set timeframe
 - A public archive of decisions
 
-The Demicracy version adds version control, threaded discussion, voting/endorsement,
-and integration with the skill inventory and commitment tracking.
+A more developed platform could add version control, threaded discussion,
+voting/endorsement, and integration with the skill inventory and commitment
+tracking.
 
 ## Component 3: Commitment Tracking & Volunteer SLA
 
@@ -182,10 +183,10 @@ Skill Inventory          Proposal Workflow        Commitment Tracking
                   (visible, improvable)
 ```
 
-This is the **Demicracy coordination layer** that makes the difference between
-"a bunch of parents with ideas" and "a community operating system that delivers
-results." The board doesn't need to adopt it. The community just needs to use it
-and show what it produces.
+This is the **coordination layer** that makes the difference between "a bunch
+of parents with ideas" and a community operating system that delivers results.
+The board doesn't need to adopt it. The community just needs to use it and
+show what it produces.
 
 ## The Pitch
 
