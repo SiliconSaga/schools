@@ -29,12 +29,14 @@ parent: "Modules"
 
 ## Overview
 
-The board's primary defense is "the numbers are what they are." But NJ school
-districts operate within a dense regulatory framework that creates both obligations
-and opportunities. If the board hasn't fully utilized available mechanisms, the
-numbers are not what they think they are.
+NJ school districts operate within a dense regulatory framework that creates both
+obligations and opportunities. Some of these mechanisms may already be in use by
+our district -- but because the process is largely closed, the community has no
+way to know. The items below are questions worth asking, not accusations. If the
+district is already doing these things, great -- sharing that information would
+build confidence. If not, they represent real opportunities.
 
-The following are specific, verifiable leverage points.
+The following are specific, verifiable points to explore.
 
 ## 1. The Best Practices Checklist
 
@@ -59,19 +61,19 @@ this budget crisis:
 - Has the district conducted an energy audit?
 - Does the district maximize the use of available grant funding?
 
-### The Move
+### The Opportunity
 
-**OPRA the district's most recent Best Practices submission.** If they scored
-poorly on items related to cost management, that's direct evidence that they
-haven't explored alternatives before cutting positions. If they scored well but
-aren't actually doing those things, that's a compliance integrity issue.
+The district's Best Practices submission is a public record (obtainable via OPRA).
+Reviewing it would show the community which cost-management strategies are already
+in use and where there might be untapped opportunities. This is a collaborative
+starting point, not an audit.
 
 ### How to Frame It
 
-"The state's own Best Practices checklist asks whether this district has explored
-cooperative purchasing, shared services, and energy management. Before we cut a
-single position, can the board confirm that every item on that checklist is being
-actively pursued -- not just checked off?"
+"The state's Best Practices checklist covers cooperative purchasing, shared
+services, and energy management. Can the board share which of those the district
+is actively pursuing? The community may be able to help with the ones that
+haven't been feasible yet."
 
 ## 2. The 2% Tax Levy Cap and Banked Cap
 
@@ -174,18 +176,16 @@ disclosures regardless of which specific law mandates it -- because the
 alternative is continuing to pay potentially inflated premiums while cutting
 teacher positions.
 
-## Using These Levers
+## Putting It Together
 
 These regulatory points are most effective when combined with the community-led
-proposals in Modules 1-6. The message is not "you're violating regulations" but
-rather:
+proposals in the other modules. The message:
 
 "The state has provided tools -- banked cap, cooperative purchasing, shared
 services, Best Practices guidance -- specifically for situations like this. The
-community is also providing tools -- volunteer capacity, grant-writing expertise,
-fundraising infrastructure. Have all of these been exhausted before we accept that
-cutting teachers and outsourcing paras is the only option?"
-
-The answer, almost certainly, is no.
+community is also offering tools -- volunteer capacity, grant-writing expertise,
+fundraising infrastructure. We'd like to work with the board to make sure every
+available option has been explored before we accept that cutting positions is the
+only path forward."
 
 [Back to Index](index) | Next: [Open Budget Tools](14-open-budget-tools)

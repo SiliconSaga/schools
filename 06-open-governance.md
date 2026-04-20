@@ -35,28 +35,29 @@ dialogue -- it is experiencing a denial-of-service attack on its own attention.
 
 By the time they reach "Old Business," cognitive load is maxed out, and the
 default is the safest, most litigation-proof option -- which is usually the least
-creative one.
+creative one. Board members are exhausted, and residents feel unheard. Nobody
+wins.
 
-The board is trying to solve a 2026 crisis with bureaucracy from the prior
-millennium.
+## Why Open Process Is Hard (Not Why It's Been Refused)
 
-## Why Transparency Breaks Down
+We don't assume the board is hiding things out of malice. There are real reasons
+open process is difficult for school boards:
 
-Boards default to opacity for three reasons:
-
-### 1. The "Tactical Advantage" Fallacy
-They treat budget negotiations like poker, keeping details private for "leverage."
-By the time the public sees the numbers, the cards are already played. The community
-is the house, not a rival player.
+### 1. Negotiating Sensitivity
+Some budget details involve active negotiations (contracts, personnel, legal
+matters) where premature disclosure could genuinely harm the district's position.
+That's legitimate -- but it doesn't justify keeping *everything* closed.
 
 ### 2. Fear of Draft Data
-In an OPRA world, boards fear that documenting a creative-but-rejected idea creates
-a legal record of "negligence." The opposite is true: version-controlled decision
-history **proves due diligence**.
+In an OPRA world, boards reasonably worry that documenting a creative-but-rejected
+idea creates a record that could be used against them. Ironically, the opposite is
+true: version-controlled decision history **proves due diligence** and shows the
+board considered alternatives before making hard choices.
 
 ### 3. Administrative Friction
 "Transparency" currently means uploading a 200-page flattened PDF to a buried
-sub-menu. Their tech stack makes openness a chore rather than a default.
+sub-menu. The tools available to the district make openness a chore rather than a
+default. This is where community technical capacity can help.
 
 ## The Proposal: Board Meetings as Sprint Reviews
 

@@ -29,17 +29,18 @@ parent: "Modules"
 ## The Problem
 
 The district proposes reducing all elementary special area classes (Art, Library)
-from 45 minutes to 30 minutes. This is not a minor schedule tweak -- it is a
-staffing reduction disguised as a time adjustment.
+from 45 minutes to 30 minutes. This may sound like a minor schedule adjustment,
+but the staffing implications are significant.
 
 **The math:** If a teacher has 300 instructional minutes per day:
 
 - At 45 minutes per class: ~6.6 classes covered
 - At 30 minutes per class: ~10 classes covered
 
-By trimming 15 minutes, the district extracts 50% more throughput from each teacher,
-enabling elimination of roughly one-third of Art and Library staff. This is
-educational shrinkflation -- same taxes, smaller package.
+By trimming 15 minutes, the district gets 50% more throughput from each teacher,
+which enables reducing Art and Library staff. The community's question is whether
+there's a way to preserve the full 45 minutes without the district bearing the
+full cost.
 
 ## The Proposal: Grant-in-Aid Service Preservation
 

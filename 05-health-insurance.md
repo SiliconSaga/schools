@@ -94,15 +94,15 @@ school board health insurance funds. Key findings:
 This is the systemic context. The question is whether our district's broker
 arrangement has similar issues. We won't know until we ask.
 
-## The Questions the Board Must Answer
+## Questions Worth Exploring Together
 
 1. **How is our broker compensated?** If the answer is "a percentage of the premium,"
-   the broker is being paid more when our costs go up. That is a structural
-   conflict of interest.
+   the broker is paid more when our costs go up. That structure creates a conflict
+   of interest worth examining.
 
 2. **When was the last side-by-side comparison** between our current plan and the
-   NJ State Health Benefits Plan? If the answer is "never" or "years ago," the
-   board has not performed basic due diligence.
+   NJ State Health Benefits Plan? If one hasn't been done recently, that may be
+   a significant opportunity.
 
 3. **Has the board reviewed the State Comptroller's 2025 report** on health
    insurance fund conflicts? Does our district participate in any of the funds

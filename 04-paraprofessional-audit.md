@@ -31,11 +31,11 @@ parent: "Modules"
 
 ## The Problem
 
-The district plans to eliminate all paraprofessional positions and replace them
-with staff from outsourcing agencies. On paper, this removes pension and benefit
-liabilities from the district's books.
+The district is considering eliminating paraprofessional positions and replacing
+them with staff from outsourcing agencies. On paper, this removes pension and
+benefit liabilities from the district's books.
 
-In practice, it is a catastrophic trade.
+We believe the hidden costs of this trade deserve close examination.
 
 ## The Real Cost of Outsourcing
 
