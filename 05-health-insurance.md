@@ -11,12 +11,12 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Very High -- health insurance premiums are the single
+- **Impact Potential:** Very High - health insurance premiums are the single
   largest cost driver cited by the board; health benefits for West Orange staff
   are expected to climb nearly 18% this year; the Perth Amboy precedent shows a
   single NJ district losing $49M to broker conflicts; statewide Ch.44 reforms
   have already saved SEHBP employers $462.7M
-- **Effort:** Low-Medium -- the initial ask is just transparency (broker disclosure);
+- **Effort:** Low-Medium - the initial ask is just transparency (broker disclosure);
   switching plans or renegotiating requires more work but the district's own
   administrators handle that
 - **Timeline:** Broker disclosure can be requested immediately (and may be legally
@@ -26,7 +26,7 @@ parent: "Modules"
   discourage switching; the board may have personal relationships with the broker;
   switching plans mid-year is usually not possible; this is a "big fish" that
   takes time to land
-- **Print Priority:** Very High -- this is the strongest dollar-for-dollar
+- **Print Priority:** Very High - this is the strongest dollar-for-dollar
   argument; even as a "mention" in the speech, it reframes the entire budget
   conversation
 
@@ -37,7 +37,7 @@ parent: "Modules"
 
 Health insurance premium increases are cited as a primary driver of the district's
 deficit. [Health benefits are expected to climb nearly 18%](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
-in the coming year. This is the single largest cost lever available -- and a topic unlikely to
+in the coming year. This is the single largest cost lever available - and a topic unlikely to
 have been exhaustively examined.
 
 The district is not alone. [Budget meltdowns are hitting schools across Essex
@@ -108,13 +108,13 @@ arrangement has similar issues. We won't know until we ask.
    insurance fund conflicts? Does our district participate in any of the funds
    cited in that report?
 
-4. **What is the total cost of broker services** -- direct fees, commissions,
+4. **What is the total cost of broker services** - direct fees, commissions,
    and any back-end arrangements with carriers?
 
 ## Alternative Models Worth Evaluating
 
-The current model -- a private broker selecting a fully-insured plan from a
-commercial carrier -- is not the only option. Several alternatives have
+The current model - a private broker selecting a fully-insured plan from a
+commercial carrier - is not the only option. Several alternatives have
 demonstrated savings for school districts in NJ and nationally.
 
 ### Option A: The NJ State Health Benefits Plan (SEHBP)
@@ -129,7 +129,7 @@ designed specifically for school employees.
 
 **Documented savings:** State actuaries validated that employers in the SEHBP
 [saved $462.7 million](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
-from Ch.44 changes -- far surpassing the $300 million target. Districts spending
+from Ch.44 changes - far surpassing the $300 million target. Districts spending
 at or above their adequacy level must use savings for property tax relief;
 districts below adequacy can apply savings to educational programs.
 
@@ -142,8 +142,8 @@ NJ law ([N.J.S.A. 40A:10-36](https://www.njsba.org/services/njsba-cooperative-pr
 allows school boards to jointly create self-insurance funds to pool risk and
 reduce costs. Several such funds exist:
 
-- **SHIF** (School Health Insurance Fund) -- serves member school districts
-- **SNJHIF** (Southern NJ Regional Employee Benefits Fund) -- 52 local
+- **SHIF** (School Health Insurance Fund) - serves member school districts
+- **SNJHIF** (Southern NJ Regional Employee Benefits Fund) - 52 local
   government members, over $70 million annual budget
 - Various regional municipal employee benefit funds
 
@@ -159,7 +159,7 @@ the current plan.
 
 ### Option C: Self-Funded Insurance
 
-In a self-funded model, the district acts as its own insurer -- paying claims
+In a self-funded model, the district acts as its own insurer - paying claims
 directly rather than paying premiums to a carrier.
 
 **Advantages:**
@@ -175,7 +175,7 @@ directly rather than paying premiums to a carrier.
 - Requires administrative infrastructure (often outsourced to a Third-Party
   Administrator)
 - Carries financial risk if claims spike unexpectedly
-- A district exploring this should obtain its own claims data history -- which
+- A district exploring this should obtain its own claims data history - which
   the current carrier may be reluctant to share
 
 **Who does this:** Self-funding is common in larger school districts and
@@ -189,7 +189,7 @@ primary care provider for a fixed monthly fee per employee, covering routine
 primary care visits with no copays, no claims processing, and no insurance
 middleman.
 
-**How it works alongside insurance:** DPC doesn't replace insurance -- it
+**How it works alongside insurance:** DPC doesn't replace insurance - it
 supplements it. Employees get a high-deductible health plan (HDHP) for
 catastrophic/specialist coverage, plus DPC for routine care. Because DPC
 handles the majority of primary care visits outside the insurance system, claims
@@ -218,7 +218,7 @@ defaulting to "the numbers are what they are."
 
 Rather than accepting whatever rates an insurance carrier negotiates with
 hospitals, the district (or its plan administrator) sets reimbursement rates
-based on a reference point -- typically a percentage of Medicare rates
+based on a reference point - typically a percentage of Medicare rates
 (e.g., 150-200% of Medicare).
 
 This is an emerging model in the self-funded space. It can dramatically reduce
@@ -231,7 +231,7 @@ it's worth understanding as part of the landscape.
 
 We are not making specific dollar promises. What we are saying:
 
-- Perth Amboy's costs were **18% higher than necessary** for four years -- a
+- Perth Amboy's costs were **18% higher than necessary** for four years - a
   figure remarkably close to our own district's projected premium increase
 - Statewide Ch.44 reforms saved SEHBP employers **$462.7 million**
 - A single large district (Orange County, FL) reports **up to 30% savings**
@@ -246,7 +246,7 @@ The question is not "can we save money on health insurance?" The question is
 
 File the [RFI Template B](07-rfi-templates) requesting:
 
-- Full broker compensation disclosure -- direct fees, commissions, and any
+- Full broker compensation disclosure - direct fees, commissions, and any
   back-end arrangements with carriers
 - Documentation of any SEHBP feasibility study or cost comparison
 - Confirmation of whether the broker's pay structure creates a conflict of interest

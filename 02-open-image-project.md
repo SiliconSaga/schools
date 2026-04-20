@@ -11,10 +11,10 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Medium-High -- modest revenue individually but creates a
+- **Impact Potential:** Medium-High - modest revenue individually but creates a
   recurring funding stream for other modules; the data sovereignty angle is a
   strong privacy and liability argument
-- **Effort:** Medium -- requires a digital platform (can be built quickly with
+- **Effort:** Medium - requires a digital platform (can be built quickly with
   modern tools), volunteer photographer coordination, and PTA willingness to run
   the operation
 - **Timeline:** Could pilot for one school within a semester; full district
@@ -23,7 +23,7 @@ parent: "Modules"
   penalties; volunteer photographer quality and consistency; the existing kickback
   (however small) disappears if the PTA takes over, so the net revenue case must
   be clearly positive
-- **Print Priority:** High -- easy to understand, demonstrates the "community is
+- **Print Priority:** High - easy to understand, demonstrates the "community is
   the platform" thesis, and the data privacy angle resonates with modern parents
 
 ---
@@ -60,7 +60,7 @@ are professionals or skilled hobbyists) and a simple digital distribution platfo
 
 ### Revenue Model: Photos as Fundraiser
 
-This isn't a photo business -- it's a fundraiser with a clear purpose. The pitch
+This isn't a photo business - it's a fundraiser with a clear purpose. The pitch
 to parents: "Every dollar you spend on school photos goes directly to keeping
 teachers in the building."
 
@@ -73,7 +73,7 @@ don't want.
 The actual donation amount depends on the district's enrollment and the
 current vendor contract terms (obtainable via [RFI Template A](07-rfi-templates)).
 The key principle: when the middleman is gone, the community keeps revenue that
-currently flows to a corporation -- and that revenue funds the
+currently flows to a corporation - and that revenue funds the
 [Instructional Bridge Grant](01-instructional-bridge).
 
 ### Data Sovereignty
@@ -97,7 +97,7 @@ The digital distribution platform can be built rapidly using modern tools:
 - No student data leaves the district's control
 
 This serves as a proof-of-concept for the broader [coordination
-platform](06-open-governance) -- demonstrating that "the community is the
+platform](06-open-governance) - demonstrating that "the community is the
 platform."
 
 ### What We Need from the Board

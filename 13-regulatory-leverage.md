@@ -7,21 +7,21 @@ parent: "Modules"
 
 # Module 11: Regulatory Leverage Points
 
-*State Requirements the Board May Be Overlooking -- or Failing to Meet*
+*State Requirements the Board May Be Overlooking - or Failing to Meet*
 
 ---
 
-- **Impact Potential:** Very High -- these are not suggestions the board can wave
+- **Impact Potential:** Very High - these are not suggestions the board can wave
   away; they are state requirements with financial consequences for non-compliance;
   asking the right questions here can shift the entire conversation
-- **Effort:** Low -- this is research and questioning, not implementation; OPRA
+- **Effort:** Low - this is research and questioning, not implementation; OPRA
   requests and public data analysis
-- **Timeline:** Immediate -- questions can be asked at the next board meeting;
+- **Timeline:** Immediate - questions can be asked at the next board meeting;
   OPRA responses due within 7 business days
 - **Key Risks:** The board may perceive pointed regulatory questions as adversarial;
   frame as "helping them demonstrate compliance" rather than "catching them"; some
   of these may already be handled well (verify before asserting)
-- **Print Priority:** High -- these are "hard" arguments that complement the
+- **Print Priority:** High - these are "hard" arguments that complement the
   "soft" community-engagement proposals; include in the printed whitepaper
 
 ---
@@ -31,9 +31,9 @@ parent: "Modules"
 
 NJ school districts operate within a dense regulatory framework that creates both
 obligations and opportunities. Some of these mechanisms may already be in use by
-our district -- but because the process is largely closed, the community has no
+our district - but because the process is largely closed, the community has no
 way to know. The items below are questions worth asking, not accusations. If the
-district is already doing these things, great -- sharing that information would
+district is already doing these things, great - sharing that information would
 build confidence. If not, they represent real opportunities.
 
 The following are specific, verifiable points to explore.
@@ -86,7 +86,7 @@ However, NJ allows districts to **"bank" unused levy capacity** for up to 3 year
 ### Why It Matters
 
 If the district did not raise taxes to the full 2% cap in previous years, it has
-**banked cap authority** -- the legal ability to raise the levy above 2% in the
+**banked cap authority** - the legal ability to raise the levy above 2% in the
 current year to recapture that unused capacity, without requiring voter approval.
 
 ### The Question
@@ -129,7 +129,7 @@ NJ law limits the amount of unrestricted surplus (fund balance) a school distric
 can carry. The cap is **2% of the total budget**. Surplus above the cap must be
 returned to taxpayers or appropriated.
 
-### Why It Matters -- Both Directions
+### Why It Matters - Both Directions
 
 **If the district is near the surplus cap while cutting positions:** that's a
 legitimate question. "We're sitting on $X million in surplus and firing teachers?"
@@ -154,8 +154,8 @@ request this information from their brokers.
 
 **Important caveat:** Public entity plans (including school districts) are
 generally exempt from ERISA, which complicates direct applicability. However,
-the *spirit* of the requirement -- that plan sponsors should know how their
-brokers are compensated -- is reinforced by the [NJ State Comptroller's 2025
+the *spirit* of the requirement - that plan sponsors should know how their
+brokers are compensated - is reinforced by the [NJ State Comptroller's 2025
 report](https://www.nj.gov/comptroller/news/2025/20250909.shtml) finding
 widespread undisclosed conflicts in NJ school board health insurance funds.
 State-level transparency requirements may also apply independently of ERISA.
@@ -166,13 +166,13 @@ Whether or not the federal CAA technically applies to our district's plan
 structure, the question remains: does the board know how its broker is
 compensated, and does that compensation create a conflict of interest? The
 Perth Amboy audit and the Comptroller's report show this is not a hypothetical
-concern -- it is a documented, systemic problem in NJ school districts.
+concern - it is a documented, systemic problem in NJ school districts.
 
 ### The Connection
 
 This reinforces [Module 5 (Health Insurance Transparency)](05-health-insurance)
 with a compliance angle. The board should be requesting broker compensation
-disclosures regardless of which specific law mandates it -- because the
+disclosures regardless of which specific law mandates it - because the
 alternative is continuing to pay potentially inflated premiums while cutting
 teacher positions.
 
@@ -181,9 +181,9 @@ teacher positions.
 These regulatory points are most effective when combined with the community-led
 proposals in the other modules. The message:
 
-"The state has provided tools -- banked cap, cooperative purchasing, shared
-services, Best Practices guidance -- specifically for situations like this. The
-community is also offering tools -- volunteer capacity, grant-writing expertise,
+"The state has provided tools - banked cap, cooperative purchasing, shared
+services, Best Practices guidance - specifically for situations like this. The
+community is also offering tools - volunteer capacity, grant-writing expertise,
 fundraising infrastructure. We'd like to work with the board to make sure every
 available option has been explored before we accept that cutting positions is the
 only path forward."

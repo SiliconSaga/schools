@@ -11,17 +11,17 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** High -- energy is a significant facilities cost;
+- **Impact Potential:** High - energy is a significant facilities cost;
   Piscataway Township Schools projects $18M in savings from solar PPAs alone;
   West Windsor-Plainsboro projects $3.5M
-- **Effort:** Low to Medium -- PPAs require no capital outlay; NJ Clean Energy
+- **Effort:** Low to Medium - PPAs require no capital outlay; NJ Clean Energy
   Program offers LED rebates; audits may be available free through utility programs
 - **Timeline:** Solar PPAs take 6-12 months to negotiate and install; LED retrofits
   can begin within weeks; energy audits are immediate
 - **Key Risks:** Solar PPA terms lock in for 15-25 years (read carefully); roof
   condition may require remediation before panel installation; political resistance
   to "green" initiatives in some communities
-- **Print Priority:** Medium -- strong dollar impact but less emotionally resonant
+- **Print Priority:** Medium - strong dollar impact but less emotionally resonant
   than paras or art class; best as a supporting example of "low-hanging fruit the
   board hasn't picked"
 
@@ -33,7 +33,7 @@ parent: "Modules"
 School buildings are energy hogs. Large flat roofs, aging HVAC systems, fluorescent
 lighting running 10+ hours a day, and cafeteria kitchens add up to utility bills
 that silently consume budget that could fund positions. Unlike staffing cuts, energy
-savings are invisible to students -- nobody loses anything.
+savings are invisible to students - nobody loses anything.
 
 ## Solar Power Purchase Agreements (PPAs)
 
@@ -46,7 +46,7 @@ rooftops are ideal candidates.
 2. The developer owns and maintains the panels for the contract term (typically
    15-25 years)
 3. The district buys the electricity at a **locked-in rate below current utility prices**
-4. The district's only obligation is to buy the power -- no maintenance, no capital,
+4. The district's only obligation is to buy the power - no maintenance, no capital,
    no risk
 
 ### Why This Works in NJ
@@ -56,9 +56,9 @@ rooftops are ideal candidates.
 - The NJ Board of Public Utilities actively encourages public facility solar
 - Multiple NJ districts have already executed PPAs with documented savings:
   - **Piscataway Township Schools:** [7 schools, 3,700 panels, $18M projected savings
-    over 18 years](https://globalrenewablenews.com/article/energy/category/solar/142/1082413/greenskies-solar-installations-contribute-to-18-million-in-savings-for-nj-school-district.html) -- $0 upfront via 15-year PPA with Greenskies. All ten buildings Energy Star certified.
+    over 18 years](https://globalrenewablenews.com/article/energy/category/solar/142/1082413/greenskies-solar-installations-contribute-to-18-million-in-savings-for-nj-school-district.html) - $0 upfront via 15-year PPA with Greenskies. All ten buildings Energy Star certified.
   - **West Windsor-Plainsboro:** [7 projects, 21% electricity offset, $3.5M savings
-    over system life](https://www.greenskies.com/about/news/greenskies-solar-ppa-covers-rooftop-installs-seven-new-jersey-schools) -- also $0 upfront via 15-year PPA.
+    over system life](https://www.greenskies.com/about/news/greenskies-solar-ppa-covers-rooftop-installs-seven-new-jersey-schools) - also $0 upfront via 15-year PPA.
 - School roofs are typically large, flat, unshaded, and structurally suitable
 - [NJ Treasury DPMC maintains a solar PPA project page](https://www.nj.gov/treasury/dpmc/project_solarpower_advertisements.shtml) for public facilities
 
@@ -96,7 +96,7 @@ eliminate ballast replacement entirely).
 Usually: nobody has prioritized it. The savings are real but unglamorous. The
 rebate application requires paperwork. This is exactly the kind of "boring but
 profitable" project that falls through the cracks of a board focused on bigger
-crises -- which is precisely why a community working group could handle it.
+crises - which is precisely why a community working group could handle it.
 
 ## Energy Audits
 

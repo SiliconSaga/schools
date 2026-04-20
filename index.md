@@ -10,6 +10,8 @@ permalink: /
 **A Resource-Optimized Model for District Stability**
 *Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
 
+**Download PDF:** [Printable version (core modules)](whitepaper-print.pdf) | [Full version with links (all modules)](whitepaper.pdf)
+
 ---
 
 ## Document Index

@@ -11,16 +11,16 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** High -- directly preserves instructional time and teacher
+- **Impact Potential:** High - directly preserves instructional time and teacher
   positions; the most immediately visible win for students and families
-- **Effort:** Medium -- requires PTA fundraising coordination, legal vetting of
+- **Effort:** Medium - requires PTA fundraising coordination, legal vetting of
   the grant mechanism, and board cooperation on accepting restricted funds
 - **Timeline:** The grant proposal can be presented immediately; actual fund
   deployment depends on district procurement speed (could be weeks to months)
 - **Key Risks:** NJ's T&E clause creates legal constraints on parent-funded
   curriculum; the district may be slow to accept or deploy grant funds; the
   "After-School Lease" fallback has its own union and scheduling complexities
-- **Print Priority:** Very High -- this is the most concrete, actionable proposal
+- **Print Priority:** Very High - this is the most concrete, actionable proposal
   with direct impact on the cuts families care about most
 
 ---
@@ -44,7 +44,7 @@ full cost.
 
 ## The Proposal: Grant-in-Aid Service Preservation
 
-The PTA establishes a **Curriculum Preservation Fund** -- a targeted grant to the
+The PTA establishes a **Curriculum Preservation Fund** - a targeted grant to the
 district that funds the cost difference between the 30-minute state-compliant minimum
 and the 45-minute instructional standard.
 
@@ -54,7 +54,7 @@ and the 45-minute instructional standard.
    grant to the district
 2. The grant is legally bound to fund only the 15-minute instructional gap for
    special area staff
-3. Teachers remain **district employees** -- no union, benefit, or liability
+3. Teachers remain **district employees** - no union, benefit, or liability
    complications
 4. The district's General Fund sees relief; the community sees zero change in service
 
@@ -87,7 +87,7 @@ If the grant mechanism proves too slow for district procurement:
 3. The PTA directly contracts the same teachers for "Enrichment" programming
 4. All students participate; paying families cover costs, PTA reserves cover the rest
 
-The result: the same teachers, the same kids, the same classrooms -- just funded
+The result: the same teachers, the same kids, the same classrooms - just funded
 differently. Staff stay employed, the district's books are balanced, and children
 don't notice a thing. Optional enrichment activities already happen after school.
 
@@ -95,14 +95,14 @@ don't notice a thing. Optional enrichment activities already happen after school
 
 This model **protects union seniority** by keeping teachers as district employees
 (or, in the lease model, maintaining their employment relationship with a
-community organization). The teachers' union should be a strong ally here -- their
+community organization). The teachers' union should be a strong ally here - their
 members keep their positions, and the funding source is the only thing that changes.
 
 ### Precedent: Palo Alto Partners in Education
 
 This is not hypothetical. [Palo Alto Partners in Education (PiE)](https://papie.org/about/f-a-q/)
 raises approximately $5.5 million per year and funds over 250 positions
-districtwide -- art teachers, classroom aides, and elective classes. In 2002,
+districtwide - art teachers, classroom aides, and elective classes. In 2002,
 the Palo Alto school board ruled that PTA-raised funds for extra staff must be
 centrally raised and evenly distributed to address equity concerns. Portland,
 Oregon [adopted a similar pooling model in the 1990s](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/).

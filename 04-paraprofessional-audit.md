@@ -11,10 +11,10 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Very High -- this is the most emotionally and legally
+- **Impact Potential:** Very High - this is the most emotionally and legally
   consequential issue; outsourcing paras affects the most vulnerable students and
   exposes the district to significant legal liability
-- **Effort:** Low -- this module is primarily an argument backed by data; the
+- **Effort:** Low - this module is primarily an argument backed by data; the
   "fix" is funded by savings from other modules
 - **Timeline:** Immediate as an argument; the financial case strengthens as
   other modules produce savings
@@ -22,7 +22,7 @@ parent: "Modules"
   status); the agency may offer a short-term cost that looks better on paper
   even after markup; emotional arguments can backfire if perceived as guilt-tripping
   rather than analysis
-- **Print Priority:** Very High -- this is the personal stake, the "third of his
+- **Print Priority:** Very High - this is the personal stake, the "third of his
   life" anchor in the speech, and the strongest legal/financial counterargument
   to the board's plan
 
@@ -41,7 +41,7 @@ We believe the hidden costs of this trade deserve close examination.
 
 ### The Agency Markup
 
-Outsourcing agencies typically take a significant markup on each worker -- industry
+Outsourcing agencies typically take a significant markup on each worker - industry
 analyses commonly cite ranges of 30-40% or more. The actual paraprofessional sees
 a fraction of the hourly rate, often at levels that may be difficult to live on in
 this area, frequently without health benefits.
@@ -55,7 +55,7 @@ The predictable result:
 ### The "Technical Debt" of Special Education
 
 For children with IEPs (Individualized Education Programs), continuity is not a
-luxury -- it is a **clinical and legal requirement**.
+luxury - it is a **clinical and legal requirement**.
 
 Every time a paraprofessional leaves:
 
@@ -92,7 +92,7 @@ they have might to change their routine in negative ways to meet new agency rule
 ## The Proposal: The Community Shoulders What It Can
 
 This is the heart of the exoskeleton model. The community takes over functions
-it's equipped to handle -- enrichment, photography, maintenance, fundraising --
+it's equipped to handle - enrichment, photography, maintenance, fundraising --
 and the savings are redirected specifically to **retain in-house
 paraprofessionals**. These are the positions the community cannot replace,
 because they depend on years of relationship with individual children.
@@ -105,11 +105,11 @@ our district's health costs are inflated by anything approaching the 18% excess
 found in Perth Amboy, the savings from switching plans or renegotiating broker
 terms could be substantial.
 
-Combined with other cost-avoidance modules -- energy savings
+Combined with other cost-avoidance modules - energy savings
 ([Module 7](09-energy-facilities)), community maintenance
 ([Module 3](03-community-maintenance)), revenue from the
 [Open Image Project](02-open-image-project), and [grant funding](11-grant-writing)
-(including IDEA grants specifically designed for special education) -- the
+(including IDEA grants specifically designed for special education) - the
 district has multiple avenues to preserve these positions without additional
 tax burden.
 

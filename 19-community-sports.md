@@ -11,17 +11,17 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** High -- athletics is a significant budget line and an
+- **Impact Potential:** High - athletics is a significant budget line and an
   emotional flashpoint; community sports leagues bring their own infrastructure,
   volunteers, and insurance that the district doesn't have to fund
-- **Effort:** Medium -- requires formal shared-use agreements, liability frameworks,
+- **Effort:** Medium - requires formal shared-use agreements, liability frameworks,
   and coordination between district, league, and families
 - **Timeline:** Partnerships can be scoped within a semester; formal agreements
   take 3-6 months; full athletic program absorption is a multi-year evolution
 - **Key Risks:** Equity concerns (pay-to-play fees exclude low-income families);
   quality and safety standards must be maintained; Title IX compliance requires
   careful attention; union implications if coaching stipends are affected
-- **Print Priority:** Medium-High -- resonates with sports-oriented families and
+- **Print Priority:** Medium-High - resonates with sports-oriented families and
   shows the multi-organization model beyond just the PTA
 - **Document Type:** Whitepaper + strategic design
 
@@ -87,7 +87,7 @@ The community league takes over the operational side of school athletics entirel
 - Students still wear school colors and compete under the school name
 - The league handles registration, equipment, scheduling, and insurance
 
-This is essentially how many elementary school sports already work -- parent
+This is essentially how many elementary school sports already work - parent
 volunteers coach, the school provides the gym. The model just extends to
 middle and high school levels for non-varsity programs.
 
@@ -113,12 +113,12 @@ private and non-stigmatizing.
 ### The Concept
 
 High school athletes return as assistant coaches and referees in youth leagues.
-This is one of the most natural mentoring relationships in a community -- a
+This is one of the most natural mentoring relationships in a community - a
 teenager coaching the same sport they grew up playing, at the same school they
 attended a few years ago, for kids who look up to them.
 
 - **For the high schooler:** community service hours, leadership experience,
-  coaching certification, and college application material -- all while giving
+  coaching certification, and college application material - all while giving
   back to the community that raised them
 - **For the younger kids:** role models who are close enough in age to be
   relatable, but experienced enough to teach
@@ -147,7 +147,7 @@ Several models already exist:
 ### Teen Volunteer and Service-Learning Programs
 
 Many NJ municipalities and organizations already run structured teen volunteer
-programs -- sometimes branded as "Volunteens" or similar -- where high schoolers
+programs - sometimes branded as "Volunteens" or similar - where high schoolers
 assist with recreation programs, summer camps, and community events in exchange
 for documented service hours. Examples:
 
@@ -182,11 +182,11 @@ For student volunteers in coaching roles:
 
 A formal "Junior Coach" program could be structured as:
 
-1. **Independent Study / Elective Credit** -- the student works with a faculty
+1. **Independent Study / Elective Credit** - the student works with a faculty
    advisor, logs coaching hours, writes reflections, and earns elective credit
-2. **Community Service Hours** -- logged and verified through the league,
+2. **Community Service Hours** - logged and verified through the league,
    counting toward graduation requirements, NHS, and college applications
-3. **CTE Pathway** -- under NJ Career and Technical Education frameworks, a
+3. **CTE Pathway** - under NJ Career and Technical Education frameworks, a
    coaching/recreation pathway could formalize the experience
 
 The guidance office at each high school would need to pre-approve the activity
@@ -195,7 +195,7 @@ to ensure it meets their specific criteria.
 ## The Multi-Organization Model
 
 This is where the whitepaper's vision expands beyond the PTA. The school
-district doesn't need one partner organization -- it needs an ecosystem:
+district doesn't need one partner organization - it needs an ecosystem:
 
 | Organization | Contributes |
 |-------------|-------------|
@@ -207,15 +207,15 @@ district doesn't need one partner organization -- it needs an ecosystem:
 
 Each organization contributes what it's best positioned for. High school
 students bridge multiple organizations as junior coaches, tech volunteers,
-and peer mentors. What's needed is a **coordination layer** -- transparent
-scheduling, commitment tracking, and communication -- that connects all of
+and peer mentors. What's needed is a **coordination layer** - transparent
+scheduling, commitment tracking, and communication - that connects all of
 these to district needs.
 
 ## What We Need from the Board
 
 1. **Willingness to explore shared-use agreements** for facilities
-2. **Data on current athletic program costs** -- coaching stipends, equipment,
-   insurance, transportation -- so community organizations can scope what
+2. **Data on current athletic program costs** - coaching stipends, equipment,
+   insurance, transportation - so community organizations can scope what
    they'd absorb
 3. **A liaison** to coordinate with league leadership on transition planning
 4. **Pay-to-play fee waiver policies** that are robust, private, and easy to access

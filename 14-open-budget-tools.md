@@ -11,11 +11,11 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Very High -- not primarily for the dollars raised (though
+- **Impact Potential:** Very High - not primarily for the dollars raised (though
   those matter) but for the credibility it builds; showing the board a live, funded,
   transparent financial operation is the most powerful possible demonstration that
   the community can self-organize
-- **Effort:** Medium -- OpenCollective setup is straightforward; participatory
+- **Effort:** Medium - OpenCollective setup is straightforward; participatory
   budgeting requires design and facilitation; budget visualization requires data
   extraction and development
 - **Timeline:** OpenCollective can be live within days; a PTA participatory budget
@@ -23,7 +23,7 @@ parent: "Modules"
 - **Key Risks:** Low adoption if parents don't understand the tool; potential
   confusion between PTA funds and district funds (keep boundaries clear);
   participatory budgeting works best with clear scope limits
-- **Print Priority:** High -- this is the "show, don't tell" proof that open
+- **Print Priority:** High - this is the "show, don't tell" proof that open
   governance works; bring a screenshot of the live OpenCollective dashboard if
   possible
 
@@ -37,7 +37,7 @@ community-managed fundraising and spending. Every dollar in and every dollar out
 is visible to anyone. It enables project-based directed giving, fiscal hosting
 through a 501(c)(3) sponsor, and real-time public ledger visibility.
 
-**For the full operational model** -- including how to set up the PTA on
+**For the full operational model** - including how to set up the PTA on
 OpenCollective, project-based fund structure, fiscal hosting options, corporate
 matching, the equity problem across schools, and the Palo Alto PiE precedent --
 see [Module 14: The PTA as Community Operating System](16-pta-opencollective).
@@ -53,11 +53,11 @@ Participatory budgeting (PB) is a democratic process where community members
 directly decide how to allocate a portion of a public budget. It has been used
 successfully in:
 
-- **New York City** -- the largest PB program in the US, allocating millions in
+- **New York City** - the largest PB program in the US, allocating millions in
   city council discretionary funds
-- **Multiple NJ municipalities** -- several have piloted PB for parks, infrastructure,
+- **Multiple NJ municipalities** - several have piloted PB for parks, infrastructure,
   and community programs
-- **School districts nationally** -- students vote on how to spend activity funds
+- **School districts nationally** - students vote on how to spend activity funds
   or improvement budgets
 
 ### How to Apply It to the PTA
@@ -92,7 +92,7 @@ Participatory budgeting doesn't require custom software. Existing tools:
   [PB in Schools guide (PDF)](https://www.participatorybudgeting.org/wp-content/uploads/2016/10/PB-in-Schools-Guide_PBP.pdf)
 - **[PTAlink PB resources](https://ptalink.org/topic-areas/fundraising/participatory-budgeting-1)** --
   PB guidance specifically for PTAs
-- **[Decidim](https://decidim.org/)** -- open-source democratic participation platform
+- **[Decidim](https://decidim.org/)** - open-source democratic participation platform
   ([GitHub](https://github.com/decidim/decidim)), used by Barcelona, Helsinki,
   Mexico City, and [400+ instances worldwide](https://publicadministration.desa.un.org/good-practices-for-digital-government/compendium/decidim-multipurpose-open-source-platform-e)
 - **Stanford Participatory Budgeting Platform** ([pbstanford.org](https://pbstanford.org/)) --
@@ -133,12 +133,12 @@ Report) and build an **interactive visualization**:
 
 When a parent can see that the cost of retaining one para is less than the
 district's annual spending on a single vendor contract, the "numbers are what
-they are" defense collapses. The numbers are exactly what they are -- and now
+they are" defense collapses. The numbers are exactly what they are - and now
 everyone can read them.
 
 ### Tools
 
-- **ClearGov** -- a commercial platform that visualizes municipal and school
+- **ClearGov** - a commercial platform that visualizes municipal and school
   budgets (some NJ districts already use it)
 - **Open Budget** tools (open-source municipal budget visualization frameworks)
 - A community-built visualization using the district's CAFR data and standard
@@ -148,7 +148,7 @@ A community volunteer with data visualization skills could build a first version
 in a weekend using publicly available budget data.
 
 Each tool proves a principle. Together, they prove the thesis: **open, community-
-driven governance is not idealistic -- it is operational, and the community is
+driven governance is not idealistic - it is operational, and the community is
 already doing it.**
 
 [Back to Index](index) | Next: [PTA Coordination](15-pta-coordination)

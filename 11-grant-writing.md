@@ -11,10 +11,10 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** High -- federal, state, and foundation grants for education
+- **Impact Potential:** High - federal, state, and foundation grants for education
   are substantial and often go unclaimed because districts lack staff hours to
   pursue them; a skilled volunteer team changes the equation permanently
-- **Effort:** Medium -- requires identifying qualified volunteers, establishing
+- **Effort:** Medium - requires identifying qualified volunteers, establishing
   a coordination process, and building relationships with the district's grant
   administrator (if one exists)
 - **Timeline:** First applications could go out within weeks if volunteers with
@@ -22,7 +22,7 @@ parent: "Modules"
 - **Key Risks:** Grant funding is not guaranteed and not recurring (most require
   annual reapplication); the district must be willing to share program data and
   cooperate on applications; volunteer burnout on a skill-intensive task
-- **Print Priority:** Medium-High -- this is a "force multiplier" argument that
+- **Print Priority:** Medium-High - this is a "force multiplier" argument that
   resonates well: we have the talent, you have the need, let us help
 
 ---
@@ -36,14 +36,14 @@ those that rely on administrators to squeeze applications into their already
 overloaded schedules.
 
 This district almost certainly does not have a full-time grant writer. The result
-is money left on the table every year -- money that could fund the exact positions
+is money left on the table every year - money that could fund the exact positions
 and programs being cut.
 
 ## The Proposal: A Volunteer Grant Writing Team
 
 ### Who Writes Grants?
 
-Look around the room at a PTA meeting. These are your neighbors -- and they
+Look around the room at a PTA meeting. These are your neighbors - and they
 bring their day jobs home with them:
 
 - The **nonprofit director** down the street who writes grant applications
@@ -63,21 +63,21 @@ help if someone organized the effort and connected them to the district's needs.
 3. The district's business office provides program data, budgets, and needs
 4. The team identifies eligible grants, drafts applications, and manages the
    submission pipeline
-5. The district submits (since the applicant must be the LEA -- Local Education
+5. The district submits (since the applicant must be the LEA - Local Education
    Agency), but the community does the heavy lifting
 
 ### What Grants Are Available
 
 #### Federal
 
-- **Title I** (supplemental funding for high-poverty schools) -- if the district
+- **Title I** (supplemental funding for high-poverty schools) - if the district
   qualifies but isn't maximizing its allocation
 - **Title II** (teacher quality and professional development)
-- **Title IV** (student support and academic enrichment -- directly relevant to
+- **Title IV** (student support and academic enrichment - directly relevant to
   arts education)
-- **IDEA grants** (Individuals with Disabilities Education Act) -- directly
+- **IDEA grants** (Individuals with Disabilities Education Act) - directly
   relevant to paraprofessional funding
-- **21st Century Community Learning Centers** -- after-school and enrichment
+- **21st Century Community Learning Centers** - after-school and enrichment
   programs, aligning perfectly with the expanded enrichment model
 
 #### NJ State
@@ -94,7 +94,7 @@ help if someone organized the effort and connected them to the district's needs.
 - **[Geraldine R. Dodge Foundation](https://www.grdodge.org/our-work/grantmaking/)** --
   NJ-focused, ~$11M/year in grants; strong education and arts portfolio; awarded
   $500K to Arts Ed NJ for arts education advocacy
-- **[Victoria Foundation](https://www.victoriafoundation.org/)** -- NJ-focused
+- **[Victoria Foundation](https://www.victoriafoundation.org/)** - NJ-focused
   (primarily Newark area), $14.3M in grants in 2025; education and youth development
 - **Local community foundations** with education-designated funds
 - **Corporate foundations** (many have education giving programs tied to
@@ -109,11 +109,11 @@ highest of any fundraising activity.
 
 ### What We Need from the Board
 
-1. **Willingness to share** -- the grant team needs access to enrollment data,
+1. **Willingness to share** - the grant team needs access to enrollment data,
    budget figures, program descriptions, and demographic information
-2. **A point of contact** -- one administrator designated to receive applications
+2. **A point of contact** - one administrator designated to receive applications
    for review and submission
-3. **Transparency about what's already been pursued** -- has the district applied
+3. **Transparency about what's already been pursued** - has the district applied
    for and lost grants? Not applied at all? Applied and received but the public
    doesn't know about it?
 
@@ -122,7 +122,7 @@ highest of any fundraising activity.
 Unlike one-time fundraisers, a grant writing team creates a **repeating pipeline**.
 Successful grants can often be renewed. Relationships with funders deepen over
 time. The team's expertise compounds. This is an investment in permanent
-institutional capacity -- exactly the kind of "community infrastructure" that
+institutional capacity - exactly the kind of "community infrastructure" that
 outlasts any single budget crisis.
 
 [Back to Index](index) | Next: [Student-led Projects](12-student-led-projects)

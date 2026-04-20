@@ -11,7 +11,7 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Very High (long-term) / Medium (immediate) -- this is the
+- **Impact Potential:** Very High (long-term) / Medium (immediate) - this is the
   infrastructure that makes every other module sustainable; without coordination,
   volunteer efforts burn bright and burn out
 - **Effort:** High for the full platform; Low-Medium for the initial tools
@@ -21,7 +21,7 @@ parent: "Modules"
 - **Key Risks:** Over-engineering the solution before proving the need; volunteer
   fatigue if the coordination overhead exceeds the value delivered; adoption --
   parents need to actually use it
-- **Print Priority:** Medium -- mention the concept and show early prototypes;
+- **Print Priority:** Medium - mention the concept and show early prototypes;
   the board doesn't need to understand the platform, they need to see that
   coordination is happening
 
@@ -41,7 +41,7 @@ goodwill but because:
 - Communication happens through scattered email threads and group texts
 - Burnout hits the organizers hardest because they shoulder all the coordination
 
-The answer is not "trust us" -- it's "here's the system."
+The answer is not "trust us" - it's "here's the system."
 
 ## Component 1: Community Skill & Resource Inventory
 
@@ -49,24 +49,24 @@ The answer is not "trust us" -- it's "here's the system."
 
 A structured, searchable registry of what parents and community members can offer:
 
-- **Professional skills** -- grant writing, legal expertise, accounting, IT,
+- **Professional skills** - grant writing, legal expertise, accounting, IT,
   healthcare, photography, trades, design, engineering
-- **Physical resources** -- electric leaf blowers, cameras, vehicles, workshop
+- **Physical resources** - electric leaf blowers, cameras, vehicles, workshop
   space, professional equipment
-- **Available time** -- hours per week/month they're willing to contribute, and
+- **Available time** - hours per week/month they're willing to contribute, and
   when
-- **Interests** -- which modules or projects they want to support
+- **Interests** - which modules or projects they want to support
 
 ### Why a Spreadsheet Isn't Enough
 
 A spreadsheet gets created, shared once, and goes stale within weeks. A living
 inventory needs:
 
-- **Self-service updates** -- people can change their availability without
+- **Self-service updates** - people can change their availability without
   emailing an organizer
-- **Search and matching** -- when a need arises ("we need someone with insurance
+- **Search and matching** - when a need arises ("we need someone with insurance
   industry experience"), the coordinator can find the right person immediately
-- **Privacy controls** -- people share what they're comfortable sharing; contact
+- **Privacy controls** - people share what they're comfortable sharing; contact
   info is visible only to coordinators
 
 ### The Immediate Version
@@ -99,22 +99,22 @@ The alternative:
 
 1. Any community member submits a **proposal** (a structured document: problem,
    solution, cost, volunteer needs, timeline)
-2. The proposal is **publicly visible** -- others can comment, improve, or
+2. The proposal is **publicly visible** - others can comment, improve, or
    identify blockers
 3. The PTA board **reviews** with documented reasoning (approved, needs revision,
    deferred with explanation)
-4. The **decision history is preserved** -- no more "we already looked into that"
+4. The **decision history is preserved** - no more "we already looked into that"
    without evidence
 
 ### Why This Matters
 
-- **Ideas don't die** -- they're captured, refined, and either acted on or
+- **Ideas don't die** - they're captured, refined, and either acted on or
   explicitly shelved with reasoning
-- **Duplication is visible** -- when three people have the same idea, they find
+- **Duplication is visible** - when three people have the same idea, they find
   each other instead of working in isolation
-- **The board's workload shrinks** -- proposals arrive pre-structured with
+- **The board's workload shrinks** - proposals arrive pre-structured with
   community feedback already incorporated
-- **Trust builds** -- people can see that their input was considered, even if
+- **Trust builds** - people can see that their input was considered, even if
   the answer was no
 
 ### Implementation
@@ -134,19 +134,19 @@ tracking.
 ### The Reliability Problem
 
 The board will say: "A volunteer program can't provide the reliability of a
-contract." They're right -- unless the volunteer program has better visibility
+contract." They're right - unless the volunteer program has better visibility
 and accountability than the contract.
 
 ### How Commitment Tracking Works
 
 1. A project (e.g., the Leaf Blower Brigade, Picture Day volunteers) is created
    with **specific slots** (date, time, location, task)
-2. Community members **pledge** to specific slots -- a digital commitment, not
+2. Community members **pledge** to specific slots - a digital commitment, not
    just a general "I'd like to help"
 3. Pledges are **visible** to coordinators and to other volunteers
-4. **Gaps** are visible in advance -- if next Tuesday's elementary school slot is
+4. **Gaps** are visible in advance - if next Tuesday's elementary school slot is
    unfilled, the system flags it and notifies available volunteers
-5. **Follow-through is tracked** -- not punitively, but as data that builds the
+5. **Follow-through is tracked** - not punitively, but as data that builds the
    SLA's credibility
 
 ### The SLA Concept

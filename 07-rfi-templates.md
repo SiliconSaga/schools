@@ -11,7 +11,7 @@ nav_exclude: true
 > **This is a tools document, not a proposal.** These templates support Modules
 > 2 and 5. Hand them to the Board Secretary after your speech, or file them as
 > OPRA requests if the board does not respond voluntarily.
-> **Print Priority:** Include in the printed stack -- these demonstrate preparation
+> **Print Priority:** Include in the printed stack - these demonstrate preparation
 > and seriousness; they also put the board on notice that the data will be obtained
 > one way or another
 

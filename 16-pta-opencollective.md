@@ -11,10 +11,10 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Very High -- transforms the PTA from a bake-sale fundraiser
+- **Impact Potential:** Very High - transforms the PTA from a bake-sale fundraiser
   into a credible institutional partner capable of absorbing and funding services
   the district can no longer afford
-- **Effort:** Medium -- OpenCollective setup is days; restructuring PTA operations
+- **Effort:** Medium - OpenCollective setup is days; restructuring PTA operations
   around it takes a season; building district trust takes a year
 - **Timeline:** OpenCollective live within a week; first directed fund in 2 weeks;
   full operational model by next school year
@@ -24,7 +24,7 @@ parent: "Modules"
   offloading obligations onto volunteers permanently
 - **Print Priority:** High for the strategic overview; the operational details
   are website-only
-- **Document Type:** Strategic design -- operational blueprint for PTA leadership
+- **Document Type:** Strategic design - operational blueprint for PTA leadership
 
 ---
 
@@ -34,7 +34,7 @@ parent: "Modules"
 The PTA is already doing more than most parents realize. At many schools in this
 district, the PTA funds field trips, supplies enrichment courses, buys classroom
 materials, and covers gaps the district budget no longer reaches. This isn't
-charity -- it's infrastructure.
+charity - it's infrastructure.
 
 The problem is that this infrastructure is invisible. The board doesn't see a
 partner; they see a group that runs bake sales and sends angry emails. The PTA
@@ -42,12 +42,12 @@ doesn't see itself as an institution; it sees itself as a volunteer committee
 that turns over every two years.
 
 **The shift:** The PTA positions itself as a transparent, accountable operational
-partner -- one that can absorb specific functions the district can no longer fund,
+partner - one that can absorb specific functions the district can no longer fund,
 run them better and cheaper, and prove it with public financial data.
 
 This isn't about replacing the district. It's about meeting them halfway: "You
 handle the things that legally require a school district. We'll handle the things
-the community can do for itself -- and we'll do it in the open so everyone can see
+the community can do for itself - and we'll do it in the open so everyone can see
 where every dollar goes."
 
 ## What the PTA Already Funds (and What That Implies)
@@ -66,7 +66,7 @@ is already managing meaningful budgets annually with essentially zero operationa
 infrastructure beyond a checking account and a treasurer's spreadsheet.
 
 **The implication:** If the PTA can already manage this scale of spending, the
-question isn't whether it *can* take on more -- it's whether it can do so
+question isn't whether it *can* take on more - it's whether it can do so
 *transparently and sustainably enough* that the district and the community trust
 it with larger responsibilities.
 
@@ -106,11 +106,11 @@ Parent → Directed Contribution → Project Fund → Transparent Expense → Pu
 
 The PTA has options:
 
-- **Open Collective Foundation (OCF)** -- a 501(c)(3) fiscal host. Contributions
+- **Open Collective Foundation (OCF)** - a 501(c)(3) fiscal host. Contributions
   are tax-deductible. OCF handles tax filings, compliance, and banking. The PTA
   pays a platform fee (typically 5-10%) but eliminates its own administrative
   overhead for financial management.
-- **Self-hosted** -- the PTA keeps its existing 501(c)(3) status and bank account
+- **Self-hosted** - the PTA keeps its existing 501(c)(3) status and bank account
   but uses OpenCollective's transparency layer on top. More control, more admin work.
 
 For most PTAs, OCF is the fastest path: create the collective, start accepting
@@ -153,7 +153,7 @@ tracks automatically." Less work, more trust.
 **Directed giving at scale.** A parent can give $500 specifically to keep the
 art teacher at 45 minutes. They can see the fund's progress toward its target.
 They can see when the money is spent and what it bought. This isn't just
-fundraising -- it's participatory budgeting in action.
+fundraising - it's participatory budgeting in action.
 
 **Corporate matching.** Many employers match charitable contributions to 501(c)(3)
 organizations. If the PTA uses OCF as fiscal host, parent contributions are
@@ -206,7 +206,7 @@ These require district authority and must stay with the board:
 
 The boundary is clear: the PTA funds and coordinates community capacity. The
 district retains all legal, educational, and administrative authority. The PTA
-doesn't tell the board what to teach -- it gives them the resources to keep
+doesn't tell the board what to teach - it gives them the resources to keep
 teaching.
 
 ### The "Co-Sovereignty" Model with the Union
@@ -267,7 +267,7 @@ funds its own school, it amplifies inequality.
 **The mitigation:** District-wide projects (Para Retention, Grant Writing) pool
 across all schools. The PTA Council can adopt a policy where a percentage of
 school-level surplus flows to a district-wide equity fund. OpenCollective's
-transparency makes this visible and accountable -- no school's parents wonder
+transparency makes this visible and accountable - no school's parents wonder
 where their money went.
 
 ## Measuring Success
@@ -285,14 +285,14 @@ metrics to track and publish (all visible on OpenCollective):
 | Corporate match capture rate | Sophistication of fundraising operation |
 
 After one year of transparent operations, the PTA can present the district with
-an annual report that rivals the district's own CAFR in clarity -- and probably
+an annual report that rivals the district's own CAFR in clarity - and probably
 exceeds it in transparency.
 
 ## Precedent: Palo Alto Partners in Education
 
 This model has been proven at scale. [Palo Alto Partners in Education (PiE)](https://papie.org/about/f-a-q/)
 raises approximately **$5.5 million per year** and funds over **250 positions
-districtwide** -- art teachers, classroom aides, science electives, and more.
+districtwide** - art teachers, classroom aides, science electives, and more.
 
 In 2002, the Palo Alto school board ruled that PTA-raised funds for extra staff
 must be centrally raised and evenly distributed through a designated nonprofit.
@@ -306,7 +306,7 @@ San Francisco is [currently debating adopting this model](https://thefrisc.com/s
 as its district faces its own budget crisis.
 
 The lesson: PTA-funded positions at scale are not hypothetical. They work. The
-question is whether they are organized transparently and equitably -- which is
+question is whether they are organized transparently and equitably - which is
 exactly what OpenCollective enables.
 
 [Back to Index](index) | Next: [Community Sports](19-community-sports)

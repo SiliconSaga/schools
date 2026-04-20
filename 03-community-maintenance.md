@@ -11,16 +11,16 @@ parent: "Modules"
 
 ---
 
-- **Impact Potential:** Low-Medium in dollar terms -- groundskeeping is not the
-  biggest line item; **Very High as proof of concept** -- this is the easiest
+- **Impact Potential:** Low-Medium in dollar terms - groundskeeping is not the
+  biggest line item; **Very High as proof of concept** - this is the easiest
   module to demonstrate and the most vivid illustration of community capacity
-- **Effort:** Low -- parents already own the equipment and live near the schools;
+- **Effort:** Low - parents already own the equipment and live near the schools;
   coordination is the only real cost
 - **Timeline:** Short for a pilot project (one school, one season)
 - **Key Risks:** Liability concerns (addressable via volunteer service agreements);
-  reliability ("will people show up?" -- addressed by commitment tracking in
+  reliability ("will people show up?" - addressed by commitment tracking in
   Module 13); existing contractor contracts may have minimum terms
-- **Print Priority:** Medium -- the dollar value is modest but the story is
+- **Print Priority:** Medium - the dollar value is modest but the story is
   irresistible; this is the "leaf blower callback" from the speech
 
 ---
@@ -38,7 +38,7 @@ under consideration.)
 
 ## The Proposal: Neighbors Taking Care of Their Schools
 
-Parents already maintain the yards they live in -- many within walking distance
+Parents already maintain the yards they live in - many within walking distance
 of the schools their kids attend every day. The equipment is already in the
 garage. The motivation is already there. What's missing is coordination and
 permission.
@@ -47,7 +47,7 @@ permission.
 
 1. A **simple sign-up system** (group chat, shared calendar, and/or scheduling app)
    coordinates which parents cover which school grounds on which weekends
-2. Volunteers operate under a **Limited Service Waiver** -- the same legal framework
+2. Volunteers operate under a **Limited Service Waiver** - the same legal framework
    used for "Clean Communities" events and community garden workdays
 3. Visible commitment tracking gives the board confidence that coverage is
    reliable, not just enthusiasm
@@ -68,9 +68,9 @@ The board may raise liability concerns. The response:
 The board's likely concern is reliability: "Will people actually show up?" This is
 the exact problem a community coordination platform solves:
 
-- **Commitment tracking** -- residents digitally pledge specific hours
-- **Scheduling visibility** -- gaps are visible and fillable in advance
-- **Accountability** -- no-shows are noticed and covered by alternates
+- **Commitment tracking** - residents digitally pledge specific hours
+- **Scheduling visibility** - gaps are visible and fillable in advance
+- **Accountability** - no-shows are noticed and covered by alternates
 
 ### Why This Matters Beyond Leaves
 
