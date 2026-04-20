@@ -147,20 +147,6 @@ everyone can read them.
 A community volunteer with data visualization skills could build a first version
 in a weekend using publicly available budget data.
 
-## Connecting the Tools
-
-```
-OpenCollective          Participatory Budget        Budget Visualization
-(transparent            (community decides          (everyone can read
- fundraising)            allocation)                 the district's books)
-     |                        |                           |
-     +------------------------+---------------------------+
-                              |
-                     Demicracy Platform
-                  (coordination + governance
-                   infrastructure for all of it)
-```
-
 Each tool proves a principle. Together, they prove the thesis: **open, community-
 driven governance is not idealistic -- it is operational, and the community is
 already doing it.**
