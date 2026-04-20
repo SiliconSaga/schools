@@ -87,7 +87,7 @@ This is a significant selling point for privacy-conscious families **and** a
 liability reduction for the board. Most districts have not audited what Lifetouch
 does with student facial data.
 
-### The Platform (Demicracy Preview)
+### The Platform
 
 The digital distribution platform can be built rapidly using modern tools:
 
@@ -96,7 +96,7 @@ The digital distribution platform can be built rapidly using modern tools:
 - Payment processing for the optional donation
 - No student data leaves the district's control
 
-This serves as a proof-of-concept for the broader [Demicracy coordination
+This serves as a proof-of-concept for the broader [coordination
 platform](06-open-governance) -- demonstrating that "the community is the
 platform."
 
