@@ -87,7 +87,9 @@ If the grant mechanism proves too slow for district procurement:
 3. The PTA directly contracts the same teachers for "Enrichment" programming
 4. All students participate; paying families cover costs, PTA reserves cover the rest
 
-This keeps staff employed, the district's books balanced, and children in class.
+The result: the same teachers, the same kids, the same classrooms -- just funded
+differently. Staff stay employed, the district's books are balanced, and children
+don't notice a thing.
 
 ### Union Alignment
 

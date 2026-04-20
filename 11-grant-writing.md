@@ -43,15 +43,18 @@ and programs being cut.
 
 ### Who Writes Grants?
 
-Look around the room at a PTA meeting. The parents of school-age children include:
+Look around the room at a PTA meeting. These are your neighbors -- and they
+bring their day jobs home with them:
 
-- **Nonprofit professionals** who write grant applications as part of their jobs
-- **Academic researchers** who write federal grant proposals regularly
-- **Healthcare administrators** who navigate complex federal funding
-- **Business professionals** who write proposals and RFPs
-- **Freelance writers** who could adapt to grant formats quickly
+- The **nonprofit director** down the street who writes grant applications
+  every quarter
+- The **university researcher** whose lab funding depends on federal proposals
+- The **hospital administrator** who navigates complex government funding
+- The **consultant** who writes corporate proposals and RFPs for a living
+- The **freelance writer** who could adapt to grant formats in an afternoon
 
-These skills exist in the community. They are currently untapped for this purpose.
+These people already live here. Their kids go to these schools. They would
+help if someone organized the effort and connected them to the district's needs.
 
 ### How It Works
 

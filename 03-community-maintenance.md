@@ -37,25 +37,25 @@ is absorbing this premium on top of an already strained budget. (There is also
 a [statewide ban bill (S623)](https://nj1015.com/new-jersey-leaf-blower-ban/)
 under consideration.)
 
-## The Proposal: The Volunteer Maintenance SLA
+## The Proposal: Neighbors Taking Care of Their Schools
 
-Treat school grounds maintenance like a **Community Garden model**. Hundreds of
-parents already own electric blowers and live within a mile of their children's
-schools. If coordinated, they can handle perimeter and walkway clearing for
-**$0 in labor costs**.
+Parents already maintain the yards they live in -- many within walking distance
+of the schools their kids attend every day. The equipment is already in the
+garage. The motivation is already there. What's missing is coordination and
+permission.
 
 ### How It Works
 
-1. A **distributed scheduling engine** (simple app or coordinated group) assigns
-   blocks of school property to local residents with their own electric equipment
+1. A **simple sign-up system** (group chat, shared calendar, or scheduling app)
+   coordinates which parents cover which school grounds on which weekends
 2. Volunteers operate under a **Limited Service Waiver** -- the same legal framework
    used for "Clean Communities" events and community garden workdays
-3. A **Service Level Agreement** (SLA) backed by community commitment gives the
-   board confidence that the work will actually get done
+3. Visible commitment tracking gives the board confidence that coverage is
+   reliable, not just enthusiasm
 
-### Addressing the "Liability" Excuse
+### Addressing Liability Concerns
 
-The board's default objection will be liability. The response:
+The board may raise liability concerns. The response:
 
 - NJ already has frameworks for volunteer service on public property (community
   gardens, Clean Communities events, school volunteer agreements)

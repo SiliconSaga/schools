@@ -117,14 +117,17 @@ private and non-stigmatizing.
 ### The Concept
 
 High school athletes return as assistant coaches and referees in youth leagues.
-This creates a virtuous cycle:
+This is one of the most natural mentoring relationships in a community -- a
+teenager coaching the same sport they grew up playing, at the same school they
+attended a few years ago, for kids who look up to them.
 
 - **For the high schooler:** community service hours, leadership experience,
-  coaching certification, college application material
-- **For the youth program:** enthusiastic role models who were recently at the
-  same skill level, additional supervision capacity
-- **For the district/league:** free coaching labor from the most motivated
-  possible volunteers
+  coaching certification, and college application material -- all while giving
+  back to the community that raised them
+- **For the younger kids:** role models who are close enough in age to be
+  relatable, but experienced enough to teach
+- **For the community:** a visible cycle of kids helping kids that strengthens
+  connections across age groups
 
 ### How It Works in Practice
 
