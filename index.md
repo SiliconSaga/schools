@@ -12,6 +12,10 @@ permalink: /
 
 **Download PDF:** [Printable version (core modules)](whitepaper-print.pdf) | [Full version with links (all modules)](whitepaper.pdf)
 
+**Want to help or learn more?** Contact cervator@gmail.com
+
+**Start here:** [Read the Executive Summary](00-executive-summary) for the full picture. The document index below is for navigating the details.
+
 ---
 
 ## Document Index
