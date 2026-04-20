@@ -31,7 +31,6 @@ CORE_STACK = [
     "05-health-insurance.md",
     "06-open-governance.md",
     "19-community-sports.md",
-    "07-rfi-templates.md",
 ]
 
 # Additional modules -- included in web PDF, omitted from print PDF

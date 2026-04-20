@@ -35,7 +35,7 @@ The district contracts with vendors like Lifetouch/Shutterfly for school photogr
 These contracts are characterized by:
 
 - **Low kickbacks** to the district relative to the vendor's markup
-- **Third-party monetization** of student biometric data (facial images) / vendor retains copyright for pictures of _your_ kid
+- **Third-party monetization** of student biometric data (facial images) / vendor retains copyright for pictures of *your* kid
 - **Overpriced packages** that many families skip or resent
 - **No digital originals** provided to families without premium payment (or simply not at all)
 

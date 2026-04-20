@@ -30,12 +30,8 @@ parent: "Modules"
 
 ## The Problem
 
-School athletics are often the first programs cut or fee-gated during budget
-crises. In this district, [budget pressures have already prompted discussions
-about cutting middle school sports, increasing class sizes, and restructuring
-schedules](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/).
-
-Across NJ, districts facing similar deficits have responded with:
+School athletics are often among the first programs cut or fee-gated during
+budget crises. Across NJ, districts facing deficits have responded with:
 
 - **Pay-to-play fees** ranging from under $100 to over $1,000 per sport per student
 - Elimination of JV and middle school programs
@@ -214,17 +210,6 @@ students bridge multiple organizations as junior coaches, tech volunteers,
 and peer mentors. What's needed is a **coordination layer** -- transparent
 scheduling, commitment tracking, and communication -- that connects all of
 these to district needs.
-
-### Why This Reframing Matters
-
-When you stand before the board with only PTA proposals, they see one
-organization. When you stand before the board representing a coalition --
-PTA, sports leagues, community organizations, student volunteers, local
-businesses -- they see a community.
-
-The board's "we can't rely on volunteers" objection weakens dramatically
-when the volunteer capacity is distributed across multiple independent
-organizations, each with its own leadership, insurance, and track record.
 
 ## What We Need from the Board
 
