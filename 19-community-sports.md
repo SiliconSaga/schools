@@ -148,14 +148,15 @@ Several models already exist:
 - **CYO leagues** commonly have high school players return as assistant coaches
   for younger divisions.
 
-### Volunteens and Service-Learning Programs
+### Teen Volunteer and Service-Learning Programs
 
-"Volunteens" is a common branding for municipal teen volunteer programs in NJ.
-Examples:
+Many NJ municipalities and organizations already run structured teen volunteer
+programs -- sometimes branded as "Volunteens" or similar -- where high schoolers
+assist with recreation programs, summer camps, and community events in exchange
+for documented service hours. Examples:
 
-- Municipal recreation departments (Bernards Township, Scotch Plains-Fanwood)
-  run "Volunteens" programs where teens 13-17 assist with summer camps and
-  recreation programs
+- Municipal recreation departments across NJ recruit teens 13-17 as program
+  assistants for youth activities
 - [NJ High School Volunteers](https://njhsvolunteers.com/) connects students
   with service opportunities statewide
 - Many NJ high schools offer elective credit for community service (typically
