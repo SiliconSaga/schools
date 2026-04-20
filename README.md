@@ -20,10 +20,43 @@ with assorted whitepaper documents covering:
 - **Technical appendix** -- platform design for PTA coordination layer and budget
   visualization
 
+## Building the Printable PDF
+
+The repo includes a Python script to compile the core and supporting modules
+into a single printable PDF with cover page, stripped metadata, and page footers.
+
+```bash
+# Requires Python 3 + reportlab
+pip install reportlab
+
+# Build the PDF
+python build-pdf.py
+# Output: whitepaper.pdf
+```
+
+The script reads the markdown files in print order (defined in the `CORE_STACK`
+and `SUPPORTING_STACK` lists at the top of `build-pdf.py`), strips Jekyll front
+matter and site-only metadata blocks, and renders to a styled PDF. Edit the
+file lists to change what's included.
+
+## About the Author
+
+Rasmus "Cervator" Praestholm -- West Orange resident, parent of three children
+in the district (including a child with a paraprofessional), PTA member, and
+volunteer with a local youth sports league. By profession, a software engineer.
+
+These proposals were assembled aspirationally on behalf of the community. No
+organizations have been committed to any of the ideas presented here, and no
+promises are made about outcomes. The intent is to start a conversation and
+demonstrate what community coordination could look like if the district is
+willing to collaborate.
+
 ## Contributing
 
 Open an [issue](https://github.com/SiliconSaga/schools/issues) with suggestions,
-corrections, or additional ideas. Pull requests welcome.
+corrections, or additional ideas. Pull requests welcome. If you have expertise
+in any of the areas covered (health insurance, grant writing, NJ school law,
+fundraising, data visualization), your input would be especially valuable.
 
 ## Feedback
 
