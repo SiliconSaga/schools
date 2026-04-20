@@ -219,14 +219,6 @@ That's enough to preserve 56% of the art instruction gap. [Contribute →]"
 
 This turns the budget visualization from a critique into a call to action.
 
-### With Demicracy (Future)
-
-Long-term, budget visualization becomes a standard Demicracy module -- any
-community can plug in their local government's budget data and generate the
-same explorer. The school district use case is the pilot; the design should be
-generic enough to work for municipal budgets, county budgets, or any public
-entity that publishes financial data.
-
 ## Development Plan
 
 ### Sprint 1: Data Foundation (1-2 weekends)
