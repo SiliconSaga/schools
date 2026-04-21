@@ -18,6 +18,54 @@ permalink: /
 
 ---
 
+## After the April 20 Board Meeting
+
+Close to a thousand residents packed an auditorium for over four hours of public
+comment. Dozens spoke. The board listened, said some words, passed routine
+business, and gaveled out past midnight.
+
+Here's what became clear: **multiple groups are correct about incompatible
+things.**
+
+- The **board** is correct that the numbers don't add up under the current
+  funding formula
+- The **teachers' union** is correct that outsourcing and two-tier contracts
+  devalue the people who do the actual work
+- The **parents** are correct that cutting programs and paras hurts kids
+- The **state-level advocates** are correct that the funding formula itself
+  is structurally broken
+- The **community** is correct that there are creative options that haven't
+  been explored
+
+These aren't contradictions - they're symptoms of the same underlying problem.
+Systems like healthcare, insurance, and state education funding are
+fundamentally unsustainable in their current form, and local districts absorb
+the damage.
+
+**But before we can solve any of that, we need to fix the process itself.**
+
+A thousand people showed up and the best we could do was five hours of
+three-minute soundbites, heckling, and a polite wall behind a dais. Nobody
+workshopped anything. Nobody broke into groups. Nobody left with action items.
+The meeting format is designed for compliance, not collaboration.
+
+What if instead of a marathon of monologues, the community could split into
+working groups - each with access to the relevant budget data, each focused
+on one problem area, each producing a concrete recommendation? What if the
+board meeting was the *end* of that process, not the only venue for it?
+
+That's what this whitepaper proposes. Not just specific cost-avoidance ideas,
+but a fundamentally different way for a community and its school district to
+work together. The proposals below are a starting point. The real ask is:
+**let's build a better process so the next meeting doesn't look like the
+last one.**
+
+If you were at the meeting and want to help turn any of this into action -
+or if you have expertise in healthcare, insurance, school finance, grant
+writing, or community organizing - please reach out: cervator@gmail.com
+
+---
+
 ## Document Index
 
 ### Overview
