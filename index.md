@@ -42,12 +42,38 @@ Systems like healthcare, insurance, and state education funding are
 fundamentally unsustainable in their current form, and local districts absorb
 the damage.
 
-**But before we can solve any of that, we need to fix the process itself.**
+**But here's what's worse: both dominant paths forward lead to system
+collapse.**
 
-A thousand people showed up and the best we could do was five hours of
-three-minute soundbites, heckling, and a polite wall behind a dais. Nobody
-workshopped anything. Nobody broke into groups. Nobody left with action items.
-The meeting format is designed for compliance, not collaboration.
+- The **board's current plan** - cut positions, outsource paras, shrinkflate
+  programs - breaks the system because you can't easily rebuild a teaching
+  workforce once it's gone. The institutional knowledge, the relationships,
+  the people who chose education because they care - once lost, they don't
+  come back at the same salary.
+- The **union's position** - maintain all positions and compensation levels -
+  is financially unsustainable when costs keep rising faster than revenue.
+  You can't conjure money that doesn't exist.
+
+Neither side is wrong about the other's plan being unworkable. **Both are
+right. And that's the problem.** The two sides are locked in escalating
+conflict, each convinced the other is the obstacle, while the actual problem
+- unsustainable underlying systems - goes unaddressed. Sound familiar? It's
+the national two-party deadlock playing out at the local level.
+
+A third path can't get enough oxygen while everyone is trapped in that binary
+argument. We can't recruit volunteers, organize working groups, or build
+community capacity while the room is consumed by a fight between two
+approaches that both lead to the same cliff.
+
+**The first step is making peace - not agreement, but enough mutual
+recognition that neither current path works - so that a third approach can
+start to grow.**
+
+That starts with fixing the process. A thousand people showed up and the best
+we could do was five hours of three-minute soundbites, heckling, and a polite
+wall behind a dais. Nobody workshopped anything. Nobody broke into groups.
+Nobody left with action items. The meeting format is designed for compliance,
+not collaboration.
 
 What if instead of a marathon of monologues, the community could split into
 working groups - each with access to the relevant budget data, each focused
@@ -58,7 +84,7 @@ That's what this whitepaper proposes. Not just specific cost-avoidance ideas,
 but a fundamentally different way for a community and its school district to
 work together. The proposals below are a starting point. The real ask is:
 **let's build a better process so the next meeting doesn't look like the
-last one.**
+last one.** That is democracy - even if it starts small and vague.
 
 If you were at the meeting and want to help turn any of this into action -
 or if you have expertise in healthcare, insurance, school finance, grant
