@@ -196,7 +196,79 @@ None of these cut teacher pay. None reduce educational quality. They each
 reclaim resources for the community through a different mechanism - but the
 effect compounds the same way.
 
+## Good Deflation vs. Bad Deflation
+
+Most people hear "deflation" and think economic collapse - the Great
+Depression, where prices fell because nobody could afford to buy anything,
+businesses closed, and the spiral fed on itself. That's **demand-collapse
+deflation** and it's genuinely catastrophic.
+
+What we're describing is something completely different: **overhead-removal
+deflation**. The demand doesn't change - kids still need to be taught, people
+still need healthcare, buildings still need roofs. What changes is the cost
+of delivering it, because intermediary layers get thinner or disappear.
+
+| | Bad Deflation | Good Deflation |
+|---|---|---|
+| **Why prices drop** | Nobody can afford to buy | The overhead got removed |
+| **What happens to workers** | Lose jobs, can't find new ones | Same work, less toll extracted from it |
+| **What happens to quality** | Degrades as everyone cuts corners | Maintains or improves - the work itself didn't change |
+| **What happens to demand** | Collapses - downward spiral | Stays the same or grows - people have more capacity |
+| **Historical parallel** | 1930s Depression | Technology-driven cost reduction (computing, solar, communication) |
+
+Think about what happened to the cost of computing. In 1980 a megabyte of
+storage cost thousands of dollars. Today it costs a fraction of a cent. Did
+the computing industry collapse? No - it exploded. The deflation in cost
+*created* demand rather than destroying it. More people could afford
+computers, which created more use cases, which drove more innovation, which
+drove costs down further. A virtuous spiral.
+
+The same thing happened with solar energy, communication costs, and
+information access. When the cost of something drops because the *means of
+production* improved rather than because *demand collapsed*, it's a gift,
+not a crisis.
+
+## The Time Dividend
+
+When tooling reduces administrative overhead, the administrator doesn't
+disappear - they get *time back*. That time can go to grant research,
+community coordination, or program development. The district didn't cut a
+position; it made an existing position more effective.
+
+When a parent uses better coordination tools to organize volunteers in
+2 hours instead of 10, those 8 hours come back. Some of that time goes
+to... life. Rest. Family. That's not wasted - that's the point. But some
+of it might go to volunteering at the school. Not because they have to,
+but because they now *can*.
+
+This is the community exoskeleton in its mature form: people volunteering
+not out of desperation ("the school will collapse if we don't") but out of
+engagement ("I have time and I'd rather spend it with my neighbors' kids
+than billing hours for a corporation").
+
+### The volunteer-as-partial-replacement model
+
+Consider the enrichment example from Module 1. The district can't afford
+to keep art at 45 minutes. The PTA steps in to fund the gap. But what if,
+over time, costs come down enough - through better healthcare deals, less
+administrative overhead, community-sourced materials - that the district
+can absorb more of it again?
+
+Meanwhile the teacher's cost of living has also dropped slightly: healthcare
+costs less, maybe housing stabilizes, community resources stretch further.
+The teacher doesn't need as large a salary to live well. Not because they
+were *cut*, but because things genuinely *cost less*.
+
+The volunteer who was covering the gap can shift from "keeping the lights
+on" to "making things better" - running an after-school robotics club
+because they want to, not because the school will close without them.
+
+That's the transition: from emergency volunteering to enrichment
+volunteering. From survival to community building. The gentle deflationary
+spiral makes it possible because it gives everyone - teachers, parents,
+administrators, volunteers - a little more room to breathe.
+
 ---
 
-Next: [The Action Plan](bigger-picture-action) - from theory to three prongs:
-fix the right now, fix the process, fix the economics.
+Next: [The Action Plan](bigger-picture-action) - the three-prong plan to
+put this theory into practice.
