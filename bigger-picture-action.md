@@ -125,6 +125,15 @@ permanent reduction, but a bridge. The key word is *temporary*, backed
 by a credible plan to restore and improve. Without a plan, a freeze is
 just a cut. With a plan, it's an investment.
 
+**Let natural attrition work.** If the tax bridge buys three years of
+stability, normal retirement and turnover will create openings that
+don't need to be refilled - far less painful than forced cuts. A soft
+hiring freeze (fill only truly critical positions, leave others open if
+capacity allows) combined with the community exoskeleton absorbing some
+functions could meaningfully shrink the gap without anyone losing their
+job. Attrition only works as a strategy if you have time. The tax bridge
+buys that time.
+
 ### Prong 2: This Year and Ongoing (Community Gets to Work)
 
 *Timeline: Weeks to months to start preparing, ongoing. Ownership:
