@@ -63,7 +63,20 @@ on fixed income the same as a dual-income household. Options:
 - A community-funded "tax relief" pool where willing residents voluntarily
   cover the increase for a neighbor who can't - the same "sponsor a neighbor"
   model that could work for PTA memberships and school photos
-- Phase the increase with a political commitment to a "sunset": Legally, NJ tax levy exceptions become part of the permanent base — one school board cannot legally force a future board to lower taxes. Therefore, a "sunset" must be a binding political promise: the board explicitly commits that as Prong 3 savings (like a new solar PPA or healthcare reform) are realized, they will vote to reduce the tax levy proportionally rather than spending the savings elsewhere. It requires community oversight to ensure the temporary bridge doesn't become a permanent raise.
+- Phase the increase with a political commitment to a "sunset": NJ law
+  treats levy exceptions differently depending on type. One-time or special
+  exceptions (like the 2024-25 stabilized aid adjustment) don't carry over.
+  Regular exceptions for enrollment, health care, and pensions raise the
+  current year's levy — and that higher amount becomes the base used to
+  calculate *next* year's 2% cap — but they aren't permanently binding on
+  future years. More fundamentally, one school board cannot legally force
+  a future board to lower taxes; each board sets its own budget under
+  N.J.S.A. 18A:7F-37. So a "sunset" has to be a binding political promise:
+  the board explicitly commits that as Prong 3 savings (a new solar PPA,
+  healthcare reform) are realized, they will vote to reduce the levy
+  proportionally rather than spending the savings elsewhere. It requires
+  community oversight to ensure the temporary bridge doesn't become a
+  permanent raise.
 
 **Ask the union for a temporary sacrifice.** This is politically
 explosive, but it's honest: if the community is stepping up (prong 2)

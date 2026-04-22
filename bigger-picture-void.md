@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Void"
+title: "The Limits of the Void"
 parent: "The Bigger Picture"
 nav_order: 2
 ---
@@ -196,8 +196,9 @@ The time-economy thought experiment reveals the gap between what things
 
 The thought experiment has a deliberate weakness, and it's worth being
 honest about it rather than hand-waving past it. The "Void" works great
-for things that are easy to produce locally. Tylenol can be made anywhere -
-it's the same pill in every building. 
+for things that are easier to produce at scale. Tylenol can be manufactured
+in many places with the right regulated facilities — it's the same pill in
+every building.
 
 But what happens when the outside world invents something so complex, so
 expensive, and so transformative that our little isolated town couldn't
