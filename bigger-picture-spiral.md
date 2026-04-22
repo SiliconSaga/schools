@@ -112,14 +112,14 @@ is a snowball that frees up a bit of budget. Each structural cost removed
 ([Prong 3](bigger-picture-action#prong-3-multi-year-structural-changes-community-researches-district-executes))
 is a snowball that rolls downhill and picks up mass.
 
-A $50,000 [grant writing](11-grant-writing) win funds a position. That
-position's healthcare costs $15,000 less because the district
-[switched to a better plan](05-health-insurance). That savings funds half
-a [solar PPA](09-energy-facilities) assessment. The solar PPA saves
-$30,000/year in energy costs. That $30,000 covers a
+A [grant writing](11-grant-writing) win brings in external funding. Some of
+that offsets a position whose [healthcare costs](05-health-insurance) dropped
+because the district switched to a better plan. Those healthcare savings help
+justify a [solar PPA](09-energy-facilities) assessment. The solar PPA
+produces annual energy savings. Those savings help retain a
 [para](04-paraprofessional-audit) who was going to be cut. That para's
-retention avoids a potential due-process lawsuit that would have cost ten
-times more.
+retention avoids a potential due-process dispute that could have cost far
+more than the savings.
 
 No single step is dramatic. But like compound interest, the gains accelerate
 over time because each round starts from a higher base. The first year is
