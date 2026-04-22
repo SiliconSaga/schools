@@ -9,7 +9,7 @@ nav_order: 2
 
 *What if we stripped everything away and asked what things actually cost?*
 
-![The Void: West Orange Quarter-Orange](images/WestOrangeVoid.png)
+[![The Void: West Orange Quarter-Orange](images/thumb/WestOrangeVoid.png)](images/WestOrangeVoid.png)
 
 ---
 
@@ -21,7 +21,7 @@ Let's see what it takes to run a school district from first principles.
 
 ## Setting the Stage
 
-![The Village - Self-Sufficient](images/WestOrangeVoid2a.png)
+[![The Village - Self-Sufficient](images/thumb/WestOrangeVoid2a.png)](images/WestOrangeVoid2a.png)
 
 **Shelter:** West Orange still exists, so we have that. There's a bit of a
 Marvel-style Snap/Blip situation since not everybody who works here lives
@@ -39,7 +39,7 @@ The basics are covered. Now let's build a school district.
 
 ## What Does a School Actually Need?
 
-![First Trade - The Dock Appears](images/WestOrangeVoid2b.png)
+[![First Trade - The Dock Appears](images/thumb/WestOrangeVoid2b.png)](images/WestOrangeVoid2b.png)
 
 **Textbooks.** In the time-economy, a knowledgeable professional writes one,
 someone prints it, kids read it. That's a finite investment of skilled time.
@@ -65,7 +65,7 @@ scissors, right?
 
 Who would add absurd markups just to tag something as "medical grade"?
 
-![The Middlemen Arrive](images/WestOrangeVoid2c.png)
+[![The Middlemen Arrive](images/thumb/WestOrangeVoid2c.png)](images/WestOrangeVoid2c.png)
 
 ### The Markup Gallery
 
@@ -156,7 +156,7 @@ again - because the actual work was never the expensive part.
 
 ## How Greed Creeps In
 
-![Extraction - The Village Squeezed](images/WestOrangeVoid2d.png)
+[![Extraction - The Village Squeezed](images/thumb/WestOrangeVoid2d.png)](images/WestOrangeVoid2d.png)
 
 Our hypothetical West Orange starts clean. Direct exchanges, no overhead
 beyond the time spent moving things around. But watch what happens over time:

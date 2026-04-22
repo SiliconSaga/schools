@@ -94,7 +94,7 @@ of each intermediary adding cost, each removal passes savings forward.
 
 ### Snowballs, not silver bullets
 
-![The Snowball Effect](images/SnowballEffect.png)
+[![The Snowball Effect](images/thumb/SnowballEffect.png)](images/SnowballEffect.png)
 
 It's easy to look at a $14 million deficit and dismiss community efforts as
 too small to matter. A volunteer leaf-blowing brigade doesn't close a $14M

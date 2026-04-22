@@ -9,7 +9,7 @@ nav_order: 1
 
 *Where is our money actually going?*
 
-![The Vanishing Pie Slice](images/TheVanishingPieSlice.png)
+[![The Vanishing Pie Slice](images/thumb/TheVanishingPieSlice.png)](images/TheVanishingPieSlice.png)
 
 ---
 

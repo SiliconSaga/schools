@@ -7,7 +7,7 @@ has_children: true
 
 # The Bigger Picture
 
-![West Orange - Community Glow](images/WestOrangeGlow.png)
+[![West Orange - Community Glow](images/thumb/WestOrangeGlow.png)](images/WestOrangeGlow.png)
 
 The whitepaper modules propose specific things the community can do right now.
 These pages step back and ask: why is this happening, and what would it take

@@ -9,7 +9,7 @@ nav_order: 4
 
 *From theory to three prongs: fix the right now, fix the process, fix the economics.*
 
-![The Three-Prong Bridge](images/ThreeProngBridge.png)
+[![The Three-Prong Bridge](images/thumb/ThreeProngBridge.png)](images/ThreeProngBridge.png)
 
 ---
 

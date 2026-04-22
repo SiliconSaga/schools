@@ -7,7 +7,7 @@ permalink: /
 
 # Community Solutions for the School Budget Crisis
 
-![West Orange Schools - Our Community's Future](images/HandsHoldingSchool.png)
+[![West Orange Schools - Our Community's Future](images/thumb/HandsHoldingSchool.png)](images/HandsHoldingSchool.png)
 
 **A Resource-Optimized Model for District Stability**
 *Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
@@ -28,7 +28,7 @@ organized community could do? ([More about this site](about))*
 
 ## The Action Plan: Flatten the Curve
 
-![Flatten the Budget Curve](images/FlattenTheBudgetCurve.png)
+[![Flatten the Budget Curve](images/thumb/FlattenTheBudgetCurve.png)](images/FlattenTheBudgetCurve.png)
 
 During early COVID, the entire country mobilized to "flatten the curve" -
 not to cure the disease, but to keep hospitals from collapsing while better
@@ -66,7 +66,7 @@ Each prong justifies the others. Taxes buy time. Community effort justifies
 the taxes. Cost reduction justifies reducing the taxes over time. None works
 alone. All three together, with a timeline.
 
-![What Can You Do For West Orange?](images/WhatCanYouDoForWestOrange.png)
+[![What Can You Do For West Orange?](images/thumb/WhatCanYouDoForWestOrange.png)](images/WhatCanYouDoForWestOrange.png)
 
 *Note: The email and QR code shown in the image above are placeholders and
 not active. To get involved, contact cervator@gmail.com*
