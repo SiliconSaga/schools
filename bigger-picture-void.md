@@ -192,37 +192,43 @@ now can't easily be removed.
 The time-economy thought experiment reveals the gap between what things
 *cost* and what we *pay*. The next question is: can we close that gap?
 
-## The Immortality Pill Problem
+## The Limits of the Void (The Sci-Fi Problem)
 
 The thought experiment has a deliberate weakness, and it's worth being
-honest about it rather than hand-waving past it.
+honest about it rather than hand-waving past it. The "Void" works great
+for things that are easy to produce locally. Tylenol can be made anywhere -
+it's the same pill in every building. 
 
-Tylenol can be made anywhere - it's the same pill in every building. But
-some things genuinely can't be made locally. GLP-1 medications (Ozempic,
-Wegovy, Mounjaro) require advanced biotech manufacturing, global supply
-chains, and billions in R&D. No amount of intermediary-stripping changes
-that. For complex production, **we must trade with the outside.**
+But what happens when the outside world invents something so complex, so
+expensive, and so transformative that our little isolated town couldn't
+possibly make it ourselves? GLP-1 medications (Ozempic, Wegovy, Mounjaro)
+require advanced biotech manufacturing, global supply chains, and billions
+in R&D. No amount of intermediary-stripping changes that. For complex
+production, **we must trade with the outside.**
 
-And sometimes what the outside produces is so transformative that it breaks
-the system.
+And sometimes what the outside produces is so transformative and expensive that the price
+of that trade threatens to break the system.
 
 ### The thought experiment
 
-Imagine someone invents a pill that grants biological immortality. It works.
+Let's push the sci-fi thought experiment one step further.
+
+Imagine someone in the outside world invents a pill that grants biological
+immortality. It works.
 But it costs $100,000 per year per person. You cannot give it to everyone.
 
 How do you allocate it fairly?
 
 Take a moment with this. There is no comfortable answer:
-- **Give it to everyone** - the system goes bankrupt. Nobody gets anything.
+- **Give it to everyone** - the system goes bankrupt and chaos erupts.
 - **Give it to nobody** - the pill exists, people know it works, and they
   watch others age and die while a solution sits on a shelf. The rage alone
   would tear society apart.
 - **Give it to whoever can pay** - the wealthy live forever, everyone else
-  doesn't. That's not a society, it's a caste system.
+  doesn't. There are dystopian movies about this.
 - **Ration by merit** - who decides merit? Politicians? Doctors? An
   algorithm? Every answer is monstrous in its own way.
-- **Lottery** - random, which feels fair and also feels insane.
+- **Lottery** - random, which might feel fair to some, yet also absurd and a rather inefficient distribution.
 
 There is no option where everyone is happy. Every path creates grief,
 anger, or injustice. The only honest response is: **acknowledge the
