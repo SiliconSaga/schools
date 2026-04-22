@@ -55,10 +55,10 @@ The [three-prong plan](bigger-picture-action#the-three-prong-plan) in detail:
 1. **Right now** - targeted tax increases using NJ's health insurance
    exception to the 2% cap, with community "sponsor a neighbor" programs to
    protect those who can't absorb it
-2. **This year and ongoing** - the community gets to work: PTAs, sports
-   leagues, volunteers, and working groups absorbing what they can, fixing
-   the governance process, making the budget transparent
-   (the [whitepaper modules](#document-index) below)
+2. **This year and ongoing** - the community starts preparing and building:
+   PTA fundraising, volunteer recruitment, sports league coordination,
+   improving governance and budget transparency - working with the district
+   to execute (the [whitepaper modules](#document-index) below)
 3. **Multi-year structural** - deeper changes the district executes with
    community research: healthcare restructuring, energy savings, cooperative
    purchasing, regulatory tools

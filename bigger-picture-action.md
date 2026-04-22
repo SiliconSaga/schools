@@ -127,23 +127,28 @@ just a cut. With a plan, it's an investment.
 
 ### Prong 2: This Year and Ongoing (Community Gets to Work)
 
-*Timeline: Weeks to months to start, ongoing. Ownership: Community -
-we can begin without waiting for permission.*
+*Timeline: Weeks to months to start preparing, ongoing. Ownership:
+Community starts building, district collaborates to execute.*
 
-This is the stuff the community can just *do*. No board vote needed.
-No contract to negotiate. People with skills and time stepping up:
+The community can begin preparing right away - researching, organizing,
+building platforms, recruiting volunteers. Some of these need district
+collaboration to fully execute, but the groundwork doesn't require
+permission:
 
-- [Instructional Bridge Grant](01-instructional-bridge) - PTA funds the
-  gap in art/library instruction
-- [Open Image Project](02-open-image-project) - community-run photography
-  as fundraiser
-- [Community Maintenance](03-community-maintenance) - neighbors caring for
-  school grounds
-- [Community Sports](19-community-sports) - leagues absorbing athletics
-- [Grant Writing](11-grant-writing) - community expertise pursuing funding
-  the district hasn't had time to chase
-- [Open Governance](06-open-governance) - fix the meeting process so the
-  conversations in Prong 3 can actually happen productively
+- [Instructional Bridge Grant](01-instructional-bridge) - PTA explores
+  funding models to help preserve art/library instruction
+- [Open Image Project](02-open-image-project) - build a community
+  photography platform and recruit volunteer photographers
+- [Community Maintenance](03-community-maintenance) - explore volunteer
+  coordination for grounds upkeep, starting with what's feasible
+- [Community Sports](19-community-sports) - connect with local leagues,
+  recruit high schoolers as assistant coaches for volunteer hours, explore
+  shared-use possibilities
+- [Grant Writing](11-grant-writing) - community expertise identifying and
+  pursuing funding the district hasn't had bandwidth to chase
+- [Open Governance](06-open-governance) - improve how we communicate and
+  collaborate so the conversations in Prong 3 can actually happen
+  productively
 - [Open Budget Tools](14-open-budget-tools) - make the numbers visible so
   everyone's working from the same facts
 
