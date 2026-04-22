@@ -82,10 +82,10 @@ Each step feeds the next. The savings *compound* through the community.
 
 Now imagine that same logic applied to multiple extraction points
 simultaneously:
-- Community-run photography eliminates the Lifetouch middleman (Module 2)
-- Volunteer maintenance eliminates the contractor premium (Module 3)
-- A grant writing team brings in external funding (Module 9)
-- Direct provider relationships reduce healthcare overhead (Module 5)
+- [Community-run photography](02-open-image-project) eliminates the Lifetouch middleman
+- [Volunteer maintenance](03-community-maintenance) eliminates the contractor premium
+- A [grant writing team](11-grant-writing) brings in external funding
+- [Direct provider relationships](05-health-insurance) reduce healthcare overhead
 
 Each one is modest on its own. Together, they shift the ratio of the pie
 back toward the community. The virtuous spiral is the opposite of the
@@ -103,17 +103,23 @@ in this whitepaper does.
 
 But that's not how compounding works.
 
-Each small saving is a snowball. The tax levy increase (Prong 1) buys time -
-it keeps the system alive while the snowballs start rolling. Each community
-effort (Prong 2) is a snowball that frees up a bit of budget. Each extraction
-cost removed (Prong 3) is a snowball that rolls downhill and picks up mass.
+Each small saving is a snowball. The tax levy increase
+([Prong 1](bigger-picture-action#prong-1-right-now-tax-bridge--temporary-sacrifice))
+buys time - it keeps the system alive while the snowballs start rolling.
+Each community effort
+([Prong 2](bigger-picture-action#prong-2-this-year-and-ongoing-community-gets-to-work))
+is a snowball that frees up a bit of budget. Each structural cost removed
+([Prong 3](bigger-picture-action#prong-3-multi-year-structural-changes-community-researches-district-executes))
+is a snowball that rolls downhill and picks up mass.
 
-A $50,000 grant writing win funds a position. That position's healthcare
-costs $15,000 less because the district switched to a better plan. That
-savings funds half a solar PPA assessment. The solar PPA saves $30,000/year
-in energy costs. That $30,000 covers a para who was going to be cut. That
-para's retention avoids a potential due-process lawsuit that would have cost
-ten times more.
+A $50,000 [grant writing](11-grant-writing) win funds a position. That
+position's healthcare costs $15,000 less because the district
+[switched to a better plan](05-health-insurance). That savings funds half
+a [solar PPA](09-energy-facilities) assessment. The solar PPA saves
+$30,000/year in energy costs. That $30,000 covers a
+[para](04-paraprofessional-audit) who was going to be cut. That para's
+retention avoids a potential due-process lawsuit that would have cost ten
+times more.
 
 No single step is dramatic. But like compound interest, the gains accelerate
 over time because each round starts from a higher base. The first year is
@@ -173,21 +179,22 @@ extraction layer that benefits neither side.
 
 ## Applying This to the School District
 
-The community exoskeleton from the whitepaper is a deflationary intervention.
-Every module targets extraction cost, not natural cost:
+The community exoskeleton from the whitepaper targets savings in different
+ways - some remove extraction, some bring in new revenue, some replace paid
+services with volunteer capacity:
 
-| Module | What it deflates |
-|--------|-----------------|
-| Bridge Grant | Replaces district overhead with direct PTA funding for the same teachers |
-| Open Image Project | Replaces corporate vendor markup with community-run fundraising |
-| Community Maintenance | Replaces contractor premium with volunteer labor |
-| Health Insurance Review | Replaces broker extraction with direct/state plan pricing |
-| Grant Writing | Replaces unfunded gaps with external money the district wasn't pursuing |
-| Open Governance | Replaces meeting-marathon overhead with async collaboration |
+| Module | Type of saving | How |
+|--------|---------------|-----|
+| [Bridge Grant](01-instructional-bridge) | Cost shift | PTA funds the same teachers directly - no new overhead |
+| [Open Image Project](02-open-image-project) | Extraction removal | Cuts out a corporate vendor; revenue stays local |
+| [Community Maintenance](03-community-maintenance) | Volunteer replacement | Neighbors replace a contractor - same work, no markup |
+| [Health Insurance Review](05-health-insurance) | Extraction removal | Strips broker middlemen and plan overhead |
+| [Grant Writing](11-grant-writing) | New revenue | Brings in external money the district wasn't pursuing |
+| [Open Governance](06-open-governance) | Efficiency | Reduces the time cost of decision-making for everyone |
 
-None of these cut teacher pay. None reduce educational quality. They reduce
-the *cost of delivering the same quality* by removing intermediaries who
-add cost without adding value.
+None of these cut teacher pay. None reduce educational quality. They each
+reclaim resources for the community through a different mechanism - but the
+effect compounds the same way.
 
 ---
 

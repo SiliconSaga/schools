@@ -87,54 +87,14 @@ volunteering. From survival to community building. The gentle deflationary
 spiral makes it possible because it gives everyone - teachers, parents,
 administrators, volunteers - a little more room to breathe.
 
-## The AI and Robotics Horizon
-
-This is the long arc, and it's worth being honest about: we don't know
-exactly how it plays out. But the direction is clear.
-
-- AI is already reducing the cost of administrative work, research, writing,
-  analysis, and coordination (this whitepaper is evidence of that)
-- Robotics is beginning to reduce the cost of physical tasks - manufacturing,
-  logistics, maintenance
-- Each reduction in cost is a reduction in the *time* someone must spend
-  earning money to afford that thing
-- Which means more time available for things that aren't about earning money:
-  community, family, creativity, rest
-
-The fear is that AI and robotics *replace* people and leave them destitute.
-That's the bad-deflation path - demand collapse because people have no income.
-
-The hope - and the goal of the gentle spiral - is that AI and robotics
-reduce *costs* fast enough that people don't need as much income to live
-well. If healthcare costs half as much, you don't need to earn as much to
-afford it. If administrative overhead drops, the school district doesn't
-need as large a budget. If coordination is nearly free, volunteer efforts
-become dramatically more efficient.
-
-The transition is the hard part. Right now we're in the worst of both
-worlds: costs are still high (extraction hasn't been removed) AND technology
-is beginning to displace work (but hasn't yet lowered costs for consumers).
-The intermediaries are capturing the productivity gains while passing the
-displacement costs to workers. That's the present crisis in a nutshell.
-
-The gentle deflationary spiral is the path from here to there:
-1. Remove extraction costs locally (the whitepaper modules)
-2. Use freed-up time and money to strengthen community capacity
-3. Apply better tooling to reduce overhead further
-4. Pass savings forward so the next round is easier
-5. Repeat until the community is resilient enough to absorb larger changes
-
-This doesn't require anyone to take a pay cut. It doesn't require the
-government to do anything. It just requires a community to start removing
-tolls from its own roads, one at a time, and letting the savings flow
-through.
-
 ## The Three-Prong Plan
 
 None of these prongs works alone. Together, they form a coherent multi-year
 strategy where each justifies the others.
 
-### Prong 1: Fix the Right Now (Bandaids + Targeted Tax Increases)
+### Prong 1: Right Now (Tax Bridge + Temporary Sacrifice)
+
+*Timeline: Months. Ownership: Board + union + community solidarity.*
 
 Some pain is unavoidable. But it should be *justified* pain, not aimless
 annual increases with no plan. Specifically:
@@ -165,10 +125,13 @@ permanent reduction, but a bridge. The key word is *temporary*, backed
 by a credible plan to restore and improve. Without a plan, a freeze is
 just a cut. With a plan, it's an investment.
 
-### Prong 2: Fix the Process (Community Exoskeleton)
+### Prong 2: This Year and Ongoing (Community Gets to Work)
 
-The community absorbs what it can. The district focuses its limited
-resources on what only the district can do. Specific modules:
+*Timeline: Weeks to months to start, ongoing. Ownership: Community -
+we can begin without waiting for permission.*
+
+This is the stuff the community can just *do*. No board vote needed.
+No contract to negotiate. People with skills and time stepping up:
 
 - [Instructional Bridge Grant](01-instructional-bridge) - PTA funds the
   gap in art/library instruction
@@ -176,51 +139,63 @@ resources on what only the district can do. Specific modules:
   as fundraiser
 - [Community Maintenance](03-community-maintenance) - neighbors caring for
   school grounds
-- [Paraprofessional Retention](04-paraprofessional-audit) - the position
-  the community *can't* replace, funded by savings from what it can
 - [Community Sports](19-community-sports) - leagues absorbing athletics
-- [Open Governance](06-open-governance) - async process so meetings produce
-  results
+- [Grant Writing](11-grant-writing) - community expertise pursuing funding
+  the district hasn't had time to chase
+- [Open Governance](06-open-governance) - fix the meeting process so the
+  conversations in Prong 3 can actually happen productively
+- [Open Budget Tools](14-open-budget-tools) - make the numbers visible so
+  everyone's working from the same facts
 
-This prong justifies prong 1 ("we're not just raising taxes - we're
-actively reducing costs from the community side") and creates the
-coordination infrastructure for prong 3.
+[Paraprofessional Retention](04-paraprofessional-audit) is the *goal* -
+the position the community can't replace, protected by savings from
+everything above.
 
-### Prong 3: Fix the Economics (The Gentle Spiral)
+This prong justifies prong 1 ("we're not just raising taxes - the
+community is actively shouldering what it can") and creates the
+coordination and transparency infrastructure that makes prong 3 possible.
 
-Systematically identify and remove extraction costs. This is the multi-year
-work that makes the other two prongs temporary rather than permanent:
+### Prong 3: Multi-Year Structural Changes (Community Researches, District Executes)
+
+*Timeline: Months to years. Ownership: District executes, community
+helps research, prepare, and advocate.*
+
+These are deeper changes that require district authority - contracts to
+sign, plans to switch, agreements to negotiate. The community can do
+the research, run the numbers, prepare the RFIs, and build the case.
+But an administrator needs to submit the procurement request.
 
 - **Healthcare:** [Direct provider relationships, reference-based pricing,
   community-scale dual plan](05-health-insurance) - the biggest single
-  lever, and the hardest to pull
-- **Procurement:** [Cooperative purchasing, shared services](10-cooperative-purchasing)
-  with neighboring districts using existing NJ frameworks
+  lever and the hardest to pull. The district signs the contracts;
+  community members with insurance, healthcare, or finance expertise
+  can research options and model scenarios.
 - **Energy:** [Solar PPAs, LED retrofits, utility-funded audits](09-energy-facilities) -
-  permanent savings that compound annually
-- **Revenue:** [Community grant writing corps](11-grant-writing) bringing
-  in external money the district wasn't pursuing
-- **Administration:** Tooling to reduce overhead, freeing staff time for
-  grant research, community coordination, and program development
-- **Governance:** [Open budget tools and participatory finance](14-open-budget-tools) -
-  transparency that reduces the cost of decision-making
+  permanent savings that compound annually. The district executes the
+  agreement; the community can identify vendors and model savings.
+- **Procurement:** [Cooperative purchasing, shared services](10-cooperative-purchasing)
+  with neighboring districts using existing NJ frameworks. Requires
+  inter-district agreements.
 - **Regulatory:** [Using existing state tools](13-regulatory-leverage) -
-  banked cap, Best Practices, cooperative frameworks
+  banked cap, Best Practices, cooperative frameworks. District decisions,
+  informed by community research.
+- **Administration:** Tooling to reduce overhead, freeing staff time for
+  grant research, community coordination, and program development.
 
-Each extraction removed passes savings forward. Each savings makes the
-next round easier. Over years - not months - the structural cost base
-shifts downward. The tax increases from prong 1 can phase out. The
-volunteer burden from prong 2 can shift from survival to enrichment.
+Each structural cost removed passes savings forward. Each savings makes
+the next round easier. Over years - not months - the cost base shifts
+downward. The tax increases from prong 1 can phase out. The volunteer
+burden from prong 2 can shift from survival to enrichment.
 
 ### How the three prongs reinforce each other
 
 ```
-Prong 1 (Taxes/Sacrifice)     Prong 2 (Community)      Prong 3 (Economics)
+Prong 1 (Tax Bridge)          Prong 2 (Community)      Prong 3 (Structural)
          │                           │                        │
-    Buys time ──────────────→ Absorbs functions ────→ Reduces costs
+    Buys time ──────────────→ Starts working ────────→ Reduces costs
          │                           │                        │
-    Revenue justifies ←──── Effort justifies ←──── Savings justify
-    the sacrifice              the tax increase        reducing the sacrifice
+    Justified by ←─────────── Enabled by ←─────────── Sustained by
+    community action            transparency              lasting savings
 ```
 
 Without prong 1, the system collapses before prongs 2 and 3 can work.

@@ -9,9 +9,15 @@ remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 color_scheme: dark
 
-# Social preview / Open Graph
-logo: "/images/thumb/WestOrangeGlow.png"
-og_image: "/images/thumb/HandsHoldingSchool.png"
+# Social preview / Open Graph (jekyll-seo-tag uses "image" key)
+image: "/images/thumb/HandsHoldingSchool.png"
+
+# Default image for all pages via front matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/images/thumb/HandsHoldingSchool.png"
 
 # Back to top link
 back_to_top: true

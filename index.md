@@ -52,14 +52,16 @@ they can't).
 
 The [three-prong plan](bigger-picture-action#the-three-prong-plan) in detail:
 
-1. **Fix the right now** - targeted tax increases using NJ's health insurance
+1. **Right now** - targeted tax increases using NJ's health insurance
    exception to the 2% cap, with community "sponsor a neighbor" programs to
    protect those who can't absorb it
-2. **Fix the process** - the community exoskeleton: PTAs, sports leagues,
-   volunteers, and working groups absorbing what the district can no longer
-   fund (the [whitepaper modules](#document-index) below)
-3. **Fix the economics** - systematically remove extraction costs over years
-   so the tax increases can phase out and the volunteer burden eases
+2. **This year and ongoing** - the community gets to work: PTAs, sports
+   leagues, volunteers, and working groups absorbing what they can, fixing
+   the governance process, making the budget transparent
+   (the [whitepaper modules](#document-index) below)
+3. **Multi-year structural** - deeper changes the district executes with
+   community research: healthcare restructuring, energy savings, cooperative
+   purchasing, regulatory tools
    ([The Bigger Picture](bigger-picture))
 
 Each prong justifies the others. Taxes buy time. Community effort justifies
