@@ -46,19 +46,17 @@ someone prints it, kids read it. That's a finite investment of skilled time.
 
 In the real economy, textbook prices have risen
 [1,041% from 1977 to 2015](https://www.nbcnews.com/feature/freshman-year/college-textbook-prices-have-risen-812-percent-1978-n399926) -
-three times the rate of inflation. Each new "edition" adds
-[12% to the price](https://educationdata.org/average-cost-of-college-textbooks)
-for trivially different content. Publishers keep
-[65% of what's paid](https://educationdata.org/average-cost-of-college-textbooks).
+three times the rate of inflation. Each new "edition"
+[adds 12% to the price, and publishers keep 65% of what's paid](https://educationdata.org/average-cost-of-college-textbooks).
 Who introduced a 1,000% markup into "person writes, person reads"?
 
-**Teachers.** You feed them, clothe them, get them some textbooks. Maybe some
-crayons. In the time-economy, teaching is a direct exchange: a skilled person
-gives time to children. How much can that really cost?
+**Teachers.** Teachers must be easy, right? You feed them, clothe them, get them
+some textbooks. Maybe some crayons. In the time-economy, teaching is a direct
+exchange: a skilled person gives time to children. How much can that really cost?
 
-Well - healthcare. Teachers need healthcare. The kids get booboos too. That
-can't be very expensive in the time-economy. How many teachers can one doctor
-patch up on average?
+Well - it is a bit more complicated when you look deeper. Like healthcare!
+Teachers get booboos too. That can't be very expensive to fix in the time-economy.
+How many teachers can one doctor patch up on average?
 
 **Healthcare.** Yeah, this is where it gets complicated. Cancer is no joke,
 even if this thought experiment reads a bit humorously. A local doctor could
@@ -76,15 +74,12 @@ Who would add absurd markups just to tag something as "medical grade"?
 > Hospitals have charged $546 for six liters. Some have published prices as
 > high as [$26,667 for a single bag](https://www.goodbill.com/hospital-price-of-saline).
 
-> **Tylenol** - one hospital charged
-> [$1.50 per tablet](https://www.thehealthy.com/healthcare/health-insurance/wildly-overinflated-hospital-costs/).
-> You can buy 100 tablets for $1.49 on Amazon. That's a 10,000% markup.
-
-> **Hospital Tylenol** is the purest example of the pattern. The acetaminophen
-> tablet a nurse hands you is the *exact same pill* you buy at CVS. Same
-> manufacturer, same dosage, same molecule. Hospitals charge
-> [$15-25 per individual pill](https://www.beckershospitalreview.com/supply-chain/10-immensely-overinflated-hospital-costs/).
-> The product didn't change. The building did.
+> **Tylenol** - the purest example of the pattern. The acetaminophen tablet
+> a nurse hands you in a hospital is the *exact same pill* you buy at CVS.
+> Same manufacturer, same dosage, same molecule. Hospitals charge
+> [$15-25 per individual pill](https://www.beckershospitalreview.com/supply-chain/10-immensely-overinflated-hospital-costs/) -
+> you can buy whole bottles of various sizes for less than $10. The product didn't change.
+> The building did.
 
 > **EpiPens** cost about
 > [$30 to manufacture](https://www.nbcnews.com/business/consumer/industry-insiders-estimate-epipen-costs-no-more-30-n642091)
@@ -96,10 +91,13 @@ Who would add absurd markups just to tag something as "medical grade"?
 > [$143.25 for needles it bought for 80 cents](https://www.newsweek.com/why-hospitals-mark-prices-1000-percent-343006).
 > That's a 17,806% markup.
 
-> **Brand-name drugs vs. generics** - when Lyrica's patent expired, its price
-> [plunged from $7 per capsule to $0.13](https://www.statnews.com/2024/11/04/drug-patents-behind-the-counter-series-patent-thickets-prescription-prices/).
-> Same molecule, same dosage, same effect. The $6.87 difference was paying
-> for a brand name, not a medicine.
+> **Brand-name drugs vs. generics** - when Lyrica's patent expired in 2019,
+> [nine generic competitors entered the market](https://xtalks.com/lyrica-patent-expiration-ushers-in-9-generic-competitors-1998/)
+> and the price collapsed. Branded Lyrica cost roughly $8 per capsule;
+> generic pregabalin is now
+> [under $0.25](https://www.goodrx.com/pregabalin).
+> Same molecule, same dosage, same effect. A 97% price drop because a
+> patent expired - not because the drug got cheaper to make.
 
 In the time-economy: a doctor examines a patient, administers salt water,
 and gives them a common pain reliever. That's an hour of skilled work and
@@ -113,14 +111,12 @@ call it the chargemaster.
 
 ## Everything Else the School Needs
 
-**Transportation.** West Orange has roads. Kids need to get to school. A bus
+**Transportation.** Kids need to get to school. A bus
 is a bus. In the time-economy, someone drives it for a few hours each day.
 In the real economy, transportation is one of the larger line items in a
 school budget - involving vendor contracts, fuel costs that fluctuate with
 global oil markets, procurement processes for the vehicles themselves, and
-layers of insurance and compliance. At our April 20 board meeting, a parent
-described an incident where their child was effectively lost on a
-vendor-managed bus route. In the time-economy, your neighbor drives your
+layers of insurance and compliance. In the time-economy, your neighbor drives your
 kid to school. In the real economy, a multinational fuel market and a
 procurement chain stand between your child and the building down the road.
 
@@ -143,6 +139,7 @@ worse. The overhead IS the product.
 engineers set up and maintain devices. In the real economy: a Chromebook
 purchasing contract, a Google Workspace licensing agreement, an IT services
 contract, a content filtering vendor, a student information system vendor,
+more overlapping communication apps than you can shake a stick at,
 and a cybersecurity audit firm. The child types on the same keyboard
 either way.
 
@@ -197,48 +194,123 @@ The time-economy thought experiment reveals the gap between what things
 
 ## The Immortality Pill Problem
 
-One more thought experiment, because it's happening right now.
+The thought experiment has a deliberate weakness, and it's worth being
+honest about it rather than hand-waving past it.
+
+Tylenol can be made anywhere - it's the same pill in every building. But
+some things genuinely can't be made locally. GLP-1 medications (Ozempic,
+Wegovy, Mounjaro) require advanced biotech manufacturing, global supply
+chains, and billions in R&D. No amount of intermediary-stripping changes
+that. For complex production, **we must trade with the outside.**
+
+And sometimes what the outside produces is so transformative that it breaks
+the system.
+
+### The thought experiment
 
 Imagine someone invents a pill that grants biological immortality. It works.
-But it costs $100,000 per year. You cannot give it to everyone. The elites
-can afford it. Everyone else watches, and grieves, and rages.
+But it costs $100,000 per year per person. You cannot give it to everyone.
 
 How do you allocate it fairly?
 
-This isn't hypothetical. GLP-1 medications (Ozempic, Wegovy, Mounjaro)
-are a less extreme version of the same problem. They're genuinely
-transformative for people with severe obesity and diabetes. They cost
-$1,000-1,300/month per person. They're being prescribed at scale - for
-medical necessity AND for cosmetic weight loss. And the insurance system
+Take a moment with this. There is no comfortable answer:
+- **Give it to everyone** - the system goes bankrupt. Nobody gets anything.
+- **Give it to nobody** - the pill exists, people know it works, and they
+  watch others age and die while a solution sits on a shelf. The rage alone
+  would tear society apart.
+- **Give it to whoever can pay** - the wealthy live forever, everyone else
+  doesn't. That's not a society, it's a caste system.
+- **Ration by merit** - who decides merit? Politicians? Doctors? An
+  algorithm? Every answer is monstrous in its own way.
+- **Lottery** - random, which feels fair and also feels insane.
+
+There is no option where everyone is happy. Every path creates grief,
+anger, or injustice. The only honest response is: **acknowledge the
+impossible trade-off, be transparent about it, and choose the least bad
+option while working to make the drug cheaper so the trade-off eases
+over time.**
+
+### This is happening right now
+
+GLP-1 medications are a less extreme version of the immortality pill. They
+are genuinely transformative - for people with severe obesity, type 2
+diabetes, and cardiovascular risk, they are life-changing and potentially
+life-saving. They cost $1,000-1,300/month per person. They're being
+prescribed at scale - for medical necessity AND for cosmetic weight loss.
+
+And the insurance system
 [can't absorb it](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/).
 GLP-1s are now the
-[top drug by spend](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
-in the NJ state health plans. Multiple insurers are
+[top drug by spend](https://www.nj.gov/treasury/news/2025/07092025.shtml)
+in the NJ state health plans - Wegovy alone is the single highest-cost drug
+across all three state programs. Employers report ~30% increases in GLP-1
+costs. Multiple insurers are
 [dropping coverage entirely](https://glp-1.com/article/glp-1s-insurance-cover-in-2026).
+This single drug category is a major driver of double-digit premium
+increases across the state - including the
+[29.7% increase recommended for the SEHBP](https://www.nj.gov/treasury/news/2025/07092025.shtml)
+and the ~18% increase our own district is facing.
 
-The immortality pill analogy differs in one interesting way: elites tend to
-be *less* obese, so they're less likely to need GLP-1s medically - but
-*more* able to pay out-of-pocket for cosmetic use. The insurance pool
-absorbs the cost of both the diabetic who needs it to live and the person
-who wants to lose 15 pounds. The pool breaks.
+### The uncomfortable choices
 
-In the time-economy, this is simpler: the community's doctor treats the
-people who are sick. The person who wants to look better can ask, but the
-sick person comes first. There's no insurance billing system to game, no
-prior authorization to navigate, no chargemaster to inflate.
+The same impossible menu from the immortality pill applies:
 
-In the real economy, we need a mechanism. What if:
-- Coverage prioritizes genuine medical necessity (diabetes, severe obesity
-  with comorbidities, cardiovascular risk)
-- Those using GLP-1s electively pay out-of-pocket but can contribute to a
-  fund that covers the medically necessary cases - the same "sponsor a
-  neighbor" principle that runs through this entire whitepaper
-- The insurance pool stops absorbing both, and the strain eases
+- **Cover everyone who wants it** - premiums spike, the insurance pool
+  breaks, teachers lose their jobs because the health plan can't be funded.
+  That's literally what's happening right now.
+- **Cover nobody** - people with genuine medical need suffer. Diabetes
+  progresses. Cardiovascular risk goes unmanaged. There's
+  [some evidence](https://aon.mediaroom.com/2026-01-13-Aons-Latest-GLP-1-Research-Reveals-Long-Term-Employer-Cost-Savings-and-Significant-Reductions-in-Cancer-Risk-for-Women)
+  that long-term GLP-1 use reduces hospitalization costs, but
+  [other research](https://sanford.duke.edu/story/new-research-glp-1-drugs-deliver-real-health-gains-not-short-term-cost-savings/)
+  finds no short-term cost offset. The savings may come eventually, but
+  people need the drug now.
+- **Cover only medical necessity** - this is where most systems are heading,
+  but "medical necessity" is a line drawn by humans, and every person on the
+  wrong side of it will feel the decision is unfair. A person with a BMI of
+  39 qualifies; a person with a BMI of 29 who is pre-diabetic doesn't. The
+  line saves the pool but it doesn't feel just.
+- **Drop coverage and let people pay out-of-pocket** - those who can afford
+  it get the drug, those who can't don't. We're back to the caste system.
 
-This is a microcosm of every allocation problem the community faces. The
-solution isn't rationing (nobody gets it) or uncapped access (the system
-breaks). It's community-mediated fairness: those who can, help those who
-need. That's the exoskeleton applied to healthcare.
+People will be unhappy no matter what. That's not a failure of the system -
+it's the nature of the problem. The drug is too good and too expensive for
+universal access *right now*.
+
+### The flatten-the-curve version
+
+The only path that doesn't end in despair is the same one we're proposing
+for the school budget: **buy time while the underlying economics change.**
+
+GLP-1s will get cheaper. Patents expire. Generics enter. Manufacturing
+scales. The Lyrica example from earlier in this page - $8 per capsule to
+under $0.25 once generics arrived - shows how dramatic the drop can be.
+But it takes years.
+
+In the meantime:
+- **Transparent triage** - honest, public criteria for who gets coverage,
+  reviewed by the community, not hidden in an insurance company's
+  prior-authorization algorithm
+- **Cost containment** - negotiate as a community or consortium rather than
+  accepting list prices; explore international pricing where legal
+- **Parallel investment in prevention** - DPC, community health programs,
+  nutrition access - not as a replacement for the drug but to reduce the
+  number of people who reach the point of needing it
+- **Accept the unhappiness** - some people who want the drug won't get it
+  covered. That's painful. Being honest about it is better than pretending
+  the pool can absorb unlimited demand, because that path ends with the
+  pool collapsing and *nobody* getting covered
+
+This is the hardest version of the community coordination problem. It's
+easier to organize a leaf blower brigade than to tell your neighbor their
+prescription won't be covered. But it's the same underlying question: how
+does a community allocate limited resources fairly, transparently, and with
+enough solidarity that people accept outcomes they don't like?
+
+The time-economy strips away the billing systems and chargemasters. It
+doesn't strip away the scarcity. Some things are genuinely hard, and the
+honest response is to face them rather than pretend they'll resolve
+themselves.
 
 ---
 

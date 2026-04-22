@@ -49,7 +49,7 @@ with health insurance consistently cited as a primary driver.
 
 A major accelerant of the current crisis: GLP-1 medications (Ozempic, Wegovy,
 Mounjaro, Zepbound) have become the
-[top drug category by spend](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+[top drug category by spend](https://www.nj.gov/treasury/news/2025/07092025.shtml)
 in the NJ state health plans. Employers nationally report
 [~30% increases in GLP-1 costs](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/)
 with usage higher than expected. Multiple insurers are
@@ -322,7 +322,7 @@ be moving: from paying intermediaries to manage our healthcare, to managing
 it ourselves with professional medical providers as partners rather than
 as vendors behind a corporate wall.
 
-See also: [The Virtuous Spiral](bigger-picture-spiral) for how this fits
+See also: [The Action Plan](bigger-picture-action) for how this fits
 into the broader three-prong strategy of immediate relief, community
 process, and long-term cost reduction.
 

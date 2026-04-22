@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Image Prompts"
+parent: "Appendix"
+nav_order: 4
+---
+
 # Image Generation Prompts
 
 Working prompts for site imagery. Style direction: warm, modern, accessible.
@@ -202,7 +209,53 @@ point - people immediately understand the concept.
 
 ---
 
-## 6. Hero/Cover Image (Optional)
+## 6. The Three-Prong Bridge (Journey Between Islands)
+
+**Concept:** Two quarter-orange islands, left and right, connected by three
+parallel bridges. The image reads left-to-right as a journey through time.
+
+**Left island (the present - struggling):** A quarter-orange slice showing
+the squeezed village from the void series (WestOrangeVoid2d.png style) -
+buildings slightly worn, the port/extraction area still visible, warm colors
+fading. This is where we are now. A small "Today" label.
+
+**Right island (the future - rejuvenated):** A quarter-orange slice glowing
+warmly like the WestOrangeGlow.png - the village is thriving again, buildings
+are well-kept, the school is prominent, gardens are lush, people are visibly
+active and connected. The extraction port is gone or shrunk to a small fair-
+trade dock. A small "Tomorrow" label.
+
+**Three bridges connecting them, running left to right in parallel:**
+
+- **Top bridge (stone/brick):** Labeled "Tax Bridge" - solid, structural,
+  clearly load-bearing but with visible scaffolding suggesting it's temporary.
+  A small clock or hourglass icon. This bridge is the most substantial near
+  the left island and tapers as it approaches the right - it's being phased
+  out as the other two take over.
+
+- **Middle bridge (wooden, community-built):** Labeled "Community" - built
+  from warm wood planks, with small figures of diverse community members
+  walking across carrying things (cameras, leaf blowers, clipboards, sports
+  equipment). This bridge is the widest and most active, with the most
+  visible human traffic. It stays strong the entire span.
+
+- **Bottom bridge (modern/clean):** Labeled "Cost Reduction" - sleek, with
+  subtle gear and solar panel motifs built into the railings. A downward-
+  trending line subtly etched into the surface. This bridge starts thin
+  near the left island and grows wider and more substantial as it approaches
+  the right - it takes time to build but becomes the dominant support.
+
+Small arrows or movement lines suggest traffic flowing from left to right.
+Below or above the image, space for: "All three. Together. With a timeline."
+
+**Style:** Same warm whimsical illustration style as the West Orange void
+series. Wide/landscape format. Match the art style of WestOrangeVoid.png
+and WestOrangeGlow.png. The left island should feel recognizably related
+to the void 2d image; the right island should feel like the glow image.
+
+---
+
+## 7. Hero/Cover Image (Optional)
 
 **Concept:** The West Orange quarter-orange from image #2, but zoomed
 out to show it whole, glowing warmly against a subtle dark background.

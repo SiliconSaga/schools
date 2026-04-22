@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Visual Concepts"
+parent: "Appendix"
+nav_order: 3
+---
+
 # Visual Concepts for the School Budget Crisis
 
 ## Visual 1: The Shrinking Slice - Three Pie Charts

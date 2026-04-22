@@ -50,7 +50,7 @@ the PTA meeting (transparent fundraising), and the kitchen table (deciding
 to sponsor a neighbor's tax increase or PTA membership because you can and
 they can't).
 
-The [three-prong plan](bigger-picture-spiral#the-three-prong-plan) in detail:
+The [three-prong plan](bigger-picture-action#the-three-prong-plan) in detail:
 
 1. **Fix the right now** - targeted tax increases using NJ's health insurance
    exception to the 2% cap, with community "sponsor a neighbor" programs to
@@ -129,8 +129,8 @@ broken at a level no school board can fix alone.
 
 Neither side is wrong about the other's plan being unworkable. **Both are
 right. And that's the problem.** The two sides are locked in escalating
-conflict, each convinced the other is the obstacle, while the actual problem
-- unsustainable underlying systems - goes unaddressed. Sound familiar? It's
+conflict, each convinced the other is the obstacle, while the actual problem - 
+unsustainable underlying systems - goes unaddressed. Sound familiar? It's
 the national two-party deadlock playing out at the local level.
 
 A third path can't get enough oxygen while everyone is trapped in that binary

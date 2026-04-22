@@ -29,3 +29,7 @@ considered.
 3. [**The Virtuous Spiral**](bigger-picture-spiral) - What if costs went
    *down* instead of always up? How to distinguish greed from genuine cost,
    and how every savings passed forward creates the next one.
+
+4. [**The Action Plan**](bigger-picture-action) - From theory to practice:
+   the three-prong plan (fix the right now, fix the process, fix the
+   economics), good vs. bad deflation, and the long game.
