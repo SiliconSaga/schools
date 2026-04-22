@@ -138,9 +138,12 @@ teachers" - that's a fear, not a plan. The multiplier is in the overhead:
 
 **Administrative toil.** A school administrator spends hours on procurement
 paperwork, compliance reporting, budget spreadsheets, and vendor management.
-If tooling cuts that from 20 hours/week to 5 hours/week, the other 15 hours
-can go to: grant research, community outreach, program development, or
-simply a less burned-out administrator who makes better decisions.
+If tooling cuts that from 20 hours/week to 5 hours/week, the goal isn't to
+eliminate their position. It's to liberate them from the grind. The other 15
+hours can be redirected to engaging, high-value work: grant research,
+community outreach, program development, and directly supporting students.
+A school district running on less overhead is a district that can afford to
+keep its people and let them do what they do best.
 
 **Coordination overhead.** Organizing 50 volunteers used to require a
 full-time coordinator. With modern scheduling tools, commitment tracking,

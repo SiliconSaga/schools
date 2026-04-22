@@ -14,7 +14,9 @@ permalink: /
 
 **Download PDF:** [Printable version (core modules)](whitepaper-print.pdf) | [Full version with links (all modules)](whitepaper.pdf)
 
-**Want to help or learn more?** Contact cervator@gmail.com
+**How You Can Help Right Now**
+We are looking for people willing to lead or join working groups focused on these specific modules. If you have expertise in healthcare, finance, grant writing, or community organizing—or just want to help build this out—please reach out!
+**Contact:** cervator@gmail.com *(temporary address while we organize dedicated channels)*
 
 **Start here:** [Read the Executive Summary](00-executive-summary) for the full picture. The document index below is for navigating the details.
 

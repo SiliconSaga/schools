@@ -34,26 +34,28 @@ strategy where each justifies the others.
 
 *Timeline: Months. Ownership: Board + union + community solidarity.*
 
-**The investment case:** Think of this like a surge deployment - similar to
-how COVID emergency funding was explicitly temporary, meant to keep systems
-alive while they adapted. We're asking the community to invest more *now*
-so the school system can modernize and become more cost-effective *after*.
-The tax increase isn't a permanent new cost of living - it's a time-limited
-bridge that funds stability while prongs 2 and 3 reduce the structural
-cost base. By year 2-3, the process improvements and cost reductions should
-start producing measurable dividends. The goal: sunset the increase once
-the process reform, community exoskeleton and structural savings have closed 
-enough of the gap to make it unnecessary.
+**The proposal.** NJ law already allows school districts to
+[exceed the 2% tax cap specifically for healthcare cost
+increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
+With SEHBP recommending a 29.7% premium increase for 2026, this exception
+exists precisely for this moment. The idea is to use it to temporarily
+provide the district more revenue now — while prongs 2 and 3 build the
+structural savings that let the increase wind down over time. (For
+finance-minded readers who want the full mechanics of how NJ levy caps
+and exceptions work, Planet Princeton has
+[a good primer](https://planetprinceton.com/2024/12/21/a-primer-on-public-schools-and-property-tax-caps-in-n-j/).)
+
+**The investment case.** Think of this like a surge deployment - similar
+to how COVID emergency funding was explicitly temporary, meant to keep
+systems alive while they adapted. We're asking the community to invest
+more *now* so the school system can modernize and become more cost-
+effective *after*. The tax increase isn't a permanent new cost of living
+- it's a time-limited bridge that funds stability while prongs 2 and 3
+reduce the structural cost base. By year 2-3, the process improvements
+and cost reductions should start producing measurable dividends.
 
 Some pain is unavoidable. But it should be *justified* pain, not aimless
 annual increases with no plan. Specifically:
-
-**Use the health insurance tax levy exception.** NJ law already allows
-school districts to [exceed the 2% tax cap specifically for healthcare cost
-increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
-With SEHBP recommending a 29.7% premium increase for 2026, this exception
-exists precisely for this moment. The increase isn't unlimited - it's capped
-at the average state plan increase percentage - but it provides real room.
 
 **Protect those who can't afford it.** A flat tax increase hits a retiree
 on fixed income the same as a dual-income household. Options:
@@ -63,8 +65,17 @@ on fixed income the same as a dual-income household. Options:
 - A community-funded "tax relief" pool where willing residents voluntarily
   cover the increase for a neighbor who can't - the same "sponsor a neighbor"
   model that could work for PTA memberships and school photos
-- Phase the increase with a sunset clause: this is a bridge, not a
-  permanent raise, and it shrinks as prongs 2 and 3 take effect
+
+**Commit to sunsetting the surge.** The extra revenue from the health
+insurance exception should be paired with a public commitment: as Prong 3
+savings (healthcare reform, solar PPAs, cooperative purchasing) come
+online, the board votes to reduce the levy proportionally rather than
+spending the savings elsewhere. One board can't legally bind a future
+board on tax rates, so this has to be a political promise backed by
+community oversight - ideally an annual "sunset report" from the board
+showing what savings materialized and how much of the surge has been
+wound down. Without that discipline, the temporary bridge quietly becomes
+permanent.
 
 **Ask the union for a temporary sacrifice.** This is politically
 explosive, but it's honest: if the community is stepping up (prong 2)
