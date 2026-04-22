@@ -45,6 +45,31 @@ County](https://patch.com/new-jersey/westorange/budget-meltdowns-slam-schools-ac
 and [statewide](https://newjerseymonitor.com/2026/02/20/nj-school-budget-deficits/),
 with health insurance consistently cited as a primary driver.
 
+### The GLP-1 Factor
+
+A major accelerant of the current crisis: GLP-1 medications (Ozempic, Wegovy,
+Mounjaro, Zepbound) have become the
+[top drug category by spend](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+in the NJ state health plans. Employers nationally report
+[~30% increases in GLP-1 costs](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/)
+with usage higher than expected. Multiple insurers are
+[dropping weight-loss GLP-1 coverage entirely for 2026](https://glp-1.com/article/glp-1s-insurance-cover-in-2026).
+
+These drugs are genuinely transformative for people with severe obesity,
+diabetes, and cardiovascular risk. They're also being prescribed for cosmetic
+weight loss by people who can afford them out-of-pocket. The insurance system
+wasn't built to handle a single drug category that costs $1,000-1,300/month
+per person suddenly being prescribed at scale.
+
+The fairness question is stark: should the insurance pool - funded by everyone's
+premiums - cover GLP-1s for the person who medically needs it to manage
+diabetes AND the person who wants to lose 15 pounds? Currently both draw from
+the same pool, and the pool is breaking. A community that could distinguish
+genuine medical necessity from elective use - and perhaps enable those using
+it electively to help fund coverage for those who need it medically (the same
+"sponsor a neighbor" model applied elsewhere in this whitepaper) - would reduce
+the strain without denying anyone access.
+
 ## The Perth Amboy Precedent
 
 In January 2026, State Auditor David Kaschak published an audit finding that the
@@ -127,14 +152,25 @@ health benefits reform legislation, restructuring the plans available under SEHB
 The reform introduced the [NJ Educators Health Plan (NJEHP)](https://www.horizonblue.com/shbp/plans/medical-plans/local-education-employee-plans/nj-educators-health-plan-3)
 designed specifically for school employees.
 
-**Documented savings:** State actuaries validated that employers in the SEHBP
+**Past savings:** State actuaries validated that employers in the SEHBP
 [saved $462.7 million](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
-from Ch.44 changes - far surpassing the $300 million target. Districts spending
-at or above their adequacy level must use savings for property tax relief;
-districts below adequacy can apply savings to educational programs.
+from Ch.44 changes - far surpassing the $300 million target.
 
-**The question:** Is our district in the SEHBP, or are we on a private plan? If
-private, has a comparison been done? If not, why not?
+**The current reality (updated post-meeting):** The SEHBP is now itself in
+crisis. AON has recommended a
+[29.7% premium increase for plan year 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml),
+driven by [$254 million in cost overruns in 2025](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+and the explosion of GLP-1 drug costs (Ozempic, Wegovy, Mounjaro). Healthier
+employer groups are leaving the state plan, concentrating risk among those
+who stay. At the April 20 board meeting, the district presented evidence
+that they've already explored the state plan and made a switch several years
+ago that helped avoid even worse outcomes - but the state options themselves
+are now struggling with double-digit increases.
+
+**What this means:** The SEHBP may still be better than private alternatives,
+but "better than terrible" isn't a solution. The state plan alone won't save
+us. This is why the more creative options below matter - we need to address
+the root cause, not just shop between increasingly expensive middlemen.
 
 ### Option B: Joint Insurance Funds / Health Insurance Consortiums
 
@@ -227,6 +263,69 @@ insurance rates are often 300-500% of Medicare. It requires willingness to
 navigate balance billing disputes and may not be suitable as a first step, but
 it's worth understanding as part of the landscape.
 
+### Option F: Community-Scale Dual Plan (Longer-Term Vision)
+
+This is the most ambitious option - a thought experiment that points toward
+where healthcare could go if we're willing to rethink the model entirely.
+
+**The concept: split routine care from catastrophic coverage.**
+
+- **Layer 1 - Local primary care:** The district (or a broader community
+  entity) contracts directly with truly local, independent providers -
+  not chains with a local branch, but independent physicians and small
+  practices rooted in the community. A flat monthly fee covers routine
+  visits, preventive care, basic diagnostics, and common prescriptions.
+  No insurance middleman. No claims processing. No network restrictions.
+  The provider gets guaranteed patient volume and predictable revenue;
+  the community gets accessible, affordable primary care.
+
+- **Layer 2 - Catastrophic coverage:** A high-deductible plan (potentially
+  self-funded with stop-loss protection, or through the state plan) covers
+  hospitalizations, surgery, specialists, and major medical events. Because
+  Layer 1 keeps people healthier and out of the ER, claims on Layer 2 drop,
+  which lowers premiums over time.
+
+**Why local and independent matters:** A large health system or chain
+practice has its own overhead, executive compensation, and growth targets.
+An independent physician's costs are primarily their own time and supplies.
+Supporting independent providers also keeps healthcare dollars circulating
+locally rather than flowing to corporate headquarters elsewhere. Over time,
+the community can help reduce overhead for these providers too - shared
+administrative tools, community-maintained scheduling platforms, pooled
+purchasing of supplies - the same "globalize the knowledge, localize the
+implementation" approach applied to healthcare infrastructure.
+
+**How it interacts with employer insurance:** Many residents already have
+insurance through their employers. A community primary care arrangement
+would be supplemental - useful for those whose employer plans have high
+copays for primary care, and essential for those without employer coverage
+(part-time workers, gig workers, between-jobs residents). Participation
+would be voluntary.
+
+**The tax angle:** NJ law allows school districts to
+[exceed the 2% tax levy cap specifically for healthcare cost increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
+What if a portion of that increase funded a community primary care
+arrangement rather than just paying higher premiums to an insurance company?
+The money goes further because it's buying care directly rather than buying
+insurance that buys care. At the end of the year, any surplus returns as
+a tax credit.
+
+**Protecting those who can't afford it:** Not everyone can absorb a tax
+increase. The community can apply the same "sponsor a neighbor" model used
+for PTA memberships and school photos: willing residents voluntarily cover
+the increase for a neighbor who's struggling. This isn't charity - it's
+community self-insurance in its most literal form.
+
+This option requires significant legal, financial, and organizational work.
+It's not a next-month solution. But it represents the direction we should
+be moving: from paying intermediaries to manage our healthcare, to managing
+it ourselves with professional medical providers as partners rather than
+as vendors behind a corporate wall.
+
+See also: [The Virtuous Spiral](bigger-picture-spiral) for how this fits
+into the broader three-prong strategy of immediate relief, community
+process, and long-term cost reduction.
+
 ## The Scale of Potential Savings
 
 We are not making specific dollar promises. What we are saying:
@@ -266,5 +365,10 @@ There are further support options to acquire this and similar information if nee
 - [SEHBP overview (NJ Treasury)](https://www.nj.gov/treasury/pensions/hb-active-sehbp.shtml)
 - [Orange County Public Schools DPC model (HR Executive)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
 - [West Orange 18% premium increase (The Digest Online)](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
+- [SEHBP 29.7% rate increase recommendation for 2026 (NJ Treasury)](https://www.nj.gov/treasury/news/2025/07092025.shtml)
+- [SEHBP $254M cost overruns, GLP-1 drug impact (Benecard)](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+- [NJ health insurance tax levy cap exception (NJPSA)](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/)
+- [Direct contracting for self-funded plans (AssuredPartners)](https://www.assuredpartners.com/news-insights/blogs/employee-benefits/2024/the-power-of-direct-contracting-for-self-funded-health-plans/)
+- [Reference-based pricing primer (SHRM)](https://www.shrm.org/topics-tools/news/benefits-compensation/reference-based-pricing-another-self-insured-option-employers)
 
 [Back to Index](index) | Next: [Open Governance Pilot](06-open-governance)

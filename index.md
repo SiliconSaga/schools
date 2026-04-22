@@ -7,6 +7,8 @@ permalink: /
 
 # Community Solutions for the School Budget Crisis
 
+![West Orange Schools - Our Community's Future](images/HandsHoldingSchool.png)
+
 **A Resource-Optimized Model for District Stability**
 *Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
 
@@ -15,6 +17,59 @@ permalink: /
 **Want to help or learn more?** Contact cervator@gmail.com
 
 **Start here:** [Read the Executive Summary](00-executive-summary) for the full picture. The document index below is for navigating the details.
+
+*This site was built by one time-restrained nerd dad with three young kids,
+assisted responsibly by AI writing, image generation, and research tools. 
+The ideas are human; the legwork was accelerated. That's kind of the point:
+if one person can produce this with modern tools, imagine what a whole 
+organized community could do? ([More about this site](about))*
+
+---
+
+## The Action Plan: Flatten the Curve
+
+![Flatten the Budget Curve](images/FlattenTheBudgetCurve.png)
+
+During early COVID, the entire country mobilized to "flatten the curve" -
+not to cure the disease, but to keep hospitals from collapsing while better
+solutions were developed. Nobody thought their personal mask saved the ICU.
+But collectively, the small actions bought time for the big ones.
+
+We need a local version of the same thing. Our school system is the
+overwhelmed hospital. The $14M deficit is the spike in cases. And the
+community is the population that can flatten the curve - not by solving the
+underlying funding crisis overnight, but by absorbing what we can, reducing
+costs where we're able, and buying time for structural fixes to take effect.
+
+**What can you do for West Orange?**
+
+This isn't just about board meetings. It's about the doctor's office (pushing
+for direct primary care relationships), the accountant's desk (identifying
+grant opportunities), the sports field (leagues absorbing athletic programs),
+the PTA meeting (transparent fundraising), and the kitchen table (deciding
+to sponsor a neighbor's tax increase or PTA membership because you can and
+they can't).
+
+The [three-prong plan](bigger-picture-spiral#the-three-prong-plan) in detail:
+
+1. **Fix the right now** - targeted tax increases using NJ's health insurance
+   exception to the 2% cap, with community "sponsor a neighbor" programs to
+   protect those who can't absorb it
+2. **Fix the process** - the community exoskeleton: PTAs, sports leagues,
+   volunteers, and working groups absorbing what the district can no longer
+   fund (the [whitepaper modules](#document-index) below)
+3. **Fix the economics** - systematically remove extraction costs over years
+   so the tax increases can phase out and the volunteer burden eases
+   ([The Bigger Picture](bigger-picture))
+
+Each prong justifies the others. Taxes buy time. Community effort justifies
+the taxes. Cost reduction justifies reducing the taxes over time. None works
+alone. All three together, with a timeline.
+
+![What Can You Do For West Orange?](images/WhatCanYouDoForWestOrange.png)
+
+*Note: The email and QR code shown in the image above are placeholders and
+not active. To get involved, contact cervator@gmail.com*
 
 ---
 
@@ -40,7 +95,12 @@ things.**
 These aren't contradictions - they're symptoms of the same underlying problem.
 Systems like healthcare, insurance, and state education funding are
 fundamentally unsustainable in their current form, and local districts absorb
-the damage.
+the damage. Meanwhile at the state level, NJ
+[generates $1.5 billion less in revenue than it needs](https://www.njpp.org/publications/report/five-budget-time-bombs-facing-the-next-governor/)
+to cover expenses, corporate tax revenue is
+[declining by $235M](https://pub.njleg.state.nj.us/publications/budget/governors-budget/2026/tax_revenue_analysis_fy26.pdf),
+and school aid increases (3.6%) can't keep pace with per-pupil cost increases
+(7-20%). The squeeze comes from above and below simultaneously.
 
 **But here's what's worse: both dominant paths forward lead to system
 collapse.**
@@ -53,6 +113,19 @@ collapse.**
 - The **union's position** - maintain all positions and compensation levels -
   is financially unsustainable when costs keep rising faster than revenue.
   You can't conjure money that doesn't exist.
+
+To the board's credit, they presented evidence at the meeting that they've
+already explored some of the health insurance alternatives covered in our
+[Module 5](05-health-insurance) - including switching plans a few years ago to
+avoid even worse outcomes. But the alternatives themselves are struggling:
+the NJ State Employee Health Benefits Program (SEHBP) is recommending a
+[29.7% premium increase for 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml),
+driven by [$254 million in cost overruns in 2025](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+and the explosion of GLP-1 drug costs (Ozempic, Wegovy, Mounjaro). Healthier
+employer groups are leaving the state plan, concentrating risk and driving
+costs higher for those who stay. There may not be a good insurance option
+left - which is itself evidence that the underlying healthcare system is
+broken at a level no school board can fix alone.
 
 Neither side is wrong about the other's plan being unworkable. **Both are
 right. And that's the problem.** The two sides are locked in escalating
@@ -70,7 +143,7 @@ recognition that neither current path works - so that a third approach can
 start to grow.**
 
 That starts with fixing the process. A thousand people showed up and the best
-we could do was five hours of three-minute soundbites, heckling, and a polite
+we could do was hours of three-minute soundbites, heckling, and a polite
 wall behind a dais. Nobody workshopped anything. Nobody broke into groups.
 Nobody left with action items. The meeting format is designed for compliance,
 not collaboration.
