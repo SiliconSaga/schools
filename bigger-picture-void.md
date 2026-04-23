@@ -194,6 +194,8 @@ The time-economy thought experiment reveals the gap between what things
 
 ## The Limits of the Void (The Sci-Fi Problem)
 
+[![The village looking out at a distant biotech complex](images/thumb/WestOrangeDistantTrade.png)](images/WestOrangeDistantTrade.png)
+
 The thought experiment has a deliberate weakness, and it's worth being
 honest about it rather than hand-waving past it. The "Void" works great
 for things that are easier to produce at scale. Tylenol can be manufactured

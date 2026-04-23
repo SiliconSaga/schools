@@ -23,6 +23,8 @@ at the local level.
 
 ## Two Kinds of "Expensive"
 
+[![Worker and consumer separated by a bloated toll booth](images/thumb/Tollbooth.png)](images/Tollbooth.png)
+
 ### Natural cost (hard to avoid)
 
 - Raw materials genuinely cost more (lumber prices, fuel prices)

@@ -34,6 +34,8 @@ strategy where each justifies the others.
 
 *Timeline: Months. Ownership: Board + union + community solidarity.*
 
+<a href="images/WestOrangeTransformation11a.png" style="float: right; max-width: 220px; margin: 0 0 1rem 1.5rem;"><img src="images/thumb/WestOrangeTransformation11a.png" alt="Hourglass with the top chamber full of golden coins" style="width: 100%;" /></a>
+
 **The proposal.** NJ law already allows school districts to
 [exceed the 2% tax cap specifically for healthcare cost
 increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
@@ -94,10 +96,14 @@ functions could meaningfully shrink the gap without anyone losing their
 job. Attrition only works as a strategy if you have time. The tax bridge
 buys that time.
 
+<div style="clear: both;"></div>
+
 ### Prong 2: This Year and Ongoing (Community Gets to Work)
 
 *Timeline: Weeks to months to start preparing, ongoing. Ownership:
 Community starts building, district collaborates to execute.*
+
+<a href="images/WestOrangeTransformation11b.png" style="float: right; max-width: 220px; margin: 0 0 1rem 1.5rem;"><img src="images/thumb/WestOrangeTransformation11b.png" alt="Hourglass top dissolving as an orange foundation forms at the base" style="width: 100%;" /></a>
 
 The community can begin preparing right away - researching, organizing,
 building platforms, recruiting volunteers. Some of these need district
@@ -129,10 +135,14 @@ This prong justifies prong 1 ("we're not just raising taxes - the
 community is actively shouldering what it can") and creates the
 coordination and transparency infrastructure that makes prong 3 possible.
 
+<div style="clear: both;"></div>
+
 ### Prong 3: Multi-Year Structural Changes (Community Researches, District Executes)
 
 *Timeline: Months to years. Ownership: District executes, community
 helps research, prepare, and advocate.*
+
+<a href="images/WestOrangeTransformation11c.png" style="float: right; max-width: 220px; margin: 0 0 1rem 1.5rem;"><img src="images/thumb/WestOrangeTransformation11c.png" alt="West Orange village nearly completed on top of a glowing half-orange foundation" style="width: 100%;" /></a>
 
 These are deeper changes that require district authority - contracts to
 sign, plans to switch, agreements to negotiate. The community can do
@@ -161,16 +171,11 @@ the next round easier. Over years - not months - the cost base shifts
 downward. The tax increases from prong 1 can phase out. The volunteer
 burden from prong 2 can shift from survival to enrichment.
 
+<div style="clear: both;"></div>
+
 ### How the three prongs reinforce each other
 
-```
-Prong 1 (Tax Bridge)          Prong 2 (Community)      Prong 3 (Structural)
-         │                           │                        │
-    Buys time ──────────────→ Starts working ────────→ Reduces costs
-         │                           │                        │
-    Justified by ←─────────── Enabled by ←─────────── Sustained by
-    community action            transparency              lasting savings
-```
+[![Three-prong reinforcement cycle: Tax Bridge, Community, and Structural Savings mutually supporting each other](images/thumb/ArrowChart.png)](images/ArrowChart.png)
 
 Without prong 1, the system collapses before prongs 2 and 3 can work.
 Without prong 2, prong 1 is just throwing money at a broken system.
