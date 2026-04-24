@@ -66,7 +66,10 @@ on fixed income the same as a dual-income household. Options:
   don't know they qualify
 - A community-funded "tax relief" pool where willing residents voluntarily
   cover the increase for a neighbor who can't - the same "sponsor a neighbor"
-  model that could work for PTA memberships and school photos
+  model that could work for PTA memberships and school photos. See
+  [Tax Math](tax-math#sponsor-a-neighbor) for what this could actually
+  look like, including a worked-out example of what the increase costs
+  per household and an offer to help organize the matching.
 
 **Commit to sunsetting the surge.** The extra revenue from the health
 insurance exception should be paired with a public commitment: as Prong 3
