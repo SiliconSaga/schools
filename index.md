@@ -18,7 +18,7 @@ permalink: /
 We are looking for people willing to lead or join working groups focused on these specific modules. If you have expertise in healthcare, finance, grant writing, or community organizing—or just want to help build this out—please reach out!
 **Contact:** cervator@gmail.com *(temporary address while we organize dedicated channels)*
 
-**Start here:** [Read the Executive Summary](00-executive-summary) for the full picture. The document index below is for navigating the details.
+**Start here:** [**The Action Plan**](bigger-picture-action) — the three-prong strategy we're organizing around now, post-April 20: tax bridge, community effort, and long-term structural cost reduction. For the original whitepaper prepared for the April 20 board meeting, see the [Executive Summary](00-executive-summary). The document index below navigates all the details.
 
 *This site was built by one time-restrained nerd dad with three young kids,
 assisted responsibly by AI writing, image generation, and research tools. 

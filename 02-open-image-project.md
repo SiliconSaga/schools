@@ -36,11 +36,35 @@ These contracts are characterized by:
 
 - **Low kickbacks** to the district relative to the vendor's markup
 - **Third-party monetization** of student biometric data (facial images) / vendor retains copyright for pictures of *your* kid
-- **Overpriced packages** that many families skip or resent
-- **No digital originals** provided to families without premium payment (or simply not at all)
+- **Overpriced packages with manipulative tier pricing** — or at the
+  opposite extreme, only a single picture per kid with no retake.
+  See the concrete example below.
+- **No way to opt out cleanly:** families either pay the inflated
+  package price, get nothing, or burn time hunting for a workaround
 
 The district treats this as a minor convenience contract. It is actually a revenue
 leak and a data liability.
+
+### A concrete example
+
+Pricing and structure vary wildly between schools — even between two
+Lifetouch schools in the same general area. Here's a current real-world
+example (one parent, one school, 2026):
+
+- Smallest all-digital package: **$80** for 3 of 8 poses
+- Full all-digital package: **$90** for all 8 poses
+- No option to buy a single or two-pose digital — the floor is $80
+  or nothing
+
+The deliberate $10 spread between the "small" and "full" tier is
+engineered to make $90 feel like a deal. Classic dark-pattern pricing
+designed to push families up the ladder.
+
+Equally weird in the opposite direction: some schools take **only a
+single picture per kid**, total dice roll on whether it'll be any
+good or supremely awkward, with no retake or alternate to choose from.
+Same vendor, wildly different experience, and in neither case is the
+family meaningfully in control of what they end up with.
 
 ## The Proposal: Community-Owned Digital Photography
 
@@ -67,8 +91,7 @@ teachers in the building."
 The model borrows from what some PTAs already do with membership fees: a
 suggested donation covers your family's photos, and an optional second
 contribution sponsors photos for a family that can't afford it. No child goes
-without a school photo, and no parent is pressured into a $50+ package they
-don't want.
+without a school photo, and no parent is pressured into $80+ packages that do not fit their actual desires.
 
 The actual donation amount depends on the district's enrollment and the
 current vendor contract terms (obtainable via [RFI Template A](07-rfi-templates)).
