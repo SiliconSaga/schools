@@ -477,6 +477,132 @@ handoff. Tall/portrait format.
 
 ---
 
+**Placement:** Time Economy appendix (`appendix-time-economy.md`).
+Three cartoony/whimsical images to carry a reader through what is
+otherwise a dense academic page. Lightly thematic (warm palette, hints
+of the site's orange motif where it fits) but more *funny civic
+cartoon* than *WestOrange-void series*. Should feel like New Yorker
+illustration, not children's book.
+
+## 12. The Five-MPH Commute (Illich, Energy and Equity)
+
+**Placement:** Appendix page (`appendix-time-economy.md`), in the Ivan
+Illich section — right next to the cars-at-walking-speed calculation.
+This is the showpiece illustration of the page.
+
+**Concept:** A side-by-side street scene. On the road, a mid-sized
+modern car is bumper-to-bumper stuck in traffic, a mildly frazzled
+driver gripping the wheel with a comic thought-bubble full of little
+icons: a dollar sign, a wrench, a gas pump, a clock, a small house
+with "mortgaged for parking" energy. Above the car, a dashboard
+speedometer visibly reads somewhere around **5 MPH**.
+
+On the sidewalk beside the car, a cheerful pedestrian is casually
+walking past — carrying groceries, dog on leash, possibly a small
+child on their shoulders — clearly about to overtake the car entirely.
+A dotted motion-line behind the pedestrian emphasizes forward progress.
+A little "5 MPH" or "walking pace" label floats near their feet too,
+to drive the joke.
+
+Background: a suburban street that reads as generically pleasant-New-
+Jersey — mixed houses, trees, maybe a glimpse of a small school
+building in the distance. A small **orange-slice mailbox** or an
+orange-slice graphic on a street sign somewhere as a subtle callback
+to the site's motif (easter-egg level, not dominant).
+
+**Style:** New Yorker / editorial cartoon feel. Light linework, warm
+palette with teals and oranges. A little whimsical but still clearly
+contemporary — not children's-book whimsy, more "thoughtful political
+cartoon." Readable at a glance: the joke lands even before you read
+any text.
+
+**Dimensions:** Wide/landscape, sized to sit cleanly mid-column in the
+appendix text.
+
+---
+
+## 13. The Bullshit Jobs Lineup (Graeber)
+
+**Placement:** Appendix page (`appendix-time-economy.md`), in the
+David Graeber section. Illustrates the five-type typology from
+*Bullshit Jobs*.
+
+**Concept:** A single wide panel showing five cubicles side by side,
+each with a differently-engaged cartoon office worker. Each cubicle
+has a small sign above it labeling the role. Warm civic-office setting,
+not dystopian — just *gently absurd*.
+
+Left to right:
+
+- **FLUNKY:** A beaming assistant holding a coffee cup and a folded
+  jacket, ready to hand over at a moment's notice. Exists to make
+  someone else look important.
+- **GOON:** A figure in a sharp suit holding a clipboard aggressively,
+  pointing at a laptop screen, vaguely menacing but clearly more style
+  than substance. A small banner on the cubicle wall says "SYNERGY."
+- **DUCT-TAPER:** A harried worker literally patching a leaky pipe
+  (or a glitchy computer) with actual duct tape, surrounded by small
+  signs of "we should really fix this properly" — a taped-up chair,
+  a propped-open door with a brick. Fixing problems that shouldn't
+  need fixing.
+- **BOX-TICKER:** Someone at a desk covered in stacks of paper,
+  cheerfully stamping forms and feeding them into an oversized filing
+  cabinet labeled "NOBODY READS THESE." The stacks clearly go nowhere.
+- **TASKMASTER:** A manager standing, pointing dramatically at a
+  whiteboard covered in arrows and boxes, while the four other workers
+  carry on doing their not-actual-work. Clearly creating work for
+  others rather than producing anything themselves.
+
+A small break-room table visible at the edge of the frame with an
+orange slice in a fruit bowl — site-motif easter egg.
+
+**Style:** Warm civic-office cartoon. Diverse workers. Exaggerated
+but not mean-spirited — these are people doing what the institution
+asked them to do. The critique is structural, not personal, and the
+image should feel that way. New Yorker cartoon sensibility.
+
+**Dimensions:** Wide/landscape, tall enough that each cubicle reads
+clearly. Could also work as a five-panel vertical strip if the wide
+aspect gets cramped.
+
+---
+
+## 14. The Eternal String Quartet (Baumol)
+
+**Placement:** Appendix page (`appendix-time-economy.md`), in the
+Baumol's cost disease section. Illustrates the core example —
+performing the same music still takes the same number of
+player-hours as it did 200 years ago.
+
+**Concept:** A split-panel image, left and right.
+
+- **Left panel (1800):** Four musicians in period dress — powdered
+  wigs, long coats, cravats — playing string quartet instruments
+  (two violins, viola, cello) in a candlelit parlor. Sheet music
+  labeled "Op. 131 — Beethoven." A small ticket price sign on a
+  stand: "**1800: 2 shillings**."
+- **Right panel (Today):** The same four musicians in the exact
+  same pose and same instruments, but in modern formal concert dress
+  under bright stage lighting. Same sheet music still labeled
+  "Op. 131 — Beethoven." A ticket price sign: "**Today: $85**."
+
+The musicians in both panels should be drawn *identically* in
+posture, expression, and arrangement — the point of the image is that
+nothing about the work has changed. Only the context (and the price)
+around it has.
+
+A small caption somewhere in/under the image: "*Same notes. Same
+hours. Different economy.*"
+
+**Style:** Clean editorial illustration. Warm but more sober than #12
+and #13 — this is a concept that benefits from being rendered
+straightforwardly so the viewer notices the details. Soft contrast
+between the candlelit left and stage-lit right.
+
+**Dimensions:** Wide/landscape with the split vertical down the middle.
+
+---
+
 ## Style Notes Across All Images
 
 - **Diverse community** - West Orange is diverse, imagery should reflect

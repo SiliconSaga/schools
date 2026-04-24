@@ -192,6 +192,13 @@ now can't easily be removed.
 The time-economy thought experiment reveals the gap between what things
 *cost* and what we *pay*. The next question is: can we close that gap?
 
+*(For readers curious where this kind of thinking comes from — it's a
+well-developed tradition in economics and philosophy, with names from
+Adam Smith to Ivan Illich to Elinor Ostrom. See the
+[Time Economy deeper-dive appendix](appendix-time-economy) for the
+academic lineage and a few lenses that map surprisingly cleanly onto
+the school budget conversation.)*
+
 ## The Limits of the Void (The Sci-Fi Problem)
 
 [![The village looking out at a distant biotech complex](images/thumb/WestOrangeDistantTrade.png)](images/WestOrangeDistantTrade.png)
