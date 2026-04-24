@@ -9,9 +9,9 @@ nav_order: 1
 
 > **Heads up — these numbers are community math, not official.** The
 > calculations on this page come from a screenshot circulating in local
-> PTA channels. The *math itself* is internally consistent (I've checked
-> it), but several of the inputs — the 67/33 school-vs-municipal split,
-> the 7.26% municipal figure, the 6.5% and 9% alternative school
+> PTA channels. The *math itself* is internally consistent, but several
+> of the inputs — the 67/33 school-vs-municipal split, the 7.26%
+> municipal figure, the 6.5% and 9% alternative school
 > scenarios — are community-attributed and have not been confirmed
 > against district or township records. That's a problem this page
 > exists to illustrate as much as solve. See [What's verified vs.
@@ -120,8 +120,8 @@ propose an [Open Budget & Participatory Finance](14-open-budget-tools)
 module and [Open Governance](06-open-governance) practices. A screenshot
 in a PTA group chat shouldn't be load-bearing civic infrastructure.
 
-A few sites and sources do exist, but they are scattered and not always
-very clear or complete.
+A few sites and sources usually exist with public information, but they
+are sporadic and not always very clear or complete.
 
 ## Sponsor a Neighbor
 
