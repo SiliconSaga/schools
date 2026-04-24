@@ -189,8 +189,8 @@ state-level advocacy.
 It is too early to outright volunteer to cover a tax we don't know
 the details of yet. But we could still discuss and organize. Anybody
 interested in helping organize the matching logistics — reach out:
-**cervator@gmail.com** (temporary address while dedicated channels get
-set up).
+**cervator@gmail.com** (may change later if efforts grow) or submit
+an issue to the [GitHub repo](https://github.com/SiliconSaga/schools/issues)
 
 ## How to get official numbers
 
@@ -222,11 +222,6 @@ a West Orange PTA channel. Author unattributed.
 
 [![Tax math screenshot — unconfirmed community source](images/thumb/TaxMath.jpeg)](images/TaxMath.jpeg)
 
-The screenshot also contains the author's editorial conclusion (about
-teachers leaving, property values, etc.) which we've omitted here — this
-page is intended as a working reference for the math, not a persuasive
-piece. The full screenshot has the author's framing for anyone who
-wants to read it.
 
 ---
 
