@@ -88,7 +88,11 @@ and investing in long-term cost reduction (prong 3), the union can
 contribute by accepting a temporary freeze or modest concession - not a
 permanent reduction, but a bridge. The key word is *temporary*, backed
 by a credible plan to restore and improve. Without a plan, a freeze is
-just a cut. With a plan, it's an investment.
+just a cut. With a plan, it's an investment. The case becomes more
+honest still if the community is also actively helping members keep
+more of what they already earn — see the [Mutualism](appendix-mutualism)
+appendix for an organized way the community can defray non-work costs
+for teachers without touching the salary line.
 
 **Let natural attrition work.** If the tax bridge buys three years of
 stability, normal retirement and turnover will create openings that

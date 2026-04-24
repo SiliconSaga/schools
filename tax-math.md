@@ -139,7 +139,10 @@ which the community can start *today*, is informal:
 dollars a year, you offer to cover the increase for a household that
 can't. No government forms, no means-testing paperwork, no tax code
 changes — just neighbors helping neighbors, organized through the PTA,
-a local faith community, or a simple shared list.
+a local faith community, or a simple shared list. For the
+*organized-service* cousin of this idea — where community donations
+fund ongoing things like lawncare or snow removal for teachers — see
+the [Mutualism](appendix-mutualism) appendix.
 
 I (the site author) would be happy to cover several local residents if
 needed, and I'd help build the coordination layer to organize it more

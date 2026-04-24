@@ -603,6 +603,106 @@ between the candlelit left and stage-lit right.
 
 ---
 
+**Placement:** Mutualism appendix (`appendix-mutualism.md`). Two warm
+neighborly scenes that illustrate (1) the vibe — people helping
+people in an organized way — and (2) the specific efficiency
+argument — one truck, many houses. Continues the New Yorker-cartoon
+visual vocabulary established by the Illich/Graeber/Baumol images.
+
+## 15. Neighbors Meeting on Lawn Day (The Two-Dog Scene)
+
+**Placement:** Appendix page (`appendix-mutualism.md`), near the top
+of the "Worked example: the lawn" section. Sets the warm tone of the
+page before the reader gets into the mechanics.
+
+**Concept:** A sunny Saturday morning suburban scene, front-yard view.
+On the lawn: a cheerful person is mowing — either a neighbor in
+casual weekend clothes or a uniformed lawn-care-company worker with
+a small truck visible in the driveway (artist's choice, both work
+for the page). The lawn belongs to an unseen teacher; subtle signals
+of "teacher lives here" include chalk drawings on the driveway, a
+"West Orange Schools" window cling, and a "Teacher of the Year"
+magnet on a car fender.
+
+On the sidewalk in front of the house, **two dog-walking neighbors
+are meeting by chance** — one walking from the left, one from the
+right, stopped in pleasant conversation as their **two dogs sniff
+each other amicably**. Dog 1: a sprightly medium-sized mutt (could
+be the same dog that appears in image #12's *Walking Car* scene — a
+small Easter-egg continuity). Dog 2: a goofy large golden-retriever-
+ish friend. The two dogs' leashes form a gentle X that doesn't
+tangle. The humans look diverse (age, ethnicity, gender), genuinely
+pleased to see each other, engaged in actual conversation rather
+than posed-for-viewer.
+
+The mowing activity is in the background; the dog-meeting is the
+foreground focus. The tone: this is a neighborhood that just... works.
+Not utopian — just unhurried and friendly on a Saturday morning.
+
+Subtle Easter eggs: an orange-slice sticker on a mailbox, or an
+orange-slice logo on the lawn-care truck door.
+
+**Style:** Warm New Yorker editorial cartoon — same sensibility as
+images #12-#14. Soft colors with strong teals and oranges in the
+foreground figures. Background houses modestly detailed, not
+hyper-realistic. Gentle sunlight, morning vibe. Slight whimsy in the
+dogs' expressions but human faces rendered with adult warmth, not
+cartoon exaggeration.
+
+**Dimensions:** Wide/landscape, sized to sit cleanly at the top of
+the worked-example section.
+
+---
+
+## 16. One Truck, Many Lawns (The Aggregation Scene)
+
+**Placement:** Appendix page (`appendix-mutualism.md`), in or near
+the "four-way win" table section. Visualizes the specific efficiency
+argument — a local firm can serve a whole block more cheaply than
+twenty scattered customers.
+
+**Concept:** A mid-distance, slightly-elevated view of a quiet
+suburban street or cul-de-sac with a row of six to eight houses
+visible. A single **lawn-care company truck** is parked somewhere
+in the middle of the block — compact, warmly-branded (not a megacorp
+vibe, more like "The Green Block Co." or similar local-business
+feel). A small crew of two or three workers is spread across adjacent
+lawns, simultaneously servicing multiple houses within a short walk
+of the truck. Lawn mowers in motion, neat stripes visible on already-
+finished yards.
+
+On the porches or front walks of the serviced houses, residents are
+visible — a teacher-coded person waving thanks, an older gentleman
+reading his paper while someone trims nearby, a parent and child
+watching from a living room window. **One of the residents is
+chatting with a crew member** — not commanding, just friendly, like
+they know each other from a previous visit.
+
+A small signboard or yard sign at the front of the street reads
+something like **"Teacher Support Block — sponsored by the
+PTA Fund"** — modest, handmade-looking, not corporate. (If the image
+generator struggles with legible sign text, skip the sign and let the
+scene speak for itself.)
+
+The crucial visual information: the truck and workers serve **many
+yards from one spot**. The efficiency is legible at a glance — no
+driving between jobs.
+
+Subtle Easter egg: a dog-walker figure on the sidewalk in the
+background, visibly the same dog-walker from images #12 and #15 —
+small continuity callback.
+
+**Style:** Warm civic illustration, same palette and sensibility as
+#15. A touch more editorial-infographic than storybook — the point of
+the image is partly educational (showing the aggregation benefit), so
+clarity beats whimsy. Crew and residents diverse and friendly. No
+corporate vibe, no big-brand signage.
+
+**Dimensions:** Wide/landscape. Could work as mid-column embed or
+section-header banner.
+
+---
+
 ## Style Notes Across All Images
 
 - **Diverse community** - West Orange is diverse, imagery should reflect
