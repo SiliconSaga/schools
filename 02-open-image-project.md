@@ -60,6 +60,18 @@ The deliberate $10 spread between the "small" and "full" tier is
 engineered to make $90 feel like a deal. Classic dark-pattern pricing
 designed to push families up the ladder.
 
+And the absurdity continues *after* payment. The digital pictures
+from that same order — paid for Friday afternoon at 1 pm — didn't
+appear in the parent's account until Tuesday morning at 10 am.
+**93 hours later.** Yes, a weekend was in there. But these are
+**digital files**. The site even offered to sell *multiples* of
+them, as if duplicating a JPEG had a marginal cost. There is no
+technical reason these aren't released the moment payment clears.
+The artificial delay is part of the product — friction creates the
+sense that something valuable was carefully prepared and delivered,
+when in reality it's a row in a database flipping from "false" to
+"true."
+
 Equally weird in the opposite direction: some schools take **only a
 single picture per kid**, total dice roll on whether it'll be any
 good or supremely awkward, with no retake or alternate to choose from.
