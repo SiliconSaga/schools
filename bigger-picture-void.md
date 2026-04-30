@@ -251,7 +251,7 @@ over time.**
 GLP-1 medications are a less extreme version of the immortality pill. They
 are genuinely transformative - for people with severe obesity, type 2
 diabetes, and cardiovascular risk, they are life-changing and potentially
-life-saving. They cost $1,000-1,300/month per person. They're being
+life-saving. They [can cost around $1,000/month per person](https://www.webmd.com/obesity/mounjaro-ozempic-wegovy-zepbound-difference). They're being
 prescribed at scale - for medical necessity AND for cosmetic weight loss.
 
 And the insurance system
