@@ -12,11 +12,16 @@ permalink: /
 **A Resource-Optimized Model for District Stability**
 *Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
 
+*This site is the West Orange (NJ) case study for [The Front State](https://frontstate.org) — a generational project to build the coordination layer ordinary communities are missing. The proposals here are an early working test of the approach.*
+
 **Download PDF:** [Printable version (core modules)](whitepaper-print.pdf) | [Full version with links (all modules)](whitepaper.pdf)
 
 **How You Can Help Right Now**
 We are looking for people willing to lead or join working groups focused on these specific modules. If you have expertise in healthcare, finance, grant writing, or community organizing—or just want to help build this out—please reach out!
-**Contact:** cervator@gmail.com *(temporary address while we organize dedicated channels)*
+
+**Contact:**
+- **volunteer@frontstate.org** — to help, contribute, or join a working group
+- **schools@frontstate.org** — general inquiries, press, or other districts curious about this case study
 
 **Start here:** [**The Action Plan**](bigger-picture-action) — the three-prong strategy we're organizing around now, post-April 20: tax bridge, community effort, and long-term structural cost reduction. For the original whitepaper prepared for the April 20 board meeting, see the [Executive Summary](00-executive-summary). The document index below navigates all the details.
 
@@ -73,7 +78,7 @@ alone. All three together, with a timeline.
 [![What Can You Do For West Orange?](images/thumb/WhatCanYouDoForWestOrange.png)](images/WhatCanYouDoForWestOrange.png)
 
 *Note: The email and QR code shown in the image above are placeholders and
-not active. To get involved, contact cervator@gmail.com*
+not active. To get involved, contact volunteer@frontstate.org*
 
 ---
 

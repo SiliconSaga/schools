@@ -192,8 +192,8 @@ state-level advocacy.
 It is too early to outright volunteer to cover a tax we don't know
 the details of yet. But we could still discuss and organize. Anybody
 interested in helping organize the matching logistics — reach out:
-**cervator@gmail.com** (may change later if efforts grow) or submit
-an issue to the [GitHub repo](https://github.com/SiliconSaga/schools/issues)
+**volunteer@frontstate.org** or submit an issue to the
+[GitHub repo](https://github.com/SiliconSaga/schools/issues)
 
 ## How to get official numbers
 

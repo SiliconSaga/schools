@@ -220,7 +220,7 @@ This is explicitly an *unfinished* idea. It's offered here as
 prototype thinking, not a proposal ready for board action. If it
 resonates with you — if you'd be interested in donating to a pilot,
 or helping coordinate one, or you're a teacher who'd be willing to
-be in the first opt-in cohort — reach out: **cervator@gmail.com**.
+be in the first opt-in cohort — reach out: **volunteer@frontstate.org**.
 
 If enough people find this compelling to actually try, we'll upgrade
 it from an appendix page to a full module with real coordination
