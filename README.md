@@ -3,7 +3,7 @@
 Community proposals for bridging the West Orange school budget gap through
 transparency, volunteer coordination, and shared service grants.
 
-**Live site:** [schools.siliconsaga.net](https://schools.siliconsaga.net)
+**Live site:** [schools.frontstate.org](https://schools.frontstate.org)
 
 ## What's Here
 

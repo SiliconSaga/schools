@@ -42,7 +42,7 @@ SUPPORTING_STACK = [
     "14-open-budget-tools.md",
 ]
 
-SITE_URL = "schools.siliconsaga.net"
+SITE_URL = "schools.frontstate.org"
 
 # Footnote tracking for print mode
 footnotes = []  # list of (number, url) tuples

@@ -131,7 +131,7 @@ includes additional modules on:
 sports volunteer. These proposals are aspirational and represent one community
 member's research into options. No organizations have been committed, and no
 promises are made about outcomes. The goal is to start a conversation about
-what the community can do to help. Full site: schools.siliconsaga.net*
+what the community can do to help. Full site: schools.frontstate.org*
 
 ---
 
