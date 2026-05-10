@@ -703,6 +703,73 @@ section-header banner.
 
 ---
 
+## 17. The Exoskeleton Begins (Next Year Hero)
+
+**Placement:** `next-year.md`, near the top of the page — likely
+just under the opening italicized paragraph, before "What we lost,
+and what we're not pretending." Sets the tone for the page: the
+cuts happened, but here is the community arriving with tools, ready
+to start the next round of work.
+
+**Concept:** Medium-distance view of a school building (recognizable
+as an elementary school but not any specific one), with light wooden
+scaffolding wrapping part of one side — *the "community exoskeleton"
+made literal*. Around the base of the building, a diverse group of
+community members is arriving with tools and supplies, ready to get
+started. The lighting is early-morning / sunrise — warm but not yet
+midday.
+
+Each figure carries something specific that maps to a piece of the
+work the page describes:
+
+- A parent with a small stack of envelopes (the parent-advocacy site
+  distribution — invite codes going home in backpacks)
+- Someone carrying a laptop and a small folding table (the platform
+  / data aggregation work)
+- A community member with a hammer and small toolbox (literal
+  building / facility maintenance)
+- Someone holding rolled-up blueprints or a clipboard with a printed
+  budget chart (planning / budget transparency)
+- A volunteer with a clipboard and a thermos of coffee (volunteer
+  coordination, the long-day energy)
+- A teen alongside a parent contributing in some small way
+  (multi-generational engagement, junior-coach-style)
+- One person with light gardening / lawncare tools (Mutualism
+  callback — teacher quality-of-life support)
+- Optionally: one person with a camera (Open Image Project callback)
+
+The figures should be looking ahead — toward the building, the
+horizon, or upward toward the scaffolding — not at the viewer and
+not directly at each other. The mood is **purposeful and gentle, not
+triumphal.** "We have a long day ahead and we're glad to be starting
+it." Reading: this is the *beginning* of the work, not the end.
+
+In the foreground: a small pile of wooden boards, a couple of paint
+buckets, and a stack of envelopes — supplies waiting to be picked
+up by someone arriving next.
+
+Sky: gentle sunrise — warm orange and pink fading to soft blue.
+Suggests beginning and possibility, but not naive utopia. The
+school building's windows pick up some of the sunrise warmth.
+
+Subtle site-motif Easter egg: a small orange-slice sticker on one of
+the toolboxes, or an orange-shaped magnet on the school's front
+door. Quiet, not dominant.
+
+**Style:** Warm civic illustration matching the visual vocabulary of
+`HandsHoldingSchool.png`, `WhatCanYouDoForWestOrange.png`, and
+`MutualisticYardCare.png` — *not* the New Yorker editorial cartoon
+style of the appendix images, and *not* the children's-book whimsy
+of the Void series. Something between: editorial illustration with
+warmth, human dignity, and clear reading. Diverse community members
+in modern clothing, stylized but recognizably real people.
+
+**Dimensions:** Wide/landscape, sized to sit cleanly at the top of
+the page beneath the opening paragraph. Tall enough that both the
+building's scaffolding and the figures at its base read clearly.
+
+---
+
 ## Style Notes Across All Images
 
 - **Diverse community** - West Orange is diverse, imagery should reflect
