@@ -2,10 +2,12 @@
 layout: default
 title: "The Action Plan"
 parent: "The Bigger Picture"
-nav_order: 4
+nav_order: 7
 ---
 
 # The Action Plan
+
+> **Archived.** This was the plan for the spring 2026 budget fight, which ended on May 4, 2026 when the Board adopted the budget with the cuts in place. The "right now" steps below are history. The approach still applies to the next budget cycle, so the page is kept as written apart from source and wording corrections made in October 2026. For what has happened since, see [The Ledger](/ledger/).
 
 *From theory to three prongs: fix the right now, fix the process, fix the economics.*
 
@@ -16,9 +18,9 @@ nav_order: 4
 The [Virtuous Spiral](bigger-picture-spiral) makes the case that costs
 *can* go down - not through painful cuts but by removing overhead and
 letting savings compound. It distinguishes
-[good deflation from bad](bigger-picture-spiral#good-deflation-vs-bad-deflation),
+[good deflation from bad](bigger-picture-deflation#good-deflation-vs-bad-deflation),
 shows how reduced overhead creates a
-[time dividend](bigger-picture-spiral#the-time-dividend) for the community,
+[time dividend](bigger-picture-tooling#the-time-dividend) for the community,
 and maps how each
 [whitepaper module](bigger-picture-spiral#applying-this-to-the-school-district)
 targets a different type of saving.
@@ -38,14 +40,16 @@ strategy where each justifies the others.
 
 **The proposal.** NJ law already allows school districts to
 [exceed the 2% tax cap specifically for healthcare cost
-increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
-With SEHBP recommending a 29.7% premium increase for 2026, this exception
-exists precisely for this moment. The idea is to use it to temporarily
+increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/) — only for the part of the district's health and prescription cost growth above 2%, and up to a state-set ceiling (the average State Health Benefits Program increase, 31.9% for 2026-27 per [NJDOE budget guidelines](https://www.nj.gov/education/budget/docs/2627/Budget_Guidelines_and_EDC_Manual_2627.docx)).
+With SEHBP premiums [rising 29.7% for 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml), this exception
+exists precisely for this moment. The idea is to use as much of that room as the law allows to temporarily
 provide the district more revenue now — while prongs 2 and 3 build the
 structural savings that let the increase wind down over time. (For
 finance-minded readers who want the full mechanics of how NJ levy caps
 and exceptions work, Planet Princeton has
 [a good primer](https://planetprinceton.com/2024/12/21/a-primer-on-public-schools-and-property-tax-caps-in-n-j/).)
+
+(The adopted 2026-27 budget included [a health care costs adjustment of $797,076](https://resources.finalsite.net/images/v1781713453/woboeorg/vfou8zw84m08eauibluv/Minutes-May42026.pdf) under N.J.S.A. 18A:7F-38(d), bringing the levy increase to 2.5%. How much more the district could have taken is not shown in the documents we have.)
 
 **The investment case.** Think of this like a surge deployment - similar
 to how COVID emergency funding was explicitly temporary, meant to keep
@@ -62,8 +66,8 @@ annual increases with no plan. Specifically:
 **Protect those who can't afford it.** A flat tax increase hits a retiree
 on fixed income the same as a dual-income household. Options:
 - Strengthen existing NJ property tax relief programs (Senior Freeze,
-  Homestead Benefit) through better outreach - many eligible residents
-  don't know they qualify
+  ANCHOR, Stay NJ) through better outreach - some eligible residents
+  may not know they qualify
 - A community-funded "tax relief" pool where willing residents voluntarily
   cover the increase for a neighbor who can't - the same "sponsor a neighbor"
   model that could work for PTA memberships and school photos. See

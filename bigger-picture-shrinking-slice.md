@@ -7,6 +7,8 @@ nav_order: 1
 
 # The Shrinking Slice
 
+> **Reviewed October 2026.** Written in spring 2026, during the school budget fight. Sources were re-checked and some wording corrected in October 2026.
+
 *Where is our money actually going?*
 
 [![The Vanishing Pie Slice](images/thumb/TheVanishingPieSlice.png)](images/TheVanishingPieSlice.png)
@@ -23,8 +25,8 @@ aren't printed locally), but the balance worked. The board and union could
 argue about the details because the fundamentals were sound.
 
 *Today*, that slice has shrunk while the demands within it have grown.
-Healthcare premiums have ballooned as private equity and insurance middlemen
-extract more and more from the system. Corporate vendors take their cut.
+Healthcare premiums have ballooned, and I believe private equity and insurance middlemen are taking a growing share along the way.
+Corporate vendors take their cut.
 Administrative overhead grows. The money that used to circulate locally is
 being siphoned outward - not because we're spending more frivolously, but
 because the cost of everything the district depends on has been inflated by
