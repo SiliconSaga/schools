@@ -29,7 +29,7 @@ into a single printable PDF with cover page, stripped metadata, and page footers
 # Requires Python 3 + reportlab
 pip install reportlab
 
-# Web version -- clickable links + footnotes, all modules (for digital sharing)
+# Web version -- clickable links, core + supporting modules (for digital sharing)
 python build-pdf.py --web
 # Output: whitepaper.pdf
 
@@ -69,4 +69,4 @@ fundraising, data visualization), your input would be especially valuable.
 ## Feedback
 
 - **Site improvements:** [GitHub Issues](https://github.com/SiliconSaga/schools/issues)
-- **School district feedback:** [West Orange feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform)
+- **School district feedback:** [the district's 2026-27 budget ideas form](https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform) (opened for the spring 2026 budget; it may no longer be monitored)

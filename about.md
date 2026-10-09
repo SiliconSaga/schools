@@ -36,8 +36,7 @@ The intent is to:
 These documents were researched, drafted, and organized over a few days using
 modern AI-assisted writing tools, web research, and publicly available data
 (news coverage, NJ state reports, legislative records, and published audits).
-All specific claims are sourced with links to primary or secondary sources --
-see [References & Source Links](20-references) for the full bibliography.
+The spring 2026 proposals tried to source specific claims with links, most of them collected in [References & Source Links](20-references). A review in October 2026 found that some of those sources do not support the claims they are attached to, and that some links have since died; treat the archived modules as starting points, not verified findings. The newer [Ledger](/ledger/) is held to a stricter standard: each entry is labelled with what it rests on (a district record, a quoted official statement, or a named press report) and links to it.
 
 The site is built with [Jekyll](https://jekyllrb.com/) and the
 [just-the-docs](https://just-the-docs.com/) theme, hosted on
@@ -50,4 +49,4 @@ The site is built with [Jekyll](https://jekyllrb.com/) and the
 - **Contribute directly:** Pull requests welcome
 - **Lend expertise:** If you know NJ school law, health insurance, grant writing,
   fundraising, or data visualization, your input would be especially valuable
-- **Give feedback to the district:** [West Orange feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform)
+- **Give feedback to the district:** [the district's 2026-27 budget ideas form](https://docs.google.com/forms/d/e/1FAIpQLSfPpBHw2F13tZXD54vfKXXNQywjaz93KaJXdMLWG0AnE51csw/viewform) (opened for the spring 2026 budget; it may no longer be monitored)

@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 15: Community Sports & Athletics Partnerships
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Volunteer Leagues, Junior Coaches, and the Multi-Organization Model*
 
 ---
@@ -33,7 +35,7 @@ parent: "Modules"
 School athletics are often among the first programs cut or fee-gated during
 budget crises. Across NJ, districts facing deficits have responded with:
 
-- **Pay-to-play fees** ranging from under $100 to over $1,000 per sport per student
+- **Pay-to-play fees**, for example $50 to $160 per sport at [Shrewsbury Borough School](https://www.sbs.k12.nj.us/get-involved/student-athletics/pay-to-play) and $100 per sport in Hillsborough in 2019 ([NJ 101.5](https://nj1015.com/pay-to-play-nj-school-districts-charging-fees-for-sports-and-clubs/))
 - Elimination of JV and middle school programs
 - Consolidation of teams across schools
 - Complete elimination of "non-mandated" athletic programs
@@ -73,10 +75,7 @@ can no longer fund.
 - Students participate through the league rather than through a school team
 - The district saves coaching stipends, equipment costs, and insurance premiums
 
-**NJ precedent:** The [NJ DCA shared services framework](https://www.nj.gov/dca/dlgs/sharedservices.shtml)
-covers facility-sharing between public entities and community organizations.
-Shared services agreements reported to DCA since 2011 have resulted in
-cumulative savings exceeding $28 million.
+**NJ precedent:** NJ already supports local governments in sharing services: the [NJ DCA shared services program](https://www.nj.gov/dca/dlgs/sharedservices.shtml) cites cumulative savings of more than $28 million from shared services agreements among local governments reported to DCA since 2011. Letting community leagues use school facilities is a separate matter, which [N.J.S.A. 18A:20-34](https://codes.findlaw.com/nj/title-18a-education/nj-st-sect-18a-20-34/) leaves to each board of education under its own rules.
 
 ### Model 2: League-Operated School Athletics
 
@@ -131,12 +130,10 @@ Several models already exist:
 
 - **[USYVL (United States Youth Volleyball League)](https://usyvl.org/volunteer/)**
   actively recruits teen assistant coaches. No experience needed; coaching clinics
-  provided. Weekly commitment of 3-4 hours. Explicitly positioned as a way to
+  provided. Weekly commitment of roughly 2-3 hours. Explicitly positioned as a way to
   fulfill high school community service requirements.
 
-- **PAL (Police Athletic League)** chapters across NJ use high school volunteers
-  as assistant coaches and referees. [NJ PAL](https://njpal.com) has established
-  frameworks for teen involvement.
+- **PAL (Police Athletic League)** chapters operate in a number of NJ towns, including [West Orange PAL](https://www.wopal.org/), and could use high school volunteers as assistant coaches and referees; I have not been able to confirm how individual chapters handle teen involvement.
 
 - **YMCA programs** recruit teen volunteers for youth sports coaching and mentoring
   across NJ locations.
@@ -155,8 +152,8 @@ for documented service hours. Examples:
   assistants for youth activities
 - [NJ High School Volunteers](https://njhsvolunteers.com/) connects students
   with service opportunities statewide
-- Many NJ high schools offer elective credit for community service (typically
-  70 hours per half-credit), though this is district-by-district policy, not a
+- Many NJ high schools offer elective credit for community service (for example,
+  one district requires 70 hours per half-credit), though this is district-by-district policy, not a
   state mandate
 
 ### Certification and Safety
@@ -165,18 +162,13 @@ For student volunteers in coaching roles:
 
 - **[SafeSport](https://safesport.org)** training is required by most national
   governing bodies (US Soccer, USA Basketball, etc.) for anyone in a coaching
-  role. The training is free. For minors, policies vary; some organizations
+  role. The parent and minor-athlete courses are free; I have not confirmed the cost of the coach course. For minors, policies vary; some organizations
   require the parent to complete it or the supervising adult coach to hold
   certification.
 
-- **NJ Background Checks (N.J.S.A. 18A:6-7.1):** NJ law requires criminal
-  background checks for school volunteers with regular student contact. For
-  volunteers under 18, background checks are generally not applicable, but
-  adult oversight is mandatory.
+- **NJ Background Checks (N.J.S.A. 18A:6-7.1):** NJ law requires criminal history checks for paid school staff with regular student contact, and allows (but does not require) a district to require them for volunteers ([NJDOE FAQ](https://nj.gov/education/crimhist/faq/)). For volunteers under 18, a check reveals little because juvenile records are not released, so adult supervision of teen volunteers would be a sensible program rule.
 
-- **League liability insurance** typically covers registered volunteers including
-  minors. AYSO, for example, explicitly includes teen referees and assistant
-  coaches under their coverage.
+- **League insurance** often extends to registered volunteers, including minors. AYSO regional pages, for example, describe all registered members, including referees and other volunteers, as covered persons under its accident insurance. Coverage terms should be confirmed with each league.
 
 ### School Credit Integration
 
@@ -228,9 +220,9 @@ these to district needs.
 - [NJ DCA Shared Services](https://www.nj.gov/dca/dlgs/sharedservices.shtml)
 - [All Kids Play youth sports grants](https://allkidsplay.org/youth-sports-grants/)
 - [USYVL volunteer coaching](https://usyvl.org/volunteer/)
-- [NJ PAL](https://njpal.com)
+- [West Orange PAL](https://www.wopal.org/)
 - [NJ High School Volunteers](https://njhsvolunteers.com/)
 - [SafeSport training](https://safesport.org)
 - [Rep. Gottheimer bipartisan legislation for youth sports affordability](https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-legislation-to-make-youth-sports-more-affordable)
 
-[Back to Index](index)
+[Back to Index](spring-2026#document-index)

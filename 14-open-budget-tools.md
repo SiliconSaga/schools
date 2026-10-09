@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 12: Open Budget & Participatory Finance
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *OpenCollective, Participatory Budgeting, and Budget Visualization as Proof of Concept*
 
 ---
@@ -35,7 +37,7 @@ parent: "Modules"
 [OpenCollective](https://opencollective.com) is a platform for transparent,
 community-managed fundraising and spending. Every dollar in and every dollar out
 is visible to anyone. It enables project-based directed giving, fiscal hosting
-through a 501(c)(3) sponsor, and real-time public ledger visibility.
+through a 501(c)(3) sponsor, and real-time public ledger visibility. (Note: Open Collective Foundation, the platform's main US 501(c)(3) fiscal host, dissolved at the end of 2024.)
 
 **For the full operational model** - including how to set up the PTA on
 OpenCollective, project-based fund structure, fiscal hosting options, corporate
@@ -55,8 +57,7 @@ successfully in:
 
 - **New York City** - the largest PB program in the US, allocating millions in
   city council discretionary funds
-- **Multiple NJ municipalities** - several have piloted PB for parks, infrastructure,
-  and community programs
+- **New Jersey municipalities** - [Freehold Borough](https://www.freeholdboroughnj.gov/boards/participatory-budgeting-committee) runs a yearly PB cycle for capital projects such as park upgrades and bicycle infrastructure, and Jersey City ran a [pilot in 2022](https://www.jerseycitynj.gov/news/pressreleases2022/mayorparticipatorybudgetingpilotprogramjcresidents)
 - **School districts nationally** - students vote on how to spend activity funds
   or improvement budgets
 
@@ -91,21 +92,19 @@ Participatory budgeting doesn't require custom software. Existing tools:
   the main US nonprofit promoting PB; maintains guides, case studies, and a
   [PB in Schools guide (PDF)](https://www.participatorybudgeting.org/wp-content/uploads/2016/10/PB-in-Schools-Guide_PBP.pdf)
 - **[PTAlink PB resources](https://ptalink.org/topic-areas/fundraising/participatory-budgeting-1)** --
-  PB guidance specifically for PTAs
+  PB guidance for NYC parent associations taking school projects into the city's PB process
 - **[Decidim](https://decidim.org/)** - open-source democratic participation platform
   ([GitHub](https://github.com/decidim/decidim)), used by Barcelona, Helsinki,
-  Mexico City, and [400+ instances worldwide](https://publicadministration.desa.un.org/good-practices-for-digital-government/compendium/decidim-multipurpose-open-source-platform-e)
+  Mexico City, and [400+ instances worldwide](https://decidim.org/usedby/)
 - **Stanford Participatory Budgeting Platform** ([pbstanford.org](https://pbstanford.org/)) --
-  developed the "knapsack voting" method
+  supports the "knapsack voting" method [developed by Stanford researchers](https://arxiv.org/pdf/2009.06856)
 - **Simple Google Forms + OpenCollective** for a quick pilot
 
 **Real examples:**
 - **[Phoenix Union HSD](https://participedia.net/case/5586)** launched the first
   US school district PB process using district-wide funds
-- **P.S. 139 in Brooklyn** runs PB with students and families to allocate Parent
-  Association and school funds
-- **Boston's [Youth Lead the Change](https://youth.boston.gov/youth-lead-the-change/)**
-  gives young people ages 12-25 control over $1M in city capital budget
+- **[P.S. 139 in Brooklyn](https://www.participatorybudgeting.org/pb-at-ps139/)** has run PB with students and families to allocate Parent Association and school funds
+- **Boston's [Youth Lead the Change](https://www.boston.gov/departments/youth-engagement-and-advancement/youth-lead-change)** gives young people ages 14-25 a say over $1M a year in the city's capital budget
 
 Long-term, this is exactly the kind of process a community coordination platform
 could manage.
@@ -120,8 +119,7 @@ transparency.
 
 ### The Proposal
 
-Take the district's published budget and CAFR (Comprehensive Annual Financial
-Report) and build an **interactive visualization**:
+Take the district's published budget and ACFR (Annual Comprehensive Financial Report, formerly called the CAFR) and build an **interactive visualization**:
 
 - Start with the total budget
 - Drill down: Instruction > Special Areas > Art Teachers > the 15 minutes being cut
@@ -131,17 +129,14 @@ Report) and build an **interactive visualization**:
 
 ### Why It Changes the Conversation
 
-When a parent can see that the cost of retaining one para is less than the
-district's annual spending on a single vendor contract, the "numbers are what
-they are" defense collapses. The numbers are exactly what they are - and now
-everyone can read them.
+If a parent could see, for example, that retaining one para costs less than some single vendor contracts, the "numbers are what they are" framing becomes much harder to sustain. The numbers are exactly what they are - and now everyone could read them.
 
 ### Tools
 
 - **ClearGov** - a commercial platform that visualizes municipal and school
-  budgets (some NJ districts already use it)
+  budgets
 - **Open Budget** tools (open-source municipal budget visualization frameworks)
-- A community-built visualization using the district's CAFR data and standard
+- A community-built visualization using the district's ACFR data and standard
   web charting libraries
 
 A community volunteer with data visualization skills could build a first version
@@ -151,4 +146,4 @@ Each tool proves a principle. Together, they prove the thesis: **open, community
 driven governance is not idealistic - it is operational, and the community is
 already doing it.**
 
-[Back to Index](index) | Next: [PTA Coordination](15-pta-coordination)
+[Back to Index](spring-2026#document-index) | Next: [PTA Coordination](15-pta-coordination)

@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 6: Open Governance Pilot
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *From Midnight Marathons to Asynchronous Coordination*
 
 ---
@@ -118,19 +120,18 @@ the board to interface with it.
 
 ## Legislative Tailwind
 
-NJ's [Open Public Meetings Act (N.J.S.A. 10:4-6 et seq.)](https://www.nj.gov/grc/public-information/open-public-meetings/)
+NJ's Open Public Meetings Act (N.J.S.A. 10:4-6 et seq.; [statute text](https://dep.nj.gov/wp-content/uploads/hpo/docs/law/open-public-meetings-act.pdf))
 already requires 48-hour advance notice of meetings, and the Legislature has
-repeatedly introduced bills to strengthen agenda-posting requirements. The
-trend is clearly toward more transparency, not less. This proposal lets the
-board get ahead of the curve rather than be dragged into compliance.
+repeatedly introduced bills to strengthen agenda-posting requirements (for example [S1330 in the 2026 session](https://pub.njleg.gov/Bills/2026/S1500/1330_I1.HTM)).
+We read the trend on meeting agendas as toward more transparency, not less, though New Jersey's wider record is mixed: the [2024 overhaul of the state's public records law](https://newjerseymonitor.com/2024/06/05/gov-murphy-signs-bill-revamping-public-records-law-in-blow-to-transparency-advocates/) was reported as a blow to transparency advocates.
+This proposal lets the board get ahead of any future agenda-posting requirements rather than react to them.
 
 **Governance-as-code precedents:** The [Washington DC Council published its
 legal code on GitHub](https://github.com/DCCouncil/law-xml) as version-controlled,
-machine-readable documents. The [Open Law Library](https://openlawlib.org/) helps
-municipalities do the same. [Enspiral](https://github.com/enspiral/agreements),
-a New Zealand cooperative network, maintains its governance agreements as
-version-controlled documents with full change history (and has a [newer handbook](https://handbook.enspiral.com/index.html)). 
+machine-readable documents.
+The [Open Law Library](https://openlawlib.org/) helps other governments publish their codes in open, machine-readable form.
+[Enspiral](https://handbook.enspiral.com/index.html), a New Zealand network, maintains its governance agreements as version-controlled documents with full change history (its [original agreements repo](https://github.com/enspiral/agreements) is now deprecated in favor of the handbook).
 
 These are real, operational examples of the model we're proposing.
 
-[Back to Index](index) | Next: [Energy & Facilities](09-energy-facilities)
+[Back to Index](spring-2026#document-index) | Next: [Energy & Facilities](09-energy-facilities)
