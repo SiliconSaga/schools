@@ -77,7 +77,7 @@ site; a printed subset accompanies the board presentation.
 ### Structural Reforms
 
 5. **Health Insurance Transparency** - Request broker compensation disclosure.
-   Evaluate the NJ School Employees' Health Benefits Program (where Ch.44 plan changes saved participating employers [an estimated $462.7 million over three years](https://www.nj.gov/njbonds/treasury/news/2023/08032023.shtml), per a 2023 state report), health insurance consortiums, self-funding, and Direct Primary Care.
+   Evaluate the NJ School Employees' Health Benefits Program (where Ch.44 plan changes saved participating employers [an estimated $462.7 million over three years](https://www.nj.gov/treasury/news/2023/08032023.shtml), per a 2023 state report), health insurance consortiums, self-funding, and Direct Primary Care.
    A state audit found the [Perth Amboy district missed about $49M in potential savings](https://jerseyvindicator.org/2026/01/28/new-jersey-school-district-missed-49-million-in-savings-by-skipping-state-health-plan-audit-finds/) over five fiscal years by not comparing its plan against the state plan, and noted its broker's commission arrangement gave it no incentive to recommend cheaper options.
    If our broker is paid a percentage of the premium,
    they have a conflict of interest that may be costing teachers their jobs.

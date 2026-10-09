@@ -55,11 +55,11 @@ The risk, in our view:
 
 For children with IEPs (Individualized Education Programs), continuity is not a luxury. The law requires that the services in a child's IEP actually be delivered ([34 CFR 300.323(c)(2)](https://www.law.cornell.edu/cfr/text/34/300.323)), and for many children, especially those who communicate or regulate with difficulty, we believe a familiar adult is a large part of what makes those services work.
 
-Every time a paraprofessional leaves:
+When a paraprofessional leaves, in my family's experience:
 
-- The lived-experience for that child's needs, triggers, communication style, and
-  progress is **wiped**
-- The replacement starts from zero, and the child loses weeks or months of progress
+- The lived knowledge of that child's needs, triggers, communication style, and
+  progress leaves with them
+- The replacement starts from zero, and the child can lose ground while the new adult learns
 - Parents must re-educate new staff on their child's specific needs
 
 ### The Legal Exposure

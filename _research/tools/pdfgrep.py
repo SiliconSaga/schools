@@ -1,11 +1,20 @@
-"""Throwaway probe: print whitespace-collapsed PDF text around each pattern match."""
+"""Print whitespace-collapsed PDF text around each pattern match, with page numbers.
+
+Usage: python pdfgrep.py <pdf> <regex> [context chars, default 400]
+A regex of ^ prints the start of every page.
+"""
 import re
 import sys
 
 from pypdf import PdfReader
 
+if len(sys.argv) < 3:
+    sys.exit(__doc__)
 path, pattern = sys.argv[1], sys.argv[2]
-window = int(sys.argv[3]) if len(sys.argv) > 3 else 400
+try:
+    window = int(sys.argv[3]) if len(sys.argv) > 3 else 400
+except ValueError:
+    sys.exit(f"context must be a whole number of characters, got {sys.argv[3]!r}")
 reader = PdfReader(path)
 print(f"pages: {len(reader.pages)}")
 rx = re.compile(pattern, re.I)

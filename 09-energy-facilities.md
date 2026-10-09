@@ -73,7 +73,7 @@ PPA contracts are long-term. The district needs legal review to ensure:
 
 This is the simplest, fastest energy win available.
 
-### NJ Clean Energy Program Rebates
+### Utility Rebates and Direct-Install Incentives
 
 Rebates and direct-install incentives for LED conversions in public facilities are now run mainly by New Jersey's electric utilities (PSE&G, JCP&L and others) rather than by the NJ Clean Energy Program itself. Incentive levels vary by program and project; some direct-install offers, such as [JCP&L's](https://www.firstenergycorp.com/save_energy/save_energy_new_jersey/for-your-business.html), may cover a large share of project costs. The remaining
 cost typically pays for itself quickly through reduced electricity consumption
@@ -88,12 +88,12 @@ can eliminate ballast replacement, with ballast-bypass tubes or new fixtures).
 - Modern LED fixtures with occupancy sensors in classrooms, gyms, and hallways
   reduce consumption further by turning off in empty rooms
 
-### Why This Hasn't Been Done
+### What Has Been Done, and What We Don't Know
 
-The district commissioned an energy audit of 13 facilities, with a final report dated January 11, 2013, and issued an ESIP request for proposals in September 2013 ([district page](https://www.woboe.org/departments/buildings-and-grounds/energy-savings-improvement-plan)). I have not been able to confirm what was implemented afterward. Where work like this stalls, it is usually because nobody has prioritized it. The savings are real but unglamorous. The
-rebate application requires paperwork. This is exactly the kind of "boring but
+The district commissioned an energy audit of 13 facilities, with a final report dated January 11, 2013, and issued an ESIP request for proposals in September 2013 ([district page](https://www.woboe.org/departments/buildings-and-grounds/energy-savings-improvement-plan)). I have not been able to confirm what was implemented afterward. The savings from work like this are real but unglamorous, and the
+rebate application requires paperwork. It is the kind of "boring but
 profitable" project that can fall through the cracks of a board focused on bigger
-crises - which is precisely why a community working group could handle it.
+crises - which is precisely why a community working group could take it on.
 
 ## Energy Audits
 

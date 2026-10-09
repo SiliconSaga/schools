@@ -8,11 +8,17 @@ import sys
 
 from youtube_transcript_api import YouTubeTranscriptApi
 
+if len(sys.argv) < 3:
+    sys.exit(__doc__)
 video_id, out_path = sys.argv[1], sys.argv[2]
-try:
-    snippets = [(s.start, s.text) for s in YouTubeTranscriptApi().fetch(video_id)]
-except AttributeError:
+
+# The package renamed its entry point in 1.x; pick by what the installed version offers.
+if hasattr(YouTubeTranscriptApi, "get_transcript"):
     snippets = [(s["start"], s["text"]) for s in YouTubeTranscriptApi.get_transcript(video_id)]
+else:
+    snippets = [(s.start, s.text) for s in YouTubeTranscriptApi().fetch(video_id)]
+if not snippets:
+    sys.exit("no captions returned")
 
 with open(out_path, "w", encoding="utf-8", newline="\n") as fh:
     for start, text in snippets:

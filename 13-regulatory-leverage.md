@@ -38,7 +38,7 @@ build confidence. If not, they represent real opportunities.
 
 The following are specific, verifiable points to explore.
 
-## 1. The Best Practices Checklist
+## 1. The State's Fiscal Accountability Rules
 
 ### What It Is
 

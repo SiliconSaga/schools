@@ -21,7 +21,7 @@ The Board rejected the proposals it received for substitute and paraprofessional
 
 **From:** Rasmus Praestholm (contact details are on the filed copy)
 
-This is a request for government records under the Open Public Records Act, N.J.S.A. 47:1A-1 et seq., and the common law right of access. It is not made for a commercial purpose. Electronic copies by email are requested.
+This is a request for government records under the Open Public Records Act, N.J.S.A. 47:1A-1 et seq., and the common law right of access. It is not made for a commercial purpose, and the records are not sought in connection with a legal proceeding. Electronic copies by email are requested.
 
 1. The agreement between the Board and EduStaff in effect for the 2026-27 school year: the base agreement, all exhibits, and every addendum, amendment, renewal, or extension, including the "EduStaff Pricing Schedule Addendum-Exhibit B" approved at the July 21, 2026 meeting (Finance/Business Office item 21, estimated amount $12,000,000). Also any other agreement under which paraprofessional staffing services are provided to the District for 2026-27.
 2. The Board resolution(s) that awarded, renewed, or extended the EduStaff agreement for the 2025-26 and 2026-27 school years, with the backup material attached to each agenda item.

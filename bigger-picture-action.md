@@ -41,7 +41,7 @@ strategy where each justifies the others.
 **The proposal.** NJ law already allows school districts to
 [exceed the 2% tax cap specifically for healthcare cost
 increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/) — only for the part of the district's health and prescription cost growth above 2%, and up to a state-set ceiling (the average State Health Benefits Program increase, 31.9% for 2026-27 per [NJDOE budget guidelines](https://www.nj.gov/education/budget/docs/2627/Budget_Guidelines_and_EDC_Manual_2627.docx)).
-With SEHBP premiums [rising 29.7% for 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml), this exception
+With the state's actuary having [recommended a 29.7% overall SEHBP premium increase for 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml) (the rates adopted that September vary by member group), this exception
 exists precisely for this moment. The idea is to use as much of that room as the law allows to temporarily
 provide the district more revenue now — while prongs 2 and 3 build the
 structural savings that let the increase wind down over time. (For

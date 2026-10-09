@@ -160,9 +160,7 @@ for documented service hours. Examples:
 
 For student volunteers in coaching roles:
 
-- **[SafeSport](https://safesport.org)** training is required by most national
-  governing bodies (US Soccer, USA Basketball, etc.) for anyone in a coaching
-  role. The parent and minor-athlete courses are free; I have not confirmed the cost of the coach course. For minors, policies vary; some organizations
+- **[SafeSport](https://safesport.org)** training is required for adults in coaching and other covered roles within the U.S. Olympic and Paralympic movement's national governing bodies (US Soccer, USA Basketball, etc.); it is not a universal legal requirement for community-league or teen coaches, though many leagues adopt it. The parent and minor-athlete courses are free; I have not confirmed the cost of the coach course. For minors, policies vary; some organizations
   require the parent to complete it or the supervising adult coach to hold
   certification.
 

@@ -21,7 +21,7 @@ Families were told in April that students would "continue to see the same famili
 
 **From:** Rasmus Praestholm (contact details are on the filed copy)
 
-This is a request for government records under the Open Public Records Act, N.J.S.A. 47:1A-1 et seq., and the common law right of access. It is not made for a commercial purpose. Electronic copies by email are requested. The period is September 1, 2026 through the date of the request.
+This is a request for government records under the Open Public Records Act, N.J.S.A. 47:1A-1 et seq., and the common law right of access. It is not made for a commercial purpose, and the records are not sought in connection with a legal proceeding. Electronic copies by email are requested. The period is September 1, 2026 through the date of the request.
 
 1. Every report delivered to the District during the period by EduStaff, or by any other vendor providing paraprofessional staffing, concerning fill rates, absences, vacancies, or unfilled paraprofessional assignments.
 2. A report or export from the absence-management or scheduling system used for paraprofessional assignments, whether the District operates it or the vendor operates it on the District's behalf, showing for each school day in the period, by school building, the number of paraprofessional assignments, the number filled, and the number unfilled. If no report with exactly those fields exists, the closest standard report that system produces.

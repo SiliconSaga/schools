@@ -15,8 +15,8 @@ New Jersey's Open Public Records Act (OPRA) lets anyone ask a public agency for 
 
 ## How the deadlines work
 
-- The district has seven business days after it receives a request to grant or deny it. Contracts, bills, and vouchers less than two years old are ordinarily due immediately.
-- If the district does not answer in that time, the law treats the silence as a denial.
+- The district has seven business days after it receives a request to grant or deny it. Contracts, bills, and vouchers less than two years old are ordinarily due immediately. The law allows longer in a few defined cases, such as requests made for a commercial purpose, and a custodian may ask in writing for more time when records are in storage or need review.
+- If the district neither answers nor asks for more time, the law treats the silence as a denial.
 - A denial can be challenged within 45 days, at the state Government Records Council or in Superior Court.
 
 The law is N.J.S.A. 47:1A-1 and following, as amended in 2024. The Government Records Council posts the [full text](https://www.nj.gov/grc/laws/act/).

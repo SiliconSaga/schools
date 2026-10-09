@@ -9,7 +9,7 @@ parent: "Modules"
 
 > **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
 
-*Crowdsourced Groundskeeping to Eliminate Contractor Premiums*
+*A Proposed Volunteer Groundskeeping Pilot*
 
 ---
 

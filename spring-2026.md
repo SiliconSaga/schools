@@ -118,7 +118,7 @@ the damage. Meanwhile at the state level, NJ was
 [on track to generate $1.5 billion less in revenue than it needed](https://www.njpp.org/publications/report/five-budget-time-bombs-facing-the-next-governor/)
 to cover expenses in FY2026, corporate tax revenue was
 [projected to fall by about $235M](https://pub.njleg.state.nj.us/publications/budget/governors-budget/2026/tax_revenue_analysis_fy26.pdf) that year,
-and state school aid, up [about 3% statewide](https://www.njsba.org/news-information/school-board-notes/governor-sherrill-delivers-fiscal-year-2027-budget-address/) in the proposed FY27 budget ([about 6% for West Orange](https://jerseybee.org/2026/03/25/west-orange-school-district-to-see-6-increase-in-state-aid-compared-to-last-year-under-2027-budget-proposal/)), can't keep pace with district costs, which [West Orange Parents for Education](https://woparents.org/) puts at roughly 8% a year.
+and state formula aid, up [about 3% statewide](https://www.njsba.org/news-information/school-board-notes/governor-sherrill-delivers-fiscal-year-2027-budget-address/) in the proposed FY27 budget ([about 6% for West Orange](https://jerseybee.org/2026/03/25/west-orange-school-district-to-see-6-increase-in-state-aid-compared-to-last-year-under-2027-budget-proposal/)), can't keep pace with district costs, which [West Orange Parents for Education](https://woparents.org/) puts at roughly 8% a year.
 The squeeze comes from above and below simultaneously.
 
 **But here's what's worse: both dominant paths forward lead to system

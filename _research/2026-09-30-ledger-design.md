@@ -41,7 +41,7 @@ Every timeline entry and every claim on a ledger page carries a label. The first
 - **Record** — a district or vendor document, linked, with page number. Stated as fact.
 - **Press** — reported by a named news outlet, linked. Used where no district document is to hand, such as the May 4 budget vote.
 - **Statement** — said by an official at a public meeting or in a letter. Quoted with the meeting date and, once posted, the video timestamp or minutes page. Figures from the owner's notes wait for the video.
-- **Report** — second-hand. Published only as "reported, unconfirmed", only when at least two independent people report the same thing, with no school, staff member, or student identifiable, and with no cause or motive attributed. A single report stays in `_research/`.
+- **Report** — second-hand. Not published. Reports stay in `_research/` until a record or statement backs them, and even then no school, staff member, or student is made identifiable and no cause or motive is attributed.
 
 The district's responses are published in full. Corrections are dated and left visible.
 

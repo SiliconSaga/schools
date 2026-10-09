@@ -27,7 +27,7 @@ production, **we must trade with the outside.**
 And sometimes what the outside produces is so transformative and expensive that the price
 of that trade threatens to break the system.
 
-### The thought experiment
+## The thought experiment
 
 Let's push the sci-fi thought experiment one step further.
 
@@ -54,7 +54,7 @@ impossible trade-off, be transparent about it, and choose the least bad
 option while working to make the drug cheaper so the trade-off eases
 over time.**
 
-### This is happening right now
+## This is happening right now
 
 GLP-1 medications are a less extreme version of the immortality pill. They
 are genuinely transformative - for people with severe obesity, type 2
@@ -62,18 +62,17 @@ diabetes, and cardiovascular risk, they are life-changing and potentially
 life-saving. They [list at around $1,000/month per person](https://www.webmd.com/obesity/mounjaro-ozempic-wegovy-zepbound-difference), though Novo Nordisk [cut its direct cash price](https://www.cnbc.com/2025/11/17/novo-nordisk-cash-prices-wegovy-ozempic.html) for Wegovy and Ozempic to $349/month in November 2025. They're being
 prescribed at scale - for medical necessity AND for cosmetic weight loss.
 
-And the insurance system
-[can't absorb it](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/).
+And employers are
+[struggling to absorb it](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/), according to those interviewed for a KFF brief; one HR director there described a roughly 30% rise in GLP-1 costs.
 GLP-1s are now the
 [top drug by spend](https://www.nj.gov/treasury/news/2025/07092025.shtml)
 in the NJ state health plans - Wegovy alone is the single highest-cost drug
-across all three state programs. Employers report ~30% increases in GLP-1
-costs.
+across all three state programs.
 Four state Medicaid programs have [dropped GLP-1 coverage for weight loss](https://www.kff.org/medicaid/medicaid-coverage-of-and-spending-on-glp-1s/), while keeping it for diabetes.
 Prescription drug costs, including high-cost GLP-1s, are among the main drivers the state's actuary named behind double-digit premium increases - including the [29.7% increase recommended for the SEHBP](https://www.nj.gov/treasury/news/2025/07092025.shtml).
 Our own district faces a ~18% health-benefits increase; I don't know how much of that is GLP-1 spending.
 
-### The uncomfortable choices
+## The uncomfortable choices
 
 The same impossible menu from the immortality pill applies:
 
@@ -97,7 +96,7 @@ People will be unhappy no matter what. That's not a failure of the system -
 it's the nature of the problem. The drug is too good and too expensive for
 universal access *right now*.
 
-### The flatten-the-curve version
+## The flatten-the-curve version
 
 The only path that doesn't end in despair is the same one we're proposing
 for the school budget: **buy time while the underlying economics change.**
