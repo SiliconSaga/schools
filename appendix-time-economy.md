@@ -7,6 +7,8 @@ nav_order: 2
 
 # The Time Economy: A Deeper Dive
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *[The Void](bigger-picture-void) asked: what do things actually cost in
 human time? That's not a new question. This is the academic lineage
 behind the thought experiment, for readers who want to trace where the
@@ -17,9 +19,9 @@ cleanly onto the school budget conversation.*
 
 ## The foundational idea: things "cost" whatever they took to produce
 
-[Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) opened
+[Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) wrote in
 *[The Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)*
-(1776) with a line that reads like it could sit at the top of the Void page:
+(1776, Book I, Chapter V) a line that reads like it could sit at the top of the Void page:
 
 > "The real price of every thing, what every thing really costs to the
 > man who wants to acquire it, is the toil and trouble of acquiring it."
@@ -53,7 +55,7 @@ This is the single most striking parallel to the Void page, and the
 one worth reading if you only read one thing.
 
 [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich), an
-Austrian-born philosopher-priest who spent most of his life in Mexico,
+Austrian-born philosopher-priest long based in Cuernavaca, Mexico,
 wrote a series of short, sharp books in the 1970s arguing that
 institutions past a certain scale begin to **destroy the very thing
 they were meant to produce** —
@@ -61,8 +63,8 @@ they were meant to produce** —
 (1971) for education,
 [*Medical Nemesis*](https://en.wikipedia.org/wiki/Medical_Nemesis)
 (1975) for healthcare,
-[*Energy and Equity*](https://en.wikipedia.org/wiki/Energy_and_Equity)
-(1974) for transportation.
+*Energy and Equity*
+(1974; [excerpt](https://ranprieur.com/readings/illichcars.html)) for transportation.
 
 His term for this was **counter-productivity**: past a tipping point,
 each additional unit of an institution (another layer of bureaucracy,
@@ -73,11 +75,11 @@ purpose to serving itself.
 > The bureaucracy is expanding to meet the needs of the expanding bureaucracy
 
 A famous calculation from *Energy and Equity* is the closest twin to
-the Void page's thought experiment. The average American driver,
-Illich calculated, spends around 1,600 hours per year on their car —
+the Void page's thought experiment. The model American male,
+Illich calculated in 1974, spent more than 1,600 hours per year on his car —
 working to afford it, maintaining it, fueling it, parking it, and
 sitting in it in traffic. Driving roughly 7,500 miles annually, that
-works out to an **effective speed of about 5 miles per hour. Walking
+works out to an **effective speed of less than 5 miles per hour. Walking
 pace.**
 
 His conclusion wasn't "cars are bad." It was that our tools had
@@ -92,7 +94,7 @@ with a coordinating agency? The Illich reading is that somewhere along
 the line, we crossed the tipping point — and the way back isn't to
 work harder, it's to shrink the institution toward its original scale.
 
-*Energy and Equity* is a short pamphlet, widely available free online,
+*Energy and Equity* is a short pamphlet, with [an excerpt containing the car calculation](https://ranprieur.com/readings/illichcars.html) free online,
 and reads like someone wrote it last week. It's the single best
 follow-up to the Void page.
 
@@ -103,9 +105,9 @@ with toll booths. Both are describing what modern economics formally
 calls [**rent-seeking**](https://en.wikipedia.org/wiki/Rent-seeking):
 extracting wealth without creating any new value.
 
-The term was coined by economist
+The idea was developed by economist
 [Gordon Tullock](https://en.wikipedia.org/wiki/Gordon_Tullock)
-in 1967 and named by
+in 1967, and the term was introduced by
 [Anne Krueger](https://en.wikipedia.org/wiki/Anne_Krueger) in 1974.
 It's one of the more bipartisan concepts in
 economics — right-leaning economists use it to attack regulatory capture
@@ -114,10 +116,10 @@ corporate rent extraction and monopoly pricing. Everyone agrees rent-
 seeking is bad; what they disagree on is where the worst rent-seeking
 lives.
 
-In the school budget context, rent-seeking looks like:
-- Brokers earning more when premiums go up
-- Photo vendors locked into district contracts
-- Staffing agencies taking 30-40% cuts of aide wages
+In the school budget context, possible rent-seeking positions worth asking about include:
+- Brokers paid by commission, who earn more when premiums go up
+- Vendor contracts that are rarely re-bid
+- Staffing-agency markups layered on top of aide wages (how much of that is employer cost and how much is margin is not yet known here)
 - Administrative layers that exist to produce compliance reports for
   other administrative layers
 
@@ -176,7 +178,7 @@ The economics are thin — you can't really run a large economy this way
 — but the social and community dynamics are fascinating, and a number
 of working time banks exist in the US and elsewhere. The
 [**LETS**](https://en.wikipedia.org/wiki/Local_exchange_trading_system)
-(Local Exchange Trading Systems) movement in the UK runs on similar
+(Local Exchange Trading Systems) movement, which started in Canada and spread widely in the UK, runs on similar
 principles.
 [**Ithaca HOURS**](https://en.wikipedia.org/wiki/Ithaca_Hours), active
 from 1991 to 2015 or so, was the most famous US local-currency
@@ -188,7 +190,7 @@ priced in time" framing resonates — there are people actually trying it.
 
 ## Baumol's cost disease (the honest counterweight)
 
-[![Split-panel string quartet in 1800 and today playing Beethoven's Op. 131 — same notes, same hours, different ticket prices](images/thumb/EternalStringQuartet.png)](images/EternalStringQuartet.png)
+[![Split-panel string quartet two centuries ago and today playing a Beethoven quartet — same notes, same hours, different ticket prices](images/thumb/EternalStringQuartet.png)](images/EternalStringQuartet.png)
 
 Not all rising costs are extraction. Some of them are real, and pushing
 on them in the wrong way will break the thing you're trying to save.
@@ -204,8 +206,8 @@ sectors got efficient, so wages had to rise across the board, and the
 labor-intensive sectors got more expensive in relative terms even
 though their actual work didn't change.
 
-A string quartet performs Beethoven's Opus 131 in the same number of
-player-hours today as in 1800. But players today have to earn enough
+A string quartet performs a Beethoven quartet in the same number of
+player-hours today as it did two centuries ago. But players today have to earn enough
 to live in a modern economy, so concert tickets have to cost more.
 You can't "automate" the quartet without destroying what it is.
 
@@ -226,11 +228,11 @@ this distinction.
 ### [E.F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher) — *[Small is Beautiful](https://en.wikipedia.org/wiki/Small_Is_Beautiful)* (1973)
 
 The tagline is "economics as if people mattered." Schumacher was a
-former chief economist at the UK's National Coal Board who, after a
+longtime chief economic adviser to the UK's National Coal Board who, after a
 trip to Burma, spent the rest of his career arguing for **human-scale
 economics**: institutions small enough to be legible, technologies
 simple enough to be locally maintainable, economies organized around
-what people actually need. The book coined the term
+what people actually need. The book popularized the term
 "[intermediate technology](https://en.wikipedia.org/wiki/Intermediate_technology)."
 You can hear its echo in the Three-Prong Plan's whole "community
 exoskeleton" framing.
@@ -266,7 +268,7 @@ as activism.
 
 [Frédéric Bastiat](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat)'s
 short essay
-"[That Which is Seen and That Which is Not Seen](https://en.wikipedia.org/wiki/That_Which_Is_Seen_and_That_Which_Is_Not_Seen)"
+"That Which is Seen and That Which is Not Seen"
 introduced the
 [**broken window fallacy**](https://en.wikipedia.org/wiki/Parable_of_the_broken_window):
 if a vandal breaks
@@ -298,9 +300,9 @@ Orange crisis:
 
 | Lens | What it sees |
 |------|--------------|
-| **Smith / Ricardo** | The underlying labor cost of teaching a class hasn't changed much in 50 years. The price has. Where did the delta go? |
-| **Illich** | The administration-to-education ratio has crossed the counter-productive tipping point. Shrink the institution, not the staff. |
-| **Rent-seeking** | Brokers, vendors, staffing agencies, compliance consultants — all classic rent positions. Remove one, save compounding amounts. |
+| **Smith / Ricardo** | The underlying labor *time* of teaching a class hasn't changed much in 50 years. The price has. Where did the delta go? |
+| **Illich** | Has the administration-to-education ratio crossed the counter-productive tipping point? That's the question Illich would ask. If it has, shrink the institution, not the staff. |
+| **Rent-seeking** | Brokers, vendors, staffing agencies, compliance consultants — positions where rent-seeking *can* hide. Where one turns out to be pure overhead, the savings recur every year. |
 | **Graeber** | How much of district admin work is producing actual educational value vs. managing other district admin work? |
 | **Baumol** | Teacher salaries *should* rise with the economy. That's not extraction. Don't confuse this with the rent layer. |
 | **Schumacher** | The "community exoskeleton" is the right scale because it's human-sized — neighbors helping neighbors, not another agency. |
@@ -311,8 +313,8 @@ Orange crisis:
 
 ## Further reading
 
-- Illich, *[Energy and Equity](https://en.wikipedia.org/wiki/Energy_and_Equity)*
-  (1974) — short pamphlet, available free online. Start here.
+- Illich, *Energy and Equity*
+  (1974) — short pamphlet; [an excerpt](https://ranprieur.com/readings/illichcars.html) is free online. Start here.
 - Illich, *[Deschooling Society](https://en.wikipedia.org/wiki/Deschooling_Society)*
   (1971) — applies the same lens to education specifically. Provocative.
 - Graeber, *[Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)*

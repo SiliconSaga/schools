@@ -7,7 +7,11 @@ nav_order: 3
 
 # Visual Concepts for the School Budget Crisis
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 ## Visual 1: The Shrinking Slice - Three Pie Charts
+
+*(Percentages are illustrative, not measured.)*
 
 ### Image Generation Prompt
 
@@ -62,12 +66,12 @@ aren't printed locally), but the balance worked. The board and union could
 argue about the details because the fundamentals were sound.
 
 *Today*, that slice has shrunk while the demands within it have grown.
-Healthcare premiums have ballooned as private equity and insurance middlemen
-extract more and more from the system. Corporate vendors take their cut.
+Healthcare premiums have climbed, and I believe a large share of that is private equity and insurance middlemen
+taking more and more out of the system. Corporate vendors take their cut.
 Administrative overhead grows. The money that used to circulate locally is
 being siphoned outward - not because we're spending more frivolously, but
-because the cost of everything the district depends on has been inflated by
-layers of rent-seeking that didn't exist a generation ago.
+in large part, I'd argue, because the cost of much of what the district depends on has been inflated by
+layers of intermediaries.
 
 *Tomorrow*, if nothing changes, the slice shrinks past the point of viability.
 Teachers leave because the pay can't sustain a life here. Families leave
@@ -194,12 +198,10 @@ looking at.
    business on increasingly jacking up prices with barely-changing volumes that
    are required for each new year? Hah, that'd never happen!
 
-   Except, of course, it did. Textbook prices have risen
+   Except, of course, it did. College textbook prices have risen
    [1,041% from 1977 to 2015](https://www.nbcnews.com/feature/freshman-year/college-textbook-prices-have-risen-812-percent-1978-n399926) -
-   three times the rate of inflation. Each new "edition" adds
-   [12% to the price](https://educationdata.org/average-cost-of-college-textbooks).
-   Publishers keep
-   [65% of what's paid](https://educationdata.org/average-cost-of-college-textbooks).
+   three times the rate of inflation. Many publishers
+   [release new editions that change very little](https://educationdata.org/average-cost-of-college-textbooks).
    The content barely changes. The price always does.
 
    In our time-economy, a textbook is: a knowledgeable person spends some time
@@ -226,53 +228,45 @@ looking at.
 
    > **Saline bags** - literally salt water - cost about
    > [$1 to manufacture](https://www.advisory.com/daily-briefing/2013/08/27/the-secret-of-salines-cost-why-a-1-bag-can-cost-700).
-   > Hospitals have charged $546 for six liters. Some have published prices as
-   > high as [$26,667 for a single bag](https://www.goodbill.com/hospital-price-of-saline).
+   > One patient's insurer was billed $546 for six liters. One hospital's posted price list showed a maximum rate of
+   > [$26,667 for a single bag](https://www.goodbill.com/hospital-price-of-saline).
 
-   > **Tylenol** - one hospital charged
-   > [$1.50 per tablet](https://www.thehealthy.com/healthcare/health-insurance/wildly-overinflated-hospital-costs/).
-   > You can buy 100 tablets for $1.49 on Amazon. That's a 10,000% markup.
-
-   > **EpiPens** cost about
-   > [$30 to manufacture](https://www.nbcnews.com/business/consumer/industry-insiders-estimate-epipen-costs-no-more-30-n642091)
-   > (including the drug, the injector, R&D, and royalties). The retail price
+   > **EpiPens** - industry insiders estimated they cost
+   > [about $30 or less to make](https://www.nbcnews.com/business/consumer/industry-insiders-estimate-epipen-costs-no-more-30-n642091)
+   > (parts plus licensing fees; Mylan itself told Congress $34.50). The list price for a two-pack
    > [rose to over $600](https://www.cnbc.com/2016/08/25/epipens-cost-just-several-dollars-to-make-customers-pay-more-than-600-dollars-for-them.html).
-   > The epinephrine itself costs about $1.
+   > The epinephrine itself costs less than $1.
 
-   > **Needles** - Humana charged patients
-   > [$143.25 for needles it bought for 80 cents](https://www.newsweek.com/why-hospitals-mark-prices-1000-percent-343006).
+   > **Needles** - in 1991, ABC News reported that hospitals then owned by Humana charged patients
+   > [$143.25 for needles bought for 80 cents](https://www.newsweek.com/why-hospitals-mark-prices-1000-percent-343006).
    > That's a 17,806% markup.
 
    > **Hospital Tylenol** - this one is the purest example. The acetaminophen
-   > tablet a nurse hands you in a hospital bed is the *exact same pill* you
-   > buy at CVS. Same manufacturer, same dosage, same molecule. Hospitals
-   > charge [$15-25 per individual pill](https://www.beckershospitalreview.com/supply-chain/10-immensely-overinflated-hospital-costs/).
-   > You can buy a bottle of 100 for $1.49. The product didn't change. The
+   > tablet a nurse hands you in a hospital bed is the same drug you
+   > buy at CVS. Same dosage, same molecule. The hospital
+   > charge is [about $15 per individual pill](https://www.thehealthy.com/healthcare/health-insurance/wildly-overinflated-hospital-costs/), according to a medical billing advocate.
+   > The product didn't change. The
    > building did.
    >
-   > Similarly, a single aspirin in a hospital
-   > [can cost $25](https://www.healthcarefinancenews.com/medtech-blog/why-aspirin-taken-hospital-can-cost-upwards-25) -
-   > and at one hospital, four tablets cost
-   > [nearly $200](https://assets.ctfassets.net/4f3rgqwzdznj/31KVChU6mBGLBqpQv25s37/bca09fda57615eee311134d3d3fa7601/The-Spread-in-Hospital-Chargemaster-Prices.pdf).
+   > Similarly, a 2021 GoodRx review of 16 hospitals' price lists found aspirin listed at up to [$19 a tablet](https://assets.ctfassets.net/4f3rgqwzdznj/31KVChU6mBGLBqpQv25s37/bca09fda57615eee311134d3d3fa7601/The-Spread-in-Hospital-Chargemaster-Prices.pdf), nearly 130 times the pharmacy price.
    >
    > This isn't even a "medical grade vs. consumer grade" distinction. It's
-   > literally the same product in a different context with a 10,000% markup.
+   > literally the same product in a different context at many times the price.
    > If someone did this with food we'd call it price gouging. In healthcare
    > we call it the chargemaster.
 
    And then there's the broader pattern of "same thing, different label,
    different price" that extends well beyond medicine:
 
-   > **Brand-name drugs vs. generics** - when Lyrica's patent expired, its
-   > price [plunged from $7 per capsule to $0.13](https://www.statnews.com/2024/11/04/drug-patents-behind-the-counter-series-patent-thickets-prescription-prices/).
-   > Same molecule, same dosage, same effect. The $6.87 difference was
+   > **Brand-name drugs vs. generics** - when generic versions of Lyrica (pregabalin) reached the market in 2019, the average
+   > price went from [more than $7 per capsule to about $0.13 for the generic](http://web.archive.org/web/20260416092856/https://www.fda.gov/drugs/generic-drugs/2019-office-generic-drugs-annual-report) within two months.
+   > Same molecule, same dosage, same effect. Much of that difference was
    > paying for a brand name, not a medicine.
 
-   > **Printer ink** costs
-   > [$12,000+ per gallon](https://www.inkjets.com/blogs/printer-ink-guides/gas-vs-ink-prices) -
-   > sustained by the razor-and-blades model where the printer is sold at a
-   > loss and the ink recoups it at astronomical markups. The liquid itself
-   > is [not that expensive to produce](https://www.selltoner.com/blog/why-is-printer-ink-so-expensive/).
+   > **Printer ink** can cost
+   > [roughly $1,664 to $9,600 per gallon](http://web.archive.org/web/20260611172033/https://www.selltoner.com/blog/why-is-printer-ink-so-expensive/), by a 2013 Consumer Reports estimate -
+   > sustained by the [razor-and-blades model](https://www.inkjets.com/blogs/printer-ink-guides/gas-vs-ink-prices) where the printer is sold at a
+   > loss and the ink recoups it.
 
    The human tendency to accept price based on *context* rather than
    *content* is what makes all of these markups possible. A pill is cheap
@@ -284,7 +278,7 @@ looking at.
    In the time-economy: a doctor examines a patient with a reusable tool,
    administers salt water, and gives them a common pain reliever. That's 
    an hour of skilled work and some basic supplies. In the real economy, the
-   same encounter generates thousands of dollars flowing to manufacturers,
+   same encounter can generate thousands of dollars flowing to manufacturers,
    distributors, insurers, billing companies, and hospital systems - each
    adding a layer of cost that has nothing to do with the actual healing.
 
@@ -305,16 +299,15 @@ looking at.
    some skilled tradespeople spend a few weeks, the community supplies
    materials. In the real economy: a bidding process, contractor markups,
    insurance requirements, bonding requirements, prevailing wage laws,
-   inspections, and by the time it's done the roof cost 5x what the materials
-   and labor actually required. Each layer existed to solve a real problem
+   inspections, and by the time it's done the roof can cost several times what the materials
+   and labor alone required. Each layer existed to solve a real problem
    once, but collectively they've become the problem.
 
 1. **The cafeteria:** Kids need lunch. In the time-economy, some parents cook,
    others grow food, someone coordinates. In the real economy: a food service
-   contract with Aramark or Sodexo, processed food shipped from industrial
-   facilities, USDA compliance paperwork, and somehow a school lunch costs
-   more than the ingredients of a home-cooked meal while being nutritionally
-   worse. The overhead IS the product.
+   management contract with a large national vendor, processed food shipped from industrial
+   facilities, USDA compliance paperwork - and a school lunch can end up costing
+   more than the ingredients of a home-cooked meal. The overhead IS the product.
 
 1. **Technology:** Kids need computers. In the time-economy, the community's
    engineers set up and maintain devices. In the real economy: a Chromebook
@@ -359,11 +352,8 @@ where competition is meant to "fix" such situations?
 
 The barriers are well-documented:
 
-- **Adoption lock-in:** Districts adopt textbooks in multi-year cycles through
-  state-approved lists. A locally-written textbook, no matter how good, isn't
-  on the approved list. Getting on the list requires
-  [years of lobbying and review](https://wordsrated.com/k-12-textbooks-sales-statistics/).
-  The publishers who already have lobbyists win by default.
+- **Adoption lock-in:** Districts adopt textbooks in multi-year cycles.
+  As I understand it, some states use a state-approved list; in New Jersey the local board of education selects textbooks by its own vote ([N.J.S.A. 18A:34-1](https://codes.findlaw.com/nj/title-18a-education/nj-st-sect-18a-34-1/)), but switching mid-cycle would still mean retraining, new materials, and a board vote, which I think favors whatever is already in use.
 
 - **Bundled ecosystems:** Modern textbooks come with online portals, test
   banks, lesson plans, and LMS integrations. A teacher can't just swap in a
@@ -373,7 +363,7 @@ The barriers are well-documented:
 - **Lawfare and IP:** Publishers aggressively protect their market position.
   Even when content is factual and non-copyrightable, the specific arrangement,
   problem sets, and presentation can be litigated. The cost of defending
-  against a Pearson lawsuit exceeds the cost of just buying the textbook.
+  against a large publisher's lawsuit, even a weak one, could easily exceed the cost of just buying the textbook.
 
 - **Liability culture:** If a district uses the "standard" textbook and a
   student underperforms, the district followed best practice. If the district
@@ -381,12 +371,9 @@ The barriers are well-documented:
   "experimented on children." The incentive is to buy the expensive option
   because it's the defensible option.
 
-- **The new edition treadmill:** Publishers release
-  [new editions with 12% price increases](https://educationdata.org/average-cost-of-college-textbooks)
-  and trivial changes (reordered chapters, updated cover photos), then
-  discontinue the old edition's online resources. Districts are forced to
-  "upgrade" not because the content improved but because the support was
-  pulled.
+- **The new edition treadmill:** Many publishers
+  [release new editions that change very little](https://educationdata.org/average-cost-of-college-textbooks);
+  when support for an older edition ends, a district can be pushed to "upgrade" even if the content barely improved.
 
 ##### What if the backend process was globalized?
 

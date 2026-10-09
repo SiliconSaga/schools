@@ -1,10 +1,13 @@
 ---
 layout: default
 title: "Executive Summary"
+parent: "Spring 2026 Archive"
 nav_order: 1
 ---
 
 # Executive Summary
+
+> **Archived, with corrections.** Written in April 2026 for the April 20 Board meeting, before the budget passed. Kept as written apart from source and wording corrections made in October 2026. For what has happened since, see [The Ledger](/ledger/).
 
 **A Resource-Optimized Model for District Stability**
 *Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
@@ -55,30 +58,28 @@ site; a printed subset accompanies the board presentation.
 1. **The Instructional Bridge Grant** - The PTA establishes a "Curriculum Preservation
    Fund" to cover the cost difference between the proposed 30-minute special area classes
    and the current 45-minute standard. Teachers remain district employees; only the
-   funding source changes for the marginal 15 minutes. ([Precedent: Palo Alto PiE
-   funds 250+ positions at ~$5.5M/year.](https://papie.org/about/f-a-q/))
+   funding source changes for the marginal 15 minutes.
+   ([Precedent: Palo Alto's PiE helps fund 250+ staff positions in whole or in part; its 2025-26 campaign produced a $4.4M grant.](https://papie.org/about/f-a-q/))
 
 2. **The Open Image Project** - Replace outsourced school photography (e.g. Lifetouch)
    with a community-run, digital-first platform. The PTA captures revenue directly,
-   eliminates third-party student data monetization, and generates a recurring funding
+   keeps student images under the school community's own control, and generates a recurring funding
    stream to support Module 1.
 
 3. **Community Maintenance Layer** - Crowdsourced groundskeeping via volunteer SLAs,
-   eliminating the contractor premium inflated by the [municipal gas blower ban](https://patch.com/new-jersey/westorange/west-orange-bans-gas-powered-leaf-blowers-again).
+   reducing reliance on contractors whose costs may rise under the [municipal gas blower ban](https://patch.com/new-jersey/westorange/west-orange-bans-gas-powered-leaf-blowers-again).
 
 4. **Paraprofessional Retention** - Redirect savings from other modules to retain
-   in-house special education staff. Outsourcing creates high turnover, wipes IEP
-   institutional memory, and exposes the district to compensatory education lawsuits
+   in-house special education staff. Outsourcing can increase turnover, erode IEP
+   institutional memory, and raise the risk of compensatory education claims
    and costly out-of-district placements.
 
 ### Structural Reforms
 
 5. **Health Insurance Transparency** - Request broker compensation disclosure.
-   Evaluate the NJ State Health Benefits Plan (which has saved SEHBP employers
-   [$462.7 million statewide](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
-   through Ch.44 reforms), health insurance consortiums, self-funding, and Direct
-   Primary Care. The [Perth Amboy district missed $49M in savings](https://jerseyvindicator.org/2026/01/28/new-jersey-school-district-missed-49-million-in-savings-by-skipping-state-health-plan-audit-finds/)
-   due to broker conflicts. If our broker is paid a percentage of the premium,
+   Evaluate the NJ School Employees' Health Benefits Program (where Ch.44 plan changes saved participating employers [an estimated $462.7 million over three years](https://www.nj.gov/treasury/news/2023/08032023.shtml), per a 2023 state report), health insurance consortiums, self-funding, and Direct Primary Care.
+   A state audit found the [Perth Amboy district missed about $49M in potential savings](https://jerseyvindicator.org/2026/01/28/new-jersey-school-district-missed-49-million-in-savings-by-skipping-state-health-plan-audit-finds/) over five fiscal years by not comparing its plan against the state plan, and noted its broker's commission arrangement gave it no incentive to recommend cheaper options.
+   If our broker is paid a percentage of the premium,
    they have a conflict of interest that may be costing teachers their jobs.
 
 6. **Open Governance Pilot** - Move the "grinding" - data gathering, vendor
@@ -115,7 +116,7 @@ accept the help.
 
 ### Additional Modules (on the full site)
 
-This executive summary covers the core proposals. The [full document set](index)
+This executive summary covers the core proposals. The [full document set](spring-2026#document-index)
 includes additional modules on:
 
 - **Energy & Facilities** - [Solar PPAs that saved NJ districts millions](09-energy-facilities)
@@ -135,4 +136,4 @@ what the community can do to help. Full site: schools.frontstate.org*
 
 ---
 
-[Back to Index](index)
+[Back to Index](spring-2026#document-index)

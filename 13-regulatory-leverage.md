@@ -7,13 +7,13 @@ parent: "Modules"
 
 # Module 11: Regulatory Leverage Points
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *State Requirements the Board May Be Overlooking - or Failing to Meet*
 
 ---
 
-- **Impact Potential:** Very High - these are not suggestions the board can wave
-  away; they are state requirements with financial consequences for non-compliance;
-  asking the right questions here can shift the entire conversation
+- **Impact Potential:** Very High - several of these are state rules with real consequences, and the rest are state-provided tools; asking the right questions here can shift the conversation
 - **Effort:** Low - this is research and questioning, not implementation; OPRA
   requests and public data analysis
 - **Timeline:** Immediate - questions can be asked at the next board meeting;
@@ -38,21 +38,15 @@ build confidence. If not, they represent real opportunities.
 
 The following are specific, verifiable points to explore.
 
-## 1. The Best Practices Checklist
+## 1. The State's Fiscal Accountability Rules
 
 ### What It Is
 
-The NJ DOE requires every district to complete an annual **Best Practices**
-self-assessment (per [N.J.A.C. 6A:23A](https://www.nj.gov/njded/code/current/title6a/chap23a.pdf)).
-It covers fiscal management, governance, procurement, personnel, and operations.
-The [NJSBA Task Force on Accountability Regulations](https://www.njsba.org/wp-content/uploads/2016/12/Main-report-and-appendices-A-through-F.pdf)
-provides extensive analysis of these requirements.
+I originally described this as an annual NJ DOE **Best Practices** self-assessment that every district completes. I have not been able to confirm that one exists for school districts: as far as I can find, the scored Best Practices Inventory is something the state's Department of Community Affairs sends to municipalities, and the regulation I cited for it has no such checklist. What does apply to school districts is [N.J.A.C. 6A:23A](https://www.nj.gov/njded/code/current/title6a/chap23a.pdf), the state's fiscal accountability and efficiency rules. It directs executive county superintendents to study consolidation of administrative services and ways to promote cooperative purchasing (6A:23A-2.3). It lets the Commissioner seek to withhold or recover state aid spent ineffectively or inefficiently (6A:23A-5.1). For the health care levy-cap adjustment, it asks districts to show they examined alternative insurers at least once in the last three years (6A:23A-11.3). The [NJSBA Task Force on Accountability Regulations](https://www.njsba.org/wp-content/uploads/2016/12/Main-report-and-appendices-A-through-F.pdf) 2016 report analyzes these rules from the school boards' side.
 
 ### Why It Matters
 
-Districts that score below threshold on the Best Practices checklist **lose up
-to 5% of their state aid**. The checklist includes questions directly relevant to
-this budget crisis:
+The state-aid penalty I originally cited here is, as far as I can find, part of that municipal inventory and does not apply to school districts. The questions I listed are of the kind that inventory asks of towns, and they are still directly relevant to this budget crisis:
 
 - Does the district use competitive bidding for professional services (including
   insurance brokerage)?
@@ -63,16 +57,14 @@ this budget crisis:
 
 ### The Opportunity
 
-The district's Best Practices submission is a public record (obtainable via OPRA).
-Reviewing it would show the community which cost-management strategies are already
-in use and where there might be untapped opportunities. This is a collaborative
+Asking the district which of these it already does would show the community which cost-management strategies are already in use and where there might be untapped opportunities.
+This is a collaborative
 starting point, not an audit.
 
 ### How to Frame It
 
-"The state's Best Practices checklist covers cooperative purchasing, shared
-services, and energy management. Can the board share which of those the district
-is actively pursuing? The community may be able to help with the ones that
+"The state's efficiency rules (N.J.A.C. 6A:23A) address cooperative purchasing and shared services. Can the board share which of those, along with energy management, the district is actively pursuing?
+The community may be able to help with the ones that
 haven't been feasible yet."
 
 ## 2. The 2% Tax Levy Cap and Banked Cap
@@ -116,18 +108,16 @@ risk the board may not be weighing.
 
 ### The Argument
 
-"Cutting art and library instruction while outsourcing special education creates
-NJQSAC risk in both the Instruction and Fiscal Management domains. Has the board
-assessed how these changes affect our NJQSAC scores? Has the county superintendent
+"Cutting art and library instruction while outsourcing special education could create
+NJQSAC risk in the Instruction and Fiscal Management components. Has the board
+assessed how these changes might affect our NJQSAC review? Has the county superintendent
 been consulted?"
 
 ## 4. Excess Surplus Limits
 
 ### What It Is
 
-NJ law limits the amount of unrestricted surplus (fund balance) a school district
-can carry. The cap is **2% of the total budget**. Surplus above the cap must be
-returned to taxpayers or appropriated.
+NJ law limits the undesignated (unassigned) general fund balance a school district can carry to 2% of the prior year's general fund budget or $250,000, whichever is greater (N.J.S.A. 18A:7F-7). Anything above that must be appropriated in the following year's budget.
 
 ### Why It Matters - Both Directions
 
@@ -148,25 +138,21 @@ appropriating it as a bridge while community-funded alternatives are established
 
 ### What It Is
 
-The federal CAA of 2021 (Sections 201-202) amended ERISA to require disclosure
-of broker and consultant compensation for group health plans. Plan sponsors must
-request this information from their brokers.
+The federal CAA of 2021 (Division BB, Section 202) amended ERISA to require brokers and consultants to disclose their direct and indirect compensation to group health plans.
 
 **Important caveat:** Public entity plans (including school districts) are
 generally exempt from ERISA, which complicates direct applicability. However,
 the *spirit* of the requirement - that plan sponsors should know how their
 brokers are compensated - is reinforced by the [NJ State Comptroller's 2025
-report](https://www.nj.gov/comptroller/news/2025/20250909.shtml) finding
-widespread undisclosed conflicts in NJ school board health insurance funds.
+report](https://www.nj.gov/comptroller/news/2025/20250909.shtml), which found longstanding undisclosed conflicts of interest and a "widespread disregard" of conflict-of-interest safeguards at health insurance funds serving local governments and more than 100 school boards.
 State-level transparency requirements may also apply independently of ERISA.
 
 ### Why It Matters
 
 Whether or not the federal CAA technically applies to our district's plan
 structure, the question remains: does the board know how its broker is
-compensated, and does that compensation create a conflict of interest? The
-Perth Amboy audit and the Comptroller's report show this is not a hypothetical
-concern - it is a documented, systemic problem in NJ school districts.
+compensated, and does that compensation create a conflict of interest?
+The [Perth Amboy audit](https://pub.njleg.state.nj.us/publications/auditor/2025/34003324.pdf) and the Comptroller's report show this is not a hypothetical concern - broker conflicts and undisclosed commissions have been repeatedly documented in NJ school districts and municipalities.
 
 ### The Connection
 
@@ -182,10 +168,10 @@ These regulatory points are most effective when combined with the community-led
 proposals in the other modules. The message:
 
 "The state has provided tools - banked cap, cooperative purchasing, shared
-services, Best Practices guidance - specifically for situations like this. The
+services, efficiency rules - for situations like this. The
 community is also offering tools - volunteer capacity, grant-writing expertise,
 fundraising infrastructure. We'd like to work with the board to make sure every
 available option has been explored before we accept that cutting positions is the
 only path forward."
 
-[Back to Index](index) | Next: [Open Budget Tools](14-open-budget-tools)
+[Back to Index](spring-2026#document-index) | Next: [Open Budget Tools](14-open-budget-tools)

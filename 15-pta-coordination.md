@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 13: PTA Coordination Infrastructure
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Skill Inventories, Proposal Workflows, and Commitment Tracking*
 
 ---
@@ -30,8 +32,7 @@ parent: "Modules"
 
 ## The Core Problem: "Will People Actually Show Up?"
 
-Every community-led proposal in this whitepaper faces the same objection from the
-board: **"How do you know volunteers will follow through?"**
+Every community-led proposal in this whitepaper is likely to face the same question from the board: **how do we know volunteers will follow through?**
 
 This is a legitimate concern. Volunteer programs fail not because people lack
 goodwill but because:
@@ -133,9 +134,7 @@ tracking.
 
 ### The Reliability Problem
 
-The board will say: "A volunteer program can't provide the reliability of a
-contract." They're right - unless the volunteer program has better visibility
-and accountability than the contract.
+The board may well say a volunteer program can't provide the reliability of a contract. That's a fair point - unless the volunteer program has better visibility and accountability than the contract.
 
 ### How Commitment Tracking Works
 
@@ -190,8 +189,10 @@ show what it produces.
 
 ## The Pitch
 
-"You keep asking 'how do we know volunteers will show up?' We built the answer.
+A draft of the pitch, for use once the inventory, the commitment board and the gap report exist:
+
+"If the question is 'how do we know volunteers will show up?', we built the answer.
 Here's the inventory. Here's the commitment board. Here's the gap report. We're
 not asking you to trust our enthusiasm. We're asking you to read our data."
 
-[Back to Index](index) | Next: [PTA OpenCollective](16-pta-opencollective)
+[Back to Index](spring-2026#document-index) | Next: [PTA OpenCollective](16-pta-opencollective)

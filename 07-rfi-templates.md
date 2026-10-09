@@ -6,6 +6,8 @@ nav_exclude: true
 
 # RFI Templates
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Ready-to-File Requests for Vendor and Broker Disclosures*
 
 > **This is a tools document, not a proposal.** These templates support Modules
@@ -48,31 +50,30 @@ We seek to calculate the "value gap" between vendor revenue and district commiss
 Revenue_gap = (Total Sales x Vendor Margin) - Commission_paid_to_district
 ```
 
-This figure represents the revenue a community-led platform could reclaim for
-the district or PTA.
+This gives a rough upper bound on what a community-led platform might reclaim for the district or PTA, before that platform's own costs.
 
 ---
 
 ## Template B: Benefit Transparency RFI (Insurance Broker)
 
 **To:** Board President / Finance Committee
-**Subject:** Mandatory Broker Compensation Disclosure (Consolidated Appropriations Act Compliance)
+**Subject:** Request for Broker Compensation Disclosure (see N.J.S.A. 17:22A-41.1; modeled on federal broker transparency rules)
 
 ---
 
 In light of the [NJ State Comptroller's September 2025 report](https://www.nj.gov/comptroller/news/2025/20250909.shtml)
-finding conflicts of interest and procurement violations in school board health
-insurance funds, and consistent with the **NJ School Ethics Act (N.J.S.A.
-18A:12-21)** and federal broker transparency principles, we request the following:
+finding conflicts of interest and procurement violations in local governments' health
+insurance funds, including one serving school boards, and consistent with the **NJ School Ethics Act (N.J.S.A.
+18A:12-21 et seq.)** and federal broker transparency principles, we request the following:
 
 ### 1. Direct/Indirect Compensation Disclosure
-A written statement from the district's insurance broker of record (the "Covered
-Service Provider") detailing **all** direct and indirect compensation, commissions,
+A written statement from the district's insurance broker of record
+detailing **all** direct and indirect compensation, commissions,
 and "overrides" received from carriers for the 2025-2026 plan year.
 
 ### 2. Alternative Analysis
 Documentation of the last feasibility study or side-by-side comparison between
-the current private plan and the **NJ State Health Benefits Plan (SHBP/SEHBP)**,
+the current private plan and the **NJ School Employees' Health Benefits Program (SEHBP)**,
 specifically noting whether Direct Primary Care (DPC) or other cost-avoidance
 models were evaluated.
 
@@ -82,11 +83,9 @@ total premium. If yes, acknowledge that this structure creates a financial
 disincentive for the broker to lower the district's costs.
 
 ### Regulatory Context
-The NJ State Comptroller's [September 2025 report](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf)
-found that school board health insurance funds suffered from undisclosed vendor
-conflicts, self-dealing procurement, and $36 million in payments to conflicted
-parties. The Legislature has increased scrutiny on competitive contracting for
-insurance services. These figures are requested to ensure the district is not
+The NJ State Comptroller's [September 2025 report](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf) said that the Schools Health Insurance Fund (SHIF), which serves over 100 school boards, had undisclosed vendor conflicts of interest and apparent procurement and ethics violations, and that SHIF paid over $36 million in fees over five years to two related vendors, CSB and PERMA, while a CSB employee was overseeing the fund's contracting process.
+The Comptroller recommended that the Legislature tighten oversight of such funds.
+These figures are requested to ensure the district is not
 overpaying for administrative overhead due to similar conflicts.
 
 ---
@@ -95,13 +94,12 @@ overpaying for administrative overhead due to similar conflicts.
 
 If the board declines to provide this information voluntarily, the following can
 be obtained via formal **OPRA (Open Public Records Act)** request. The district
-has **7 business days** to respond.
+generally has **7 business days** to respond, with some exceptions.
 
 **OPRA Request 1:**
 > "Any and all contracts, addenda, and commission reports related to [Photography
 > Vendor] for the current and prior school year."
 
 **OPRA Request 2:**
-> "The 'Broker Compensation Disclosure' as required under the federal Consolidated
-> Appropriations Act for the 2025 and 2026 health benefit plan years."
+> "Any written notification of commission, service fee, brokerage, or other consideration provided to the district by its health insurance broker of record (see N.J.S.A. 17:22A-41.1), and any other broker compensation disclosure, commission statement, or broker services agreement, for the 2025 and 2026 health benefit plan years."
 

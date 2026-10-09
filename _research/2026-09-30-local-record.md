@@ -1,0 +1,53 @@
+# The local record as of September 30, 2026
+
+Each line carries how far it has been checked. **[checked]** means the quote was read in the original PDF (copies in `sources/`). **[agent]** means a research agent retrieved it through a summarizing fetch tool and nobody has yet read the original. **[owner]** means the site owner's own notes or first-hand knowledge. **[report]** means second-hand and unconfirmed. Nothing below should reach the public site at a higher confidence than its tag.
+
+## The outsourcing decision
+
+- **[checked]** April 29, 2026, Superintendent's community letter, p. 3: "the $13.5 million budget shortfall"; outsourcing of paraprofessional services "is a substantial $3 million savings that will reoccur year after year"; "While the employer of record may change, the people do not — our students will continue to see the same familiar faces they rely on." p. 4: "there will be no rotation of paras as most paras are IEP driven. The administration and I will demand consistency for our students receiving special services." https://resources.finalsite.net/images/v1777488819/woboeorg/biirh6zs6kbwvcamc67c/WestOrangeCommunityBudgetDetails4292026English.pdf
+- **[checked]** RFP CC 25-09, Substitute Staffing and Paraprofessional Services: "Proposal Due Date: Wednesday, April 29, 2026", opening 10:00 a.m., under the competitive contracting process of N.J.S.A. 18A:18A-4.1 et seq. https://resources.finalsite.net/images/v1777051223/woboeorg/es0iktco079oat5c8giu/UPDATED-RFP-CC25-09-SubstituteStaffingandParaprofessionalServices1.pdf
+- **[checked]** May 4, 2026: board adopts the 2026-27 budget unanimously. Patch (Eric Kiefer, May 5): $206,821,351 budget, $168,740,972 levy, 2.5 percent increase, "77 staff cuts, in addition to outsourcing some services such as paraprofessionals", "$13.5 million budget deficit". https://patch.com/new-jersey/westorange/west-orange-school-board-oks-budget-job-cuts-over-protests-teachers-union
+- **[checked]** June 16, 2026 minutes, p. 12, Personnel item 6: "approval by the Board of Education of the Memorandum of Agreement with the West Orange Education Association permitting the outsourcing of the paraprofessionals pursuant to the terms contained in the Memorandum of Agreement. (Att. #18)"
+- **[checked]** June 16, 2026 minutes, p. 25, Finance item 29: "approval by the Board of Education to reject proposals received for the Competitive Contracting Request for Proposal CC 25-09 - Substitute Staffing and Paraprofessional Services." https://resources.finalsite.net/images/v1784732860/woboeorg/jryunce7m2qtccixad76/June162026MINUTES.pdf
+- **[checked]** July 21, 2026 minutes, p. 6, Personnel item 3(i): approval of "the revised Memorandum of Agreement with the West Orange Education Association permitting the outsourcing of the paraprofessionals... (Att. #2)"
+- **[checked]** July 21, 2026 minutes, p. 13, Finance item 21: "approval by the Board of Education of the EduStaff Pricing Schedule Addendum-Exhibit B for an estimated amount of $12,000,000." Vote 4-0, Rock absent. The same page authorizes Trenae Lambkin to award contracts under the bid threshold, effective May 25, 2026 through June 30, 2027. https://resources.finalsite.net/images/v1787848637/woboeorg/aecbvgbymysfx09km6um/July212026-Minutes.pdf
+- **[checked]** August 24, 2026 minutes, p. 12, item 20: "Client Services Agreement between the West Orange Public School District and Sunbelt Staffing, LLC for providing substitute staffing services for the 2026-2027 school year." Vote 4-0. https://resources.finalsite.net/images/v1790700674/woboeorg/zv51wsqdw2coq5gaafqr/August242026-Minutes.pdf
+- **[agent]** EduStaff's own site says West Orange "partnered with Edustaff in the early spring of 2022" for substitutes; the footer names "Edustaff, LLC". Board documents say only "EduStaff". https://edustaff.org/casestudy/west-orange-expands-its-substitute-teacher-pool-through-expert-school-recruiting-services/
+- **[checked]** Not every paraprofessional was outsourced. June 16, 2026 minutes, p. 8: "renewal of contracts for the following members for the 2026-2027 school year: (a) 23/24 Year Pension Paraprofessionals (Att. #3) (b) Grant Funded Paraprofessionals (Att. #4)". The attachments, and so the numbers, are not posted.
+- **[agent]** June 16 minutes, p. 5, list a leave replacement paid through "EDUSTAFF" in May 2026, so EduStaff was already a district vendor before the RFP proposals were rejected. Superintendent's April 29 letter, p. 6: the "approximately 77" cuts are 58 layoffs plus 19 unreplaced positions.
+- **Open question, not a finding:** no posted document names the vendor for the paraprofessional work. The RFP proposals were rejected on June 16 and an EduStaff pricing addendum of unstated scope was approved on July 21; that EduStaff holds the paraprofessional work is the owner's first-hand understanding and local reporting, not something the minutes say. No document found states the procurement basis. OPRA-001 items 1, 2, and 4 are aimed at this.
+
+## Staffing levels this fall
+
+- **[captions]** September 28, 2026 board meeting, recording at https://www.youtube.com/watch?v=QcmkuVBK-Nc (automatic captions saved in `sources/2026-09-28-boe-meeting-captions.txt`; not checked by ear). From 53:12 the Director of Human Resources reports: 354 paraprofessional interviews since July; working with EduStaff to onboard since July; 244 positions needed "based on building and student needs"; "as of today, September 27th" 176 working, made up of 13 grant-funded and pension positions, 47 returning, 116 new; 44 candidates onboarding; 24 positions vacant, interviews scheduled that Friday. The sums agree (13+47+116=176; 176+44+24=244) and match the owner's notes from the room. From 56:06 the administrator in charge of special services: substitutes and substitute paraprofessionals used in the interim; seven registered behavior technicians from outside agencies active, eight more onboarding, to be phased out as paraprofessionals arrive; professional development day October 12. At 50:18-52:57 the Superintendent says the district wanted everyone to return and that did not occur. At 1:03:17 a board member puts it as "about 20, 25 short compared to last year" and is told yes. Speaker names are garbled in the captions; use titles.
+- **[captions]** Same recording, about 46:50-48:00: the owner's own public comment, including that his kindergartener came home saying she watched Toy Story, and that eating and drinking is being added to his daughter's IEP.
+- **[owner, October 3]** Both of the owner's children with IEPs are in classes with paraprofessionals. The aide his son had for at least two years is gone this year; his kindergartener's is probably a substitute. Lifetouch is active in several West Orange schools (he has a flyer for an October 8 picture day at his second-grader's school). The district moved to some form of state health plan a school year or two ago; which one is not established, and he is content to leave that vague.
+- **[owner]** The 200+ count of outsourced paraprofessional positions has come up at several meetings. No board document found states the number.
+- **[agent]** No written district statement on paraprofessional fill rates since September 1 was found. The Superintendent's September 2 welcome letter says only that "the coming year reflects several budgetary constraints".
+
+## Reports from September 30, all unconfirmed
+
+- **[report]** One staff member at one school: agency paraprofessionals arriving late or not at all.
+- **[report]** One teacher resigned. The reason is not established. The Gemini design doc's sample timeline entry says "citing lack of aide support"; that is not known and must not be published.
+- **[report]** At one PTA meeting, and from one or two parents on WhatsApp: some students with special needs may be unable to join field trips for lack of qualified staff. Context from the same parents: field trips are not mandated, some schools run none, and schools with more active PTAs run more, often PTA-funded. One parent emailed the Director of Special Services on September 30 to ask.
+- **[report]** Retaliation against teachers. No detail, no source beyond hearsay.
+
+## People and bodies
+
+- **[agent]** Superintendent: Hayden Moore. Board President: Brian Rock; Vice President: Maria Vera (district site).
+- **[agent]** Business Administrator/Board Secretary: the district site lists Tonya Flowers. Montclair Local (Matt Kadosh, July 8, 2026) reports her on paid administrative leave from May 25 and quotes Moore naming Trenae Lambkin acting business administrator and board secretary. https://montclairlocal.news/2026/07/west-orange-school-business-administrator-on-paid-leave-after-13-5m-deficit/
+- **[checked]** Superintendent's School Community Budget Council, announced by letter on September 9, 2026: "one representative and one alternate from each of our schools" plus "key district personnel"; "Your local PTA leadership, in conjunction with the Council of PTAs, will guide the selection process"; purpose "effective, long-term budgetary recommendations"; "Meetings will primarily be held virtually". No powers stated in the letter. **[agent]** No board action creating it found. https://resources.finalsite.net/images/v1788968912/woboeorg/sinhfmapfmopkktif2tq/SchoolCommunityBudgetCounciltranslated992026.pdf
+- **[agent]** WOEA: the district lists the last agreement as July 1, 2020 to June 30, 2025. **[checked]** August 24, 2026 minutes, p. 10, say salaries "may be adjusted... should contract negotiations finalize with the WOEA". The union site has a June 9, 2026 post titled "Job Actions Starting This Summer"; body not retrieved.
+
+## Meetings ahead
+
+- **[agent]** Regular meetings Monday, October 26; Monday, November 9; Monday, December 14, 2026, at West Orange High School, public session 6:30 pm. Reorganization Tuesday, January 5, 2027. https://resources.finalsite.net/images/v1780417954/woboeorg/xs8ktbps5fnzgtzuqzhb/2026BOEMeetingSchedule-reviseddocx.pdf
+
+## Filing
+
+- **[agent]** OPRA page: https://www.woboe.org/departments/business-office/opra-request. Form dated June 2026 (copy in `sources/opra-form.pdf`, a scanned image with no text layer). Business Office, 179 Eagle Rock Ave., West Orange, NJ 07052; 973-669-5400; fax 973-669-8019.
+- Custodian's name, accepted submission methods, and any fee schedule: not yet read off the form.
+
+## Elsewhere
+
+- **[agent]** No independent reporting found on EduStaff fill rates or complaints in other New Jersey districts. The September paraprofessional shortfall in South Orange-Maplewood involves Delta-T Group, and the Union Township dispute involves ESS; neither is EduStaff.

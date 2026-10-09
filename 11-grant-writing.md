@@ -7,12 +7,14 @@ parent: "Modules"
 
 # Module 9: Community Grant Writing Corps
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Turning Parent Expertise into a Permanent Revenue Pipeline*
 
 ---
 
 - **Impact Potential:** High - federal, state, and foundation grants for education
-  are substantial and often go unclaimed because districts lack staff hours to
+  are substantial and can go unpursued because districts lack staff hours to
   pursue them; a skilled volunteer team changes the equation permanently
 - **Effort:** Medium - requires identifying qualified volunteers, establishing
   a coordination process, and building relationships with the district's grant
@@ -30,14 +32,9 @@ parent: "Modules"
 
 ## The Problem
 
-Grant money for education is abundant. Pursuing it is labor-intensive. Districts
-with dedicated grant writers bring in significantly more external funding than
-those that rely on administrators to squeeze applications into their already
-overloaded schedules.
+There is real grant money for education, but pursuing it is labor-intensive. Districts with dedicated grant capacity are generally better placed to pursue competitive funding than those that rely on administrators to squeeze applications into their already overloaded schedules.
 
-This district almost certainly does not have a full-time grant writer. The result
-is money left on the table every year - money that could fund the exact positions
-and programs being cut.
+As far as we can tell, the district does not have a full-time grant writer; it turned to an outside firm ([Hanover Research](https://www.hanoverresearch.com/testimonial/k-12-education/west-orange-public-schools/)) for grant prospecting in 2020. We don't know how much grant money goes unpursued each year - that is one of the questions below - but it is money that could fund the exact positions and programs being cut.
 
 ## The Proposal: A Volunteer Grant Writing Team
 
@@ -70,8 +67,10 @@ help if someone organized the effort and connected them to the district's needs.
 
 #### Federal
 
+The main Title I-A, II-A, IV-A and IDEA Part B funds reach districts as [formula allocations that applicants do not compete for](https://www.nj.gov/education/grants/entitlement/), so a volunteer team's role there is helping plan how they're used, not winning more. 21st Century Community Learning Centers is competitive, run through NJDOE.
+
 - **Title I** (supplemental funding for high-poverty schools) - if the district
-  qualifies but isn't maximizing its allocation
+  qualifies
 - **Title II** (teacher quality and professional development)
 - **Title IV** (student support and academic enrichment - directly relevant to
   arts education)
@@ -84,28 +83,21 @@ help if someone organized the effort and connected them to the district's needs.
 
 - **NJ DOE competitive grants** for STEM, arts integration, literacy, and
   special education innovation
-- **County-level grants** through Educational Services Commissions
-- **NJ Council on the Arts** grants for arts education programs
+- **Shared-service and consortium opportunities** through the county Educational Services Commission (worth asking whether any grant consortia are open)
+- **NJ State Council on the Arts** grants for arts education programs
 
 #### Private Foundations
 
-- **[NEA Foundation](https://www.neafoundation.org/educator-grants-and-fellowships/)** --
-  $1,500-$5,000 grants for public school educators (NEA members); ~150 awarded per year
-- **[Geraldine R. Dodge Foundation](https://www.grdodge.org/our-work/grantmaking/)** --
-  NJ-focused, ~$11M/year in grants; strong education and arts portfolio; awarded
-  $500K to Arts Ed NJ for arts education advocacy
-- **[Victoria Foundation](https://www.victoriafoundation.org/)** - NJ-focused
-  (primarily Newark area), $14.3M in grants in 2025; education and youth development
+- **[NEA Foundation](https://www.neafoundation.org/educator-grants-and-fellowships/)** -- grants of up to $5,000 to individual public school educators who are NEA members (the volunteer team could help teachers apply)
+- **[Geraldine R. Dodge Foundation](https://www.grdodge.org/our-work/grantmaking/)** -- NJ-focused, about $11M a year in grants per [Wikipedia](https://en.wikipedia.org/wiki/Geraldine_R._Dodge_Foundation); historically funded arts education (a [$500K multi-year grant to Arts Ed NJ](https://artsednj.org/arts-ed-nj-receives-multi-year-grant-to-support-arts-education-mission/) in 2022), but its current grantmaking centers on housing and economic mobility and is particularly focused on five NJ cities (not West Orange), so it is an unlikely direct funder for a West Orange school
+- **[Victoria Foundation](https://www.victoriafoundation.org/)** - Newark-focused funder ([$14.3M in 2025 grants](https://www.victoriafoundation.org/news/victoria-foundation-announces-14-2-million-in-annual-grants-to-strengthen-community-power-and-generational-well-being-in-newark)); it says it does not accept unsolicited proposals and works with Newark-based nonprofits, so it is not a realistic source for West Orange
 - **Local community foundations** with education-designated funds
 - **Corporate foundations** (many have education giving programs tied to
   communities where employees live)
 
 ### The Scale of Opportunity
 
-A single successful federal grant can bring in $50,000 to $500,000+. A portfolio
-of smaller foundation grants can aggregate to six figures annually. The effort-to-
-return ratio on grant writing, when done by skilled volunteers, is among the
-highest of any fundraising activity.
+Competitive federal and state grants can run to tens or hundreds of thousands of dollars, and a portfolio of smaller foundation grants can add up. Because the writing is donated, the return on volunteer grant writing could be high relative to other fundraising.
 
 ### What We Need from the Board
 
@@ -115,7 +107,7 @@ highest of any fundraising activity.
    for review and submission
 3. **Transparency about what's already been pursued** - has the district applied
    for and lost grants? Not applied at all? Applied and received but the public
-   doesn't know about it?
+   doesn't know about it? And what came of the district's past work with Hanover Research?
 
 ### Long-Term Value
 
@@ -125,4 +117,4 @@ time. The team's expertise compounds. This is an investment in permanent
 institutional capacity - exactly the kind of "community infrastructure" that
 outlasts any single budget crisis.
 
-[Back to Index](index) | Next: [Student-led Projects](12-student-led-projects)
+[Back to Index](spring-2026#document-index) | Next: [Student-led Projects](12-student-led-projects)

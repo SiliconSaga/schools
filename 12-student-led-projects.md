@@ -7,13 +7,15 @@ parent: "Modules"
 
 # Module 10: Student-Led Projects with Dual Value
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Educational Outcomes That Also Reduce District Costs*
 
 ---
 
 - **Impact Potential:** Medium - dollar savings are modest per project, but the
-  educational value is high and the optics are excellent; demonstrates that
-  investment in students pays for itself
+  educational value is high and the optics are excellent; illustrates how
+  investment in students can return some value to the district
 - **Effort:** Medium - requires teacher/mentor supervision, structured programs,
   and coordination with district IT/operations
 - **Timeline:** Can launch within a semester if aligned with existing course
@@ -29,8 +31,8 @@ parent: "Modules"
 
 ## The Concept
 
-High school and middle school students need community service hours, portfolio
-projects, and real-world experience. The district needs to reduce vendor costs for
+High school and middle school students look for community service hours (which the district recommends but does not require), portfolio projects, and real-world experience.
+The district needs to reduce vendor costs for
 services that don't require professional licensing. These needs overlap more than
 most people realize.
 
@@ -57,14 +59,12 @@ supports this under Information Technology pathways.
 
 ### Student Photography & Media
 
-**What:** Students handle yearbook, event photography, school social media content,
-and potentially contribute to the [Open Image Project](02-open-image-project).
+**What:** Building on the high school's existing Yearbook, Digital Photography and Broadcast courses, students take on more event photography and school social media content, and potentially contribute to the [Open Image Project](02-open-image-project).
 
 **Educational value:** Portfolio development, digital media skills, journalism
 experience.
 
-**Cost offset:** Reduces or eliminates vendor contracts for event photography and
-media production.
+**Cost offset:** Could reduce spending on outside event photography and media production, to the extent the district pays for those today; I have not been able to confirm whether any such contracts exist.
 
 **Tie-in:** This directly supports Module 2. Student photographers working alongside
 parent volunteers on Picture Day creates a mentorship dynamic that strengthens
@@ -126,4 +126,4 @@ paying vendors to do concrete work on our campuses. What if we connected those
 two things? Students learn more from real projects than worksheets, and every
 dollar we don't send to a vendor stays in the building."
 
-[Back to Index](index) | Next: [Regulatory Leverage](13-regulatory-leverage)
+[Back to Index](spring-2026#document-index) | Next: [Regulatory Leverage](13-regulatory-leverage)

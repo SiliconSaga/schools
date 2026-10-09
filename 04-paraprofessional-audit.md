@@ -9,11 +9,13 @@ parent: "Modules"
 
 *The Hidden Costs of Outsourcing Special Education Staff*
 
+> **Archived, with corrections.** This module was written in April 2026, when outsourcing was still a proposal. The Board has since adopted a budget that includes it and approved a union agreement permitting it. [The Ledger](/ledger/) keeps the record of what was decided and what has happened since. The text below is kept as written apart from source and wording corrections made in October 2026.
+
 ---
 
 - **Impact Potential:** Very High - this is the most emotionally and legally
   consequential issue; outsourcing paras affects the most vulnerable students and
-  exposes the district to significant legal liability
+  may expose the district to legal risk
 - **Effort:** Low - this module is primarily an argument backed by data; the
   "fix" is funded by savings from other modules
 - **Timeline:** Immediate as an argument; the financial case strengthens as
@@ -41,27 +43,23 @@ We believe the hidden costs of this trade deserve close examination.
 
 ### The Agency Markup
 
-Outsourcing agencies typically take a significant markup on each worker - industry
-analyses commonly cite ranges of 30-40% or more. The actual paraprofessional sees
-a fraction of the hourly rate, often at levels that may be difficult to live on in
-this area, frequently without health benefits.
+Outsourcing agencies bill the district a markup on each worker's pay; industry guides cite ranges from about 20% to 75% ([example](https://www.advancepartners.com/calculate-how-to-price-your-staffing-services/)), most of which pays the agency's own expenses, with some left over for profit. That may leave less room for the para's own wage, and we do not yet know what pay or benefits agency paras here receive.
 
-The predictable result:
+The risk, in our view:
 
-- **High annual turnover** as workers leave for better opportunities
-- Constant retraining cycles consuming district administrative time
-- Declining quality of support as institutional knowledge evaporates
+- **Higher turnover** if workers leave for better-paying opportunities
+- Repeated retraining cycles consuming district administrative time
+- Lower quality of support as institutional knowledge is lost
 
 ### The "Technical Debt" of Special Education
 
-For children with IEPs (Individualized Education Programs), continuity is not a
-luxury - it is a **clinical and legal requirement**.
+For children with IEPs (Individualized Education Programs), continuity is not a luxury. The law requires that the services in a child's IEP actually be delivered ([34 CFR 300.323(c)(2)](https://www.law.cornell.edu/cfr/text/34/300.323)), and for many children, especially those who communicate or regulate with difficulty, we believe a familiar adult is a large part of what makes those services work.
 
-Every time a paraprofessional leaves:
+When a paraprofessional leaves, in my family's experience:
 
-- The lived-experience for that child's needs, triggers, communication style, and
-  progress is **wiped**
-- The replacement starts from zero, and the child loses weeks or months of progress
+- The lived knowledge of that child's needs, triggers, communication style, and
+  progress leaves with them
+- The replacement starts from zero, and the child can lose ground while the new adult learns
 - Parents must re-educate new staff on their child's specific needs
 
 ### The Legal Exposure
@@ -71,12 +69,9 @@ IEP non-compliance due to staffing instability creates serious legal risk:
 - **Compensatory education claims** from parents whose children regressed
 - **Due Process hearings** that cost the district legal fees regardless of outcome
 - **Out-of-district placements** if the district cannot demonstrate adequate
-  in-house support - these placements are widely reported to cost districts
-  six figures per student per year
+  in-house support - these placements were reported in 2022 to cost New Jersey districts often more than $70,000 per student per year in tuition, before transportation ([NJ Common Ground](https://njcommonground.org/paying-for-special-education/))
 
-A coordinated Due Process complaint from a group of parents could cost the
-district more in legal fees and remediation than the projected savings from
-the outsourcing contract.
+If staffing gaps led to IEP services not being delivered, the resulting due process claims and compensatory services could offset some of the projected savings.
 
 ## The Human Cost
 
@@ -85,9 +80,7 @@ a child who has known their para for a third of their life, that relationship is
 a foundation of their school experience - stability, trust, and continuity that
 cannot be replicated by a rotating cast of agency temps.
 
-Even if an existing para is offered to be re-hired by the new agency, their total
-compensation naturally falls, they may be forced to reject or leave anyway, and
-they have might to change their routine in negative ways to meet new agency rules.
+Even if an existing para is offered re-hire by the new agency, their total compensation may fall. The Superintendent's [April 29 letter](https://resources.finalsite.net/images/v1777488819/woboeorg/biirh6zs6kbwvcamc67c/WestOrangeCommunityBudgetDetails4292026English.pdf) says the criteria include "salary, healthcare benefits and retirement options", but the agreement's terms have not been posted, so we do not know how these compare with what paras had. Some may decline or leave anyway, and they might have to change their routine to meet new agency rules.
 
 ## The Proposal: The Community Shoulders What It Can
 
@@ -109,9 +102,7 @@ Combined with other cost-avoidance modules - energy savings
 ([Module 7](09-energy-facilities)), community maintenance
 ([Module 3](03-community-maintenance)), revenue from the
 [Open Image Project](02-open-image-project), and [grant funding](11-grant-writing)
-(including IDEA grants specifically designed for special education) - the
-district has multiple avenues to preserve these positions without additional
-tax burden.
+(IDEA funds are formula allocations that, by [federal rule](https://www.law.cornell.edu/cfr/text/34/300.202), must supplement rather than replace local spending) - the district may have several avenues to help preserve these positions, though we have not shown they would add up to the full cost.
 
 The [community sports partnership model](19-community-sports) also provides
 an example of how a different community organization (a sports league rather
@@ -126,4 +117,4 @@ priorities like paraprofessional retention.
 3. Quantify the district's current spend on compensatory education and out-of-district
    placements attributable to staffing gaps
 
-[Back to Index](index) | Next: [Health Insurance Transparency](05-health-insurance)
+[Back to Index](spring-2026#document-index) | Next: [Health Insurance Transparency](05-health-insurance)

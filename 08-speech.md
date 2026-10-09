@@ -6,13 +6,15 @@ nav_exclude: true
 
 # The Speech
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *3 minutes before the board -- "The Camacho Standard"*
 
 ---
 
 ## [0:00 - 0:45] The Callback & The Follow-Up
 
-Good evening. I am Rasmus Praestholm, 643 Mount Pleasant Ave. 
+Good evening. I am Rasmus Praestholm, a West Orange resident. 
 
 For those who don't recognize the face, I'm the guy from last year
 who "half-joked" about organizing a parent-led leaf blower brigade to save the
@@ -152,8 +154,8 @@ impact, and physically holdable. Here's the recommended assembly:
 - **Staple each stack** -- don't hand them a pile of loose pages
 - **Print the Executive Summary on colored paper** (light blue or cream) so it
   stands out as the "start here" page
-- **Number of copies:** one per board member (usually 7-9) + one for the Board
-  Secretary + a few extras for the podium. ~15 total stacks.
+- **Number of copies:** one per board member (five) + one for the Board
+  Secretary + a few extras for the podium. ~10 total stacks.
 - **The site URL** (`schools.frontstate.org`) should be on the Executive Summary
   so people can find the full site later. Write it by hand on each copy if you
   don't get to update the print layout in time.

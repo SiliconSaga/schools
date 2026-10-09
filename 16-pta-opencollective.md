@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 14: The PTA as Community Operating System
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Meeting the District Halfway with OpenCollective, Directed Giving, and Transparent Operations*
 
 ---
@@ -80,7 +82,7 @@ That's where OpenCollective comes in.
 Parent → Dues/Donation → PTA Checking Account → Treasurer Decides → Spending
                                                         ↓
                                               Periodic report at meeting
-                                              (attended by 10% of parents)
+                                              (attended by a small share of parents)
 ```
 
 This works at small scale. It breaks down when:
@@ -106,15 +108,11 @@ Parent → Directed Contribution → Project Fund → Transparent Expense → Pu
 
 The PTA has options:
 
-- **Open Collective Foundation (OCF)** - a 501(c)(3) fiscal host. Contributions
-  are tax-deductible. OCF handles tax filings, compliance, and banking. The PTA
-  pays a platform fee (typically 5-10%) but eliminates its own administrative
-  overhead for financial management.
+- **A fiscal host** - a 501(c)(3) that holds the funds and handles compliance for a fee. (Open Collective Foundation, the host this page originally recommended, stopped accepting donations in March 2024 and [dissolved at the end of 2024](https://opencollective.com/foundation/updates/announcement-we-are-dissolving-open-collective-foundation-at-the-end-of-this-year); the Foundation said its closing "has no bearing on the future of the Open Collective platform", which is still online, and other fiscal hosts operate on it and elsewhere. Any host would need to be vetted.)
 - **Self-hosted** - the PTA keeps its existing 501(c)(3) status and bank account
   but uses OpenCollective's transparency layer on top. More control, more admin work.
 
-For most PTAs, OCF is the fastest path: create the collective, start accepting
-funds within days, and let the host handle compliance.
+For a PTA that already has its own 501(c)(3) status and bank account, the self-hosted route is probably the more realistic one; Open Collective offers organization plans for this, including a free tier.
 
 **Step 2: Create project-based funds**
 
@@ -156,8 +154,8 @@ They can see when the money is spent and what it bought. This isn't just
 fundraising - it's participatory budgeting in action.
 
 **Corporate matching.** Many employers match charitable contributions to 501(c)(3)
-organizations. If the PTA uses OCF as fiscal host, parent contributions are
-tax-deductible and potentially matchable. A $500 donation becomes $1,000. At
+organizations. If the PTA holds its own 501(c)(3) status, parent contributions are
+generally tax-deductible and potentially matchable. A $500 donation becomes $1,000. At
 scale, this could double the PTA's effective fundraising capacity.
 
 **Alumni and community giving.** OpenCollective doesn't limit contributors to
@@ -185,7 +183,7 @@ certification, licensed professionals, or district legal authority:
 
 | Function | Current Owner | PTA Role | How Funded |
 |----------|--------------|----------|------------|
-| School photography | Lifetouch (vendor) | Full takeover (Module 2) | Revenue-generating (self-funding) |
+| School photography | Outside vendor (e.g. Lifetouch) | Full takeover (Module 2) | Revenue-generating (self-funding) |
 | Field trips | PTA already | Continue | Existing PTA funds |
 | Enrichment programs | PTA already | Expand to cover arts/library gap | Bridge Grant + enrichment fees |
 | Grounds maintenance | Commercial contractor | Volunteer coordination (Module 3) | Minimal (volunteer labor) |
@@ -222,9 +220,7 @@ The teachers' union is a natural ally in this model:
   instructors), those positions can be structured in consultation with the
   union to avoid undermining collective bargaining
 
-The union leader who was nearly in tears at the PTA meeting should be brought
-into this conversation early. Her endorsement transforms this from "parents with
-ideas" into "a coalition."
+Local union leadership should be brought into this conversation early. Their endorsement could help turn this from "parents with ideas" into "a coalition."
 
 ## Scaling Across the District
 
@@ -285,14 +281,13 @@ metrics to track and publish (all visible on OpenCollective):
 | Corporate match capture rate | Sophistication of fundraising operation |
 
 After one year of transparent operations, the PTA can present the district with
-an annual report that rivals the district's own CAFR in clarity - and probably
+an annual report that rivals the district's own ACFR in clarity - and probably
 exceeds it in transparency.
 
 ## Precedent: Palo Alto Partners in Education
 
 This model has been proven at scale. [Palo Alto Partners in Education (PiE)](https://papie.org/about/f-a-q/)
-raises approximately **$5.5 million per year** and funds over **250 positions
-districtwide** - art teachers, classroom aides, science electives, and more.
+said in early 2025 that it raises around **$5.5 million per year** and funds over **250 positions districtwide** - art teachers, classroom aides, an extra science elective class, and more (per [The Frisc](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/), March 2025). PiE's own FAQ describes those staff as funded "in whole or in part" by PiE and reports a $4.4 million grant to the schools for 2025-26.
 
 In 2002, the Palo Alto school board ruled that PTA-raised funds for extra staff
 must be centrally raised and evenly distributed through a designated nonprofit.
@@ -302,11 +297,10 @@ resources while others go without.
 Portland, Oregon [took a similar approach in the 1990s](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/),
 requiring PTAs to pool part of their raised funds across schools.
 
-San Francisco is [currently debating adopting this model](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/)
-as its district faces its own budget crisis.
+In San Francisco, some PTA leaders [floated voluntary pooling in early 2025](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/) as their district faced its own budget crisis.
 
 The lesson: PTA-funded positions at scale are not hypothetical. They work. The
 question is whether they are organized transparently and equitably - which is
 exactly what OpenCollective enables.
 
-[Back to Index](index) | Next: [Community Sports](19-community-sports)
+[Back to Index](spring-2026#document-index) | Next: [Community Sports](19-community-sports)

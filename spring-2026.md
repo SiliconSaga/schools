@@ -1,0 +1,291 @@
+---
+layout: default
+title: "Spring 2026 Archive"
+nav_order: 2
+has_children: true
+---
+
+# Spring 2026 Archive
+
+> **Archived, with corrections.** This was the site's home page from April to September 2026, during the fight over the 2026-27 school budget. The budget passed on May 4 with the cuts in place, so the plans below describe a moment that has ended. The page is kept as written apart from source and wording corrections made in October 2026. For what has happened since, see [The Ledger](/ledger/).
+
+A review in October 2026 found that a number of the sources cited across these pages did not support the claims attached to them. Those have been corrected or hedged, but the proposals remain what they always were: quick starting points to be tested, not verified findings.
+
+The proposals collected here were drafted in April 2026 with a few hours of one parent's effort, spread over a few days, working with AI tools. They were never a list of fixes that would each save the district. The point was the speed: if one person can draft fifteen workable starting points that quickly, a community organized the same way could generate many more, hand the promising ones to volunteers, and drop the rest. That offer still stands.
+
+---
+
+## Community Solutions for the School Budget Crisis
+
+[![West Orange Schools - Our Community's Future](images/thumb/HandsHoldingSchool.png)](images/HandsHoldingSchool.png)
+
+**A Resource-Optimized Model for District Stability**
+*Bridging the Budget Gap through Community-Led Infrastructure & Shared Service Grants*
+
+*This site is the West Orange (NJ) case study for [The Front State](https://frontstate.org) — a generational project to build the coordination layer ordinary communities are missing. The proposals here are an early working test of the approach.*
+
+**Download PDF:** [Printable version (core modules)](whitepaper-print.pdf) | [Full version with links (all modules)](whitepaper.pdf)
+
+**How You Can Help Right Now**
+We are looking for people willing to lead or join working groups focused on these specific modules. If you have expertise in healthcare, finance, grant writing, or community organizing—or just want to help build this out—please reach out!
+
+**Contact:**
+- **volunteer@frontstate.org** — to help, contribute, or join a working group
+- **schools@frontstate.org** — general inquiries, press, or other districts curious about this case study
+
+**Start here:** [**The Action Plan**](bigger-picture-action) — the three-prong strategy we're organizing around now, post-April 20: tax bridge, community effort, and long-term structural cost reduction. For the original whitepaper prepared for the April 20 board meeting, see the [Executive Summary](00-executive-summary). The document index below navigates all the details.
+
+*This site was built by one time-restrained nerd dad with three young kids,
+assisted responsibly by AI writing, image generation, and research tools. 
+The ideas are human; the legwork was accelerated. That's kind of the point:
+if one person can produce this with modern tools, imagine what a whole 
+organized community could do? ([More about this site](about))*
+
+---
+
+## The Action Plan: Flatten the Curve
+
+[![Flatten the Budget Curve](images/thumb/FlattenTheBudgetCurve.png)](images/FlattenTheBudgetCurve.png)
+
+During early COVID, the entire country mobilized to "flatten the curve" -
+not to cure the disease, but to keep hospitals from collapsing while better
+solutions were developed. Nobody thought their personal mask saved the ICU.
+But collectively, the small actions bought time for the big ones.
+
+We need a local version of the same thing. Our school system is the
+overwhelmed hospital. The $14M deficit is the spike in cases. And the
+community is the population that can flatten the curve - not by solving the
+underlying funding crisis overnight, but by absorbing what we can, reducing
+costs where we're able, and buying time for structural fixes to take effect.
+
+**What can you do for West Orange?**
+
+This isn't just about board meetings. It's about the doctor's office (pushing
+for direct primary care relationships), the accountant's desk (identifying
+grant opportunities), the sports field (leagues absorbing athletic programs),
+the PTA meeting (transparent fundraising), and the kitchen table (deciding
+to sponsor a neighbor's tax increase or PTA membership because you can and
+they can't).
+
+The [three-prong plan](bigger-picture-action#the-three-prong-plan) in detail:
+
+1. **Right now** - targeted tax increases using NJ's health insurance
+   exception to the 2% cap, with community "sponsor a neighbor" programs to
+   protect those who can't absorb it
+2. **This year and ongoing** - the community starts preparing and building:
+   PTA fundraising, volunteer recruitment, sports league coordination,
+   improving governance and budget transparency - working with the district
+   to execute (the [whitepaper modules](#document-index) below)
+3. **Multi-year structural** - deeper changes the district executes with
+   community research: healthcare restructuring, energy savings, cooperative
+   purchasing, regulatory tools
+   ([The Bigger Picture](bigger-picture))
+
+Each prong justifies the others. Taxes buy time. Community effort justifies
+the taxes. Cost reduction justifies reducing the taxes over time. None works
+alone. All three together, with a timeline.
+
+[![What Can You Do For West Orange?](images/thumb/WhatCanYouDoForWestOrange.png)](images/WhatCanYouDoForWestOrange.png)
+
+*Note: The email and QR code shown in the image above are placeholders and
+not active. To get involved, contact volunteer@frontstate.org*
+
+---
+
+## After the April 20 Board Meeting
+
+By my estimate close to a thousand residents packed the high school auditorium for a [six-hour meeting](https://patch.com/new-jersey/westorange/severe-budget-cuts-west-orange-schools-spark-outcry-board-meeting), [more than three hours](https://www.citizenportal.com/articles/7957407/west-orange-superintendent-warns-of-14-million-shortfall-community-objects-to-plan-that-could-outsource-paraprofessionals) of it public comment.
+Dozens spoke. The board listened, said some words, passed routine
+business, and gaveled out past midnight (the [minutes](https://www.woboe.org/fs/resource-manager/view/cc05598b-a60d-4d1b-ad68-3b1c0a1b385a) record adjournment at 12:29 a.m.).
+
+Here's what became clear: **multiple groups are correct about incompatible
+things.**
+
+- The **board** is correct that the numbers don't add up under the current
+  funding formula
+- The **teachers' union** is correct that outsourcing and two-tier contracts
+  devalue the people who do the actual work
+- The **parents** are correct that cutting programs and paras hurts kids
+- The **state-level advocates** are correct that the funding formula itself
+  is structurally broken
+- The **community** is correct that there are creative options that haven't
+  been explored
+
+These aren't contradictions - they're symptoms of the same underlying problem.
+Systems like healthcare, insurance, and state education funding are
+fundamentally unsustainable in their current form, and local districts absorb
+the damage. Meanwhile at the state level, NJ was
+[on track to generate $1.5 billion less in revenue than it needed](https://www.njpp.org/publications/report/five-budget-time-bombs-facing-the-next-governor/)
+to cover expenses in FY2026, corporate tax revenue was
+[projected to fall by about $235M](https://pub.njleg.state.nj.us/publications/budget/governors-budget/2026/tax_revenue_analysis_fy26.pdf) that year,
+and state formula aid, up [about 3% statewide](https://www.njsba.org/news-information/school-board-notes/governor-sherrill-delivers-fiscal-year-2027-budget-address/) in the proposed FY27 budget ([about 6% for West Orange](https://jerseybee.org/2026/03/25/west-orange-school-district-to-see-6-increase-in-state-aid-compared-to-last-year-under-2027-budget-proposal/)), can't keep pace with district costs, which [West Orange Parents for Education](https://woparents.org/) puts at roughly 8% a year.
+The squeeze comes from above and below simultaneously.
+
+**But here's what's worse: both dominant paths forward lead to system
+collapse.**
+
+- The **board's current plan** - cut positions, outsource paras, shrinkflate
+  programs - breaks the system because you can't easily rebuild a teaching
+  workforce once it's gone. The institutional knowledge, the relationships,
+  the people who chose education because they care - once lost, they don't
+  come back at the same salary.
+- The **union's position**, as I understood it - resist outsourcing and keep positions and compensation intact -
+  is hard to sustain when costs keep rising faster than revenue.
+  You can't conjure money that doesn't exist.
+
+To the board's credit, they presented evidence at the meeting that they've
+already explored some of the health insurance alternatives covered in our
+[Module 5](05-health-insurance) - including switching plans a few years ago to
+avoid even worse outcomes. But the alternatives themselves are struggling:
+for the NJ School Employees' Health Benefits Program (SEHBP), the state's actuary recommended a
+[29.7% premium increase for 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml),
+driven by [$254 million in cost overruns in 2025](https://www.nj.gov/treasury/news/2025/07092025.shtml)
+and the explosion of GLP-1 drug costs (Ozempic, Wegovy, Mounjaro). Healthier
+employer groups are leaving the state plan, concentrating risk and driving
+costs higher for those who stay. There may not be a good insurance option
+left - which is itself evidence that the underlying healthcare system is
+broken at a level no school board can fix alone.
+
+Neither side is wrong about the other's plan being unworkable. **Both are
+right. And that's the problem.** The two sides are locked in escalating
+conflict, each convinced the other is the obstacle, while the actual problem - 
+unsustainable underlying systems - goes unaddressed. Sound familiar? It's
+the national two-party deadlock playing out at the local level.
+
+A third path can't get enough oxygen while everyone is trapped in that binary
+argument. We can't recruit volunteers, organize working groups, or build
+community capacity while the room is consumed by a fight between two
+approaches that both lead to the same cliff.
+
+**The first step is making peace - not agreement, but enough mutual
+recognition that neither current path works - so that a third approach can
+start to grow.**
+
+That starts with fixing the process. Hundreds of people, by my estimate near a thousand, showed up and the best
+we could do was hours of three-minute soundbites, heckling, and a polite
+wall behind a dais. Nobody workshopped anything. Nobody broke into groups.
+Nobody left with action items. The meeting format is designed for compliance,
+not collaboration.
+
+What if instead of a marathon of monologues, the community could split into
+working groups - each with access to the relevant budget data, each focused
+on one problem area, each producing a concrete recommendation? What if the
+board meeting was the *end* of that process, not the only venue for it?
+
+That's what this whitepaper proposes. Not just specific cost-avoidance ideas,
+but a fundamentally different way for a community and its school district to
+work together. The proposals below are a starting point. The real ask is:
+**let's build a better process so the next meeting doesn't look like the
+last one.** That is democracy - even if it starts small and vague.
+
+If you were at the meeting and want to help turn any of this into action -
+or if you have expertise in healthcare, insurance, school finance, grant
+writing, or community organizing - please reach out: volunteer@frontstate.org
+
+---
+
+## Document Index
+
+### Overview
+
+| Document | Type | Print? |
+|----------|------|--------|
+| [Executive Summary](00-executive-summary) | Whitepaper | Yes |
+
+### Cost-Avoidance Modules
+
+| Document | Impact | Print? |
+|----------|--------|--------|
+| [Instructional Bridge Grant](01-instructional-bridge) -- PTA fund to save Art & Library | High | Yes |
+| [Open Image Project](02-open-image-project) -- Replace Lifetouch, reclaim revenue & data | Medium-High | Yes |
+| [Community Maintenance Layer](03-community-maintenance) -- Volunteer groundskeeping SLA | Low-Med $ / High proof | Yes |
+| [Paraprofessional Retention Audit](04-paraprofessional-audit) -- Hidden costs of outsourcing special ed | Very High | Yes |
+| [Health Insurance Transparency](05-health-insurance) -- Broker conflicts, Perth Amboy precedent, SHBP | Very High | Yes |
+| [Open Governance Pilot](06-open-governance) -- Async governance, meetings as Sprint Reviews | Very High (long-term) | Yes |
+
+### Tools & Delivery
+
+| Document | Print? |
+|----------|--------|
+| [RFI Templates](07-rfi-templates) -- Ready-to-file vendor & broker disclosure requests | Yes |
+| [The Speech + Print Guide](08-speech) -- 3-minute address, what to print, assembly tips | Reference |
+
+### Additional Cost-Avoidance Modules
+
+| Document | Impact | Print? |
+|----------|--------|--------|
+| [Energy & Facilities](09-energy-facilities) -- Solar PPAs ($18M Piscataway), LED, audits | High | Optional |
+| [Cooperative Purchasing & Shared Services](10-cooperative-purchasing) -- Pooled buying, DCA SHARE grants | Medium | Optional |
+| [Community Grant Writing Corps](11-grant-writing) -- Volunteer grant team as revenue pipeline | High | Yes |
+| [Student-Led Projects](12-student-led-projects) -- Dual educational and cost-saving value | Medium | Optional |
+| [Regulatory Leverage Points](13-regulatory-leverage) -- Best Practices, banked cap, NJQSAC, surplus | Very High | Yes |
+
+### Community Partnerships & Multi-Organization Model
+
+| Document | Impact | Print? |
+|----------|--------|--------|
+| [Open Budget & Participatory Finance](14-open-budget-tools) -- OpenCollective, PB, budget viz | Very High | Yes |
+| [PTA Coordination Infrastructure](15-pta-coordination) -- Skill inventories, proposals, commitment tracking | Very High (long-term) | Optional |
+| [The PTA as Community Operating System](16-pta-opencollective) -- OpenCollective, directed giving, Palo Alto model | Very High | Site only |
+| [Community Sports & Athletics Partnerships](19-community-sports) -- League partnerships, junior coaches, multi-org model | High | Medium-High |
+
+### Technical Design Plans
+
+For platform builders -- developers, data volunteers, and technical contributors.
+
+| Document | Implements |
+|----------|-----------|
+| [District Budget Visualization](18-technical-budget-viz) -- Interactive CAFR explorer, D3.js, GitHub Pages | Module 14 |
+
+### Reference
+
+| Document | Purpose |
+|----------|---------|
+| [References & Source Links](20-references) -- Verified URLs, statutes, precedents, news coverage | All modules |
+
+---
+
+## The Multi-Organization Model
+
+| Organization | Contributes |
+|-------------|-------------|
+| **PTA** | Fundraising, enrichment, photography, grant writing |
+| **Sports leagues** | Athletics, coaching, equipment, insurance |
+| **Student volunteers** | Peer tutoring, junior coaching, tech support, media |
+| **Local businesses** | Enrichment instruction, sponsorship, equipment |
+| **Community groups** | Grounds maintenance, neighborhood coordination |
+
+## Two Sides of the Same Problem
+
+The district's budget crisis has two dimensions:
+
+**The state-level problem:** NJ's funding formula requires local contributions
+to grow faster than the 2% tax cap allows. This creates a structural deficit
+that recurs every year regardless of local decisions. **[West Orange Parents
+for Education (WOPE)](https://woparents.org/)** is a parent advocacy group
+focused on this angle -- mobilizing residents to push for state formula reform
+and legislative action. Their work is essential because without state-level
+change, the crisis repeats annually.
+
+**The local problem:** Regardless of what happens in Trenton, the community
+has untapped capacity to help right now. **This site** focuses entirely on
+what's possible locally -- community organizations absorbing functions,
+transparent fundraising, volunteer coordination, and regulatory tools the
+district may not be fully using.
+
+Both efforts are needed. State reform addresses the root cause; local action
+addresses the immediate crisis. They complement each other. The fact that both
+exist independently -- and that many residents may not know about the other --
+is itself an illustration of why better coordination and open process matters.
+
+## How to Use This Package
+
+**For the board meeting (printed):** See the [Print Guide](08-speech#what-to-print-for-the-board-meeting) for assembly order, copy counts, and tips.
+
+**For PTA leadership:** Start with [Executive Summary](00-executive-summary) then [Modules 14-16](14-open-budget-tools).
+
+**For sports league leadership:** Start with [Community Sports](19-community-sports) then [Coordination](15-pta-coordination).
+
+**For developers:** Start with [Technical Design docs](18-technical-budget-viz) and [References](20-references).
+
+---

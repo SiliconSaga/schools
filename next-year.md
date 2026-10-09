@@ -6,6 +6,8 @@ nav_order: 5
 
 # The Next Year
 
+> **October 2026 update.** The parent advocacy pilot described below did not run; there was not enough interest to start it in the spring. The tool built for it, Ting, exists and has not been tested with real families. The idea under Mid Term of tracking the paraprofessional outsourcing has started in a different form as [The Ledger](/ledger/), which records documents rather than incident reports. The rest of this page is kept as written in May 2026, apart from source and wording corrections made in October 2026.
+
 *The May 4 budget vote is final. The cuts are real. Paraprofessionals
 are being outsourced, positions are being eliminated or reassigned,
 and real harm will land on real kids in September. This page is about what
@@ -19,7 +21,7 @@ so we're not sitting in the same room, in the same shape, in May 2027.*
 ## What we lost, and what we're not pretending
 
 The April 20 and May 4 meetings between them stuck with the 2.5% tax
-increase using the health-care exception (+ ~$750K) from the 2% cap, 
+increase using the health-care exception (+$797,076) from the 2% cap, 
 and a budget unchanged from the cuts the board had planned. The
 referendum option was discussed but not pursued. The union/board
 standoff continued. The room had real engagement near the end of the
@@ -45,8 +47,8 @@ It has its place, but could be better channeled. **individual repetition
 isn't aggregation, and we just spent hours watching that not get anywhere** 
 at the recent BoE meetings. Additional valid points are being starved of oxygen.
 
-A recent [WOPE survey](https://woparents.org/budget-survey) went some distance in this direction, asking
-the responder to pick between difficult choices. However, the output 
+A recent WOPE survey (no longer online) went some distance in this direction, asking
+the responder to pick between difficult choices. However, as we recall, the output 
 was again just another email template. We need something more.
 
 What smarter aggregation actually looks like:
@@ -71,7 +73,7 @@ The first piece of platform we'll have running is a structured
 input-and-aggregation site for one school's worth of advocates,
 piloted at Mount Pleasant Elementary almost immediately, with
 the working-version POC ready to demonstrate at the next PTA
-meeting on May 13th then used for real at the next BoE meeting on June 15.
+meeting on May 13th then used for real at the next BoE meeting on June 16.
 
 ### How it works
 
@@ -79,7 +81,7 @@ meeting on May 13th then used for real at the next BoE meeting on June 15.
   per child), and the school distributes them to teachers who place them into
   backpacks — same channel as the  printed school calendars that already go 
   home in every backpack.
-  - This is likely to be just under 400 students at MPE. Doable.
+  - This is likely to be about 350 students at MPE. Doable.
 - The principal sends a brief email blast legitimizing the program
   so families know the site is real.
 - A code-holder visits the site and **without creating any account**
@@ -132,7 +134,7 @@ Based on this page going live May 9-10th
 
 - **+4 days:** Working POC reachable, available at the next PTA meeting.
 - **+1 week:** Codes printed, distributed in backpacks via teachers.
-- **By June 15:** Aggregate of community input visible on the site,
+- **By June 16:** Aggregate of community input visible on the site,
   ready to bring to the BoE meeting on a tablet plus a printed
   summary emailed to the board ahead of time.
 - **Fall semester:** First full advocacy cycle around real
@@ -147,7 +149,7 @@ Based on this page going live May 9-10th
   support. Use the advocacy site to surface aggregate willingness to
   contribute time, funds, and structural alternatives. (Open question
   below: what can the district legally accept?)
-- **Stand up a OpenCollective Teacher Support sub-fund** as the
+- **Stand up an OpenCollective Teacher Support sub-fund** as the
   receiving end of any pledged contributions. Transparent in/out,
   ready when needed. Likely tied to one or more PTA funds.
 - **Mutualism (small, reframed):** the
