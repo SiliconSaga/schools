@@ -1,0 +1,19 @@
+# Public records requests tracked at /ledger/opra.
+# status: drafted | filed | overdue | partial | fulfilled | denied
+# filed / due are dates (YYYY-MM-DD) once known; documents are {label, url} pairs.
+
+- id: OPRA-001
+  slug: 001-edustaff
+  title: "Paraprofessional staffing contract and billing"
+  status: drafted
+  filed:
+  due:
+  documents: []
+
+- id: OPRA-002
+  slug: 002-coverage
+  title: "Paraprofessional coverage records"
+  status: drafted
+  filed:
+  due:
+  documents: []

@@ -1,0 +1,85 @@
+# Timeline entries for /ledger/timeline. Newest-first ordering is done by the page.
+# basis: record (district or vendor document), statement (said by an official in a letter
+# or at a public meeting), press (reported by a named news outlet).
+# Add an entry only when its quote has been read in the linked source; see _research/.
+
+- date: 2026-04-29
+  basis: record
+  title: "Proposals due for substitute and paraprofessional staffing"
+  summary: >-
+    Sealed proposals under Competitive Contracting Request for Proposals CC 25-09, "Substitute Staffing and Paraprofessional Services", were due at 10:00 a.m.
+  sources:
+    - label: "RFP CC 25-09 legal advertisement"
+      url: "https://resources.finalsite.net/images/v1777051223/woboeorg/es0iktco079oat5c8giu/UPDATED-RFP-CC25-09-SubstituteStaffingandParaprofessionalServices1.pdf"
+
+- date: 2026-04-29
+  basis: statement
+  title: "Superintendent's letter: $3 million in savings, \"the same familiar faces\""
+  summary: >-
+    In a letter to the community, the Superintendent wrote that outsourcing paraprofessional services "is a substantial $3 million savings that will reoccur year after year", that "our students will continue to see the same familiar faces they rely on", and that "there will be no rotation of paras as most paras are IEP driven." The letter puts the budget shortfall at $13.5 million.
+  sources:
+    - label: "Community budget letter, April 29, 2026, pp. 3-4"
+      url: "https://resources.finalsite.net/images/v1777488819/woboeorg/biirh6zs6kbwvcamc67c/WestOrangeCommunityBudgetDetails4292026English.pdf"
+
+- date: 2026-05-04
+  basis: press
+  title: "Board adopts the 2026-27 budget"
+  summary: >-
+    Patch reported that the Board of Education "unanimously voted to approve the district's 2026-2027 budget", a $206,821,351 budget with "a 2.5 percent increase to the school portion of a local homeowner's property taxes", and that "the spending plan includes 77 staff cuts, in addition to outsourcing some services such as paraprofessionals."
+  sources:
+    - label: "Patch, May 5, 2026"
+      url: "https://patch.com/new-jersey/westorange/west-orange-school-board-oks-budget-job-cuts-over-protests-teachers-union"
+
+- date: 2026-06-16
+  basis: record
+  title: "Board approves union agreement permitting the outsourcing"
+  summary: >-
+    The Board approved "the Memorandum of Agreement with the West Orange Education Association permitting the outsourcing of the paraprofessionals pursuant to the terms contained in the Memorandum of Agreement." The agreement itself is an attachment that is not part of the posted minutes.
+  sources:
+    - label: "Minutes, June 16, 2026, p. 12, Personnel item 6"
+      url: "https://resources.finalsite.net/images/v1784732860/woboeorg/jryunce7m2qtccixad76/June162026MINUTES.pdf"
+
+- date: 2026-06-16
+  basis: record
+  title: "Board rejects the proposals it received for the staffing work"
+  summary: >-
+    At the same meeting the Board voted "to reject proposals received for the Competitive Contracting Request for Proposal CC 25-09 - Substitute Staffing and Paraprofessional Services." The minutes give no reason.
+  sources:
+    - label: "Minutes, June 16, 2026, p. 25, Finance item 29"
+      url: "https://resources.finalsite.net/images/v1784732860/woboeorg/jryunce7m2qtccixad76/June162026MINUTES.pdf"
+
+- date: 2026-07-21
+  basis: record
+  title: "Board approves a $12,000,000 EduStaff pricing addendum"
+  summary: >-
+    The Board approved "the EduStaff Pricing Schedule Addendum-Exhibit B for an estimated amount of $12,000,000", by a vote of 4-0 with one member absent, and a revised Memorandum of Agreement with the West Orange Education Association "permitting the outsourcing of the paraprofessionals". The minutes do not say what the addendum covers. Whether it covers paraprofessional staffing, and on what basis that work was awarded after the June rejection, is not stated in the posted minutes.
+  sources:
+    - label: "Minutes, July 21, 2026, p. 13, Finance item 21, and p. 6, Personnel item 3(i)"
+      url: "https://resources.finalsite.net/images/v1787848637/woboeorg/aecbvgbymysfx09km6um/July212026-Minutes.pdf"
+
+- date: 2026-08-24
+  basis: record
+  title: "Board approves Sunbelt Staffing for substitute staffing"
+  summary: >-
+    The Board approved a "Client Services Agreement between the West Orange Public School District and Sunbelt Staffing, LLC for providing substitute staffing services for the 2026-2027 school year."
+  sources:
+    - label: "Minutes, August 24, 2026, p. 12, item 20"
+      url: "https://resources.finalsite.net/images/v1790700674/woboeorg/zv51wsqdw2coq5gaafqr/August242026-Minutes.pdf"
+
+- date: 2026-09-09
+  basis: statement
+  title: "Superintendent announces a School Community Budget Council"
+  summary: >-
+    By letter, the Superintendent invited families to join "the Superintendent's School Community Budget Council", made up of "one representative and one alternate from each of our schools" and "key district personnel", with PTA leadership guiding who is selected. Its stated aim is "effective, long-term budgetary recommendations". The letter does not say what authority the council has.
+  sources:
+    - label: "Budget Council letter, September 9, 2026"
+      url: "https://resources.finalsite.net/images/v1788968912/woboeorg/sinhfmapfmopkktif2tq/SchoolCommunityBudgetCounciltranslated992026.pdf"
+
+- date: 2026-09-28
+  basis: statement
+  title: "District reports 176 of 244 paraprofessional positions filled"
+  summary: >-
+    At the Board meeting, the Director of Human Resources reported that 244 paraprofessional positions are needed for 2026-27 and that 176 paraprofessionals were working: 13 in grant-funded or pension positions, 47 returning, and 116 new. Another 44 candidates were being onboarded and 24 positions were vacant. She said the district had held 354 interviews since July and was working with EduStaff to bring staff on. The administrator in charge of special services said seven registered behavior technicians from outside agencies were in classrooms as short-term support, with eight more to come. These figures are taken from the recording's automatic captions.
+  sources:
+    - label: "Meeting recording, from 53:12"
+      url: "https://www.youtube.com/watch?v=QcmkuVBK-Nc&t=3192s"
