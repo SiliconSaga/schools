@@ -17,3 +17,7 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
+# Requester contact details and the rendered request letters that carry them
+_research/opra/requester.yml
+_research/opra/out/
+

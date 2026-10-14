@@ -16,13 +16,16 @@ fi
 fail=0
 for f in index.html ledger/index.html ledger/timeline.html ledger/statements.html \
          ledger/opra/index.html ledger/opra/001-edustaff.html ledger/opra/002-coverage.html \
-         spring-2026.html; do
+         ledger/opra/003-instructional-time.html spring-2026.html; do
   [ -f "$out/$f" ] || { echo "MISSING $f"; fail=1; }
+done
+for f in ledger/opra/001-edustaff.html ledger/opra/002-coverage.html ledger/opra/003-instructional-time.html; do
+  grep -q "Notes for the custodian" "$out/$f" || { echo "request text not included in $f"; fail=1; }
 done
 [ ! -e "$out/_research" ] || { echo "LEAK _research is published"; fail=1; }
 grep -q "Liquid" "$log" && { echo "LIQUID warning or error:"; grep "Liquid" "$log"; fail=1; }
 grep -q "EduStaff Pricing Schedule" "$out/ledger/timeline.html" || { echo "timeline data not rendered"; fail=1; }
-grep -q "OPRA-002" "$out/ledger/opra/index.html" || { echo "request table not rendered"; fail=1; }
+grep -q "OPRA-003" "$out/ledger/opra/index.html" || { echo "request table not rendered"; fail=1; }
 grep -q "OPRA-001" "$out/ledger/index.html" || { echo "request table missing on ledger home"; fail=1; }
 grep -q "{{" "$out/ledger/opra/001-edustaff.html" && { echo "unrendered Liquid in request page"; fail=1; }
 # Any email address in the built site must belong to a domain that is meant to be public.
