@@ -28,7 +28,7 @@ All under `ledger/`, with "The Ledger" directly below Home in the navigation.
 - `/ledger/` — what happened in one screen, each line linked to its source; current status of each request.
 - `/ledger/timeline/` — dated entries from `_data/timeline.yml`, newest first.
 - `/ledger/opra/` — table from `_data/opra.yml`: request, filed, due, status, documents.
-- `/ledger/opra/001-edustaff/`, `/ledger/opra/002-coverage/` — the request as filed, the stamped receipt, every response in full, and a dated log.
+- `/ledger/opra/001-edustaff/`, `/ledger/opra/002-coverage/`, `/ledger/opra/003-instructional-time/` — the request as filed, the stamped receipt, every response in full, and a dated log. The request text itself is kept once, in `_includes/opra/<slug>.md`; the page includes it and `_research/tools/opra-print.py` prints it as a letter.
 - `/ledger/statements/` — what the district said (the April 29 letter, meeting statements) beside what the records show. Starts with the statements alone; the records column fills in as responses arrive. Replaces the doc's `data/edustaff-gap`.
 - `ledger/docs/` — receipts and responsive records as PDFs, with the owner's address and phone redacted.
 

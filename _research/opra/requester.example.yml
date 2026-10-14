@@ -1,0 +1,9 @@
+# Copy to requester.yml (ignored by git) and replace every value; opra-print.py refuses to run
+# while any field still matches this file. Every field goes on the printed letters; see filing.md.
+name: "Full Name"
+address_line1: "123 Street Name"
+address_line2: "Town, NJ 00000"
+email: "you@example.org"
+phone: "000-000-0000"
+# The date printed on the letters, YYYY-MM-DD.
+date: "2000-01-01"
