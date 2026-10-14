@@ -83,3 +83,16 @@
   sources:
     - label: "Meeting recording, from 53:12"
       url: "https://www.youtube.com/watch?v=QcmkuVBK-Nc&t=3192s"
+
+- date: 2026-10-14
+  basis: record
+  title: "Three public-records requests hand-delivered to the district"
+  summary: >-
+    The author of this site filed three requests under the Open Public Records Act at the Board of Education's Business Office: for the paraprofessional staffing contract and billing (OPRA-001), for paraprofessional coverage records (OPRA-002), and for school schedules, teacher-absence coverage data, and any guidance on showing movies (OPRA-003). The seven-business-day response period runs to October 23, 2026. Each request's full text and log are on its page; the date-stamped receipts and every response will be posted there as they arrive.
+  sources:
+    - label: "OPRA-001"
+      url: "/ledger/opra/001-edustaff"
+    - label: "OPRA-002"
+      url: "/ledger/opra/002-coverage"
+    - label: "OPRA-003"
+      url: "/ledger/opra/003-instructional-time"

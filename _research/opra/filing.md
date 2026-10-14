@@ -1,5 +1,7 @@
 # Filing the requests: October 14, 2026
 
+**Done.** All three were hand-delivered to the Business Office on October 14, 2026. The steps below are kept for the next filing; the "After filing" section is what still applies now.
+
 One copy of the steps for all three requests. The request texts are in `_includes/opra/`; the printable letters come from `tools/opra-print.py`. Not legal advice.
 
 ## Before you leave
