@@ -88,10 +88,11 @@ def main():
     if not os.path.exists(REQUESTER):
         sys.exit(f"missing {REQUESTER}; copy requester.example.yml and fill it in")
     who = load_yaml(REQUESTER)
-    missing = [k for k in ("name", "address_line1", "address_line2", "email", "phone", "date")
-               if not who.get(k) or str(who[k]).startswith("[")]
-    if missing:
-        print(f"WARNING placeholder or empty field(s) in requester.yml: {', '.join(missing)}")
+    example = load_yaml(REQUESTER.replace("requester.yml", "requester.example.yml"))
+    unfilled = [k for k in ("name", "address_line1", "address_line2", "email", "phone", "date")
+                if not who.get(k) or str(who[k]).startswith("[") or who[k] == example.get(k)]
+    if unfilled:
+        sys.exit(f"requester.yml still has empty, placeholder, or sample values: {', '.join(unfilled)}")
     wanted = set(sys.argv[1:])
     os.makedirs(OUT_DIR, exist_ok=True)
     for req in load_yaml(os.path.join(ROOT, "_data", "opra.yml")):

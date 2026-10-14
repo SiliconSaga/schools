@@ -12,7 +12,7 @@ One copy of the steps for all three requests. The request texts are in `_include
 ## At the Business Office, 179 Eagle Rock Avenue
 
 1. Ask who the custodian of records is and write the name down. The district site still lists Tonya Flowers as Business Administrator/Board Secretary; the July 21 minutes authorize Trenae Lambkin to award contracts from May 25, 2026, and a July news report has her as acting business administrator and board secretary.
-2. Hand over one copy of each request. Ask for the second copy to be date-stamped "received" and handed back, or for a signed and dated receipt. Photograph the stamped copies before you leave.
+2. Hand one copy of each request to the custodian if they are available. If another employee accepts it, that is fine, but the request counts as submitted only when the custodian receives it, so ask when it will reach the custodian and write down the answer. Ask for the second copy to be date-stamped "received" and handed back, or for a signed and dated receipt. Photograph the stamped copies before you leave. The deadlines below assume the custodian has it on October 14; if the stamp or the answer says otherwise, count from that date instead.
 3. Ask which email address OPRA requests and responses go to, and whether the EduStaff agreement (a contract less than 24 months old, immediate access under 47:1A-5(e)) can be emailed that day. Expect to be told it will follow.
 
 ## From the lobby, or as soon as you are home
@@ -32,20 +32,20 @@ The "requester reference" is this ledger's own numbering, not the district's; it
 > [street address]
 > [phone]
 
-Note the time each email was sent. The stamped copy and the sent email are the two receipts the ledger publishes, with the street address and phone number removed.
+Note the time each email was sent. Keep the stamped copies and the sent emails as they are, outside the repository. What the ledger publishes is a copy of each, screened first and with the street address and phone number removed.
 
 ## The clock
 
 Business days are counted from the day after receipt, Wednesday, October 14, 2026, and exclude weekends and legal holidays.
 
-- **Seven business days:** Thursday the 15th, Friday the 16th, then Monday the 19th through Friday the 23rd. The district must grant, deny, or say in writing that the records are in storage, by **Friday, October 23, 2026**. Silence past that date is a deemed denial.
+- **Seven business days:** Thursday the 15th, Friday the 16th, then Monday the 19th through Friday the 23rd. **Friday, October 23, 2026** is the initial deadline: by then the district must grant, deny, say in writing that the records are in storage and when they will be available, or say that the 14-day period applies. Any of those is a response and moves the applicable deadline; log it and the new date. Silence past the applicable deadline is a deemed denial.
 - **Fourteen business days** (only if the district treats a request as needing Daniel's Law review): Monday the 26th through Friday the 30th, then Monday, November 2 and Tuesday, November 3. Tuesday, **November 3, 2026** is General Election Day, a state legal holiday; if the district office is closed that day the date moves to Wednesday, November 4. Check the district calendar before logging it.
 - A denial, including a deemed denial, can be challenged within 45 days at the Government Records Council or in Superior Court.
 
 ## After filing: what to change in the repository
 
-1. `_data/opra.yml`: for each request, `status: filed`, `filed: 2026-10-14`, `due: 2026-10-23`.
+1. `_data/opra.yml`: for each request, `status: filed`, `filed: 2026-10-14`, `due: 2026-10-23`. When a written extension or storage notice arrives, replace `due` with the date it sets.
 2. `ledger/opra/00N-*.md`: add a Log line, "**October 14, 2026.** Hand-delivered to the Business Office at [time] and emailed to [address] at [time]. Receipt stamped." Name the custodian if one was given.
-3. Save the stamped receipts, with address and phone redacted, as `../sources/opra-00N-receipt-2026-10-14.pdf`, and list each under `documents:` in `opra.yml` once the files are also placed where the site can serve them (a `ledger/opra/files/` folder, to be created with the first document).
+3. Screen each stamped receipt for anything personal beyond the request itself, redact the address and phone, and save the copy as `../sources/opra-00N-receipt-2026-10-14.pdf`. List each under `documents:` in `opra.yml` once the files are also placed where the site can serve them (a `ledger/opra/files/` folder, to be created with the first document).
 4. Add a timeline entry dated 2026-10-14, basis `record`, "Three public-records requests filed", sourced to the receipts.
-5. Every response from the district, in full, goes the same way: saved copy, `documents:` entry, Log line, and a status change (`partial`, `fulfilled`, `denied`, or `overdue` on October 26 if nothing has arrived).
+5. Every response from the district goes the same way: the complete copy kept outside the repository, a screened copy (redacted where a name, student detail, or employee's personal information appears) saved and listed under `documents:`, a Log line, and a status change. `partial`, `fulfilled`, or `denied` as the response warrants; `overdue` only once the applicable deadline has passed with no response at all.

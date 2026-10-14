@@ -1,9 +1,9 @@
-# Copy to requester.yml (ignored by git) and fill in. tools/opra-print.py reads it.
-# Every field goes on the printed letters; see filing.md for why none should be left blank.
+# Copy to requester.yml (ignored by git) and replace every value; opra-print.py refuses to run
+# while any field still matches this file. Every field goes on the printed letters; see filing.md.
 name: "Full Name"
 address_line1: "123 Street Name"
-address_line2: "West Orange, NJ 07052"
+address_line2: "Town, NJ 00000"
 email: "you@example.org"
-phone: "973-000-0000"
+phone: "000-000-0000"
 # The date printed on the letters, YYYY-MM-DD.
-date: "2026-10-14"
+date: "2000-01-01"
