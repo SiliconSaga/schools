@@ -29,6 +29,7 @@ The text below is the request as prepared for filing. The filed copy carries the
 
 - **October 1, 2026.** Drafted.
 - **October 13, 2026.** Text finalized for filing.
+- **October 14, 2026.** Hand-delivered to the Business Office, 179 Eagle Rock Avenue, with the district's OPRA request form. The seven-business-day response period runs to October 23, 2026.
 
 ## Documents
 

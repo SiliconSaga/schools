@@ -9,7 +9,7 @@ permalink: /ledger/opra/
 
 # Records Requests
 
-New Jersey's Open Public Records Act (OPRA) lets anyone ask a public agency for its records. These are the requests to the West Orange Board of Education prepared for this ledger, with their status. A request marked "Drafted" has not been filed yet.
+New Jersey's Open Public Records Act (OPRA) lets anyone ask a public agency for its records. These are the requests to the West Orange Board of Education made for this ledger, with their status. "Filed" means hand-delivered to the district; "Response due" is the applicable deadline, which a written extension from the district can move.
 
 {% include opra-table.html %}
 

@@ -62,4 +62,4 @@ Work on a branch in `components/schools`. Pushing to `main` publishes, so nothin
 2. Report-level entries stay in `_research/`, unpublished, until a record or statement backs them.
 3. The home page becomes a short statement of the current situation. The April 20 essay, the "Flatten the Curve" plan, the document index, and the rest of the April-era home page move to an archive page.
 4. The Ting pilot described in The Next Year did not run for lack of interest. Ting remains available and untested; the page says so.
-5. Open: whether request pages are published before filing as drafts, or on filing day. Until decided, the pages are built with status "drafted" and the owner chooses at push time.
+5. Decided by doing: the request pages were published as drafts on October 13, 2026 and switched to "filed" the next day.
