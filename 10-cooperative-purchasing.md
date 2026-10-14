@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 8: Cooperative Purchasing & Shared Services
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Pooling Buying Power and Administrative Capacity Across District Lines*
 
 ---
@@ -15,10 +17,10 @@ parent: "Modules"
   dozens of procurement lines; shared services can eliminate redundant administrative
   positions without cutting instruction
 - **Effort:** Low - cooperative purchasing systems already exist and are opt-in;
-  shared services require interlocal agreements but NJ provides templates and grants
+  shared services require interlocal agreements but NJ provides sample documents and grants
 - **Timeline:** Cooperative purchasing can begin next procurement cycle; shared
   services agreements take 3-6 months to negotiate
-- **Key Risks:** Minimal for cooperative purchasing (it's just smarter buying);
+- **Key Risks:** Low for cooperative purchasing, though cooperative contracts still need the same price checks and legal review as any other contract;
   shared services require political will from multiple boards and may face union
   resistance if positions are consolidated
 - **Print Priority:** Low-Medium - technically important but less compelling in a
@@ -34,28 +36,27 @@ parent: "Modules"
 NJ has established cooperative purchasing systems that allow school districts to
 pool buying power with other public entities. Instead of each district negotiating
 its own contracts for supplies, furniture, technology, custodial products, and
-services, they buy through pre-negotiated state contracts at volume pricing.
+services, they buy through pre-negotiated cooperative and state contracts at volume pricing.
 
 ### The Major NJ Cooperatives
 
 - **ACES (Alliance for Competitive Energy Services)** - energy procurement
 - **ESCNJ (Educational Services Commission of NJ)** - broad range of goods and
   services for schools
-- **US Communities / Sourcewell / NJPA** - national cooperatives with NJ participation
-- **NJ State Contract (Distribution)** - state-negotiated pricing available to
-  all public entities
+- **Sourcewell (formerly NJPA) and OMNIA Partners (formerly U.S. Communities)** - national cooperatives with NJ participation
+- **NJ State Cooperative Purchasing Program** - select State contracts that school districts and other eligible local entities can use
 
 ### Why This Matters
 
 If the district is purchasing supplies, technology, maintenance services, or
-equipment outside of cooperative contracts, they are almost certainly overpaying.
+equipment outside of cooperative contracts, it is worth asking whether they are paying more than they need to.
 Every dollar saved on copier paper or cleaning supplies is a dollar that doesn't
 need to come from a teacher's position.
 
 ### The Question to Ask the Board
 
 "What percentage of our non-salary procurement goes through cooperative purchasing
-agreements? If it's less than 90%, why?"
+agreements, and for the rest, how do we know we're getting a competitive price?"
 
 This is a procurement policy change, not a structural reform. It requires no
 community action, no fundraising, and no legal creativity - just a directive from
@@ -65,17 +66,16 @@ the board to the business administrator.
 
 ### The Legal Framework
 
-**N.J.S.A. 40A:65-1** (the Uniform Shared Services and Consolidation Act) explicitly
+**N.J.S.A. 40A:65-1 et seq.** (the Uniform Shared Services and Consolidation Act) explicitly
 enables shared services between municipalities, school districts, and other public
 entities. The [NJ Department of Community Affairs (DCA)](https://www.nj.gov/dca/dlgs/sharedservices.shtml) provides:
 
-- **Model interlocal agreements** (templates ready to adapt)
+- **Sample documents and a guide** to feasibility studies and shared service agreements, plus staff help drafting an agreement
 - **Technical assistance** for feasibility studies
-- **[SHARE grants](https://www.nj.gov/dca/news/news/2025/approved/20251222.shtml)** (Sharing Available Resources Efficiently) - $2M round announced Dec 2025, $7.5M round in Jan 2024
+- **[LEAP grants](https://www.nj.gov/dca/news/news/2025/approved/20251222.shtml)** (Local Efficiency Achievement Program, open to school districts) - $2M round announced Dec 2025, [$7.5M round in Jan 2024](https://nj.gov/dca/news/news/2024/approved/20240124.shtml)
 - **[School Regionalization Efficiency Program (SREP)](https://www.nj.gov/dca/news/news/2024/20240806.shtml)** grants for feasibility studies
 
-Shared services agreements reported to DCA since 2011 have generated **cumulative
-savings exceeding $28 million**. [Rutgers SPAA research](https://spaa.newark.rutgers.edu/shared-services-in-school-districts:-policies,-practices,-and-recommendations-appendices-to-report/download)
+Shared services agreements reported to DCA since 2011 have generated [**cumulative savings exceeding $28 million**](https://www.nj.gov/dca/dlgs/sharedservices.shtml). A [2007 Rutgers study](https://spaa.newark.rutgers.edu/shared-services-in-school-districts:-policies,-practices,-and-recommendations/download) ([appendices](https://spaa.newark.rutgers.edu/shared-services-in-school-districts:-policies,-practices,-and-recommendations-appendices-to-report/download))
 documents policies and recommendations for school district shared services.
 
 ### What Can Be Shared
@@ -117,4 +117,4 @@ The approach should be:
 - Involve union leadership early - they may prefer creative sharing arrangements
   to outright layoffs
 
-[Back to Index](index) | Next: [Grant Writing](11-grant-writing)
+[Back to Index](spring-2026#document-index) | Next: [Grant Writing](11-grant-writing)

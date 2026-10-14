@@ -6,11 +6,13 @@ nav_order: 98
 
 # References & Source Links
 
-*Verified references, precedents, and external resources supporting this whitepaper*
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
+*References, precedents, and external resources used in this whitepaper*
 
 > **Document Type:** Reference - a living bibliography for the whitepaper series.
-> Links verified as of April 2026. Regulatory citations based on NJ statutes and
-> administrative code current as of the same date.
+> Links collected April 2026 and re-checked October 2026; annotations summarize the linked source and should be read against it. Regulatory citations based on NJ statutes and
+> administrative code current as of April 2026.
 
 ---
 
@@ -18,7 +20,7 @@ nav_order: 98
 
 - ["This NJ district wants to cut 70 teachers and staff, and its budget still won't balance" (NJ.com, April 2026)](https://www.nj.com/news/2026/04/this-nj-district-wants-to-cut-70-teachers-and-staff-and-its-budget-still-wont-balance.html)
 - [West Orange Schools' $15 Million Budget Crisis (The Digest Online)](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
-- [West Orange Schools Layoffs April 2026: 70 Jobs Cut](https://layoff.today/government/west-orange-schools-layoffs-2026-04)
+- [West Orange Schools consider 70 layoffs (layoff.today aggregator)](https://layoff.today/government/west-orange-schools-layoffs-2026-04)
 - [West Orange Schools Face $14M Budget Gap (Patch)](https://patch.com/new-jersey/westorange/west-orange-schools-face-14m-budget-gap-70-jobs-chopping-block)
 - [West Orange School Budget Cuts Have Teachers, Parents Worried (Patch)](https://patch.com/new-jersey/westorange/west-orange-teachers-parents-worry-school-budget-cuts)
 - [West Orange Schools Hack Away At Budget Gap - See Possible Cuts (Patch)](https://patch.com/new-jersey/westorange/west-orange-schools-hack-away-budget-gap-see-possible-cuts)
@@ -34,14 +36,15 @@ nav_order: 98
 - [Perth Amboy ACFR FY2024 (NJ DOE)](https://www.nj.gov/education/finance/fp/acfr/search/24/4090.pdf)
 - [NJ State Health Benefits Plan - SEHBP (NJ Treasury)](https://www.nj.gov/treasury/pensions/hb-active-sehbp.shtml)
 - [NJEA Ch.44 health benefits FAQs](https://www.njea.org/ch-44-faqs-and-downloads/)
-- [NJ Comptroller: Health Insurance Fund Conflicts of Interest (Sept 2025)](https://www.nj.gov/comptroller/news/2025/20250909.shtml) - CSB/PERMA conflicts, $36M in undisclosed payments to SHIF, procurement violations
+- [NJ Comptroller: Health Insurance Fund Conflicts of Interest (Sept 2025)](https://www.nj.gov/comptroller/news/2025/20250909.shtml) - OSC found undisclosed CSB/PERMA conflicts of interest and improper control of contracting; SHIF paid PERMA and CSB about $36M in FY2021-2025
 - [Full Comptroller HIF report (PDF)](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf)
-- [SEHBP Ch.44 reforms saved employers $462.7M](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
+- [NJ Treasury (Aug 2023): SEHBP employers saved $462.7M over three years under Ch.44, per the State's actuary](https://www.nj.gov/treasury/news/2023/08032023.shtml)
+- [NJEA: NJEHP explained for members (May 2021)](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
 - [NJ Educators Health Plan (Horizon)](https://www.horizonblue.com/shbp/plans/medical-plans/local-education-employee-plans/nj-educators-health-plan-3)
 - [NJSBA health benefits reform primer](https://www.njsba.org/school-leader/legally-speaking-a-primer-on-the-new-school-employee-health-benefits-law/)
 - [NJSBA Cooperative Pricing System](https://www.njsba.org/services/njsba-cooperative-pricing-system/)
-- [NJSIG - Keeping Dollars in the Classroom (school insurance fund)](https://www.njsig.org/)
-- [Orange County FL Public Schools: DPC saves up to 30% (HR Executive)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
+- [NJSIG - Keeping Dollars in the Classroom (school insurance fund for property/casualty and workers' comp - not health)](https://www.njsig.org/)
+- [Orange County FL Public Schools: employer-funded advanced primary care for a 24K-employee district; the vendor, PeopleOne Health, says employers like OCPS save up to 30% of healthcare costs (HR Executive, July 2025)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
 
 ## NJ Regulatory Framework (Module 11/13)
 
@@ -61,8 +64,8 @@ nav_order: 98
 ## Shared Services (Module 8/10)
 
 - [NJ DCA Shared Services page](https://www.nj.gov/dca/dlgs/sharedservices.shtml) - $28M+ cumulative savings since 2011
-- [DCA SHARE grants: $2M round announced Dec 2025](https://www.nj.gov/dca/news/news/2025/approved/20251222.shtml)
-- [DCA SHARE grants: $7.5M round announced Jan 2024](https://nj.gov/dca/news/news/2024/approved/20240124.shtml)
+- [DCA LEAP grants: $2M FY2026 round opened Dec 2025](https://www.nj.gov/dca/news/news/2025/approved/20251222.shtml)
+- [DCA LEAP grants: $7.5M round announced Jan 2024](https://nj.gov/dca/news/news/2024/approved/20240124.shtml)
 - [DCA School Regionalization Efficiency Program (SREP) grants 2024](https://www.nj.gov/dca/news/news/2024/20240806.shtml)
 - [DCA SREP grants 2023](https://www.nj.gov/dca/news/news/2023/approved/20230807.shtml)
 - [DCA now accepting SREP applications (Dec 2025)](https://www.nj.gov/dca/news/news/2025/20251222_a.shtml)
@@ -71,15 +74,15 @@ nav_order: 98
 
 ## Solar & Energy (Module 7/9)
 
-- [Piscataway Township Schools: $18M savings from Greenskies solar PPA](https://globalrenewablenews.com/article/energy/category/solar/142/1082413/greenskies-solar-installations-contribute-to-18-million-in-savings-for-nj-school-district.html) - 7 schools, 3,700 panels, 1.67 MW, 15-year PPA, $0 upfront
-- [West Windsor-Plainsboro: $3.5M savings, 21% electricity offset](https://www.greenskies.com/about/news/greenskies-solar-ppa-covers-rooftop-installs-seven-new-jersey-schools)
-- [Greenskies: 3.31 MW NJ school district installation, $240K annual savings](https://www.greenskies.com/about/news/greenskies-installs-331-mw-solar-save-nj-school-district-240000-energy-costs)
+- [Piscataway Township Schools: Greenskies solar PPA as part of a district Energy Savings Improvement Plan projected to save $18M over 18 years (all measures, not solar alone)](https://globalrenewablenews.com/article/energy/category/solar/142/1082413/greenskies-solar-installations-contribute-to-18-million-in-savings-for-nj-school-district.html) - 7 schools plus admin building, 3,700+ panels, 1.67 MW, 15-year PPA, $0 upfront
+- [Greenskies release on the Piscataway project](https://www.greenskies.com/about/news/greenskies-solar-ppa-covers-rooftop-installs-seven-new-jersey-schools)
+- [West Windsor-Plainsboro: 3.31 MW on seven schools, about $240K/year projected; ESCO estimates ~21% electricity offset and $3.5M+ over system life (Greenskies)](https://www.greenskies.com/about/news/greenskies-installs-331-mw-solar-save-nj-school-district-240000-energy-costs)
 - [NJ Treasury DPMC: Solar Power Purchase Agreement project advertisements](https://www.nj.gov/treasury/dpmc/project_solarpower_advertisements.shtml)
-- [NJ Clean Energy Program PPA disclosure form](https://njcleanenergy.com/files/file/TI%20Program/TI%20Disclosure%20Form%20for%20PPA%20.pdf)
+- [NJ Clean Energy Program PPA disclosure form (archived)](http://web.archive.org/web/20250321143805/https://njcleanenergy.com/files/file/TI%20Program/TI%20Disclosure%20Form%20for%20PPA%20.pdf)
 
 ## PTA Funding Teacher Positions (Module 1/14)
 
-- [Palo Alto Partners in Education (PiE) FAQs](https://papie.org/about/f-a-q/) - ~$5.5M/year, 250+ positions districtwide
+- [Palo Alto Partners in Education (PiE) FAQs](https://papie.org/about/f-a-q/) - funds 250+ staff districtwide; about $5.5M/year per The Frisc (below)
 - [SFUSD budget pain spurs talk of PTA fund sharing, like Portland (The Frisc)](https://thefrisc.com/sfusd-budget-pain-prompts-talk-of-ptas-sharing-funds-across-schools-like-portland/) - Portland's PTA pooling model from the 1990s; Palo Alto's centralized distribution since 2002
 - [Palo Alto schools prepare to reverse staff cuts (Palo Alto Online, Feb 2026)](https://www.paloaltoonline.com/palo-alto-schools/2026/02/11/facing-criticism-palo-alto-schools-prepare-to-reverse-staff-cuts/)
 
@@ -108,7 +111,7 @@ nav_order: 98
 
 ## Youth Sports & Athletics (Module 15)
 
-- [Jefferson Township NJ: sports programs at risk from $4.8M deficit (ABC7)](https://abc7ny.com/post/jefferson-township-schools-may-lose-sports-programs-extracurricular-activities-due-4-million-budget-shortfall/18681991/)
+- [Jefferson Township NJ: sports programs at risk from a roughly $4-4.8M shortfall (ABC7)](https://abc7ny.com/post/jefferson-township-schools-may-lose-sports-programs-extracurricular-activities-due-4-million-budget-shortfall/18681991/)
 - [Rep. Gottheimer: bipartisan legislation for youth sports affordability](https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-legislation-to-make-youth-sports-more-affordable)
 - [All Kids Play: youth sports grants for low-income families](https://allkidsplay.org/youth-sports-grants/)
 - [Pay-to-play state laws and high school sports (NIH/PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6416066/)
@@ -122,7 +125,7 @@ nav_order: 98
 - [NJ High School Volunteers](https://njhsvolunteers.com/) - statewide student volunteer matching
 - [USYVL volunteer/assistant coach program](https://usyvl.org/volunteer/) - 3-4 hrs/week, no experience needed, coaching clinics provided, counts for community service
 - [Special Olympics NJ volunteer programs](https://www.sonj.org/volunteer/)
-- [U.S. Center for SafeSport training](https://safesport.org) - coaching certification for volunteer safety
+- [U.S. Center for SafeSport training](https://uscenterforsafesport.org/) - abuse prevention and recognition training for sport participants
 - [YMCA volunteer opportunities](https://www.ymca.org/get-involved/volunteer/opportunities)
 
 ## NJ Budget Context (Statewide)
@@ -138,4 +141,4 @@ nav_order: 98
 - [NJ statewide gas leaf blower ban bill S623 (NJ 101.5)](https://nj1015.com/new-jersey-leaf-blower-ban/)
 
 
-[Back to Index](index)
+[Back to Index](spring-2026#document-index)

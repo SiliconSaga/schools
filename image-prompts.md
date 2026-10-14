@@ -7,6 +7,8 @@ nav_order: 4
 
 # Image Generation Prompts
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 Working prompts for site imagery. Style direction: warm, modern, accessible.
 NOT dystopian, NOT corporate, NOT "cyber hippie." Think friendly civic
 illustration meets clean infographic. Diverse community, realistic optimism.
@@ -127,7 +129,7 @@ substantial).
 Contrast element: on the OTHER side of the hill (the left/uphill side),
 small red extraction arrows have been climbing UP the hill for years -
 each one small ("insurance markup," "vendor contract," "administrative
-overhead") - showing how the $14M hole was also built from small
+overhead") - showing how the roughly $13.5M hole was also built from small
 increments over time. The snowballs rolling down are the mirror image,
 the reversal.
 
@@ -165,7 +167,7 @@ Above or across the image, text space for: "What Can You Do For
 West Orange?" in a warm, confident font - not aggressive, not pleading.
 Think "we're inviting you" not "we need you desperately."
 
-Below or around the group, subtle elements: the schools.siliconsaga.net
+Below or around the group, subtle elements: the schools.frontstate.org
 URL, the email address, maybe a QR code placeholder.
 
 **Alternative concept (simpler):** A single pair of hands holding up a

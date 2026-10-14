@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 5: Health Insurance Transparency & Alternatives
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *The Biggest Lever: Broker Conflicts, the State Plan, Consortiums, and Direct Primary Care*
 
 ---
@@ -14,7 +16,7 @@ parent: "Modules"
 - **Impact Potential:** Very High - health insurance premiums are the single
   largest cost driver cited by the board; health benefits for West Orange staff
   are expected to climb nearly 18% this year; the Perth Amboy precedent shows a
-  single NJ district losing $49M to broker conflicts; statewide Ch.44 reforms
+  single NJ district missing $49M in potential savings after it and its broker skipped the state-plan cost comparison for four years; statewide Ch.44 reforms
   have already saved SEHBP employers $462.7M
 - **Effort:** Low-Medium - the initial ask is just transparency (broker disclosure);
   switching plans or renegotiating requires more work but the district's own
@@ -22,8 +24,8 @@ parent: "Modules"
 - **Timeline:** Broker disclosure can be requested immediately (and may be legally
   required); plan evaluation takes months; a switch would likely take effect at
   the next renewal cycle
-- **Key Risks:** The broker has a financial incentive to resist disclosure and
-  discourage switching; the board may have personal relationships with the broker;
+- **Key Risks:** A commission-based broker can have a financial incentive to resist disclosure and
+  discourage switching;
   switching plans mid-year is usually not possible; this is a "big fish" that
   takes time to land
 - **Print Priority:** Very High - this is the strongest dollar-for-dollar
@@ -37,8 +39,7 @@ parent: "Modules"
 
 Health insurance premium increases are cited as a primary driver of the district's
 deficit. [Health benefits are expected to climb nearly 18%](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
-in the coming year. This is the single largest cost lever available - and a topic unlikely to
-have been exhaustively examined.
+in the coming year. This is the single largest cost lever available.
 
 The district is not alone. [Budget meltdowns are hitting schools across Essex
 County](https://patch.com/new-jersey/westorange/budget-meltdowns-slam-schools-across-essex-county-hundreds-jobs-risk)
@@ -48,12 +49,11 @@ with health insurance consistently cited as a primary driver.
 ### The GLP-1 Factor
 
 A major accelerant of the current crisis: GLP-1 medications (Ozempic, Wegovy,
-Mounjaro, Zepbound) have become the
-[top drug category by spend](https://www.nj.gov/treasury/news/2025/07092025.shtml)
-in the NJ state health plans. Employers nationally report
-[~30% increases in GLP-1 costs](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/)
-with usage higher than expected. Multiple insurers are
-[dropping weight-loss GLP-1 coverage entirely for 2026](https://glp-1.com/article/glp-1s-insurance-cover-in-2026).
+Mounjaro, Zepbound). One GLP-1, Wegovy, has become the
+[top drug by spend](https://www.nj.gov/treasury/news/2025/07092025.shtml)
+in the NJ state health plans, and GLP-1s consistently rank among their top 10 highest-cost drugs. Large employers
+[report GLP-1 usage higher than expected](https://www.healthsystemtracker.org/brief/perspectives-from-employers-on-the-costs-and-issues-associated-with-covering-glp-1-agonists-for-weight-loss/) - 59% of firms with 5,000+ workers said so, and one reported about a 30% jump in GLP-1 costs. Several state Medicaid programs
+[dropped weight-loss GLP-1 coverage for 2026](https://glp-1.com/article/glp-1s-insurance-cover-in-2026).
 
 These drugs are genuinely transformative for people with severe obesity,
 diabetes, and cardiovascular risk. They're also being prescribed for cosmetic
@@ -72,14 +72,14 @@ the strain without denying anyone access.
 
 ## The Perth Amboy Precedent
 
-In January 2026, State Auditor David Kaschak published an audit finding that the
+In December 2025, State Auditor David Kaschak published an audit finding that the
 Perth Amboy school district [missed $49.1 million in potential savings](https://jerseyvindicator.org/2026/01/28/new-jersey-school-district-missed-49-million-in-savings-by-skipping-state-health-plan-audit-finds/)
 by failing to switch to the NJ State Health Benefits Plan (SHBP/SEHBP) --
 the state's largest and least expensive provider, covering 800,000 public
 employees, retirees, and their dependents.
 
 The audit found Perth Amboy's health care costs were **18% higher than necessary**
-from fiscal years 2020 through 2024. The district's broker failed to run a cost
+from fiscal years 2020 through 2024. The district and its broker failed to run a cost
 comparison from 2020 through 2023. When the district finally ran one in 2024 and
 found it could save substantially, it was too late to switch for that year.
 
@@ -88,11 +88,9 @@ commissions** from insurance companies and prescription drug providers --
 payments that state law requires to be disclosed. These undisclosed commissions
 created a perverse incentive to seek more expensive coverage.
 
-A subsequent [whistleblower lawsuit](https://jerseyvindicator.org/2026/02/11/perth-amboy-workers-whistleblower-suit-alleges-retaliation-for-raising-insurance-bidding-pay-to-play-concerns/)
-alleged retaliation against an employee who raised insurance bidding and
-pay-to-play concerns.
+Separately, a [whistleblower lawsuit](https://jerseyvindicator.org/2026/02/11/perth-amboy-workers-whistleblower-suit-alleges-retaliation-for-raising-insurance-bidding-pay-to-play-concerns/) against the City of Perth Amboy (a different public employer from the school district) alleges that the city fired an employee after she raised insurance-broker bidding and pay-to-play concerns. These are allegations in a lawsuit, not findings.
 
-Perth Amboy has since switched to the state health benefits system.
+The Perth Amboy school district has since switched to the state health benefits system.
 
 **This is a structural conflict of interest, and it's not unique to Perth Amboy.**
 
@@ -105,10 +103,9 @@ school board health insurance funds. Key findings:
 - The brokerage firm **Conner Strong & Buckelew (CSB)** and its affiliated entity
   **PERMA** improperly controlled multiple health insurance funds, including
   the **School Health Insurance Fund (SHIF)**
-- From FY2021 to FY2025, SHIF paid these entities approximately **$36 million**
-  with undisclosed conflicts of interest
-- CSB wrote RFPs, reviewed bids, and steered contracts to itself without
-  adequate competition or disclosure
+- From FY2021 to FY2025, SHIF paid these entities approximately **$36 million**,
+  while conflicts of interest went undisclosed to SHIF's trustees and regulators
+- The Comptroller found that, in many cases, CSB helped write the rules for contracts and then won them, without the required conflict-of-interest disclosures
 - The [full report (PDF)](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf)
   documents how a proposed cooperative pricing system covering **40,000+
   municipal employees** was tailored to favor existing vendors in violation of
@@ -152,14 +149,12 @@ health benefits reform legislation, restructuring the plans available under SEHB
 The reform introduced the [NJ Educators Health Plan (NJEHP)](https://www.horizonblue.com/shbp/plans/medical-plans/local-education-employee-plans/nj-educators-health-plan-3)
 designed specifically for school employees.
 
-**Past savings:** State actuaries validated that employers in the SEHBP
-[saved $462.7 million](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
-from Ch.44 changes - far surpassing the $300 million target.
+**Past savings:** The state's actuary (AON) calculated that employers in the SEHBP [saved $462.7 million](https://www.nj.gov/treasury/news/2023/08032023.shtml) in the first three years of Ch.44 - far surpassing the $300 million target - though the [NJ School Boards Association noted](https://www.njsba.org/school-board-notes/school-board-notes-august-8-2023/njsba-voices-concerns-on-report-citing-chapter-44-savings/) that results varied and some districts saw net cost increases.
 
 **The current reality (updated post-meeting):** The SEHBP is now itself in
 crisis. AON has recommended a
 [29.7% premium increase for plan year 2026](https://www.nj.gov/treasury/news/2025/07092025.shtml),
-driven by [$254 million in cost overruns in 2025](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+driven by [$254 million in cost overruns in 2025](https://www.nj.gov/treasury/news/2025/07092025.shtml)
 and the explosion of GLP-1 drug costs (Ozempic, Wegovy, Mounjaro). Healthier
 employer groups are leaving the state plan, concentrating risk among those
 who stay. At the April 20 board meeting, the district presented evidence
@@ -174,8 +169,8 @@ the root cause, not just shop between increasingly expensive middlemen.
 
 ### Option B: Joint Insurance Funds / Health Insurance Consortiums
 
-NJ law ([N.J.S.A. 40A:10-36](https://www.njsba.org/services/njsba-cooperative-pricing-system/))
-allows school boards to jointly create self-insurance funds to pool risk and
+NJ law (N.J.S.A. 18A:18B-1 et seq. for school boards; N.J.S.A. 40A:10-36 et seq. for local governments, as cited in the [State Comptroller's report](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf))
+allows school boards and local governments to jointly create self-insurance funds to pool risk and
 reduce costs. Several such funds exist:
 
 - **SHIF** (School Health Insurance Fund) - serves member school districts
@@ -233,8 +228,7 @@ drop and premiums decrease.
 
 **Documented example:** [Orange County Public Schools](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
 in Florida (24,000+ employees, eighth-largest district nationally) implemented
-an advanced primary care model and reports savings of up to 30% on healthcare
-costs. Over 17% of the workforce enrolled, with many employees who previously
+an advanced primary care model. Its vendor says employers like OCPS save up to 30% on healthcare costs; the article does not give OCPS's own savings figure. Over 17% of the workforce enrolled, with many employees who previously
 lacked an established primary care physician now receiving regular care.
 
 **The concept for our district:** What if the district contracted with local
@@ -306,9 +300,7 @@ would be voluntary.
 [exceed the 2% tax levy cap specifically for healthcare cost increases](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/).
 What if a portion of that increase funded a community primary care
 arrangement rather than just paying higher premiums to an insurance company?
-The money goes further because it's buying care directly rather than buying
-insurance that buys care. At the end of the year, any surplus returns as
-a tax credit.
+The idea is that the money could go further by buying care directly rather than buying insurance that buys care, and any surplus could be returned to taxpayers - though whether the law allows any of this is an open question.
 
 **Protecting those who can't afford it:** Not everyone can absorb a tax
 increase. The community can apply the same "sponsor a neighbor" model used
@@ -330,13 +322,10 @@ process, and long-term cost reduction.
 
 We are not making specific dollar promises. What we are saying:
 
-- Perth Amboy's costs were **18% higher than necessary** for four years - a
-  figure remarkably close to our own district's projected premium increase
+- Perth Amboy's costs were **18% higher than necessary** for four years (a measure of excess cost against the state plan, not an annual increase)
 - Statewide Ch.44 reforms saved SEHBP employers **$462.7 million**
-- A single large district (Orange County, FL) reports **up to 30% savings**
-  from advanced primary care
-- The State Comptroller found **$36 million in undisclosed payments** to
-  conflicted vendors in just one set of health insurance funds
+- A single large district (Orange County, FL) moved to advanced primary care; its vendor claims savings of **up to 30%** for employers like it
+- The State Comptroller found one school health insurance fund paid about **$36 million** over five years to firms with undisclosed conflicts of interest
 
 The question is not "can we save money on health insurance?" The question is
 "how much are we leaving on the table, and why hasn't anyone looked more?"
@@ -359,16 +348,14 @@ There are further support options to acquire this and similar information if nee
 - [Perth Amboy missed $49M (Jersey Vindicator, Jan 2026)](https://jerseyvindicator.org/2026/01/28/new-jersey-school-district-missed-49-million-in-savings-by-skipping-state-health-plan-audit-finds/)
 - [Perth Amboy whistleblower suit (Jersey Vindicator, Feb 2026)](https://jerseyvindicator.org/2026/02/11/perth-amboy-workers-whistleblower-suit-alleges-retaliation-for-raising-insurance-bidding-pay-to-play-concerns/)
 - [NJ Comptroller: Health Insurance Fund conflicts (Sept 2025)](https://www.nj.gov/comptroller/news/2025/20250909.shtml) | [Full report PDF](https://www.nj.gov/comptroller/library/reports/HIF/2025-09-09_hif.pdf)
-- [NJEA Ch.44 FAQs](https://www.njea.org/ch-44-faqs-and-downloads/) | [SEHBP savings: $462.7M](https://www.njea.org/new-jersey-school-employee-health-plan-offers-equivalent-benefits-at-significant-savings/)
+- [NJEA Ch.44 FAQs](https://www.njea.org/ch-44-faqs-and-downloads/) | [SEHBP savings: $462.7M (NJ Treasury, Aug 2023)](https://www.nj.gov/treasury/news/2023/08032023.shtml) | [NJSBA concerns about the Ch.44 savings report (Aug 2023)](https://www.njsba.org/school-board-notes/school-board-notes-august-8-2023/njsba-voices-concerns-on-report-citing-chapter-44-savings/)
 - [NJ Educators Health Plan details (Horizon)](https://www.horizonblue.com/shbp/plans/medical-plans/local-education-employee-plans/nj-educators-health-plan-3)
-- [NJSBA Cooperative Pricing System](https://www.njsba.org/services/njsba-cooperative-pricing-system/)
 - [SEHBP overview (NJ Treasury)](https://www.nj.gov/treasury/pensions/hb-active-sehbp.shtml)
-- [Orange County Public Schools DPC model (HR Executive)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
+- [Orange County Public Schools advanced primary care model (HR Executive)](https://hrexecutive.com/behind-the-benefits-game-changer-for-this-24k-employee-school-district/)
 - [West Orange 18% premium increase (The Digest Online)](https://thedigestonline.com/news/west-orange-schools-budget-deficit-2026-layoffs/)
 - [SEHBP 29.7% rate increase recommendation for 2026 (NJ Treasury)](https://www.nj.gov/treasury/news/2025/07092025.shtml)
-- [SEHBP $254M cost overruns, GLP-1 drug impact (Benecard)](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
+- [SEHBP 2026 medical and Rx rate breakdown (Benecard)](https://www.benecard.com/nj-shbp-sehbp-2026-rate-recommendations-released-what-you-should-know/)
 - [NJ health insurance tax levy cap exception (NJPSA)](https://njpsa.org/new-jersey-school-finance-2024-property-tax-caps-and-state-aid-a-look-at-the-numbers/)
-- [Direct contracting for self-funded plans (AssuredPartners)](https://www.assuredpartners.com/news-insights/blogs/employee-benefits/2024/the-power-of-direct-contracting-for-self-funded-health-plans/)
 - [Reference-based pricing primer (SHRM)](https://www.shrm.org/topics-tools/news/benefits-compensation/reference-based-pricing-another-self-insured-option-employers)
 
-[Back to Index](index) | Next: [Open Governance Pilot](06-open-governance)
+[Back to Index](spring-2026#document-index) | Next: [Open Governance Pilot](06-open-governance)

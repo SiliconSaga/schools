@@ -1,0 +1,15 @@
+<table>
+  <thead>
+    <tr><th>Request</th><th>Status</th><th>Filed</th><th>Response due</th></tr>
+  </thead>
+  <tbody>
+    {% for r in site.data.opra %}
+    <tr>
+      <td><a href="/ledger/opra/{{ r.slug }}">{{ r.id }}: {{ r.title }}</a></td>
+      <td>{{ r.status | capitalize }}</td>
+      <td>{% if r.filed %}{{ r.filed | date: "%b %-d, %Y" }}{% else %}Not yet filed{% endif %}</td>
+      <td>{% if r.due %}{{ r.due | date: "%b %-d, %Y" }}{% else %}&mdash;{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

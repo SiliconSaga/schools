@@ -7,6 +7,8 @@ parent: "Modules"
 
 # Module 2: The Open Image Project
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Data & Revenue Reclamation through Community-Run School Photography*
 
 ---
@@ -34,8 +36,8 @@ parent: "Modules"
 The district contracts with vendors like Lifetouch/Shutterfly for school photography.
 These contracts are characterized by:
 
-- **Low kickbacks** to the district relative to the vendor's markup
-- **Third-party monetization** of student biometric data (facial images) / vendor retains copyright for pictures of *your* kid
+- **Commissions** to the district that are likely small relative to the vendor's markup (the actual terms are what [RFI Template A](07-rfi-templates) asks for)
+- **Opaque data practices**: families and the district rarely see what happens to student images after picture day. Lifetouch [says](https://schools.lifetouch.com/safety-security/) "We do not sell student photos or personal information," but its [privacy notice](https://lifetouch.com/privacy/) does permit sharing among its corporate affiliates — the contract and data-sharing terms are worth reading (see [RFI Template A](07-rfi-templates)) / vendor retains copyright for pictures of *your* kid
 - **Overpriced packages with manipulative tier pricing** — or at the
   opposite extreme, only a single picture per kid with no retake.
   See the concrete example below.
@@ -56,21 +58,15 @@ example (one parent, one school, 2026):
 - No option to buy a single or two-pose digital — the floor is $80
   or nothing
 
-The deliberate $10 spread between the "small" and "full" tier is
-engineered to make $90 feel like a deal. Classic dark-pattern pricing
-designed to push families up the ladder.
+The $10 spread between the "small" and "full" tier reads like a classic decoy-pricing pattern — it makes $90 feel like a deal and nudges families up the ladder.
 
 And the absurdity continues *after* payment. The digital pictures
 from that same order — paid for Friday afternoon at 1 pm — didn't
 appear in the parent's account until Tuesday morning at 10 am.
 **93 hours later.** Yes, a weekend was in there. But these are
 **digital files**. The site even offered to sell *multiples* of
-them, as if duplicating a JPEG had a marginal cost. There is no
-technical reason these aren't released the moment payment clears.
-The artificial delay is part of the product — friction creates the
-sense that something valuable was carefully prepared and delivered,
-when in reality it's a row in a database flipping from "false" to
-"true."
+them, as if duplicating a JPEG had a marginal cost.
+I can't see a technical reason these couldn't be released the moment payment clears. Whatever the cause, the delay adds friction to something that, on the technical side, is close to a row in a database flipping from "false" to "true."
 
 Equally weird in the opposite direction: some schools take **only a
 single picture per kid**, total dice roll on whether it'll be any
@@ -88,17 +84,16 @@ are professionals or skilled hobbyists) and a simple digital distribution platfo
 1. **Volunteer photographers** execute Picture Day, coordinated through a scheduling
    platform. QR code flyers go home in every student's bag.
 2. **Digital originals** are available to families for a modest PTA donation --
-   significantly less than Lifetouch packages, with every dollar going back to the
+   significantly less than Lifetouch packages, with nearly every dollar going back to the
    school (via the PTA) rather than a national corporation.
 3. **Prints as desired** Families who want prints take their digitals to any print service they choose.
    No predatory upselling, no locked-in vendor packages.
-4. The School/PTA captures **100% of the donation** with no vendor middleman.
+4. The School/PTA **keeps the donation**, less payment-processing and hosting costs, with no vendor middleman.
 
 ### Revenue Model: Photos as Fundraiser
 
 This isn't a photo business - it's a fundraiser with a clear purpose. The pitch
-to parents: "Every dollar you spend on school photos goes directly to keeping
-teachers in the building."
+to parents: "Nearly every dollar you spend on school photos stays in our schools — and can help fund efforts like keeping teachers in the building."
 
 The model borrows from what some PTAs already do with membership fees: a
 suggested donation covers your family's photos, and an optional second
@@ -115,12 +110,11 @@ currently flows to a corporation - and that revenue funds the
 
 The community-run platform includes an explicit privacy guarantee:
 
-> *"Data persistence is localized to the district. No student biometric data is
-> hashed, sold, or used for third-party AI training or marketing."*
+> *"Student images are stored under community (PTA/district) control, shared only with the family, and never sold or used for AI training or marketing."*
 
 This is a significant selling point for privacy-conscious families **and** a
-liability reduction for the board. Most districts have not audited what Lifetouch
-does with student facial data.
+liability reduction for the board.
+I don't know whether our district has reviewed the photography vendor's data-handling terms — that is what the RFI asks.
 
 ### The Platform
 
@@ -129,7 +123,7 @@ The digital distribution platform can be built rapidly using modern tools:
 - Privacy-first architecture with local data storage
 - Simple upload, browse, and download workflow
 - Payment processing for the optional donation
-- No student data leaves the district's control
+- Student images stay under PTA/district control, with the minimum data shared with any payment processor
 
 This serves as a proof-of-concept for the broader [coordination
 platform](06-open-governance) - demonstrating that "the community is the
@@ -141,4 +135,4 @@ platform."
 2. Commission and data-sharing disclosures
 3. Willingness to let the PTA pilot for one cycle
 
-[Back to Index](index) | Next: [Community Maintenance Layer](03-community-maintenance)
+[Back to Index](spring-2026#document-index) | Next: [Community Maintenance Layer](03-community-maintenance)

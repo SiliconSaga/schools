@@ -7,6 +7,8 @@ nav_order: 2
 
 # Technical Design: District Budget Visualization
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Making the Numbers Legible -- Interactive Budget Explorer from Public CAFR Data*
 
 > **Document Type:** Technical design plan -- for developers and data-skilled
@@ -18,7 +20,7 @@ nav_order: 2
 
 ## Purpose
 
-The district publishes its budget and CAFR (Comprehensive Annual Financial Report)
+The district publishes its budget and ACFR (Annual Comprehensive Financial Report, formerly called the CAFR)
 as PDF documents. These are public records. They are also effectively unreadable
 to anyone who isn't a school finance professional.
 
@@ -43,12 +45,12 @@ the formal budget. This simplified document contains:
 - Per-pupil spending comparisons
 - Year-over-year changes
 
-The UFB is usually a PDF. The formal budget (A-148 form) contains detailed
+The UFB is usually a PDF. The formal budget, prepared in the NJ DOE budget software, contains detailed
 line items.
 
 ### Secondary: The CAFR
 
-The Comprehensive Annual Financial Report includes:
+The Annual Comprehensive Financial Report includes:
 
 - Fund balance (surplus/deficit) history
 - Debt obligations
@@ -74,7 +76,7 @@ without knowing the state median.
 PDF Budget Documents          NJ DOE Comparative Data
        │                              │
        ▼                              ▼
-  Manual extraction            API/CSV download
+  Manual extraction            Excel download
   (tabula-py or                (NJ DOE data portal)
    camelot for tables)                │
        │                              │
@@ -101,7 +103,7 @@ PDF Budget Documents          NJ DOE Comparative Data
 
 - **Tabula-py** or **Camelot** can extract tables from budget PDFs with reasonable
   accuracy. Manual cleanup will be needed.
-- The NJ DOE data portal provides CSV exports of comparative spending data. No
+- NJ DOE publishes comparative spending data as downloadable Excel files (the Taxpayers' Guide to Education Spending). No
   scraping needed.
 - Budget line items should be normalized to a consistent taxonomy across years for
   year-over-year comparison.
@@ -202,17 +204,17 @@ For a small civic tech project maintained by volunteers:
 
 ### With the Whitepaper Site
 
-The budget visualization lives on the same GitHub Pages site as the whitepaper.
-The INDEX.md links to it. Individual modules link to relevant views:
+The budget visualization would live on the same GitHub Pages site as the whitepaper, linked from the document index.
+Individual modules would link to relevant views:
 
 - Module 1 (Bridge Grant) → treemap zoomed to Art/Library line items
 - Module 4 (Para Audit) → comparison of para costs vs. agency contract estimates
 - Module 5 (Health Insurance) → waterfall showing insurance as % of deficit
-- Module 13 (Regulatory Leverage) → comparison view vs. state median
+- Module 11 (Regulatory Leverage) → comparison view vs. state median
 
 ### With OpenCollective
 
-The Impact Calculator can pull live data from the PTA's OpenCollective projects:
+If the PTA set up OpenCollective projects, the Impact Calculator could pull live data from them. A hypothetical example, with illustrative figures:
 
 "The Curriculum Preservation Fund has raised $42,000 of its $75,000 target.
 That's enough to preserve 56% of the art instruction gap. [Contribute →]"
@@ -256,4 +258,4 @@ could help.
 
 ---
 
-[Back to Index](index)
+[Back to Index](spring-2026#document-index)

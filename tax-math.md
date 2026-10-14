@@ -24,14 +24,11 @@ nav_order: 1
 Many people hear "2.5% school tax increase" and read it as "my taxes
 are going up 2.5%." That's not how property tax math works in NJ. The
 2.5% applies only to the **school portion** of your tax bill. And in
-West Orange, schools are roughly 67% of your property tax while
-municipal is roughly 33% (with the Essex County portion typically folded
-into one or the other, or treated separately — see [below](#whats-verified-vs-unverified)).
+West Orange, the screenshot says schools are 67% of your property tax and municipal 33%; the township's 2025 proposed budget puts it closer to 61% school, 28% municipal, 11% county (see [below](#whats-verified-vs-unverified)).
 
 So a 2.5% school increase combined with a 7.26% municipal increase
 doesn't become "9.76% higher taxes." It becomes a *weighted average*
-across the two portions — and the weighted number is smaller than
-either component.
+across the two portions — and the weighted number falls between the two figures and well below their sum.
 
 ## Three scenarios
 
@@ -61,9 +58,7 @@ On a $16,000 bill: **+$1,080/year** (≈ $90/month, ≈ $3/day).
 
 ### Version 3 — What it would take to fully cover healthcare increases
 
-This is the purported possible increase of the school tax
-that would be needed if the district tried to absorb the full healthcare
-premium increase without cuts, borrowing, or external offsets.
+The screenshot describes this as the school tax increase a board member said would be needed to cover the cost of the healthcare increases.
 
 | School | Municipal | Blended increase |
 |--------|-----------|------------------|
@@ -98,18 +93,10 @@ What the math *correctly* computes, given the inputs:
 What is **community-attributed and should be confirmed against primary
 sources**:
 
-- ❓ **The 67% / 33% school / municipal split.** In NJ, most residential
-  property tax bills are divided among *three* layers: school, municipal,
-  and county (Essex County, in our case). The county portion is often
-  10–20% of the total. A clean 67/33 treatment either folds county into
-  municipal, omits it, or is a simplification. The actual three-way
-  split for West Orange should be in the current tax rate tables — but
-  we don't have that primary source linked here.
+- ❗ **The 67% / 33% split is off.** The township's 2025 proposed budget puts schools at about 61%, municipal (with library and open space) at about 28%, and Essex County at about 11% ([2025 proposed municipal budget](https://westorange.org/DocumentCenter/View/14661/2025-Proposed-Municipal-Budget), p.6). The blended figures above use the screenshot's 67/33 and are kept as the screenshot had them. For comparison, Township Council member Joe Krakoviak's April 2026 projection of the total increase on an average bill, as reported by Patch, was 4.12% ([Patch](https://patch.com/new-jersey/westorange/proposed-tax-hike-west-orange-town-budget-sparks-criticism-questions)).
 - ❓ **The 7.26% municipal increase.** No primary township budget link
   accompanies this figure in the screenshot.
-- ❓ **The 6.5% and 9% school scenarios.** Attributed verbally to the
-  April 21 BOE meeting and Mr. Stevenson respectively. No meeting
-  minutes or slides linked.
+- ❓ **The 6.5% and 9% school scenarios.** Attributed by the screenshot to the April 20 BOE meeting (6.5%) and to board member Mr. Stevenson (9%). The posted minutes are action minutes and do not record either figure; the meeting video, if one exists, would be the place to confirm.
 - ❓ **The $16,000 baseline** is an illustrative example, not a West
   Orange median. Your bill could be meaningfully higher or lower.
 
@@ -159,17 +146,14 @@ has real advantages:
   neighbor.
 - **Fast.** It can start organizing this year. This month. This week.
 - **Flexible.** The definition of "needs help" can be set by the people
-  actually involved, not by an eligibility threshold set in Trenton in
-  1998.
+  actually involved, not by an eligibility threshold set in Trenton.
 - **Reinforces community trust.** The point isn't just the money — it's
   the visible fact that neighbors are showing up for each other.
 
 And the honest drawbacks:
 
 - **Not tax-deductible** the way a qualified charitable contribution
-  might be. (Though some structures — a fiscal sponsor, a 501(c)(3), a
-  [PTA as community OS](16-pta-opencollective) collective — could make
-  donations deductible if the effort grows.)
+  might be. (A pooled fund run by a 501(c)(3), a fiscal sponsor, or a [PTA as community OS](16-pta-opencollective) collective, one that decides on its own who gets help, might make donations deductible if the effort grows. One-to-one matches with a specific household generally would not be, even if they pass through a charity. Check with a tax professional.)
 - **Not scalable to everyone.** Informal sponsorship helps a handful of
   neighbors, not thousands. For broader equity, the formal relief
   programs and ultimately state-level funding formula reform still
@@ -206,17 +190,16 @@ primary sources, the starting points are:
   value.
 - **The township tax rate table.** The municipal clerk / tax
   assessor's office publishes the split among school, municipal, and
-  county portions.
+  county portions. The township's [2025 proposed municipal budget](https://westorange.org/DocumentCenter/View/14661/2025-Proposed-Municipal-Budget) lists the components of the tax levy on p.6.
 - **Essex County budget.** For the county portion specifically.
-- **BOE meeting minutes and slides.** The April 21, 2026 meeting in
+- **BOE meeting minutes and slides.** The April 20, 2026 meeting in
   particular, for the 6.5% and 9% figures attributed verbally.
 
 If anyone reading this has links to those primary sources, please
 [file an issue](https://github.com/SiliconSaga/schools/issues) and
 we'll cite them here and remove the "❓" marks above.
 
-As of this writing (2026-04-23) the [minutes from the prior Monday BoE
-meeting have not yet been posted](https://www.woboe.org/board-of-education/agendas-minutes/past-agendasminutes/2025-2026-agendasminutes).
+As of this writing (2026-04-23) the minutes from the prior Monday BoE meeting had not yet been posted. The [April 20 minutes](https://www.woboe.org/fs/resource-manager/view/cc05598b-a60d-4d1b-ad68-3b1c0a1b385a) have since been posted. They record votes, not discussion, so the 6.5% and 9% figures are not in them. The [May 4 minutes](https://www.woboe.org/fs/resource-manager/view/1f4266c6-2009-4e98-80dd-e6882d807cb8) record total school taxes to be raised of $168,740,972 and a health-care costs adjustment of $797,076.
 
 ## Source screenshot
 

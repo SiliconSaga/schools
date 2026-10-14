@@ -6,6 +6,8 @@ nav_exclude: true
 
 # Technical Design: Demicracy PTA Coordination Layer
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Architecture for Skill Inventories, Proposal Workflows, Commitment Tracking, and Integration with OpenCollective*
 
 > **Document Type:** Technical design plan -- for platform builders, not the
@@ -21,7 +23,7 @@ nav_exclude: true
 ## System Context
 
 The PTA coordination layer sits within Demicracy's Organization & Governance tier,
-leveraging the existing Backstage portal and Forgejo-based process codification.
+building on Demicracy's initialized Backstage instance and its planned Forgejo-based process codification.
 It integrates with external services (OpenCollective, Matrix, existing PTA tools)
 rather than replacing them.
 
@@ -54,12 +56,11 @@ rather than replacing them.
 
 ### Data Model
 
-The inventory is modeled as Backstage **Components** of a custom kind
-(`kind: CommunityMember`), registered in the catalog.
+The inventory is modeled as a custom Backstage entity kind (`kind: CommunityMember`), registered in the catalog via a custom processor.
 
 ```yaml
 # Example catalog entry (stored in Forgejo, synced to Backstage)
-apiVersion: backstage.io/v1alpha1
+apiVersion: demicracy.io/v1alpha1
 kind: CommunityMember
 metadata:
   name: parent-jane-doe
@@ -101,8 +102,8 @@ Aligns with Demicracy's SSI (Self-Sovereign Identity) layer:
 - **Private (never stored):** address, employment details, financial info
 
 Members control their own entries. Coordinators search by skill/availability
-but only see identity details for people who have opted in. This uses
-Demicracy's existing Hyperledger Indy verifiable credentials -- a member can
+but only see identity details for people who have opted in. This would use
+Demicracy's planned Hyperledger Indy verifiable credentials -- a member can
 prove "I have photography equipment" without revealing their name until they
 choose to.
 
@@ -111,7 +112,7 @@ choose to.
 Backstage's existing catalog search + custom filters:
 
 ```
-GET /api/catalog/entities?filter=kind=CommunityMember&filter=spec.skills.items=grant-writing
+GET /api/catalog/entities/by-query?filter=kind=CommunityMember,spec.skills.items=grant-writing
 ```
 
 When a new project creates a volunteer need, the system queries the inventory
@@ -137,7 +138,7 @@ For the full Demicracy deployment:
 
 ### Mapping to Forgejo
 
-Demicracy already codifies governance processes as Git repos. PTA proposals map
+Demicracy's design codifies governance processes as Git repos. PTA proposals map
 naturally:
 
 | PTA Concept | Forgejo Concept |
@@ -185,7 +186,7 @@ school: [specific school or "district-wide"]
 
 ### Review SLA
 
-The PTA board commits to responding to proposals within a defined timeframe:
+The PTA board would commit to responding to proposals within a defined timeframe (proposed targets):
 
 - **Acknowledgment:** within 48 hours (automated)
 - **Initial review:** within 1 week (at least one PTA board member comments)
@@ -286,13 +287,15 @@ financial data to display alongside coordination data:
 # Query project fund status
 query {
   collective(slug: "washington-elementary-pta") {
-    projects {
-      name
-      balance { value currency }
-      stats {
-        totalAmountReceived { value }
-        totalAmountSpent { value }
-        backers { total }
+    childrenAccounts {
+      nodes {
+        name
+        stats {
+          balance { value currency }
+          totalAmountReceived { value }
+          totalAmountSpent { value }
+          contributorsCount
+        }
       }
     }
   }
@@ -337,7 +340,7 @@ This separation is critical for:
 
 ### Phase 1: Post-Meeting (1-3 months)
 
-- Forgejo instance for proposal workflow (can use gitea.com hosted)
+- Forgejo instance for proposal workflow (self-hosted, or a public Forgejo host such as Codeberg if the content is public and openly licensed)
 - Backstage catalog populated from Form data
 - OpenCollective projects aligned to approved modules
 - Matrix room for PTA coordination (bridged to existing WhatsApp/email groups)
@@ -376,4 +379,4 @@ civic contexts.
 
 ---
 
-[Back to Index](index)
+[Back to Index](spring-2026#document-index)

@@ -7,6 +7,8 @@ has_children: true
 
 # Appendix: Technical Design Plans
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 These documents are for platform builders -- developers, data-skilled volunteers,
 and technical contributors. They describe *how* to build the systems proposed in
 the whitepaper modules.

@@ -7,6 +7,8 @@ nav_order: 3
 
 # Mutualism: Organized Neighborly Help
 
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+
 *Not "Mutualism" in any particular academic or political sense — just
 neighbors helping neighbors, organized well enough that the help
 actually lands. An emerging tactic worth prototyping alongside the
@@ -18,7 +20,7 @@ other Three-Prong ideas.*
 
 A teacher's paycheck isn't the only thing that shapes how much money
 they keep. If the community can quietly absorb some of their recurring
-non-school costs — through organized, non-threatening, tax-deductible
+non-school costs — through organized, non-threatening, potentially tax-deductible
 structures — that's functionally the same as a raise, without any of
 the political or budget implications of an actual raise. Do it well
 and it helps the teacher, gives donors something concrete to support,
@@ -48,8 +50,8 @@ The **organized version** swaps the serendipity for structure:
    sub-fund — ideally on a transparent platform like
    [OpenCollective](16-pta-opencollective), so every dollar in and
    out is visible.
-2. Neighbors who want to help donate to the fund. Because it's going
-   through a non-profit, donations are **tax-deductible**.
+2. Neighbors who want to help donate to the fund.
+   Because it's going through a non-profit, donations *may* be tax-deductible, depending on how the fund is set up: IRS rules bar a deduction for gifts set aside for a specific person, so this needs a check with the PTA's treasurer or a tax advisor.
 3. The PTA collects a list of teachers who've opted in as beneficiaries
    — identifying themselves to the PTA, not publicly.
 4. The fund **aggregates the work geographically**: a block of ten to
@@ -61,11 +63,11 @@ The **organized version** swaps the serendipity for structure:
    price. They may offer an additional discount because the work is
    routed through a community non-profit and has local-reputation
    value attached.
-6. The teacher pays nothing. The fund pays the firm. The donors
-   deducted their gifts.
+6. The teacher pays nothing. The fund pays the firm.
+   Donors may be able to deduct their gifts, depending on how the fund is structured.
 
 The teacher keeps $1,200/year of what was going out the door. Nobody's
-pay changed. No line item appeared on the school budget. No red tape had to be snipped.
+pay changed. No line item appeared on the school budget.
 
 ## The four-way win
 
@@ -74,7 +76,7 @@ pay changed. No line item appeared on the school budget. No red tape had to be s
 | Who | What they get |
 |-----|----------------|
 | **Teacher** | ~$1,200/year in take-home equivalent, no awkwardness, dignified. |
-| **Donor** | Tax-deductible giving with a tangible local outcome they can point to. |
+| **Donor** | Giving with a tangible local outcome they can point to (possibly tax-deductible). |
 | **Local firm** | Efficient bulk work, steady cash flow, community goodwill — a meaningful customer. |
 | **Union / district** | A real-world channel for "our members are being supported" that isn't a wage negotiation. |
 
@@ -131,10 +133,9 @@ and succeeds if you pilot a single narrow version and then grow it:
 2. **Find teachers who'd participate.** Keep it quiet and
    dignified. The PTA can ask; teachers can opt in privately.
 3. **Find volunteers willing to donate money or time.** Match them
-   geographically to the beneficiary homes if possible.
-4. **Set up the sub-fund** through the PTA's existing 501(c)(3) (or
-   via [OpenCollective](16-pta-opencollective) if they haven't set
-   one up yet). Only needed if not using volunteers with spare time.
+   geographically to the beneficiary homes if possible (for volunteer time; matching money to a particular home can undo deductibility).
+4. **Set up the sub-fund** through the PTA's own nonprofit accounts, optionally tracked on a transparent ledger like [OpenCollective](16-pta-opencollective) so donors can see every dollar.
+   Only needed if not using volunteers with spare time.
 5. **Run the pilot one season.** Document what worked, what broke,
    what the teachers and donors said.
 6. **Report publicly** (with teacher privacy preserved) on the
@@ -164,6 +165,7 @@ about the trade-offs.
   lawncare firm damages a teacher's property, who's on the hook? The
   firm's own insurance usually, but contracts need to be written so
   the PTA isn't absorbing surprise liability.
+- **Rules we haven't checked yet.** PTA bylaws, the district's staff-gift policy, and IRS rules on private benefit and on what counts as income to the teacher all need a look before a pilot takes money.
 - **Not a salary replacement, and shouldn't try to be.** The point is
   to help teachers keep more of what they earn, not to substitute
   for fair pay. The moment this is framed as "we're supporting
@@ -207,10 +209,8 @@ prototype.
   practical move the thinking points to.
 - [**The Virtuous Spiral**](bigger-picture-spiral) is the effect
   compound-in-action. A teacher saving $100/month is not a school
-  budget win per se. But a teacher saving $100/month is measurably
-  less likely to leave the profession, which is a school budget win
-  in disguise, because teacher retention is the single most expensive
-  variable the district has.
+  budget win per se.
+  But anything that makes a teacher a little less likely to leave is a school budget win in disguise, because turnover is expensive: one national estimate is that larger districts spend nearly $25,000, on average, to replace a departing teacher ([Learning Policy Institute, 2024](https://learningpolicyinstitute.org/product/2024-whats-cost-teacher-turnover)). No comparable figure for West Orange has been worked out here.
 
 ---
 
