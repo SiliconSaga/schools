@@ -126,6 +126,17 @@
     - label: "Email as received, October 14, 2026"
       url: "/ledger/files/2026-10-14-boe-negotiations-committee-email.txt"
 
+- date: 2026-10-14
+  basis: statement
+  title: "Union answers the Board's email and describes the Board's October 5 offer"
+  summary: >-
+    The West Orange Education Association told its members it "categorically" denied "the insulting accusation that WE are to blame for the financial failings of the Board of Education", answered the Board's "70%" figure with "On average, New Jersey districts spend over 80% of their budgets on salary and benefits", and announced a rally for Saturday, October 17. It reshared its October 5 account of the second fact-finding session, where it says the Board made "a REGRESSIVE offer" with three parts: "significantly less money than they budgeted", eliminating longevity "for all new hires", and freezing longevity "permanently". It dates the negotiation from March 2025, with impasse in January 2026, mediation in March 2026, fact-finding on August 3, and a hearing set for January 7, 2027, and says that at the March 2026 mediation "the Board made no mention of the plan to outsource paras". The Board's proposal itself is not public.
+  sources:
+    - label: "WOEA, Response to Message from the District, October 14, 2026 (copy)"
+      url: "/ledger/files/2026-10-14-woea-response-to-the-board.txt"
+    - label: "Original on the union's mailing-list service"
+      url: "https://sendy.njeasites.net/w/ZRoavBnoUS117nJWbHGoGQ/TiFV892o763HdGuKixj9WcfsjQ/iDb6OYTlEzz3LbivcTEyHw"
+
 - date: 2026-10-15
   basis: ledger
   title: "Reply to the negotiations committee: the ChatGPT links, and a standing offer"

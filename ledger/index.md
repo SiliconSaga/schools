@@ -33,7 +33,7 @@ Each request page carries the full text, the filing receipt, and every response 
 Every entry is labelled with what it rests on.
 
 - <span class="label label-blue">Record</span> A district or vendor document, linked, with the page number.
-- <span class="label label-purple">Statement</span> Something an official said in a letter or at a public meeting, quoted, with the date.
+- <span class="label label-purple">Statement</span> Something the district, the Board, or the union said in writing or at a public meeting, quoted, with the date.
 - <span class="label label-yellow">Press</span> Something a named news outlet reported, linked.
 - <span class="label label-green">Ledger</span> Something the keeper of this ledger filed or sent, published in full.
 
