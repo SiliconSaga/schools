@@ -88,11 +88,20 @@
   basis: record
   title: "Three public-records requests hand-delivered to the district"
   summary: >-
-    The author of this site filed three requests under the Open Public Records Act at the Board of Education's Business Office: for the paraprofessional staffing contract and billing (OPRA-001), for paraprofessional coverage records (OPRA-002), and for school schedules, teacher-absence coverage data, and any guidance on showing movies (OPRA-003). The seven-business-day response period runs to October 23, 2026. Each request's full text and log are on its page; the date-stamped receipts and every response will be posted there as they arrive.
+    The author of this site handed three requests under the Open Public Records Act to the custodian of records at the Board of Education's Business Office, each date-stamped "Received Oct 14 2026": for the paraprofessional staffing contract and billing (OPRA-001), for paraprofessional coverage records (OPRA-002), and for school schedules, teacher-absence coverage data, and any guidance on showing movies (OPRA-003). The seven-business-day response period runs to October 23, 2026. Each request's full text, log, and every response as it arrives are on its page.
   sources:
-    - label: "OPRA-001"
-      url: "/ledger/opra/001-edustaff"
-    - label: "OPRA-002"
-      url: "/ledger/opra/002-coverage"
-    - label: "OPRA-003"
-      url: "/ledger/opra/003-instructional-time"
+    - label: "OPRA-001 stamped receipt"
+      url: "/ledger/opra/files/opra-001-receipt-2026-10-14.pdf"
+    - label: "OPRA-002 stamped receipt"
+      url: "/ledger/opra/files/opra-002-receipt-2026-10-14.pdf"
+    - label: "OPRA-003 stamped receipt"
+      url: "/ledger/opra/files/opra-003-receipt-2026-10-14.pdf"
+
+- date: 2026-10-14
+  basis: statement
+  title: "Board negotiations committee writes to families about the teacher contract and longevity pay"
+  summary: >-
+    In an email to families, the Board's negotiations committee said the district "continues to fully uphold our contractual obligations to educators" while facing "a multi-million dollar deficit", that West Orange ranks "15th out of New Jersey's 590 districts in total salary compensation packages", and that longevity pay "is not widely provided to teachers working in other school districts across New Jersey". It described West Orange's longevity bonus as "currently the highest in the state with most of our eligible staff receiving roughly $10,000.00 or $12,000.00 in longevity bonuses annually", and asked "What will this teacher contract cost over time?" The email lists among the year's "painful adjustments" the "outsourced paraprofessional support". The district's own reappointment table from May shows a different picture of longevity amounts; see What the District Said.
+  sources:
+    - label: "Email as received, October 14, 2026"
+      url: "/ledger/files/2026-10-14-boe-negotiations-committee-email.txt"

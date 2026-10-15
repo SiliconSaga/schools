@@ -23,4 +23,4 @@ The law is N.J.S.A. 47:1A-1 and following, as amended in 2024. The Government Re
 
 ## What gets published
 
-For each request: the text as filed, the date-stamped receipt, every response from the district in full, and the records themselves. The requester's home address and phone number are removed. Student names and other personal details are not requested, and would be removed if they arrived.
+For each request: the text as filed, the date-stamped receipt, every response from the district in full, and the records themselves. The requester's phone number is removed; his name and address appear as filed, by his own choice. Student names and other personal details are not requested, and would be removed if they arrived.

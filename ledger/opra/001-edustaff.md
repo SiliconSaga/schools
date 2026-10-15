@@ -29,7 +29,7 @@ The text below is the request as prepared for filing. The filed copy carries the
 
 - **October 1, 2026.** Drafted.
 - **October 13, 2026.** Text finalized for filing.
-- **October 14, 2026.** Hand-delivered to the Business Office, 179 Eagle Rock Avenue, with the district's OPRA request form. Items 1, 3, 5, and 6 are immediate-access records; the seven-business-day period for the rest runs to October 23, 2026.
+- **October 14, 2026.** Handed to the custodian of records at the Business Office, 179 Eagle Rock Avenue, with the district's OPRA request form; the receipt copy was date-stamped the same day (see Documents). Items 1, 3, 5, and 6 are immediate-access records; the seven-business-day period for the rest runs to October 23, 2026.
 
 ## Documents
 
