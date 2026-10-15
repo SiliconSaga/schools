@@ -10,7 +10,9 @@
   status: filed
   filed: 2026-10-14
   due: 2026-10-23
-  documents: []
+  documents:
+    - label: "Request as filed, date-stamped by the custodian, October 14, 2026 (first page)"
+      url: "/ledger/opra/files/opra-001-receipt-2026-10-14.pdf"
 
 - id: OPRA-002
   slug: 002-coverage
@@ -18,7 +20,9 @@
   status: filed
   filed: 2026-10-14
   due: 2026-10-23
-  documents: []
+  documents:
+    - label: "Request as filed, date-stamped by the custodian, October 14, 2026 (first page)"
+      url: "/ledger/opra/files/opra-002-receipt-2026-10-14.pdf"
 
 - id: OPRA-003
   slug: 003-instructional-time
@@ -26,4 +30,6 @@
   status: filed
   filed: 2026-10-14
   due: 2026-10-23
-  documents: []
+  documents:
+    - label: "Request as filed, date-stamped by the custodian, October 14, 2026 (first page)"
+      url: "/ledger/opra/files/opra-003-receipt-2026-10-14.pdf"

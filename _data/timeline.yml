@@ -3,6 +3,26 @@
 # or at a public meeting), press (reported by a named news outlet).
 # Add an entry only when its quote has been read in the linked source; see _research/.
 
+- date: 2022-01-13
+  basis: record
+  title: "District signs a master staffing agreement with EduStaff for substitute staff"
+  summary: >-
+    The Business Administrator signed a "Supplemental Staffing Services Master Agreement" with EDUStaff, LLC of Grand Rapids, Michigan, effective January 13, 2022 and running "until June 30, 2024 unless terminated earlier", extendable by "a simple extension addendum". Exhibit A covers substitute teachers and "all other supplied staff"; Exhibit B prices "Classroom-Based Substitute Staff" at "30.00% of Staff Gross Payroll" and school nurses at 33%. EduStaff "shall invoice Client bi-weekly", itemized "in the form of a 'PDF' document for auditing and an 'Excel' document", and dispatches through "the AESOP (Dispatch) system". Either party may end it on sixty days' notice. The "EduStaff Pricing Schedule Addendum-Exhibit B" the Board approved on July 21, 2026 shares its name with this agreement's pricing exhibit; whether it amends this agreement or a later one is not stated in the minutes. The copy here was released by the district on July 16, 2025 in answer to another resident's records request made through OPRAmachine.
+  sources:
+    - label: "Master Agreement with Exhibits A and B, 13 pages"
+      url: "/ledger/opra/files/edustaff-master-agreement-2022-01-13.pdf"
+
+- date: 2025-07-16
+  basis: record
+  title: "District releases the EduStaff agreement seven business days after a records request"
+  summary: >-
+    Answering a resident's OPRA request for "a true copy of your 2022 contract with Edustaff", received July 7, 2025, the Business Administrator wrote that "the seven business day deadline to respond to your request is July 16, 2025. As such, the District is timely responding", and enclosed the agreement. The request and response were made through OPRAmachine, where they are public.
+  sources:
+    - label: "Response letter, July 16, 2025"
+      url: "/ledger/opra/files/opra-response-2025-07-16-edustaff-agreement.pdf"
+    - label: "OPRAmachine: West Orange Board of Education"
+      url: "https://opramachine.com/body/west_orange_board_of_education"
+
 - date: 2026-04-29
   basis: record
   title: "Proposals due for substitute and paraprofessional staffing"
@@ -88,11 +108,20 @@
   basis: record
   title: "Three public-records requests hand-delivered to the district"
   summary: >-
-    The author of this site filed three requests under the Open Public Records Act at the Board of Education's Business Office: for the paraprofessional staffing contract and billing (OPRA-001), for paraprofessional coverage records (OPRA-002), and for school schedules, teacher-absence coverage data, and any guidance on showing movies (OPRA-003). The seven-business-day response period runs to October 23, 2026. Each request's full text and log are on its page; the date-stamped receipts and every response will be posted there as they arrive.
+    The author of this site handed three requests under the Open Public Records Act to the custodian of records at the Board of Education's Business Office, each date-stamped "Received Oct 14 2026": for the paraprofessional staffing contract and billing (OPRA-001), for paraprofessional coverage records (OPRA-002), and for school schedules, teacher-absence coverage data, and any guidance on showing movies (OPRA-003). The seven-business-day response period runs to October 23, 2026. Each request's full text, log, and every response as it arrives are on its page.
   sources:
-    - label: "OPRA-001"
-      url: "/ledger/opra/001-edustaff"
-    - label: "OPRA-002"
-      url: "/ledger/opra/002-coverage"
-    - label: "OPRA-003"
-      url: "/ledger/opra/003-instructional-time"
+    - label: "OPRA-001 stamped receipt"
+      url: "/ledger/opra/files/opra-001-receipt-2026-10-14.pdf"
+    - label: "OPRA-002 stamped receipt"
+      url: "/ledger/opra/files/opra-002-receipt-2026-10-14.pdf"
+    - label: "OPRA-003 stamped receipt"
+      url: "/ledger/opra/files/opra-003-receipt-2026-10-14.pdf"
+
+- date: 2026-10-14
+  basis: statement
+  title: "Board negotiations committee writes to families about the teacher contract and longevity pay"
+  summary: >-
+    In an email to families, the Board's negotiations committee said the district "continues to fully uphold our contractual obligations to educators" while facing "a multi-million dollar deficit", that West Orange ranks "15th out of New Jersey's 590 districts in total salary compensation packages", and that longevity pay "is not widely provided to teachers working in other school districts across New Jersey". It described West Orange's longevity bonus as "currently the highest in the state with most of our eligible staff receiving roughly $10,000.00 or $12,000.00 in longevity bonuses annually", and asked "What will this teacher contract cost over time?" The email lists among the year's "painful adjustments" the "outsourced paraprofessional support". The district's own reappointment table from May shows a different picture of longevity amounts; see [What the District Said](/ledger/statements#longevity-pay).
+  sources:
+    - label: "Email as received, October 14, 2026"
+      url: "/ledger/files/2026-10-14-boe-negotiations-committee-email.txt"
