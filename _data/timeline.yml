@@ -3,6 +3,26 @@
 # or at a public meeting), press (reported by a named news outlet).
 # Add an entry only when its quote has been read in the linked source; see _research/.
 
+- date: 2022-01-13
+  basis: record
+  title: "District signs a master staffing agreement with EduStaff for substitute staff"
+  summary: >-
+    The Business Administrator signed a "Supplemental Staffing Services Master Agreement" with EDUStaff, LLC of Grand Rapids, Michigan, effective January 13, 2022 and running "until June 30, 2024 unless terminated earlier", extendable by "a simple extension addendum". Exhibit A covers substitute teachers and "all other supplied staff"; Exhibit B prices "Classroom-Based Substitute Staff" at "30.00% of Staff Gross Payroll" and school nurses at 33%. EduStaff "shall invoice Client bi-weekly", itemized "in the form of a 'PDF' document for auditing and an 'Excel' document", and dispatches through "the AESOP (Dispatch) system". Either party may end it on sixty days' notice. The "EduStaff Pricing Schedule Addendum-Exhibit B" the Board approved on July 21, 2026 shares its name with this agreement's pricing exhibit; whether it amends this agreement or a later one is not stated in the minutes. The copy here was released by the district on July 16, 2025 in answer to another resident's records request made through OPRAmachine.
+  sources:
+    - label: "Master Agreement with Exhibits A and B, 13 pages"
+      url: "/ledger/opra/files/edustaff-master-agreement-2022-01-13.pdf"
+
+- date: 2025-07-16
+  basis: record
+  title: "District releases the EduStaff agreement seven business days after a records request"
+  summary: >-
+    Answering a resident's OPRA request for "a true copy of your 2022 contract with Edustaff", received July 7, 2025, the Business Administrator wrote that "the seven business day deadline to respond to your request is July 16, 2025. As such, the District is timely responding", and enclosed the agreement. The request and response were made through OPRAmachine, where they are public.
+  sources:
+    - label: "Response letter, July 16, 2025"
+      url: "/ledger/opra/files/opra-response-2025-07-16-edustaff-agreement.pdf"
+    - label: "OPRAmachine: West Orange Board of Education"
+      url: "https://opramachine.com/body/west_orange_board_of_education"
+
 - date: 2026-04-29
   basis: record
   title: "Proposals due for substitute and paraprofessional staffing"
