@@ -1,32 +1,84 @@
 {%- assign translate_host = site.url | remove: "https://" | remove: "http://" | replace: ".", "-" -%}
-<nav aria-label="Display and translation" class="aux-nav site-options">
+<nav aria-label="Display and translation" class="aux-nav site-options notranslate" translate="no">
   <ul class="aux-nav-list">
-    <li class="aux-nav-list-item">
-      <button type="button" id="width-toggle" class="site-button" aria-pressed="false" title="Let the page use the full width of the window">Wide</button>
+    <li class="aux-nav-list-item site-option-width">
+      <button type="button" id="width-toggle" class="site-button" aria-pressed="false" title="Let the page use the full width of the window">
+        <span class="site-option-caption">Switch to</span>
+        <span class="site-option-value">Wide</span>
+      </button>
     </li>
     <li class="aux-nav-list-item">
-      <a class="site-button" lang="es" data-translate="es" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=en" title="Traducción automática de Google. Es una ayuda, no una traducción oficial ni certificada.">Español</a>
+      <a class="site-button site-option-lang is-current" data-lang="en" data-caption="Original" data-caption-current="Current" aria-current="true" title="The original page. Translations are machine translations by Google, offered as a help, not official or certified.">
+        <span class="site-option-caption">Current</span>
+        <span class="site-option-value">English</span>
+      </a>
     </li>
     <li class="aux-nav-list-item">
-      <a class="site-button" lang="ht" data-translate="ht" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=ht&amp;_x_tr_hl=en" title="Tradiksyon otomatik Google. Se yon èd, se pa yon tradiksyon ofisyèl ni sètifye.">Kreyòl</a>
+      <a class="site-button site-option-lang" lang="es" data-lang="es" data-caption="Traducir al" data-caption-current="Actual" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es" title="Traducción automática de Google. Es una ayuda, no una traducción oficial ni certificada.">
+        <span class="site-option-caption">Traducir al</span>
+        <span class="site-option-value">Español</span>
+      </a>
+    </li>
+    <li class="aux-nav-list-item">
+      <a class="site-button site-option-lang" lang="ht" data-lang="ht" data-caption="Tradui an" data-caption-current="Aktyèl" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=ht&amp;_x_tr_hl=ht" title="Tradiksyon otomatik Google. Se yon èd, se pa yon tradiksyon ofisyèl ni sètifye.">
+        <span class="site-option-caption">Tradui an</span>
+        <span class="site-option-value">Kreyòl</span>
+      </a>
     </li>
   </ul>
 </nav>
 <script>
   (function () {
+    /* The theme compresses HTML onto one line, so only block comments are safe here. */
+    /* Page width: a reader's choice, remembered in this browser only. */
     var root = document.documentElement;
     var button = document.getElementById("width-toggle");
-    function apply(wide) {
+    function applyWidth(wide) {
       if (wide) { root.setAttribute("data-width", "wide"); } else { root.removeAttribute("data-width"); }
       button.setAttribute("aria-pressed", wide ? "true" : "false");
-      button.textContent = wide ? "Narrow" : "Wide";
+      button.querySelector(".site-option-value").textContent = wide ? "Narrow" : "Wide";
       button.title = wide ? "Return to a reading-width column" : "Let the page use the full width of the window";
     }
-    apply(root.getAttribute("data-width") === "wide");
+    applyWidth(root.getAttribute("data-width") === "wide");
     button.addEventListener("click", function () {
       var wide = root.getAttribute("data-width") !== "wide";
       try { localStorage.setItem("page-width", wide ? "wide" : "narrow"); } catch (e) {}
-      apply(wide);
+      applyWidth(wide);
+    });
+
+    /* Languages: on the original site English is current. When this page is being served
+       through Google's translate proxy, the proxy's host and _x_tr_tl parameter say which
+       language is current; the links then navigate directly so the proxy cannot rewrite them. */
+    var site = "{{ site.url }}";
+    var proxy = "https://{{ translate_host }}.translate.goog";
+    var onProxy = /\.translate\.goog$/.test(location.hostname);
+    var path = location.pathname;
+    var current = "en";
+    if (onProxy) {
+      var match = /_x_tr_tl=([A-Za-z-]+)/.exec(location.search);
+      if (match) { current = match[1]; }
+    }
+    function urlFor(lang) {
+      if (lang === "en") { return site + path; }
+      return proxy + path + "?_x_tr_sl=en&_x_tr_tl=" + lang + "&_x_tr_hl=" + lang;
+    }
+    var links = document.querySelectorAll(".site-option-lang");
+    Array.prototype.forEach.call(links, function (link) {
+      var lang = link.getAttribute("data-lang");
+      var active = lang === current;
+      link.classList.toggle("is-current", active);
+      link.querySelector(".site-option-caption").textContent = link.getAttribute(active ? "data-caption-current" : "data-caption");
+      if (active) {
+        link.setAttribute("aria-current", "true");
+        link.removeAttribute("href");
+      } else {
+        link.removeAttribute("aria-current");
+        link.setAttribute("href", urlFor(lang));
+        link.addEventListener("click", function (event) {
+          event.preventDefault();
+          location.assign(urlFor(lang));
+        });
+      }
     });
   })();
 </script>

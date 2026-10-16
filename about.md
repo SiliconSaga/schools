@@ -45,13 +45,13 @@ The site is built with [Jekyll](https://jekyllrb.com/) and the
 
 ## Translations and Display
 
-The **Español** and **Kreyòl** links at the top of every page open that page through Google Translate. This is machine translation offered as a help for reading; it is not an official or certified translation, and where it matters the English page is the one this site stands behind. Your browser may also offer to translate the page on its own.
+The **Español** and **Kreyòl** links at the top of every page open that page through Google Translate, and the language marked "Current" is the one you are reading; **English** brings you back to the original. This is machine translation offered as a help for reading; it is not an official or certified translation, and where it matters the English page is the one this site stands behind. Your browser may also offer to translate the page on its own.
 
 *Español:* los enlaces **Español** y **Kreyòl** abren la página mediante Google Translate. Es una traducción automática, ofrecida como ayuda; no es una traducción oficial ni certificada. La versión en inglés es la que este sitio respalda.
 
 *Kreyòl Ayisyen:* lyen **Español** ak **Kreyòl** yo louvri paj la nan Google Translate. Se yon tradiksyon otomatik, yo bay li kòm yon èd; se pa yon tradiksyon ofisyèl ni sètifye. Vèsyon anglè a se sa sit sa a kanpe dèyè.
 
-The **Wide** button lets the page use the full width of the window instead of a reading-width column; the choice is remembered in your browser and nowhere else.
+On a wide screen, the **Switch to Wide** button lets the page use the full width of the window instead of a reading-width column; the choice is remembered in your browser and nowhere else.
 
 ## How to Help
 

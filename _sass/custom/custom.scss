@@ -1,5 +1,5 @@
 // Page width is a reader's choice. The default is the theme's reading-width column; the
-// "Wide" button in the header sets data-width="wide" on the root element (remembered in
+// width button in the header sets data-width="wide" on the root element (remembered in
 // the browser), and then the sidebar keeps its own width at the left edge and the content
 // takes everything to its right, with the theme's gutter.
 
@@ -21,14 +21,52 @@ html[data-width="wide"] {
   }
 }
 
-// The header controls: the width button is a <button> styled like the theme's aux links.
+// The header controls beside search: two-line buttons, a caption over a value.
 .site-options {
+  .aux-nav-list-item {
+    display: flex;
+    align-items: center;
+  }
+
   .site-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 $sp-3;
     font: inherit;
+    line-height: 1.2;
     color: $link-color;
+    text-decoration: none;
+    white-space: nowrap;
     background: none;
     border: 0;
     cursor: pointer;
-    white-space: nowrap;
+  }
+
+  .site-option-caption {
+    font-size: 0.65rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    opacity: 0.75;
+  }
+
+  .is-current {
+    color: $body-text-color;
+    cursor: default;
+
+    &:hover {
+      background-image: none;
+    }
+  }
+
+  // Below the wide breakpoint the column already fills the window, so the choice is moot.
+  .site-option-width {
+    display: none;
+
+    @include mq(lg) {
+      display: flex;
+    }
   }
 }
