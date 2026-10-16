@@ -42,13 +42,15 @@ Two features of the shape matter for everything else on this page. From step 5 t
 
 Longevity is a fixed amount added to salary each year once a teacher has completed a set number of years in West Orange. It is not a step on the guide; it is a separate line, and it is the only service-based increase available to someone already at step 18. The 2024-25 page lists five tiers:
 
-| Paid years | Amount |
-|---|---|
-| 15 to 19 | $5,612 |
-| 20 to 24 | $7,221 |
-| 25 to 29 | $8,840 |
-| 30 to 33 | $10,471 |
-| 34 and more | $12,465 |
+| Paid years | Amount | Staff receiving it on the May 4, 2026 list |
+|---|---|---|
+| 15 to 19 | $5,612 | 86 |
+| 20 to 24 | $7,221 | 169 |
+| 25 to 29 | $8,840 | 50 |
+| 30 to 33 | $10,471 | 12 |
+| 34 and more | $12,465 | 0 |
+
+The third column counts the tenured WOEA staff whose 2026-27 reappointment line carries that amount; three more carry pro-rated amounts under $5,000, and 225 of the 545 carry none.
 
 In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
 
