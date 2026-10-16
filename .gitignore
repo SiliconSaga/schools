@@ -24,3 +24,6 @@ _research/opra/out/
 # Per-page audit working files from October 2026, kept local until reviewed
 _research/audit/
 
+# Left behind by the Python tools in _research/tools
+__pycache__/
+

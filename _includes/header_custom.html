@@ -1,0 +1,32 @@
+{%- assign translate_host = site.url | remove: "https://" | remove: "http://" | replace: ".", "-" -%}
+<nav aria-label="Display and translation" class="aux-nav site-options">
+  <ul class="aux-nav-list">
+    <li class="aux-nav-list-item">
+      <button type="button" id="width-toggle" class="site-button" aria-pressed="false" title="Let the page use the full width of the window">Wide</button>
+    </li>
+    <li class="aux-nav-list-item">
+      <a class="site-button" lang="es" data-translate="es" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=en" title="Traducción automática de Google. Es una ayuda, no una traducción oficial ni certificada.">Español</a>
+    </li>
+    <li class="aux-nav-list-item">
+      <a class="site-button" lang="ht" data-translate="ht" href="https://{{ translate_host }}.translate.goog{{ page.url | relative_url }}?_x_tr_sl=en&amp;_x_tr_tl=ht&amp;_x_tr_hl=en" title="Tradiksyon otomatik Google. Se yon èd, se pa yon tradiksyon ofisyèl ni sètifye.">Kreyòl</a>
+    </li>
+  </ul>
+</nav>
+<script>
+  (function () {
+    var root = document.documentElement;
+    var button = document.getElementById("width-toggle");
+    function apply(wide) {
+      if (wide) { root.setAttribute("data-width", "wide"); } else { root.removeAttribute("data-width"); }
+      button.setAttribute("aria-pressed", wide ? "true" : "false");
+      button.textContent = wide ? "Narrow" : "Wide";
+      button.title = wide ? "Return to a reading-width column" : "Let the page use the full width of the window";
+    }
+    apply(root.getAttribute("data-width") === "wide");
+    button.addEventListener("click", function () {
+      var wide = root.getAttribute("data-width") !== "wide";
+      try { localStorage.setItem("page-width", wide ? "wide" : "narrow"); } catch (e) {}
+      apply(wide);
+    });
+  })();
+</script>

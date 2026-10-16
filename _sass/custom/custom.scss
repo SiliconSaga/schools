@@ -1,0 +1,34 @@
+// Page width is a reader's choice. The default is the theme's reading-width column; the
+// "Wide" button in the header sets data-width="wide" on the root element (remembered in
+// the browser), and then the sidebar keeps its own width at the left edge and the content
+// takes everything to its right, with the theme's gutter.
+
+html[data-width="wide"] {
+  @include mq(md) {
+    .main {
+      max-width: none;
+    }
+  }
+
+  @include mq(lg) {
+    .side-bar {
+      width: $nav-width;
+    }
+
+    .side-bar + .main {
+      margin-left: $nav-width;
+    }
+  }
+}
+
+// The header controls: the width button is a <button> styled like the theme's aux links.
+.site-options {
+  .site-button {
+    font: inherit;
+    color: $link-color;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+}
