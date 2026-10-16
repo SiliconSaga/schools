@@ -50,10 +50,10 @@ Longevity is a fixed amount added to salary each year once a teacher has complet
 | 30 to 33 | $10,471 | 12 |
 | 34 and more | $12,465 | 0 |
 | Partial year | pro-rated, under $5,000 | 3 |
-| Under 15 | none | 225 |
+| No amount listed | none | 225 |
 | **All staff on the list** | **$2,280,577.60 in total** | **545** |
 
-"Under 15" is an inference: the list gives amounts, not years of service, so the 225 with no longevity are presumably below the first tier. In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
+The list gives amounts, not years of service; the 225 with no amount are presumably below the first tier, but the list does not say so. In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
 
 **What the table shows.** Longevity is 3.8% of the $59,293,333 in salary on the same list, and it sits at the top of the guide: 277 of the 314 people at step 18 have it, 17 of the 24 at step 17, and 26 of the 201 below that. The committee's October 14 email described "most of our eligible staff receiving roughly $10,000.00 or $12,000.00"; read as rounded figures, those are the $10,471 and $12,465 tiers, which 12 and 0 people receive. The email also said longevity "is not widely provided" in other districts; the New Jersey School Boards Association's magazine reported in 2025 that about three-quarters of districts provide it ([School Leader, October 2025](https://www.njsba.org/news-information/school-leader/trends-in-teacher-contract-negotiations/)). Both are set beside the records on [What the District Said](/ledger/statements#longevity-pay).
 
