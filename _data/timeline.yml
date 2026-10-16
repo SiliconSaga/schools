@@ -1,6 +1,7 @@
 # Timeline entries for /ledger/timeline. Newest-first ordering is done by the page.
-# basis: record (district or vendor document), statement (said by an official in a letter
-# or at a public meeting), press (reported by a named news outlet).
+# basis: record (district or vendor document), statement (said in writing or at a public
+# meeting by the district, the Board, or the union), press (reported by a named news outlet),
+# ledger (filed or sent by the keeper of this ledger, published in full).
 # Add an entry only when its quote has been read in the linked source; see _research/.
 
 - date: 2022-01-13
