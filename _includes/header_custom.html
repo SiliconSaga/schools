@@ -8,6 +8,12 @@
       </button>
     </li>
     <li class="aux-nav-list-item">
+      <button type="button" id="theme-toggle" class="site-button" aria-pressed="false" title="Switch to the light colour scheme">
+        <span class="site-option-caption">Switch to</span>
+        <span class="site-option-value">Light</span>
+      </button>
+    </li>
+    <li class="aux-nav-list-item">
       <a class="site-button site-option-lang is-current" data-lang="en" data-caption="Original" data-caption-current="Current" aria-current="true" title="The original page. Translations are machine translations by Google, offered as a help, not official or certified.">
         <span class="site-option-caption">Current</span>
         <span class="site-option-value">English</span>
@@ -44,6 +50,29 @@
       var wide = root.getAttribute("data-width") !== "wide";
       try { localStorage.setItem("page-width", wide ? "wide" : "narrow"); } catch (e) {}
       applyWidth(wide);
+    });
+
+    /* Colour scheme: the site is built dark; "light" swaps the stylesheet the theme ships for
+       its light scheme. Remembered in this browser only; applied before paint from the head. */
+    var themeButton = document.getElementById("theme-toggle");
+    var stylesheet = document.querySelector('link[rel="stylesheet"][href*="just-the-docs-"]');
+    function currentTheme() {
+      return stylesheet && /just-the-docs-light\.css/.test(stylesheet.getAttribute("href")) ? "light" : "dark";
+    }
+    function applyTheme(theme) {
+      if (stylesheet) {
+        stylesheet.setAttribute("href", "{{ '/assets/css/just-the-docs-' | relative_url }}" + (theme === "light" ? "light" : "default") + ".css");
+      }
+      var light = theme === "light";
+      themeButton.setAttribute("aria-pressed", light ? "true" : "false");
+      themeButton.querySelector(".site-option-value").textContent = light ? "Dark" : "Light";
+      themeButton.title = light ? "Switch to the dark colour scheme" : "Switch to the light colour scheme";
+    }
+    applyTheme(currentTheme());
+    themeButton.addEventListener("click", function () {
+      var theme = currentTheme() === "light" ? "dark" : "light";
+      try { localStorage.setItem("color-scheme", theme); } catch (e) {}
+      applyTheme(theme);
     });
 
     /* Languages: on the original site English is current. When this page is being served

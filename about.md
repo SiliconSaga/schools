@@ -51,7 +51,7 @@ The **Español** and **Kreyòl** links at the top of every page open that page t
 
 *Kreyòl Ayisyen:* lyen **Español** ak **Kreyòl** yo louvri paj la nan Google Translate. Se yon tradiksyon otomatik, yo bay li kòm yon èd; se pa yon tradiksyon ofisyèl ni sètifye. Vèsyon anglè a se sa sit sa a kanpe dèyè.
 
-On a wide screen, the **Switch to Wide** button lets the page use the full width of the window instead of a reading-width column; the choice is remembered in your browser and nowhere else.
+On a wide screen, the **Switch to Wide** button lets the page use the full width of the window instead of a reading-width column, and **Switch to Light** swaps the dark colour scheme for a light one. Both choices are remembered in your browser and nowhere else.
 
 ## How to Help
 
