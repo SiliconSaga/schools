@@ -40,19 +40,22 @@ Two features of the shape matter for everything else on this page. From step 5 t
 
 ## Longevity
 
-Longevity is a fixed amount added to salary each year once a teacher has completed a set number of years in West Orange. It is not a step on the guide; it is a separate line, and it is the only service-based increase available to someone already at step 18. The 2024-25 page lists five tiers:
+Longevity is a fixed amount added to salary each year once a teacher has completed a set number of years in West Orange. It is not a step on the guide; it is a separate line, and it is the only service-based increase available to someone already at step 18. The 2024-25 page lists five tiers; the third column is who receives each on the reappointment list the Board approved on May 4, 2026, tallied with a [short script](https://github.com/SiliconSaga/schools/blob/main/_research/tools/longevity-tally.py):
 
-| Paid years | Amount |
-|---|---|
-| 15 to 19 | $5,612 |
-| 20 to 24 | $7,221 |
-| 25 to 29 | $8,840 |
-| 30 to 33 | $10,471 |
-| 34 and more | $12,465 |
+| Paid years | Amount | Staff on the May 4, 2026 list |
+|---|---|---|
+| 15 to 19 | $5,612 | 86 |
+| 20 to 24 | $7,221 | 169 |
+| 25 to 29 | $8,840 | 50 |
+| 30 to 33 | $10,471 | 12 |
+| 34 and more | $12,465 | 0 |
+| Partial year | pro-rated, under $5,000 | 3 |
+| No amount listed | none | 225 |
+| **All staff on the list** | **$2,280,577.60 in total** | **545** |
 
-In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
+The list gives amounts, not years of service; the 225 with no amount are presumably below the first tier, but the list does not say so. In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
 
-**Who receives it.** On the May 4 list, 320 of the 545 tenured staff have a longevity amount and 225 have none: $5,612 (86 people), $7,221 (169), $8,840 (50), $10,471 (12), plus three pro-rated amounts under $5,000. Nobody on the list is in the $12,465 tier. Longevity totals $2,280,577.60, which is 3.8% of the $59,293,333 in salary on the same list, and it is concentrated at the top of the guide: 277 of the 314 people at step 18 have it, 17 of the 24 at step 17, and 26 of the 201 below that. The tally is reproducible with a [short script](https://github.com/SiliconSaga/schools/blob/main/_research/tools/longevity-tally.py). The committee's October 14 email described "most of our eligible staff receiving roughly $10,000.00 or $12,000.00"; read as rounded figures, those are the $10,471 and $12,465 tiers, which 12 and 0 people receive. The email also said longevity "is not widely provided" in other districts; the New Jersey School Boards Association's magazine reported in 2025 that about three-quarters of districts provide it ([School Leader, October 2025](https://www.njsba.org/news-information/school-leader/trends-in-teacher-contract-negotiations/)). Both are set beside the records on [What the District Said](/ledger/statements#longevity-pay).
+**What the table shows.** Longevity is 3.8% of the $59,293,333 in salary on the same list, and it sits at the top of the guide: 277 of the 314 people at step 18 have it, 17 of the 24 at step 17, and 26 of the 201 below that. The committee's October 14 email described "most of our eligible staff receiving roughly $10,000.00 or $12,000.00"; read as rounded figures, those are the $10,471 and $12,465 tiers, which 12 and 0 people receive. The email also said longevity "is not widely provided" in other districts; the New Jersey School Boards Association's magazine reported in 2025 that about three-quarters of districts provide it ([School Leader, October 2025](https://www.njsba.org/news-information/school-leader/trends-in-teacher-contract-negotiations/)). Both are set beside the records on [What the District Said](/ledger/statements#longevity-pay).
 
 ## Teaching load and the sixth class
 
