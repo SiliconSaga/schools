@@ -1,7 +1,9 @@
 Copy of an email sent to West Orange Public Schools families through the district's
 SchoolMessenger system on October 14, 2026, as received by the owner of this site.
 The text is reproduced as received. The email's reference list linked each item through
-SchoolMessenger tracking URLs; the titles and dates are kept and the tracking URLs are not.
+SchoolMessenger tracking URLs. Each link below is the address the tracking URL redirected
+to on October 15, 2026, with the tracking wrapper removed. Six of the eight destination
+addresses also carried the query string "utm_source=chatgpt.com", which is removed here.
 As of the evening of October 14, 2026 no copy had been found on woboe.org.
 
 ----------------------------------------------------------------------------------------
@@ -51,10 +53,25 @@ The West Orange Board of Education Negotiations Committee
 News Articles and References For the West Orange School Community provided by WOBOE
 
 February 4, 2021 - Patch: "NJ School Districts That Paid Teachers the Most, Least in 2020"
+  https://patch.com/new-jersey/oceancity/nj-school-districts-paid-teachers-most-least-2020
+
 February 27, 2022 - Insider NJ: "South Orange-Maplewood Education Association Statement"
+  https://www.insidernj.com/press-release/south-orange-maplewood-education-association-statement-2/
+
 November 9, 2023 - NJ 101.5: "These NJ School Districts Pay Their Teachers $100,000 Salaries"
+  https://nj1015.com/these-nj-school-districts-pay-their-teachers-100000-salaries/
+
 April 1, 2024 - NJ Education Report: "New Jersey's 25 Districts With the Highest Teacher Salaries"
+  https://njedreport.com/new-jerseys-25-districts-with-the-highest-teacher-salaries/
+
 November 2024 - NJ.com: "The 17 N.J. School Districts With Highest Teacher Salaries, Ranked"
+  https://www.nj.com/news/2024/11/the-17-nj-school-district-with-highest-teacher-salaries-ranked.html
+
 January 7, 2026 - Patch: "Here Are the 20 Highest, Lowest Paying Districts for Teachers in NJ"
+  https://patch.com/new-jersey/across-nj/which-nj-districts-pay-teachers-most-which-pay-least
+
 May 4, 2026 - WOBOE Public Session Agenda Personnel Renewals & Reappointments
+  https://resources.finalsite.net/images/v1777924001/woboeorg/tacqxglh2ky5ceo8hyp3/UPDATEDMay42026AgendaAttachments5-4-26.pdf
+
 Updated October 10, 2026 - Step & Lane: "Highest Paying School Districts in New Jersey"
+  https://stepandlane.com/rankings/nj/

@@ -20,7 +20,7 @@ It is kept by one parent, Rasmus Praestholm, on his own behalf. It does not spea
 - **September 28.** The district reported at the Board meeting that 176 of 244 needed paraprofessional positions were filled: 47 returning aides, 13 in grant-funded or pension positions, and 116 new. It said 24 positions were vacant and 44 hires were in process, and that it is working with EduStaff to bring staff on. ([recording, from 53:12](https://www.youtube.com/watch?v=QcmkuVBK-Nc&t=3192s))
 - **In writing.** As far as I can find, the district has not published these numbers, the staffing agreement, or what has been billed for the work.
 
-The full sequence is on the [timeline](/ledger/timeline). The district's statements are set beside the records on [What the District Said](/ledger/statements).
+The full sequence is on the [timeline](/ledger/timeline). The district's statements are set beside the records on [What the District Said](/ledger/statements). The vocabulary of the pay dispute (guide, step, longevity, markup) is explained from the district's own documents on [How the Pay Works](/ledger/pay).
 
 ## Records requests
 
@@ -33,8 +33,9 @@ Each request page carries the full text, the filing receipt, and every response 
 Every entry is labelled with what it rests on.
 
 - <span class="label label-blue">Record</span> A district or vendor document, linked, with the page number.
-- <span class="label label-purple">Statement</span> Something an official said in a letter or at a public meeting, quoted, with the date.
+- <span class="label label-purple">Statement</span> Something the district, the Board, or the union said in writing or at a public meeting, quoted, with the date.
 - <span class="label label-yellow">Press</span> Something a named news outlet reported, linked.
+- <span class="label label-green">Ledger</span> Something the keeper of this ledger filed or sent, published in full.
 
 Accounts from parents and staff are not published here. They are real and they matter, but a second-hand account is not a record, and publishing one could expose the person who gave it. The requests above ask for the documents that would confirm or correct what people are describing.
 

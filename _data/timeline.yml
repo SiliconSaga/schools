@@ -1,6 +1,7 @@
 # Timeline entries for /ledger/timeline. Newest-first ordering is done by the page.
-# basis: record (district or vendor document), statement (said by an official in a letter
-# or at a public meeting), press (reported by a named news outlet).
+# basis: record (district or vendor document), statement (said in writing or at a public
+# meeting by the district, the Board, or the union), press (reported by a named news outlet),
+# ledger (filed or sent by the keeper of this ledger, published in full).
 # Add an entry only when its quote has been read in the linked source; see _research/.
 
 - date: 2022-01-13
@@ -125,3 +126,23 @@
   sources:
     - label: "Email as received, October 14, 2026"
       url: "/ledger/files/2026-10-14-boe-negotiations-committee-email.txt"
+
+- date: 2026-10-14
+  basis: statement
+  title: "Union answers the Board's email and describes the Board's October 5 offer"
+  summary: >-
+    The West Orange Education Association told its members it "categorically" denied "the insulting accusation that WE are to blame for the financial failings of the Board of Education", answered the Board's "70%" figure with "On average, New Jersey districts spend over 80% of their budgets on salary and benefits", and announced a rally for Saturday, October 17. It reshared its October 5 account of the second fact-finding session, where it says the Board made "a REGRESSIVE offer" with three parts: "significantly less money than they budgeted", eliminating longevity "for all new hires", and freezing longevity "permanently". It dates the negotiation from March 2025, with impasse in January 2026, mediation in March 2026, fact-finding on August 3, and a hearing set for January 7, 2027, and says that at the March 2026 mediation "the Board made no mention of the plan to outsource paras". The Board's proposal itself is not public. The message is undated on its face; it refers to the Board's email as sent "today", so it is placed on October 14. It reached this site on October 15.
+  sources:
+    - label: "WOEA, Response to Message from the District, October 14, 2026 (copy)"
+      url: "/ledger/files/2026-10-14-woea-response-to-the-board.txt"
+    - label: "Original on the union's mailing-list service"
+      url: "https://sendy.njeasites.net/w/ZRoavBnoUS117nJWbHGoGQ/TiFV892o763HdGuKixj9WcfsjQ/iDb6OYTlEzz3LbivcTEyHw"
+
+- date: 2026-10-15
+  basis: ledger
+  title: "Reply to the negotiations committee: the ChatGPT links, and a standing offer"
+  summary: >-
+    The author of this site replied to the committee's email, forwarding it to the district's general contact address because it came from a no-reply address. The reply says that parents were "puzzled about the true meaning of this email", that at least one of them "caught the ' ?utm_source=chatgpt.com' in the URL for most the cited articles at the end of the email" (six of the eight reference links carry it; see the published copy of the email), and that the offer he has made in public comment at Board meetings, to help the district use "advanced tooling like AI", specifically "to use AI well and responsibly", still stands. The reply is published in full.
+  sources:
+    - label: "Reply as sent, October 15, 2026"
+      url: "/ledger/files/2026-10-15-reply-to-boe-negotiations-committee.txt"

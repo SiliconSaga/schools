@@ -15,7 +15,7 @@ What was decided and said, newest first. Each entry links to its source. The lab
 
 ### {{ e.date | date: "%B %-d, %Y" }}: {{ e.title }}
 
-{% if e.basis == "record" %}<span class="label label-blue">Record</span>{% elsif e.basis == "statement" %}<span class="label label-purple">Statement</span>{% elsif e.basis == "press" %}<span class="label label-yellow">Press</span>{% endif %}
+{% if e.basis == "record" %}<span class="label label-blue">Record</span>{% elsif e.basis == "statement" %}<span class="label label-purple">Statement</span>{% elsif e.basis == "press" %}<span class="label label-yellow">Press</span>{% elsif e.basis == "ledger" %}<span class="label label-green">Ledger</span>{% endif %}
 
 {{ e.summary }}
 

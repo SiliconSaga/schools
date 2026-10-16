@@ -14,7 +14,7 @@ if ! jekyll _3.10.0_ build --destination "$out" > "$log" 2>&1; then
   exit 1
 fi
 fail=0
-for f in index.html ledger/index.html ledger/timeline.html ledger/statements.html \
+for f in index.html ledger/index.html ledger/timeline.html ledger/statements.html ledger/pay.html \
          ledger/opra/index.html ledger/opra/001-edustaff.html ledger/opra/002-coverage.html \
          ledger/opra/003-instructional-time.html spring-2026.html; do
   [ -f "$out/$f" ] || { echo "MISSING $f"; fail=1; }
