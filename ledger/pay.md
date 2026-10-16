@@ -49,8 +49,11 @@ Longevity is a fixed amount added to salary each year once a teacher has complet
 | 25 to 29 | $8,840 | 50 |
 | 30 to 33 | $10,471 | 12 |
 | 34 and more | $12,465 | 0 |
+| Partial year | pro-rated, under $5,000 | 3 |
+| Under 15 | none | 225 |
+| **All staff on the list** | **$2,280,577.60 in total** | **545** |
 
-The third column counts the tenured WOEA staff whose 2026-27 reappointment line carries that amount; three more carry pro-rated amounts under $5,000, and 225 of the 545 carry none.
+The third column counts the tenured WOEA staff whose 2026-27 reappointment line carries that amount. "Under 15" is an inference: the list gives amounts, not years of service, so the 225 with no longevity are presumably below the first tier.
 
 In 2006-07 there were four tiers (14-18, 19-23, 24-28, 29+ years) at $4,287, $5,517, $6,753, and $8,000 (2004-2007 agreement, Article VI.D, p. 29).
 
