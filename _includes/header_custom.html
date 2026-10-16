@@ -2,19 +2,19 @@
 <nav aria-label="Display and translation" class="aux-nav site-options notranslate" translate="no">
   <ul class="aux-nav-list">
     <li class="aux-nav-list-item site-option-width">
-      <button type="button" id="width-toggle" class="site-button" aria-pressed="false" title="Let the page use the full width of the window">
+      <button type="button" id="width-toggle" class="site-button" title="Let the page use the full width of the window">
         <span class="site-option-caption">Switch to</span>
         <span class="site-option-value">Wide</span>
       </button>
     </li>
     <li class="aux-nav-list-item">
-      <button type="button" id="theme-toggle" class="site-button" aria-pressed="false" title="Switch to the light colour scheme">
+      <button type="button" id="theme-toggle" class="site-button" title="Switch to the light colour scheme">
         <span class="site-option-caption">Switch to</span>
         <span class="site-option-value">Light</span>
       </button>
     </li>
     <li class="aux-nav-list-item">
-      <a class="site-button site-option-lang is-current" data-lang="en" data-caption="Original" data-caption-current="Current" aria-current="true" title="The original page. Translations are machine translations by Google, offered as a help, not official or certified.">
+      <a class="site-button site-option-lang is-current" data-lang="en" data-caption="Original" data-caption-current="Current" href="{{ site.url }}{{ page.url | relative_url }}" aria-current="true" title="The original page. Translations are machine translations by Google, offered as a help, not official or certified.">
         <span class="site-option-caption">Current</span>
         <span class="site-option-value">English</span>
       </a>
@@ -41,7 +41,6 @@
     var button = document.getElementById("width-toggle");
     function applyWidth(wide) {
       if (wide) { root.setAttribute("data-width", "wide"); } else { root.removeAttribute("data-width"); }
-      button.setAttribute("aria-pressed", wide ? "true" : "false");
       button.querySelector(".site-option-value").textContent = wide ? "Narrow" : "Wide";
       button.title = wide ? "Return to a reading-width column" : "Let the page use the full width of the window";
     }
@@ -64,7 +63,6 @@
         stylesheet.setAttribute("href", "{{ '/assets/css/just-the-docs-' | relative_url }}" + (theme === "light" ? "light" : "default") + ".css");
       }
       var light = theme === "light";
-      themeButton.setAttribute("aria-pressed", light ? "true" : "false");
       themeButton.querySelector(".site-option-value").textContent = light ? "Dark" : "Light";
       themeButton.title = light ? "Switch to the dark colour scheme" : "Switch to the light colour scheme";
     }
@@ -88,8 +86,8 @@
       if (match) { current = match[1]; }
     }
     function urlFor(lang) {
-      if (lang === "en") { return site + path; }
-      return proxy + path + "?_x_tr_sl=en&_x_tr_tl=" + lang + "&_x_tr_hl=" + lang;
+      if (lang === "en") { return site + path + location.hash; }
+      return proxy + path + "?_x_tr_sl=en&_x_tr_tl=" + lang + "&_x_tr_hl=" + lang + location.hash;
     }
     var links = document.querySelectorAll(".site-option-lang");
     Array.prototype.forEach.call(links, function (link) {
