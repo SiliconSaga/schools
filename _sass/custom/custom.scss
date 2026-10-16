@@ -1,0 +1,19 @@
+// Use the full width of the window for the page. The theme centres a 50rem column and
+// widens the sidebar's empty strip to match; here the sidebar keeps its own width at the
+// left edge and the content takes everything to its right, with the theme's gutter.
+
+@include mq(md) {
+  .main {
+    max-width: none;
+  }
+}
+
+@include mq(lg) {
+  .side-bar {
+    width: $nav-width;
+  }
+
+  .side-bar + .main {
+    margin-left: $nav-width;
+  }
+}
