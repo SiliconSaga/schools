@@ -20,12 +20,12 @@ EMPLOYERS = ("Edustaff", "Employed by West Orange")
 # Three assignments carry a surname in brackets, presumably the classroom teacher's.
 NAME_IN_BRACKETS = re.compile(r"\([A-Za-z]+\)")
 BUILDINGS = (
-    ("BMELC", "Betty Maddalena Early Learning Center (at Mt. Pleasant)"),
+    ("BMELC", "Betty Maddalena Early Learning Center at Mt. Pleasant"),
     ("ECLC", "Early Childhood Learning Center"),
     ("WOHS", "West Orange High School"),
-    ("EDISON", "Edison Middle"),
-    ("LIBERTY", "Liberty Middle"),
-    ("ROOSEVELT", "Roosevelt Middle"),
+    ("EDISON", "Edison"),
+    ("LIBERTY", "Liberty"),
+    ("ROOSEVELT", "Roosevelt"),
     ("GREGORY", "Gregory"),
     ("HAZEL", "Hazel"),
     ("KELLY", "Kelly"),
