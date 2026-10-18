@@ -1,0 +1,166 @@
+Copy, with names removed, of the five-page record the West Orange Board of Education released
+on September 16, 2026 in answer to another resident's Open Public Records Act request of
+September 4, 2026 for "the list of names of paraprofessionals that are employed through
+Edustaff and assigned to work as paraprofessionals for West Orange School District for the
+2026-2027 school year". The custodian's letter is published beside this file. The record has
+four columns, Last Name, First Name, Assignment, Notes; this copy keeps the last two, in the
+record's order, which is alphabetical by last name. The two name columns are left out because
+this ledger does not publish the names of individual employees, and a surname in brackets
+inside three assignments is replaced by "(name removed)". Nothing else is changed, including
+spelling. The copy and the counts below were produced from the PDF with
+_research/tools/para-list-tally.py in the site's repository; the PDF itself is kept outside
+the repository because it carries the names.
+
+Rows: 145. Notes "Edustaff": 132. Notes "Employed by West Orange": 13.
+By building, Edustaff / Employed by West Orange: West Orange High School 23 / 2; Kelly 17 / 1;
+Redwood 16 / 1; St. Cloud 15 / 0; Betty Maddalena Early Learning Center at Mt. Pleasant 11 / 1;
+Mt. Pleasant 11 / 1; Liberty 8 / 2; Washington 9 / 1; Gregory 9 / 0; Hazel 5 / 0; Edison 4 / 1;
+Roosevelt 4 / 0; Early Childhood Learning Center 0 / 3. The building is read from the
+assignment text.
+
+Assignment                                                   Notes
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS WOMA                  Edustaff
+Paraprofessional LLD -WOHS                                   Edustaff
+PARAPROFESSIONAL ERI - REDWOOD                               Edustaff
+Inst Aide - Class Assistant - Hazel                          Edustaff
+Paraprofessional - BMELC @ Mt Pleasant                       Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+PARAPROFESSIONAL MultiDisabled - WOHS                        Edustaff
+Inst Aide - Autistic Aide -Mt.Pleasant                       Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARPROFESSIONAL RESOURCE ROOM - REDWOOD                      Edustaff
+PARAPROFESSIONAL ID AIDE - REDWOOD                           Edustaff
+Inst Aid- PreSchool WO-ECLC in- BMELC @ Mt Pleasant          Employed by West Orange
+PARAPROFESSIONAL CLASSROOM AIDE- REDWOOD                     Edustaff
+Paraprofessional LLD -WOHS                                   Edustaff
+PARAPROFESSIONAL LLD - ROOSEVELT                             Edustaff
+PARAPROFESSIONAL LLD AIDE - LIBERTY                          Employed by West Orange
+Teacher Assistant - ECLC                                     Employed by West Orange
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+Paraprofessional RESOURCE ROOM - EDISON                      Employed by West Orange
+Paraprofessional ID AIDE-WOHS                                Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+Inst Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+Paraprofessional - PreSchool-Washington                      Edustaff
+Paraprofessional - PreK - Washington                         Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL MultiDisabled - WOHS                        Edustaff
+PARAPROFESSIONAL CLASSROOM - KELLY                           Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL RESOURCE ROOM AIDE - EDISON                 Edustaff
+Paraprofessional - Resource Rm - Hazel                       Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+PARAPROFESSIONAL ERI - REDWOOD                               Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS                       Edustaff
+Paraprofessional - BMELC                                     Edustaff
+PARAPROFESSIONAL Reassign 26-27 - GREGORY                    Edustaff
+Inst Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+Teacher Assistant - ECLC                                     Employed by West Orange
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL Reassign 26-27 - KELLY                      Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS WOMA                  Edustaff
+Inst.Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+Paraprofessional RESOURCE ROOM - EDISON                      Edustaff
+PARAPROFESSIONAL LLD - KELLY (name removed)                  Edustaff
+PARAPROFESSIONAL RESOURCE ROOM - EDISON                      Edustaff
+Inst Aide - Pre-School - BMELC (name removed) @ Mt Pleasant  Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Employed by West Orange
+PARAPROFESSIONAL CLASSROOM - WASHINGTON                      Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+Inst. Aide - Pre-School - BMELC @ Mt Pleasant                Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL Reassign 26-27 - ST. CLOUD                  Edustaff
+Paraprofessional - Redwood                                   Edustaff
+PARAPROFESSIONAL ERI - REDWOOD                               Edustaff
+Paraprofessional LLD -WOHS                                   Edustaff
+PARAPROFESSIONAL ERI - EDISON                                Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE- HAZEL                       Edustaff
+Paraprofessional - PreSchool-Washington                      Edustaff
+PARAPROFESSIONAL AUTISTIC - WOHS                             Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS                       Employed by West Orange
+PARAPROFESSIONAL CLASSROOM AIDE- REDWOOD                     Employed by West Orange
+Inst Aide - Autistic Aide -Mt.Pleasant                       Edustaff
+Paraprofessional - PreK - Washington                         Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL ID AIDE - REDWOOD (name removed)            Edustaff
+PARAPROFESSIONAL -Classroom Aide Enrollment- St Cloud        Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE- HAZEL                       Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+Teacher Assistant - ECLC                                     Employed by West Orange
+PARAPROFESSIONAL AUTISTIC - WOHS                             Edustaff
+Inst Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL CLASSROOM - KELLY                           Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+PARAPROFESSIONAL RESOURCE RM - ROOSEVELT                     Edustaff
+PARPROFESSIONAL RESOURCE ROOM - REDWOOD                      Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE- REDWOOD                     Edustaff
+PARAPROFESSIONAL ID AIDE-WOHS                                Edustaff
+Paraprofessional-Class Aide-Roosevelt                        Edustaff
+PARAPROFESSIONAL MultiDisabled - WOHS                        Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+Inst Aide Primary Autistic - Kelly                           Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Employed by West Orange
+PARAPROFESSIONAL CLASSROOM AIDE- HAZEL                       Edustaff
+PARAPROFESSIONAL ERI - REDWOOD                               Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL ERI - REDWOOD                               Edustaff
+Paraprofessional - PreSchool-Washington                      Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL ID AIDE-WOHS                                Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+PARA - CLASSROOM AIDE- ST.CLOUD                              Edustaff
+PARAPROFESSIONAL ID AIDE - REDWOOD                           Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL LLD AIDE - LIBERTY                          Employed by West Orange
+Inst Aide - Pre-School - Washington                          Edustaff
+Paraprofessional - PreSchool-Washington                      Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE- REDWOOD                     Edustaff
+PARAPROFESSIONAL AUTISTIC - WOHS                             Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS                       Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE- GREGORY                     Edustaff
+PARA-CLASSROOM AIDE-ST. CLOUD                                Edustaff
+Bilingual Paraprofesional Wash                               Employed by West Orange
+PARAPROFESSIONAL ID AIDE - REDWOOD                           Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+PARAPROFESSIONAL CLASSROOM - KELLY                           Edustaff
+Inst Aide - Autistic - Mt.Pleasant                           Edustaff
+PARAPROFESSIONAL ID AIDE-WOHS                                Edustaff
+Paraprofessional - Autistic - Kelly                          Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff
+Inst Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+PARAPROFESSIONAL ID AIDE - LIBERTY                           Edustaff
+PARAPROFESSIONAL Additional 26-27 - ROOSEVELT                Edustaff
+Paraprofessional - A.M. - Washington                         Edustaff
+PARAPROFESSIONAL LLD AIDE - KELLY                            Edustaff
+Paraprofessional RESOURCE ROOM -WOHS                         Edustaff
+PARAPROFESSIONAL LLD - KELLY                                 Edustaff
+PARAPROFESSIONAL CLASSROOM AIDE - WOHS                       Edustaff
+Inst Aide - Autistic - Mt. Pleasant                          Edustaff
+PARAPROFESSIONAL Reassign 26-27 - REDWOOD                    Edustaff
+Para - Classroom Asst - St Cloud                             Edustaff
+PARAPROFESSIONAL ID AIDE - WOHS                              Employed by West Orange
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+PARAPROFESSIONAL CLASSROOM - MT PLEASANT                     Edustaff
+PARAPROFESSIONAL RESOURCE ROOM - WOHS                        Edustaff
+PARAPROFESSIONAL LLD AIDE - LIBERTY                          Edustaff
+PARAPROFESSIONAL AUTISTIC - LIBERTY                          Edustaff
+Paraprofessional - BMELC @ Mt Pleasant                       Edustaff
+Inst Aide - Pre-School - BMELC @ Mt Pleasant                 Edustaff
+PARAPROFESSIONAL AUTISTIC - ST. CLOUD                        Edustaff
+Paraprofessional LLD -WOHS                                   Edustaff
+PARAPROFESSIONAL ID AIDE-WOHS                                Edustaff
+PARAPROFESSIONAL ID AIDE-WOHS                                Edustaff
+PARAPROFESSIONAL AUTISTIC AIDE- GREGORY                      Edustaff

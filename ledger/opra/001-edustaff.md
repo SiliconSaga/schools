@@ -15,6 +15,8 @@ nav_order: 1
 
 The Board rejected the proposals it received for substitute and paraprofessional staffing on June 16, 2026, then approved an EduStaff pricing addendum estimated at $12,000,000 on July 21. The minutes do not say what the addendum covers. The district said at its September 28 meeting that it is working with EduStaff to bring paraprofessionals on, but no posted document sets out the arrangement or says how it was awarded. The union memorandum permitting the outsourcing is an attachment that is not posted with the minutes. Families were told the change saves $3 million a year. This request asks for the documents behind those decisions and for what has been billed since.
 
+Another resident asked on September 18 for EduStaff's proposal, the executed contract, and its pricing under RFP 25-09. The district took an extension to October 14 and then, on October 14, another to October 28 ([custodian's letter](/ledger/opra/files/opra-response-2026-10-14-edustaff-records-extension.png); see [Requests by other residents](/ledger/opra/#requests-by-other-residents)).
+
 ## The request
 
 The text below is the request as prepared for filing. The filed copy carries the requester's contact details and date in place of this heading.

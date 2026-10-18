@@ -96,6 +96,17 @@
     - label: "Budget Council letter, September 9, 2026"
       url: "https://resources.finalsite.net/images/v1788968912/woboeorg/sinhfmapfmopkktif2tq/SchoolCommunityBudgetCounciltranslated992026.pdf"
 
+- date: 2026-09-16
+  basis: record
+  title: "District releases a list of 145 paraprofessionals and their employer to a resident"
+  summary: >-
+    Answering a resident's September 4 request for "the list of names of paraprofessionals that are employed through Edustaff and assigned to work as paraprofessionals for West Orange School District for the 2026-2027 school year", the custodian wrote on the seventh business day that the district "identified the enclosed five pages of records as responsive". The record lists 145 people by name, assignment, and employer: 132 marked "Edustaff" and 13 marked "Employed by West Orange". By building, the largest groups are West Orange High School (25), Kelly (18), Redwood (17), and St. Cloud (15); the three at the Early Childhood Learning Center are all district employees. Five assignments are labelled "Reassign 26-27" or "Additional 26-27". The names are not published here; the copy below keeps the assignment and employer columns in the record's order, and the counts come from a script in the site's repository. The resident shared the response with this ledger; their name and address are removed.
+  sources:
+    - label: "Custodian's letter, September 16, 2026"
+      url: "/ledger/opra/files/opra-response-2026-09-16-paraprofessional-list-letter.png"
+    - label: "The list, names removed, with counts"
+      url: "/ledger/opra/files/opra-response-2026-09-16-paraprofessional-list-names-removed.txt"
+
 - date: 2026-09-28
   basis: statement
   title: "District reports 176 of 244 paraprofessional positions filled"
@@ -146,3 +157,21 @@
   sources:
     - label: "Reply as sent, October 15, 2026"
       url: "/ledger/files/2026-10-15-reply-to-boe-negotiations-committee.txt"
+
+- date: 2026-10-14
+  basis: record
+  title: "District takes a second two-week extension on a resident's request for the EduStaff proposal, contract, and pricing"
+  summary: >-
+    A resident asked on September 18 for three records "concerning RFP No. 25-09, Staffing and Paraprofessional Services": EduStaff's complete proposal, "the executed contract between the District and Edustaff, including any exhibits, schedules, or amendments", and its "pricing proposal, rate sheet, or fee schedule". The custodian's letter says that "On September 29, 2026, the District obtained an extension of the response deadline until October 14, 2026", and that "in light of our current work demands, the District requires an additional two weeks (until October 28, 2026) to compile, review, and produce the potentially responsive records", reserving "the right to obtain an additional extension of time if necessary" and citing N.J.S.A. 47:1A-5i and a 2016 Government Records Council decision. The Board rejected the proposals received under RFP CC 25-09 on June 16; the July 21 pricing addendum is not named in the request. The resident shared the letter with this ledger; their name is removed.
+  sources:
+    - label: "Custodian's letter, October 14, 2026"
+      url: "/ledger/opra/files/opra-response-2026-10-14-edustaff-records-extension.png"
+
+- date: 2026-10-16
+  basis: record
+  title: "District takes a two-week extension on a resident's request for September's paraprofessional coverage records"
+  summary: >-
+    A resident asked on October 7 for "existing records reflecting requests for substitute coverage for paraprofessional absences or vacancies from September 1 through September 30, 2026", naming "the District's existing Substitute History By Date report, or an equivalent existing report or electronic export" and six fields, including the "Filled/Replaced" indicator and the "Employer or staffing-provider category of the assigned substitute, if maintained". On October 16, which the letter calls "the seven business day deadline" (it counts October 12, a state holiday, as a business day), the custodian wrote that "the District requires an additional two weeks (until October 30, 2026) to compile, review, and produce the potentially responsive records". The copy received ends there, part way through the letter. The resident shared it with this ledger; their name and email address are removed.
+  sources:
+    - label: "Custodian's letter, October 16, 2026, as received"
+      url: "/ledger/opra/files/opra-response-2026-10-16-coverage-records-extension.png"

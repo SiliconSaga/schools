@@ -15,6 +15,8 @@ nav_order: 2
 
 Families were told in April that students would "continue to see the same familiar faces" and that there would be "no rotation of paras". As far as I can find, the district has published nothing in writing since school opened showing how many paraprofessional positions are filled on a given day. This request asks for the district's own coverage records.
 
+Two related records have gone to another resident: on September 16 the district released a list of 145 paraprofessionals with their employer, and on October 16 it took a two-week extension, to October 30, on a request for September's substitute-coverage report for paraprofessional absences (see [Requests by other residents](/ledger/opra/#requests-by-other-residents)).
+
 ## The request
 
 The text below is the request as prepared for filing. The filed copy carries the requester's contact details and date in place of this heading.
