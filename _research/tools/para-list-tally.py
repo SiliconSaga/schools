@@ -41,6 +41,7 @@ BUILDINGS = (
 
 
 def building(assignment):
+    """The school or program named in an assignment, or "not stated"."""
     text = assignment.upper()
     for key, name in BUILDINGS:
         if key in text:
@@ -51,24 +52,26 @@ def building(assignment):
 def rows_from(pdf):
     """(assignment, employer) for each row, in the record's order."""
     rows = []
-    for page in PdfReader(pdf).pages:
+    for page_no, page in enumerate(PdfReader(pdf).pages, 1):
         text = page.extract_text(extraction_mode="layout")
-        for line in text.splitlines():
+        for line_no, line in enumerate(text.splitlines(), 1):
             cells = re.split(r"\s{2,}", line.strip())
+            # Errors give the position only: the line itself would carry a name.
             if cells[-1] in EMPLOYERS:
                 # Last Name, First Name, Assignment, Notes; a surname wrapped onto its own line
                 # above leaves that line with no Notes cell, and it is skipped. One assignment
                 # holds a double space, so it is everything between the first name and the Notes.
                 if len(cells) < 4:
-                    raise SystemExit(f"short row: {line!r}")
+                    raise SystemExit(f"page {page_no} line {line_no}: fewer than four cells")
                 assignment = NAME_IN_BRACKETS.sub("(name removed)", " ".join(cells[2:-1]))
                 rows.append((assignment, cells[-1]))
             elif "Edustaff" in line or "West Orange" in line:
-                raise SystemExit(f"unexpected line: {line!r}")
+                raise SystemExit(f"page {page_no} line {line_no}: employer text outside the Notes cell")
     return rows
 
 
 def main():
+    """Print the counts and, if asked, write the names-removed copy."""
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("pdf", help="the five-page attachment to the custodian's letter of September 16, 2026")
     p.add_argument("--names-removed", metavar="FILE", help="write the Assignment and Notes columns to FILE")
