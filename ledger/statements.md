@@ -21,7 +21,7 @@ The quoted statements in the first four sections come from the Superintendent's 
 
 Separately, on July 21, 2026 the Board approved an "EduStaff Pricing Schedule Addendum-Exhibit B for an estimated amount of $12,000,000" ([minutes, p. 13](https://resources.finalsite.net/images/v1787848637/woboeorg/aecbvgbymysfx09km6um/July212026-Minutes.pdf)). The minutes do not say what the addendum covers. A contract's cost and a savings figure are different things, so the two numbers cannot be read against each other until the calculation and the agreement are public.
 
-One EduStaff agreement is public: the district's [2022 master agreement](/ledger/opra/files/edustaff-master-agreement-2022-01-13.pdf), released under OPRA in July 2025, priced substitute staff at "30.00% of Staff Gross Payroll" in an exhibit titled "Edustaff Pricing Schedule" (Exhibit B), and ran to June 30, 2024 with extensions by addendum. Whether the 2026 "Pricing Schedule Addendum-Exhibit B" amends that agreement, prices paraprofessionals the same way, and at what wage, is what [OPRA-001](/ledger/opra/001-edustaff), item 1, will show.
+One EduStaff agreement is public: the district's [2022 master agreement](/ledger/opra/files/edustaff-master-agreement-2022-01-13.pdf), released under OPRA in July 2025, priced substitute staff at "30.00% of Staff Gross Payroll" in an exhibit titled "Edustaff Pricing Schedule" (Exhibit B), and ran to June 30, 2024 with extensions by addendum. Whether the 2026 "Pricing Schedule Addendum-Exhibit B" amends that agreement, prices paraprofessionals the same way, and at what wage, is what [OPRA-001](/ledger/opra/001-edustaff), item 1, will show. Another resident asked for EduStaff's proposal, contract, and pricing on September 18; the district has twice taken two more weeks, most recently on October 14 "in light of our current work demands", and now says October 28 ([custodian's letter](/ledger/opra/files/opra-response-2026-10-14-edustaff-records-extension.png)).
 
 ## The same people
 
@@ -29,7 +29,7 @@ One EduStaff agreement is public: the district's [2022 master agreement](/ledger
 
 **What the district has said since.** At the September 28, 2026 Board meeting the Director of Human Resources reported 176 paraprofessionals working against 244 positions needed: 47 returning, 13 in grant-funded or pension positions, and 116 new ([recording, from 53:12](https://www.youtube.com/watch?v=QcmkuVBK-Nc&t=3192s); figures from the automatic captions).
 
-**What the records show so far.** Nothing published in writing. [OPRA-002](/ledger/opra/002-coverage) asks for the positions filled and vacant by building, and for any written version of the September 28 report.
+**What the records show so far.** A list the district released to another resident on September 16, 2026, in answer to a request for the paraprofessionals employed through EduStaff for 2026-27, names 145 people: 132 marked "Edustaff" and 13 marked "Employed by West Orange" ([custodian's letter](/ledger/opra/files/opra-response-2026-09-16-paraprofessional-list-letter.png); [the list with names removed](/ledger/opra/files/opra-response-2026-09-16-paraprofessional-list-names-removed.txt)). The 13 matches the number the district gave on September 28 for grant-funded and pension positions. The list does not say who returned from last year and who is new, which is what the "same familiar faces" claim turns on, and it is 31 short of the 176 the district reported working eleven days later. [OPRA-002](/ledger/opra/002-coverage) asks for the positions filled and vacant by building, and for any written version of the September 28 report.
 
 ## Consistency
 
@@ -37,7 +37,7 @@ One EduStaff agreement is public: the district's [2022 master agreement](/ledger
 
 **What the district has said since.** At the same September 28 meeting the district reported 24 vacant positions and 44 hires still in process, and described substitutes and registered behavior technicians from outside agencies covering classrooms in the meantime.
 
-**What the records show so far.** Nothing published in writing. [OPRA-002](/ledger/opra/002-coverage), item 2, asks for daily coverage by building.
+**What the records show so far.** Nothing published in writing. Another resident asked on October 7 for the district's substitute-coverage report for paraprofessional absences in September; on October 16 the district took a two-week extension, to October 30 ([custodian's letter](/ledger/opra/files/opra-response-2026-10-16-coverage-records-extension.png)). [OPRA-002](/ledger/opra/002-coverage), item 2, asks for daily coverage by building.
 
 ## The terms offered to paraprofessionals
 
