@@ -45,6 +45,7 @@ def rates_from(pdf):
 
 
 def main():
+    """Print the earlier and later rates for each plan and tier, with the percentage change."""
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("earlier", help="minutes PDF for the earlier year")
     p.add_argument("later", help="minutes PDF for the later year")
@@ -60,7 +61,7 @@ def main():
             if y is None:
                 continue
             change = f"{(y / x - 1) * 100:+.1f}%" if x else "n/a"
-            print(f"| {plan} | {tier} | {'' if x is None else f'${x:,.0f}'} | ${y:,.0f} | {change} |")
+            print(f"| {plan} | {tier} | {'' if x is None else f'${x:,.2f}'} | ${y:,.2f} | {change} |")
 
 
 if __name__ == "__main__":
