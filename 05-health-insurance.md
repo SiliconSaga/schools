@@ -7,7 +7,7 @@ parent: "Modules"
 
 # Module 5: Health Insurance Transparency & Alternatives
 
-> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026.
+> **Archived, with corrections.** Written in spring 2026, before the school budget passed. Kept as written apart from source and wording corrections made in October 2026. The current record (the district's plans and premium rates, what employees pay, Chapter 44 and its end-of-2027 date, the state plan's 2027 increase) and an assessment of the alternatives discussed below, including catastrophic-only coverage, are on the Ledger's [How the Health Benefits Work](/ledger/benefits) page, which supersedes this module where they differ. One correction of fact: the district buys its coverage through the School Health Insurance Fund (Aetna), offering the state-designed plans in equivalent form, and is not a member of the state program itself.
 
 *The Biggest Lever: Broker Conflicts, the State Plan, Consortiums, and Direct Primary Care*
 

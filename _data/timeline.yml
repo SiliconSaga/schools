@@ -175,3 +175,29 @@
   sources:
     - label: "Custodian's letter, October 16, 2026, as received"
       url: "/ledger/opra/files/opra-response-2026-10-16-coverage-records-extension.png"
+
+- date: 2026-05-04
+  basis: record
+  title: "Board adds $797,076 to the budget above the levy cap for health premium increases"
+  summary: >-
+    At the budget hearing the Board resolved that it "includes in the budget a Health Care Costs adjustment as calculated in the budget software and pursuant to N.J.S.A. 18A:7F-38 subsection (d) in the amount of $797,076. The additional funds will be used to pay for the additional increases in health care premiums." The subsection lets a district raise its tax levy above the 2% cap for health cost increases. The adopted budget's "Personal Services-Employee Benefits" line is $40,348,140, against $35,087,587 the year before. What the district buys and pays is on How the Health Benefits Work.
+  sources:
+    - label: "Minutes, May 4, 2026, p. 7"
+      url: "https://resources.finalsite.net/images/v1781713453/woboeorg/vfou8zw84m08eauibluv/Minutes-May42026.pdf"
+    - label: "2026-27 User Friendly Budget, p. 5"
+      url: "https://www.nj.gov/education/budget/ufb/2627/reports/13/UFB27_5680.pdf"
+    - label: "How the Health Benefits Work"
+      url: "/ledger/benefits"
+
+- date: 2026-06-16
+  basis: record
+  title: "Board approves 2026-27 health premium rates, up 11% to 27% by plan"
+  summary: >-
+    The Board approved "Health Benefits Costs for the 2026-2027 school year", the July 1, 2026 renewal rates from the School Health Insurance Fund (SHIF), with Aetna for medical, Express Scripts for prescriptions, and Delta for dental. For one employee the NJ Educators Health Plan rose from $1,252 to $1,391 a month (11.1%) and its prescription plan from $236 to $285 (20.8%); the Open Access $10/$20 plan rose from $1,474 to $1,710 (16.0%) and the standard prescription plan from $268 to $340 (26.9%). Family coverage on the Educators plan with prescriptions is $4,911 a month, $58,932 a year. The prior year's rates are in the June 16, 2025 minutes, pp. 17-19.
+  sources:
+    - label: "Minutes, June 16, 2026, pp. 23-25"
+      url: "https://resources.finalsite.net/images/v1784732860/woboeorg/jryunce7m2qtccixad76/June162026MINUTES.pdf"
+    - label: "Minutes, June 16, 2025, pp. 17-19"
+      url: "https://resources.finalsite.net/images/v1773255560/woboeorg/nnavnwaspbwtlzkilhp6/Minutes-June162025.pdf"
+    - label: "How the Health Benefits Work"
+      url: "/ledger/benefits"
