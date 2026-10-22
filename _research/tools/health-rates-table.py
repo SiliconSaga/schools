@@ -15,7 +15,7 @@ import re
 from pypdf import PdfReader
 
 PLAN = re.compile(r"^(?P<plan>.+?)\s{2,}(?P<carrier>SHIF - .+|Delta)\s*$")
-TIER = re.compile(r"^(?P<tier>Single|Parent/Child\(ren\)|2 Adults|Family|Single ?- ?Dependent Age 31)\s+(?P<amount>\$[\d,]+\.\d\d|TBD)\s*$")
+TIER = re.compile(r"^(?P<tier>Single|Parent/Child\(ren\)|2 Adults|Family|Single\s*-\s*Dependent Age 31)\s+(?P<amount>\$[\d,]+\.\d\d|TBD)\s*$")
 MAIN_PLANS = ("Open Access $10/$20", "HDHP-HRA", "NJ Educators Health Plan", "NJ Garden State Health Plan",
               "RX", "Rx - Educators Health Plan", "Rx - Garden State Health Plan", "Dental - High Option (Active Employees)")
 
@@ -38,7 +38,8 @@ def rates_from(pdf):
             m = TIER.match(line)
             if m and plan:
                 amount = m.group("amount")
-                rates[plan][m.group("tier").replace(" - ", "-")] = None if amount == "TBD" else float(amount[1:].replace(",", ""))
+                tier = re.sub(r"\s*-\s*", "-", m.group("tier"))
+                rates[plan][tier] = None if amount == "TBD" else float(amount[1:].replace(",", ""))
             elif plan and re.match(r"^\d+\.\s", line):
                 in_table = False  # the next numbered resolution ends the table
     return rates
@@ -56,7 +57,7 @@ def main():
     print("| Plan | Tier | Earlier | Later | Change |")
     print("|---|---|---|---|---|")
     for plan in plans:
-        for tier in ("Single", "Parent/Child(ren)", "2 Adults", "Family"):
+        for tier in ("Single", "Parent/Child(ren)", "2 Adults", "Family", "Single-Dependent Age 31"):
             x, y = a.get(plan, {}).get(tier), b.get(plan, {}).get(tier)
             if y is None:
                 continue
