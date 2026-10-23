@@ -31,14 +31,14 @@ Thin or unverified:
 ### Mexico — Cancún: NASH + Hospital Galenia + Ashley Furniture
 
 Source A [fetched]: KFF Health News, Phil Galewitz, "To Save Money, American Patients And Surgeons Meet In Cancun," Aug. 12, 2019 (also ran in NYT Aug. 9, 2019). https://kffhealthnews.org/news/to-save-money-american-patients-and-surgeons-meet-in-cancun/
-- Patient Donna Ferguson, 56, Ecru, Miss.; total knee replacement; covered through husband's employer Ashley Furniture Industries.
+- Patient profiled: a Mississippi woman in her fifties (named in the article), total knee replacement, covered through a spouse's employer, Ashley Furniture Industries.
 - Galenia Hospital, Cancún, accredited by the "international affiliation of the Joint Commission."
 - Surgeon Dr. Thomas Parisi (Milwaukee orthopedist) is "one of about 40 U.S. orthopedic surgeons who signed up with" NASH. Paid $2,700, "about three times what Medicare would pay." Worked alongside Mexican surgeon Dr. Daniel Rios and local nurses.
 - Licensing in Mexico: the article does not say how the US surgeon is licensed/credentialed in Mexico. Malpractice: "NASH buys additional malpractice coverage for American surgeons, who could be sued in the U.S." No further detail.
 - Employee received: no copayments or deductibles; a $5,000 payment from the company; travel covered.
 - Cost: US knee replacement averages about $30,000; Galenia $12,000 per medical director (photo caption says $11,000). Hospital night $300 at Galenia vs about $2,000 US average. Implant $3,500 at Galenia vs nearly $8,000 US (made by a Johnson & Johnson subsidiary).
-- Follow-up: Ferguson stayed at hotel 10 more days with physical therapy twice daily at the hospital; article does not describe post-return care arrangements. Glenn Cohen (Harvard): patients should ask "how their care is handed off when they return home."
-- Counts: NASH had "a couple of dozen" American patients at Galenia since 2017. Ferguson was Ashley's 10th insured person sent to Cancún. Ashley also sent about 140 employees/dependents to a Costa Rica hospital. Ashley says foreign facilities saved it about $3.2 million since 2016; still saves about half of US cost after incentives and travel.
+- Follow-up: the patient stayed at the hotel 10 more days with physical therapy twice daily at the hospital; article does not describe post-return care arrangements. Glenn Cohen (Harvard): patients should ask "how their care is handed off when they return home."
+- Counts: NASH had "a couple of dozen" American patients at Galenia since 2017. She was Ashley's 10th insured person sent to Cancún. Ashley also sent about 140 employees/dependents to a Costa Rica hospital. Ashley says foreign facilities saved it about $3.2 million since 2016; still saves about half of US cost after incentives and travel.
 - IndusHealth is Ashley's medical travel plan administrator (arranged pre-surgery testing and travel).
 - Quoted: James Polsfut (NASH CEO), Dr. Gabriela Flores Teón (Galenia medical director), Marcus Gagnon (Ashley global benefits manager).
 
