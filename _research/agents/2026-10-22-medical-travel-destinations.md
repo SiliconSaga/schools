@@ -31,7 +31,7 @@ Thin or unverified:
 ### Mexico — Cancún: NASH + Hospital Galenia + Ashley Furniture
 
 Source A [fetched]: KFF Health News, Phil Galewitz, "To Save Money, American Patients And Surgeons Meet In Cancun," Aug. 12, 2019 (also ran in NYT Aug. 9, 2019). https://kffhealthnews.org/news/to-save-money-american-patients-and-surgeons-meet-in-cancun/
-- Patient profiled: a Mississippi woman in her fifties (named in the article), total knee replacement, covered through a spouse's employer, Ashley Furniture Industries.
+- The article profiles one patient (identified there) whose knee replacement was covered by Ashley Furniture Industries' plan; no further description is kept here.
 - Galenia Hospital, Cancún, accredited by the "international affiliation of the Joint Commission."
 - Surgeon Dr. Thomas Parisi (Milwaukee orthopedist) is "one of about 40 U.S. orthopedic surgeons who signed up with" NASH. Paid $2,700, "about three times what Medicare would pay." Worked alongside Mexican surgeon Dr. Daniel Rios and local nurses.
 - Licensing in Mexico: the article does not say how the US surgeon is licensed/credentialed in Mexico. Malpractice: "NASH buys additional malpractice coverage for American surgeons, who could be sued in the U.S." No further detail.
